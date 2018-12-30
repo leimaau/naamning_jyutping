@@ -14,6 +14,7 @@ schema:
     提供一種反查方案，[`]反查南寧白話
   dependencies:
     - luna_pinyin
+    - leimaau_jyutping
 
 switches:
   - name: ascii_mode
