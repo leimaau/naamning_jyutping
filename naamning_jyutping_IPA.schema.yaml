@@ -12,6 +12,7 @@ schema:
     聲調輸入 q平 v上 x去 （雙擊爲陽調）
     提供繁簡字體轉換方案，提示音轉換爲IPA（國際音標）
     提供一種反查方案，[`]反查南寧白話
+    PC上按Ctrl+Enter可以將IPA上屏，按Ctrl+Shift+Enter可以將候選第一項的提示音上屏
   dependencies:
     - luna_pinyin
     - leimaau_jyutping
@@ -65,6 +66,7 @@ speller:
     - xform/3/x/
     - xform/6/xx/
     - derive/^(z|c|s)y$/$1z/      # 模糊 (zcs)y -> (zcs)z
+    - derive/^(z|c|s)y$/$1ii/     # 模糊 (zcs)y -> (zcs)ii
     - derive/^jy?([aeiou])/y$1/   # 模糊 j -> y
     - derive/^jyu/yu/             # 容錯 jyu -> yu
     - derive/^jyu/ju/             # 容錯 jyu -> ju
@@ -84,6 +86,7 @@ speller:
     - derive/^(g|k)o/$1wo/        # 模糊 (gk)o -> (gk)wo
     - derive/i$/ei/          	  # 模糊 i -> ei
     - derive/u$/ou/          	  # 模糊 u -> ou
+    - derive/aang$/ang/           # 模糊 aang -> ang
     - derive/a(m|p)$/o$1/         # 模糊 a(m|p) -> o(m|p)
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([gk]w).+$/$1/      # 聲母簡拼
@@ -174,6 +177,9 @@ translator:
     - xform/T͡ʃT͡ʃ/T͡sɿ/
     - xform/T͡ʃHT͡ʃ/T͡sHɿ/
     - xform/ʃT͡ʃ/sɿ/
+    - xform/T͡ʃIːIː/T͡sɿ/
+    - xform/T͡ʃHIːIː/T͡sHɿ/
+    - xform/ʃIːIː/sɿ/
     - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
 
 

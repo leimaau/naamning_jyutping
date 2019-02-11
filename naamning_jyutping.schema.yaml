@@ -65,6 +65,7 @@ speller:
     - xform/3/x/
     - xform/6/xx/
     - derive/^(z|c|s)y$/$1z/      # 模糊 (zcs)y -> (zcs)z
+    - derive/^(z|c|s)y$/$1ii/     # 模糊 (zcs)y -> (zcs)ii
     - derive/^jy?([aeiou])/y$1/   # 模糊 j -> y
     - derive/^jyu/yu/             # 容錯 jyu -> yu
     - derive/^jyu/ju/             # 容錯 jyu -> ju
@@ -85,6 +86,7 @@ speller:
     - derive/i$/ei/          	  # 模糊 i -> ei
     - derive/u$/ou/          	  # 模糊 u -> ou
     - derive/a(m|p)$/o$1/         # 模糊 a(m|p) -> o(m|p)
+    - derive/aang$/ang/           # 模糊 aang -> ang
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([gk]w).+$/$1/      # 聲母簡拼
     - abbrev/^([s][l]).+$/$1/     # 聲母簡拼
