@@ -86,6 +86,7 @@ speller:
     - derive/i$/ei/          	  # 模糊 i -> ei
     - derive/u$/ou/          	  # 模糊 u -> ou
     - derive/a(m|p)$/o$1/         # 模糊 a(m|p) -> o(m|p)
+    - derive/aa(m)$/o$1/          # 模糊 aam -> om
     - derive/aang$/ang/           # 模糊 aang -> ang
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([gk]w).+$/$1/      # 聲母簡拼
