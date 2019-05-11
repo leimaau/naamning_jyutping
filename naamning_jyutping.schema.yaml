@@ -127,14 +127,14 @@ translator:
   dictionary: naamning_jyutping
   prism: naamning_jyutping
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
-  preedit_format:
+  preedit_format:    # 需要顯示IPA時這段要被替換掉
     - xform/([aeioumngptk])qq/$1⁴/
     - xform/([aeioumngptk])q/$1¹/
     - xform/([aeioumngptk])vv/$1⁵/
     - xform/([aeioumngptk])v/$1²/
     - xform/([aeioumngptk])xx/$1⁶/
     - xform/([aeioumngptk])x/$1³/
-#  preedit_format:     # 需要顯示IPA時preedit_format替換成這段
+#  preedit_format:   # 需要顯示IPA時preedit_format替換成這段
 #    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
 #    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
 #    - xform/([ptk])x/$1˧/	咽jiːt̚˧
@@ -246,14 +246,14 @@ stroke:    # 五筆畫反查，h,s,p,n,z 代表橫、豎、撇、捺、折
     - xlit/hspnz/一丨丿丶乙/
 
 reverse_lookup:
-  tags:  [luna_pinyin, stroke]  # 需要打字時顯示釋義則註釋這行，建議豎排顯示時使用
+  tags:  [luna_pinyin, stroke]  # 需要打字時顯示釋義則註釋這行，建議豎排顯示時使用【很有用的功能，建議PC上使用！】
   overwrite_comment: true
   dictionary: naamning_jyutping
   comment_format:
     - xform/ /\｜/
     - xform/^/〔/
     - xform/$/〕/
-    - xform/「/➱/
+    - xform/「/ /
     - xform/」//
 
 punctuator:

@@ -10,11 +10,11 @@
 
 ![logo](http://wx1.sinaimg.cn/large/69144085gy1fxfy2tgoipj20kt0ebdgh.jpg)
 
-配方： ℞ leimaau/naamning_jyutping
+配方： ℞ **leimaau/naamning_jyutping**
 
 ## 安裝及使用方法
 
-[漢語方言拼音輸入](https://laubonghaudoi.github.io/dialects/) | [安卓端配置文件舉例](https://github.com/leimaau/leimaau_jyutping)
+[漢語方言拼音輸入](https://laubonghaudoi.github.io/dialects/) | [本碼表使用技巧](https://leimaau.github.io/book/appendix1/appendix4.2.html) | [安卓端配置文件舉例](https://github.com/leimaau/leimaau_jyutping)
 
 ## 本站主要鏈接
 
