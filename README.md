@@ -1,6 +1,6 @@
 # 南寧白話輸入方案
 
-![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/naamning_jyutping.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/leimaau/naamning_jyutping.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/naamning_jyutping.svg) ![GitHub](https://img.shields.io/github/license/leimaau/naamning_jyutping.svg)
 
 > * 採用『香港語言學會粵語拼音方案』
 > * 聲調輸入 q平 v上 x去 （雙擊爲陽調）
@@ -8,7 +8,7 @@
 > * 提供兩種反查方案，[`]用漢語拼音反查南寧白話，[x]用五筆畫反查南寧白話
 > * PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
 
-![logo](http://wx1.sinaimg.cn/large/69144085gy1fxfy2tgoipj20kt0ebdgh.jpg)
+![演示gif](https://s2.ax1x.com/2019/05/14/E5OwlV.gif)
 
 配方： ℞ **leimaau/naamning_jyutping**
 
