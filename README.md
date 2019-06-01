@@ -8,8 +8,6 @@
 > * 提供兩種反查方案，[`]用漢語拼音反查南寧白話，[x]用五筆畫反查南寧白話
 > * PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
 
-![演示gif](https://s2.ax1x.com/2019/05/14/Eo2OyR.gif)
-
 配方： ℞ **leimaau/naamning_jyutping**
 
 ## 安裝及使用方法
