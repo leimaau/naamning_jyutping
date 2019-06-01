@@ -4,7 +4,7 @@
 schema:
   schema_id: naamning_jyutping
   name: "南寧白話"
-  version: "2019.05.04"
+  version: "2019.06.01"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
@@ -91,7 +91,7 @@ speller:
     - xform/3/x/
     - xform/6/xx/
     - derive/^(z|c|s)y$/$1z/      # 兼容 (zcs)y -> (zcs)z 傳教士方案
-    - derive/^(z|c|s)y$/$1ii/     # 兼容 (zcs)y -> (zcs)ii 其他方案
+    - derive/^(z|c|s)y$/$1ii/     # 兼容 (zcs)y -> (zcs)ii 客家話方案
     - derive/a(m|p)$/o$1/         # 兼容 a(m|p) -> o(m|p) 其他邕潯片
     - derive/aa(m)$/o$1/          # 兼容 aam -> om
     - derive/a([nt])$/eo$1/       # 模糊 a(nt) -> eo(nt)
