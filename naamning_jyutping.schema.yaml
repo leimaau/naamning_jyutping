@@ -152,7 +152,7 @@ translator:
 #    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/	月jyːt̚
 #    - xform/([dtlgkhzcsj])yu([t])/$1Yː$2]/	奪tyːt̚
 #    - xform/(^|[ '])([jy])u([k])/$1jʊ$3]/	玉jʊk̚
-#    - xform/(^|[ '])(jy|[jy])u/$1jYː/	元jyːn
+#    - xform/(^|[ '])(jy)u/$1jYː/	元jyːn
 #    - xform/yu/Yː/	嫩nyːn
 #    - xform/y([aeior])/j$1/	一yat/jɐt̚/
 #    - xform/(aa|r)([iu])/Aː\U$2/	嗎maː
