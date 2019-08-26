@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: naamning_jyutping
+  schema_id: naamning_baakwaa
   name: "南寧白話"
   version: "2019.06.01"
   author:
@@ -126,8 +126,8 @@ menu:
   page_size: 7  # 候選詞數
 
 translator:
-  dictionary: naamning_jyutping
-  prism: naamning_jyutping
+  dictionary: naamning_baakwaa
+  prism: naamning_baakwaa
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:    # 需要顯示IPA時這段要被替換掉
     - xform/([aeioumngptk])qq/$1⁴/
@@ -251,7 +251,7 @@ stroke:    # 五筆畫反查，h,s,p,n,z 代表橫、豎、撇、捺、折
 reverse_lookup:
   tags:  [luna_pinyin, stroke]  # 需要打字時顯示釋義則註釋這行，建議豎排顯示時使用【很有用的功能，建議PC上使用！】
   overwrite_comment: true
-  dictionary: naamning_jyutping
+  dictionary: naamning_baakwaa
   comment_format:
     - xform/ /\｜/
     - xform/^/〔/

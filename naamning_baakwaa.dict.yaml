@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# naamning_jyutping - 南寧白話
+# naamning_baakwaa - 南寧白話
 #
 # Author - LeiMaau <leimaau@qq.com>
 #
@@ -25,7 +25,7 @@
 #
 
 ---
-name: naamning_jyutping
+name: naamning_baakwaa
 version: "2019.06.01"
 sort: by_weight
 use_preset_vocabulary: true
