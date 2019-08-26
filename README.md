@@ -1,6 +1,6 @@
 # 南寧話輸入方案
 
-![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/naamning-dialect.svg) ![GitHub](https://img.shields.io/github/license/leimaau/naamning-dialect.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/naamning_jyutping.svg) ![GitHub](https://img.shields.io/github/license/leimaau/naamning_jyutping.svg)
 
 > * 採用『香港語言學會粵語拼音方案』
 > * 聲調輸入 q平 v上 x去 （雙擊爲陽調）
@@ -9,7 +9,7 @@
 > * PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
 > * 註釋reverse_lookup/tags可顯示釋義，可根據需要自行開啓
 
-配方： ℞ **leimaau/naamning-dialect**
+配方： ℞ **leimaau/naamning_jyutping**
 
 ## 拼音方案查詢
 
