@@ -14,7 +14,7 @@ schema:
     提供兩種反查方案，[`]用漢語拼音反查南寧平話，[x]用五筆畫反查南寧平話
     PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
     註釋reverse_lookup/tags可顯示釋義，可根據需要自行開啓
-    項目主頁 https://github.com/leimaau/naamning_bingwaa
+    項目主頁 https://github.com/leimaau/naamning_jyutping
   dependencies:
     - luna_pinyin
     - stroke
