@@ -11,6 +11,10 @@
 
 配方： ℞ **leimaau/naamning_jyutping**
 
+- 南寧話輸入方案 - <code>leimaau/naamning_jyutping</code>
+	- 南寧白話 - <code>naamning_baakwaa</code>
+	- 南寧（亭子）平話 - <code>naamning_bingwaa</code>
+
 ## 拼音方案查詢
 
 [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
