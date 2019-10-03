@@ -104,7 +104,7 @@ speller:
     - derive/^(g|k)ik/$1wik/      # 模糊 (gk)ik -> (gk)wik
     - derive/i$/ei/          	  # 模糊 i -> ei
     - derive/u$/ou/          	  # 模糊 u -> ou
-    - derive/aang$/ang/           # 模糊 aang -> ang 庚韻二等字文讀
+    - derive/saang$/sang/         # 模糊 saang -> sang 庚韻二等字文讀
     - derive/kok$/fok/            # 模糊 kok -> fok
     - derive/fut$/kut/            # 模糊 fut -> kut 「豁達、蛞蝓」
     - derive/gwaat$/kut/          # 模糊 gwaat -> kut 「包括、聒噪」
