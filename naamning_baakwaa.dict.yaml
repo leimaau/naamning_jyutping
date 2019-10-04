@@ -2121,8 +2121,8 @@ use_preset_vocabulary: true
 朆	fan1	
 棻	fan1	
 氛	fan1	
-熏	(文)fan1	10%
 燻	(文)fan1	10%
+熏	(文)fan1	10%
 獯	(文)fan1	10%
 紛	fan1	
 翂	fan1	
@@ -2135,7 +2135,6 @@ use_preset_vocabulary: true
 雰	fan1	
 錀	fan1「兔奄錀」	
 粉	fan2	
-奮	(又)fan3	10%
 瀵	fan3	
 瞓	fan3「睡」	
 糞	fan3	
@@ -2145,6 +2144,7 @@ use_preset_vocabulary: true
 焚	fan4	
 豶	fan4	
 鼢	fan4	
+僨	fan5	
 奮	fan5	
 忿	fan5「忿恨」	
 憤	fan5	
@@ -2153,8 +2153,8 @@ use_preset_vocabulary: true
 忿	(又)fan6「忿氣，服氣」	10%
 揈	fang4「甩」	
 㧾	fat1「舀」	
-佛	fat1「仿佛」	5%
 彿	fat1	
+佛	fat1「仿佛」	5%
 囫	fat1	
 堀	fat1	
 巿	fat1	
@@ -2360,9 +2360,9 @@ use_preset_vocabulary: true
 喙	fui3	
 晦	fui3	
 誨	fui3	
-複	fuk1	
-復	fuk1	
 复	fuk1	
+復	fuk1	
+複	fuk1	
 幅	fuk1	
 畐	fuk1	
 福	fuk1	
@@ -2384,13 +2384,13 @@ use_preset_vocabulary: true
 寬	fun1	
 懽	fun1「同歡字」	
 歡	fun1	
-貛	fun1	
 獾	fun1	
+貛	fun1	
 髖	fun1	
 款	fun2	
 窾	fun2	
-豐	fung1	
 丰	fung1	
+豐	fung1	
 封	fung1	
 峰	fung1	
 峯	fung1	
@@ -2424,8 +2424,8 @@ use_preset_vocabulary: true
 嘉	gaa1	
 嘎	gaa1「象聲詞」	
 噶	gaa1「譯音用字」	
-家	gaa1	
 傢	gaa1	
+家	gaa1	
 尕	gaa1	
 枷	gaa1	
 泇	gaa1	
@@ -2445,8 +2445,8 @@ use_preset_vocabulary: true
 瘕	gaa2「肚子裏結塊的病」	
 賈	gaa2「姓」	
 㗎	gaa3「語氣詞，表示強調」	
-價	gaa3	
 价	gaa3	
+價	gaa3	
 假	gaa3「放假」	
 咖	gaa3	
 嫁	gaa3	
@@ -2502,8 +2502,8 @@ use_preset_vocabulary: true
 澉	gaam2	
 尷	gaam3	
 監	gaam3「太監」	
-鑑	gaam3	
 鑒	gaam3	
+鑑	gaam3	
 姦	gaan1「強姦」	
 奸	gaan1「漢奸」	
 艱	gaan1	
@@ -2518,8 +2518,8 @@ use_preset_vocabulary: true
 堿	(文)gaan2	10%
 筧	gaan2	
 簡	gaan2	
-繭	(文)gaan2	10%
 茧	(文)gaan2	10%
+繭	(文)gaan2	10%
 襉	gaan2	
 趼	gaan2	
 鐧	gaan2「殺手鐧」	
@@ -2729,8 +2729,8 @@ use_preset_vocabulary: true
 揀	(白)gen2	
 梘	(白)gen2「肥皂」	
 柬	(白)gen2	
-鹼	(白)gen2	
 礆	(白)gen2	
+鹼	(白)gen2	
 碱	(白)gen2	
 堿	(白)gen2	
 簡	(白)gen2	10%
@@ -2777,8 +2777,8 @@ use_preset_vocabulary: true
 奇	gi1「奇數」	5%
 姬	gi1	
 期	gi1「期年」	
-機	gi1	
 机	gi1	
+機	gi1	
 犄	gi1「犄角」	
 璣	gi1	
 畸	(又)gi1	10%
@@ -2823,11 +2823,10 @@ use_preset_vocabulary: true
 撠	gik1	
 棘	gik1	
 殛	gik1	
-湨	gik1	
+湨	(習)gik1	10%
 激	gik1	
-虢	(又)gik1	5%
-闃	(又)gik1	10%
-隙	(又)gik1	10%
+虢	(習)gik1	10%
+闃	(習)gik1	10%
 极	gik6	
 極	gik6	
 兼	gim1	
@@ -2859,8 +2858,8 @@ use_preset_vocabulary: true
 鍵	gin6	
 京	ging1	
 兢	ging1	
-惊	ging1	
 驚	ging1	
+惊	ging1	
 涇	ging1	
 猄	(文)ging1	10%
 矜	ging1	
@@ -2892,13 +2891,13 @@ use_preset_vocabulary: true
 澀	gip3「苦澀」	
 䥛	git3	
 拮	git3	
-潔	git3	
 洁	git3	
+潔	git3	
 結	git3	
 袺	git3	
 偈	git6「武貌，疾馳」	
-杰	git6	
 傑	git6「傑出；（粥）稠」	
+杰	git6	
 桀	git6	
 桝	git6	
 榤	git6	
@@ -2947,8 +2946,8 @@ use_preset_vocabulary: true
 畺	goeng1	
 疆	goeng1	
 礓	goeng1	
-韁	goeng1	
 繮	goeng1	
+韁	goeng1	
 蔃	goeng2「根，莖」	
 強	goeng6「倔強，又作犟/勥字」	
 彊	goeng6「同強字」	
@@ -2969,13 +2968,11 @@ use_preset_vocabulary: true
 咯	gok3「雞叫聲」	
 國	(習)gok3	10%
 幗	(習)gok3	10%
-摑	(又)gok3	10%
 桷	gok3	
 玨	gok3	
 珏	gok3	
 硌	gok3「硌腳」	
 胳	gok3「胳臂」	
-虢	gok3	
 蟈	(習)gok3	10%
 覺	gok3「覺悟」	
 角	gok3	
@@ -2988,13 +2985,13 @@ use_preset_vocabulary: true
 竿	gon1	
 肝	gon1	
 擀	gon2	
-桿	gon2	
 杆	gon2	
+桿	gon2	
 稈	gon2	
 笴	gon2	
 簳	gon2	
-赶	gon2	
 趕	gon2	
+赶	gon2	
 榦	gon3「同幹字」	
 幹	gon3	
 旰	gon3「宵衣旰食」	
@@ -3182,15 +3179,14 @@ use_preset_vocabulary: true
 挂	gwaa3	
 褂	gwaa3	
 乖	gwaai1	
-柺	gwaai2	
-拐	gwaai2	
 枴	gwaai2	
+拐	gwaai2	
+柺	gwaai2	
 蒯	(又)gwaai2	10%
 𧊅	gwaai2	
 夬	gwaai3	
 怪	gwaai3	
 摑	gwaak3	
-虢	(又)gwaak3	10%
 關	(文)gwaan1「關公」	10%
 綸	gwaan1「羽扇綸巾」	
 鰥	gwaan1	
@@ -3242,8 +3238,8 @@ use_preset_vocabulary: true
 貴	gwai3	
 鱖	gwai3	
 匱	gwai6	
-柜	gwai6「同櫃字」	
 櫃	gwai6	
+柜	gwai6「同櫃字」	
 簣	gwai6	
 蕢	gwai6	
 跪	gwai6	
@@ -3287,6 +3283,9 @@ use_preset_vocabulary: true
 颳	(白)gwet3	
 刮	(白)gwet3	
 括	(白)gwet3	10%
+湨	(書)gwik1	
+虢	(書)gwik1	
+闃	(書)gwik1	
 坰	gwing1	
 扃	gwing1	
 駉	gwing1	
@@ -3295,8 +3294,8 @@ use_preset_vocabulary: true
 泂	gwing2	
 炅	gwing2「火光；明亮」	
 炯	gwing2	
-檾	(又)gwing2	10%
-苘	(又)gwing2	10%
+苘	gwing2	
+檾	gwing2	
 迥	gwing2	
 戈	(書)gwo1	
 果	(書)gwo2	
@@ -4068,8 +4067,8 @@ use_preset_vocabulary: true
 飲	jam2「飲酒」	
 滲	(語)jam3	10%
 窨	jam3「窨井」	
-廕	jam3	
 蔭	jam3	
+廕	jam3	
 飲	jam3「飲馬」	
 任	jam4「姓」	5%
 冘	jam4「冘冘」	
@@ -4120,8 +4119,8 @@ use_preset_vocabulary: true
 焮	(又)jan3	10%
 舋	jan3「同釁字」	
 茚	jan3	
-釁	jan3	
 衅	jan3	
+釁	jan3	
 人	jan4	
 仁	jan4	
 儿	jan4「同人字」	
@@ -4209,8 +4208,8 @@ use_preset_vocabulary: true
 攸	jau4	
 柔	jau4	
 油	jau4	
-遊	jau4	
 游	jau4	
+遊	jau4	
 猶	jau4	
 猷	jau4	
 由	jau4	
@@ -4398,8 +4397,8 @@ use_preset_vocabulary: true
 崦	jim1	
 懨	jim1	
 淹	jim1	
-醃	(書)jim1	10%
 腌	(書)jim1「腌臢」	10%
+醃	(書)jim1	10%
 閹	jim1	
 厴	jim2	
 奄	jim2「奄然」	
@@ -4441,8 +4440,8 @@ use_preset_vocabulary: true
 焱	jim6	
 燄	jim6	
 爓	jim6「同焰字」	
-艷	(書)jim6	
 豔	(書)jim6	
+艷	(書)jim6	
 釅	jim6	
 咽	jin1「咽喉」	
 嫣	jin1	
@@ -4657,8 +4656,8 @@ use_preset_vocabulary: true
 養	joeng5	
 卬	joeng5「同仰字」	
 氧	joeng5	
-痒	joeng5	
 癢	joeng5	
+痒	joeng5	
 蛘	joeng5「同癢字」	
 嚷	joeng6	
 壤	joeng6	
@@ -4672,10 +4671,10 @@ use_preset_vocabulary: true
 椎	(白)jui1	10%
 錐	(白)jui1	
 蕤	jui4	
-蘂	jui5「同蕊字」	
 蕊	jui5	
-鋭	(又)jui5	10%
+蘂	jui5「同蕊字」	
 銳	(又)jui5	10%
+鋭	(又)jui5	10%
 枘	jui6	
 汭	jui6	
 睿	jui6	
@@ -4702,8 +4701,8 @@ use_preset_vocabulary: true
 頊	juk1	
 堉	juk6	
 峪	juk6	
-欲	juk6	
 慾	juk6	
+欲	juk6	
 浴	juk6	
 淯	juk6	
 溽	juk6	
@@ -4733,8 +4732,8 @@ use_preset_vocabulary: true
 髶	(語)jung1「毛髮、絲、線等蓬亂」	5%
 佣	(白)jung2「佣金」	5%
 俑	jung2	
-冗	jung2	
 宂	jung2	
+冗	jung2	
 壅	(又)jung2	5%
 恿	jung2	
 擁	jung2「擁有」	
@@ -4746,8 +4745,8 @@ use_preset_vocabulary: true
 絨	(白)jung2	5%
 蓊	jung2	
 蛹	jung2	
-踊	jung2	
 踴	jung2	
+踊	jung2	
 傭	jung4「傭工」	
 喁	jung4「魚口向上」	
 墉	jung4	
@@ -4778,8 +4777,8 @@ use_preset_vocabulary: true
 勇	jung5	
 佣	jung6	
 用	jung6	
-於	jyu1「於是」	
 于	jyu1「同於字」	
+於	jyu1「於是」	
 淤	jyu1	
 瘀	jyu1	
 紆	jyu1	
@@ -4793,8 +4792,8 @@ use_preset_vocabulary: true
 飫	jyu3	
 予	jyu4「我」	5%
 于	jyu4「之子于歸；姓」	
-余	jyu4	
 餘	jyu4	
+余	jyu4	
 俞	jyu4	
 儒	jyu4	
 喁	jyu4「應和聲」	
@@ -4966,8 +4965,8 @@ use_preset_vocabulary: true
 縣	jyun6「縣城」	
 垸	jyun6	
 孕	(老派)jyun6	10%
-願	jyun6	
 愿	jyun6	
+願	jyun6	
 掾	jyun6	
 昡	jyun6	
 潤	(老派)jyun6	10%
@@ -4982,8 +4981,8 @@ use_preset_vocabulary: true
 噦	jyut3「嘔吐」	
 釔	jyut3	
 刖	jyut6	
-悦	jyut6	
 悅	jyut6	
+悦	jyut6	
 抈	jyut6	
 曰	jyut6	
 月	jyut6	
@@ -4993,8 +4992,8 @@ use_preset_vocabulary: true
 粵	jyut6	
 越	jyut6	
 鉞	jyut6	
-閲	jyut6	
 閱	jyut6	
+閲	jyut6	
 卡	kaa1	
 咔	kaa1「擬聲詞」	
 咖	(又)kaa1	5%
@@ -5151,8 +5150,8 @@ use_preset_vocabulary: true
 岐	ki4	
 崎	ki4「長崎」	
 忯	ki4「忯忯；敬也」	
-旂	ki4	
 旗	ki4	
+旂	ki4	
 期	ki4「日期」	
 棋	ki4	
 歧	ki4	
@@ -5181,10 +5180,9 @@ use_preset_vocabulary: true
 麒	ki4	
 企	ki5	
 徛	ki5	
-掝	kik1「破裂聲」	
+掝	(習)kik1「破裂聲」	10%
 揢	kik1「阻礙，絆」	
-闃	kik1	
-隙	kik1	
+隙	(習)kik1	10%
 𠽤	kik1「阻礙，絆」	
 箝	(文)kim4	10%
 鈐	kim4	
@@ -5202,8 +5200,8 @@ use_preset_vocabulary: true
 虔	kin4	
 傾	king1	
 廎	king2	
-檾	king2	
-苘	king2	
+檾	(又)king2	10%
+苘	(又)king2	10%
 頃	king2	
 凝	(語)king4「凝結，啲油～嗮」	10%
 勍	king4	
@@ -5260,13 +5258,13 @@ use_preset_vocabulary: true
 噱	koek6	
 臄	koek6	
 醵	(又)koek6	10%
-殭	(又)koeng1	10%
 僵	(又)koeng1	10%
+殭	(又)koeng1	10%
 畺	(常)koeng1	10%
 疆	(常)koeng1	10%
 礓	(又)koeng1	10%
-繮	(又)koeng1	10%
 韁	(又)koeng1	10%
+繮	(又)koeng1	10%
 羌	koeng1	
 腔	(又)koeng1	10%
 蜣	koeng1	
@@ -5303,7 +5301,7 @@ use_preset_vocabulary: true
 彍	(習)kok3	10%
 恪	kok3	
 愨	kok3	
-擴	(又)kok3	10%
+擴	(習)kok3	10%
 擱	kok3	
 搉	kok3	
 攫	kok3	
@@ -5311,8 +5309,8 @@ use_preset_vocabulary: true
 榷	kok3	
 涸	kok3	
 硞	kok3「石聲；堅固」	
-确	kok3	
 確	kok3	
+确	kok3	
 碻	kok3	
 藿	kok3	
 覺	(常)kok3「知覺」	10%
@@ -5331,7 +5329,7 @@ use_preset_vocabulary: true
 伉	kong3	
 況	kong3	
 壙	(習)kong3	10%
-擴	(習)kong3	10%
+擴	(又)kong3	10%
 抗	kong3	
 曠	(習)kong3	10%
 炕	kong3「火炕」	
@@ -5435,15 +5433,15 @@ use_preset_vocabulary: true
 均	(舊)kwan1	10%
 坤	kwan1	
 堃	kwan1	
-崑	kwan1	
 昆	kwan1	
+崑	kwan1	
 琨	kwan1	
 鈞	(舊)kwan1	10%
 髡	kwan1	
 悃	kwan2	
 捃	kwan2	
-捆	kwan2	
 綑	kwan2	
+捆	kwan2	
 緄	(習)kwan2「緄邊」	
 閫	kwan2	
 困	kwan3「困難」	
@@ -5460,15 +5458,17 @@ use_preset_vocabulary: true
 纊	(語)kwang3「掛着，絆着」	10%
 𧊅	(語)kwe2「小青蛙」	10%
 瘸	kwe4	
+掝	(書)kwik1「破裂聲」	
+隙	(書)kwik1	
 崞	(書)kwok3	
 廓	(書)kwok3	
 彉	(書)kwok3	
 彍	(書)kwok3	
-擴	(又)kwok3	10%
+擴	(書)kwok3	
 槨	(書)kwok3	
 郭	(書)kwok3	
 壙	(書)kwong3	
-擴	(書)kwong3	
+擴	(又)kwong3	10%
 曠	(書)kwong3	
 獷	(又)kwong3	10%
 礦	(書)kwong3	
@@ -5636,8 +5636,8 @@ use_preset_vocabulary: true
 捩	(語)lai2「睡捩頸，又作戾字」	5%
 嚟	lai4「來」	
 來	(白)lai4	
-犂	lai4「同犁字」	
 犁	lai4	
+犂	lai4「同犁字」	
 蔾	lai4	
 藜	lai4	
 黎	lai4	
@@ -5692,8 +5692,8 @@ use_preset_vocabulary: true
 壈	lam5	
 㨆	lam6「堆砌」	
 噒	lan1「啃」	
-崙	lan4	
 侖	lan4	
+崙	lan4	
 倫	lan4	
 圇	lan4	
 嶙	lan4	
@@ -5801,8 +5801,8 @@ use_preset_vocabulary: true
 靈	(白)leng4「靈驗」	10%
 零	(語)leng4「千零文，一千多元」	10%
 鯪	(白)leng4	
-嶺	(白)leng5	
 岭	(白)leng5	
+嶺	(白)leng5	
 領	(白)leng5「衫領」	10%
 爧	(語)leng6「閃～，閃電」	10%
 列	(量)let6「排，又作迾字」	10%
@@ -5815,8 +5815,8 @@ use_preset_vocabulary: true
 繚	(白)leu2「繞」	5%
 撈	(又)leu4	10%
 剺	(語)li1「撕，或作劙字」	5%
-釐	(白)li1「一～子，一分錢」	5%
 厘	(白)li1「一～子，一分錢」	5%
+釐	(白)li1「一～子，一分錢」	5%
 哩	li1「哩哩啦啦」	
 唎	(又)li1	5%
 喱	li1	
@@ -5825,8 +5825,8 @@ use_preset_vocabulary: true
 鬁	(語)li1「鬎鬁，同瘌痢」	5%
 剺	li4	
 劙	(又)li4	10%
-厘	li4	
 釐	li4	
+厘	li4	
 嫠	li4	
 杝	li4「同籬字」	
 梨	li4	
@@ -5839,8 +5839,8 @@ use_preset_vocabulary: true
 璃	li4「琉璃」	
 離	li4「離開」	
 离	li4「同離字」	
-篱	li4	
 籬	li4	
+篱	li4	
 罹	li4	
 蜊	li4	
 貍	li4	
@@ -5857,8 +5857,8 @@ use_preset_vocabulary: true
 浬	li5	
 理	li5	
 邐	li5	
-裡	(習)li5	
 里	li5	
+裡	(習)li5	
 裏	(習)li5	
 鋰	li5	
 鯉	li5	
@@ -5892,16 +5892,16 @@ use_preset_vocabulary: true
 斂	(舊)lim2	5%
 殮	(舊)lim2	5%
 奩	lim4	
-帘	lim4	
 簾	lim4	
+帘	lim4	
 廉	lim4	
 濂	lim4	
 磏	lim4	
 聯	(又)lim4	10%
 薕	lim4	
 蠊	lim4	
-鎌	lim4	
 鐮	lim4	
+鎌	lim4	
 鬑	lim4	
 斂	lim5	
 臉	lim5	
@@ -5925,8 +5925,8 @@ use_preset_vocabulary: true
 攆	(書)lin5	10%
 輦	(書)lin5	10%
 楝	lin6	
-煉	lin6	
 鍊	lin6「同煉/鏈字」	
+煉	lin6	
 練	lin6	
 鏈	(文)lin6	10%
 拎	(書)ling1	10%
@@ -5934,8 +5934,8 @@ use_preset_vocabulary: true
 鈴	(又)ling1「鈴啷，模仿搖鈴聲」	5%
 〇	ling4	
 伶	ling4	
-凌	ling4	
 淩	ling4	
+凌	ling4	
 呤	ling4	
 囹	ling4	
 坽	ling4	
@@ -5974,8 +5974,8 @@ use_preset_vocabulary: true
 鴒	ling4	
 齡	ling4	
 爧	ling4	
-嶺	(文)ling5	10%
 岭	(文)ling5	10%
+嶺	(文)ling5	10%
 領	ling5「領取」	
 令	ling6	
 另	ling6	
@@ -6293,8 +6293,8 @@ use_preset_vocabulary: true
 縷	lyu5	
 膂	lyu5	
 褸	lyu5「襤褸」	
-裡	(書)lyu5	10%
 裏	(書)lyu5	10%
+裡	(書)lyu5	10%
 鋁	lyu5	
 麿	(又)lyu5	10%
 濾	lyu6	
@@ -6302,8 +6302,8 @@ use_preset_vocabulary: true
 攣	(習)lyun1「鑽入；頭髮捲曲」	5%
 卵	lyun2	
 戀	lyun2	
-侖	(老派)lyun4	10%
 崙	(老派)lyun4	10%
+侖	(老派)lyun4	10%
 倫	(老派)lyun4	10%
 圇	(老派)lyun4	10%
 孿	lyun4	
@@ -6331,11 +6331,11 @@ use_preset_vocabulary: true
 鱗	(老派)lyun4	10%
 鸞	lyun4	
 麟	(老派)lyun4	10%
-圞	lyun4	
 圝	lyun4	
+圞	lyun4	
 錀	(老派)lyun4	10%
-亂	lyun6	
 乱	lyun6	
+亂	lyun6	
 吝	(老派)lyun6	10%
 藺	(老派)lyun6	10%
 論	(老派)lyun6	10%
@@ -7596,13 +7596,11 @@ use_preset_vocabulary: true
 丕	pi1	
 伾	pi1	
 呸	pi1	
-坯	(又)pi1	10%
 披	pi1	
 狉	pi1	
 狓	pi1	
 砒	pi1	
 紕	pi1「紕漏；綢緞起毛；又作𢻹字」	
-胚	(又)pi1	10%
 鈹	pi1「大針；長矛」	
 𢻹	pi1「布類表面有毛刺，又作紕字」	
 𤿎	pi1「器物邊緣破損，又作㩺字」	
@@ -7650,8 +7648,8 @@ use_preset_vocabulary: true
 擗	pik1	
 澼	pik1	
 癖	pik1	
-闢	pik1	
 辟	pik1	
+闢	pik1	
 釽	pik1	
 霹	pik1	
 偏	pin1	
@@ -7692,8 +7690,8 @@ use_preset_vocabulary: true
 玶	ping4	
 瓶	ping4	
 缾	ping4	
-蘋	ping4「蘋果」	
 苹	ping4	
+蘋	ping4「蘋果」	
 荓	ping4	
 萍	ping4	
 蓱	ping4	
@@ -7736,8 +7734,8 @@ use_preset_vocabulary: true
 帛	(白)pok3	10%
 撲	(又)pok3	10%
 扑	(又)pok3	10%
-朴	(又)pok3	10%
 樸	(又)pok3	10%
+朴	(又)pok3	10%
 璞	(又)pok3	10%
 粕	pok3	
 醭	(又)pok3	10%
