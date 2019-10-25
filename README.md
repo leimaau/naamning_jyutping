@@ -11,9 +11,13 @@
 
 配方： ℞ **leimaau/naamning_jyutping**
 
+[Rime](https://rime.im) 南寧話輸入方案
+
 - 南寧話輸入方案 - `leimaau/naamning_jyutping`
 	- 南寧白話 - `naamning_baakwaa`
+	- 南寧白話(IPA) - `naamning_baakwaa_ipa`
 	- 南寧（亭子）平話 - `naamning_bingwaa`
+	- 南寧（亭子）平話(IPA) - `naamning_bingwaa_ipa`
 
 ## 拼音方案查詢
 
