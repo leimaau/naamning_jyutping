@@ -1,0 +1,299 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: leimaau_jyutping_nine
+  name: "貍貓粵拼(九鍵)"
+  version: "2019.12.20"
+  author:
+    - LeiMaau <leimaau@qq.com>
+  description: |
+    採用『香港語言學會粵語拼音方案』
+    聲調輸入 q平 v上 x去 （雙擊爲陽調）
+    提供多種字形轉換和提示音轉爲IPA，可根據需要自行開啓
+    提供三種反查方案，[`]用漢語拼音反查，[x]用五筆畫反查，[v]用倉頡五代反查
+    PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
+    項目主頁 https://github.com/leimaau/leimaau_jyutping
+  dependencies:
+    - luna_pinyin
+    - stroke
+    - cangjie5
+
+switches:
+  - options: [zh_simp2, zh_simp, zh_trad, zh_hk, zh_tw, zh_jp]  # 多種字形轉換方案，根據需要自行開啓
+    reset: 1
+    states:
+      - 字形 → 大陸〔繁體〕
+      - 字形 → 大陸
+      - 字形 → 傳統
+      - 字形 → 香港
+      - 字形 → 臺灣
+      - 字形 → 日本
+  - name: emoji_cn
+    reset: 0
+    states: [ 〇, 😊 ]
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@luna_pinyin
+    - affix_segmentor@stroke
+    - affix_segmentor@cangjie5
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - script_translator@luna_pinyin
+    - table_translator@stroke
+    - table_translator@cangjie5
+  filters:
+    - simplifier@zh_simp
+    - simplifier@zh_simp2
+    - simplifier@zh_trad
+    - simplifier@zh_hk
+    - simplifier@zh_tw
+    - simplifier@zh_jp
+    - simplifier@emoji_cn
+    - uniquifier
+    - reverse_lookup_filter@reverse_lookup
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890
+  delimiter: " '"
+  algebra:
+    - xform/([123456])//          # 忽略声调
+    - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
+#    - xform/1/q/
+#    - xform/4/qq/
+#    - xform/2/v/
+#    - xform/5/vv/
+#    - xform/3/x/
+#    - xform/6/xx/
+    - derive/^jy?([aeiour])/y$1/  # 容錯 j -> y
+    - derive/^jyu/yu/             # 容錯 jyu -> yu
+    - derive/^jyu/ju/             # 容錯 jyu -> ju
+    - derive/aa/r/                # 容錯 aa -> r
+    - derive/aa$/a/               # 容錯 aa -> a
+    - derive/eo([int])$/u$1/      # 容錯 eo(int) -> u(int)
+    - derive/dik$/d/              # 快出「的」字
+    - derive/oe(ng|k)$/eo$1/      # 容錯 oe(ng|k) -> eo(ng|k)
+    - derive/eo([int])$/oe$1/     # 容錯 eo(int) -> oe(int)
+    - derive/yu/y/                # 教院式 jyu -> jy，yu -> y
+    - derive/eoi$/eoy/            # 教院式 eoi <-> eoy
+    - derive/([bpmfdtnlgkhzc])ei$/$1i/        # 模糊 ei -> i
+    - derive/([bpmfdtnlhzcs])ou$/$1u/         # 模糊 ou -> u
+    - derive/e(ng|k)$/i$1/        # 模糊 e(ng|k) -> i(ng|k)
+    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
+    - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
+    - abbrev/^(gw|kw|ng).+$/$1/   # 聲母簡拼
+    - derive/ng/0/
+    - derive/oe/0/
+    - derive/eo/0/
+    - derive/gw/1/
+    - derive/kw/1/
+    - derive/aa/1/
+    - derive/([abc])/2/
+    - derive/([def])/3/
+    - derive/([ghi])/4/
+    - derive/([jkl])/5/
+    - derive/([mno])/6/
+    - derive/([pqrs])/7/
+    - derive/([tuv])/8/
+    - derive/([wxyz])/9/
+
+menu:
+  alternative_select_keys: "123456789"
+  page_size: 7  # 候選詞數
+
+translator:
+  dictionary: leimaau_jyutping
+  prism: leimaau_jyutping
+  spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
+#  preedit_format:
+#    - xform/([aeioumngptk])qq/$1⁴/
+#    - xform/([aeioumngptk])q/$1¹/
+#    - xform/([aeioumngptk])vv/$1⁵/
+#    - xform/([aeioumngptk])v/$1²/
+#    - xform/([aeioumngptk])xx/$1⁶/
+#    - xform/([aeioumngptk])x/$1³/
+
+luna_pinyin:    # 拼音反查
+  tag: luna_pinyin
+  dictionary: luna_pinyin
+  enable_user_dict: false
+  prefix: "`"
+  suffix: ";"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+stroke:    # 五筆畫反查，h,s,p,n,z 代表橫、豎、撇、捺、折
+  tag: stroke
+  dictionary: stroke
+  enable_user_dict: false
+  prefix: "x"
+  suffix: ";"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+
+cangjie5:    # 倉頡五代反查
+  tag: cangjie5
+  dictionary: cangjie5
+  enable_user_dict: false
+  prefix: "v"
+  suffix: ";"
+  tips: 〔倉頡五代〕
+  preedit_format:
+    - 'xform/^([a-z]*)$/$1\t（\U$1\E）/'
+    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+  comment_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+    - "^yyy.*$"
+
+reverse_lookup:
+  tags:  [luna_pinyin, stroke, cangjie5]
+  overwrite_comment: true
+  dictionary: leimaau_jyutping
+  comment_format:
+    - xform/ /\｜/
+    - xform/^/〔/
+    - xform/$/〕/
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    luna_pinyin: "`[a-z]*'?$"
+    stroke: "x[hspnz]*'?$"
+    cangjie5: "v[a-z]*'?$"
+
+zh_simp:
+  option_name: zh_simp
+  opencc_config: t2s.json
+  tips: none
+
+zh_simp2:
+  option_name: zh_simp2
+  opencc_config: t2s.json
+  tips: all
+
+zh_trad:
+  option_name: zh_trad
+  opencc_config: s2t.json
+  tips: all
+
+zh_hk:
+  option_name: zh_hk
+  opencc_config: t2hk.json
+  tips: all
+
+zh_tw:
+  option_name: zh_tw
+  opencc_config: t2tw.json
+  tips: all
+
+zh_jp:
+  option_name: zh_jp
+  opencc_config: t2jp.json
+  tips: all
+
+emoji_cn:
+  opencc_config: emoji.json
+  option_name: emoji_cn
+  tips: all
+
+style:
+  keyboards:
+    - .default
+    - default
+    - letter
+    - number
+    - use
+    - menu
+    - menux
+    - emoji
+    - eng
+    - symbols01
+    - symbols11
+    - symbols12
+    - symbols13
+    - symbols14
+    - symbols21
+    - symbols22
+    - symbols31
+    - symbols32
+    - symbols33
+    - symbols34
+    - symbols35
+    - symbols36
+    - symbols42
+    - symbols43
+    - symbols44
+    - symbols51
+    - symbols52
+    - symbols53
+    - symbols54
+    - symbols55
+    - symbols56
+    - symbols61
+    - symbols62
+    - symbols63
+    - symbols64
+    - symbols65
+    - symbols71
+    - symbols72
+    - symbols73
+    - symbols74
+    - symbols75
+    - symbols81
+    - symbols82
+    - symbols83
+    - symbols91
+    - symbols92
+    - symbols93
+    - symbolsA1
+    - symbolsA2
+    - symbolsA3
+    - symbolsA4
+    - symbolsA5
+    - symbolsB1
+    - symbolsB2
+    - symbolsB3
+    - symbolsC1
+    - symbolsC2
+    - symbolsC3
+    - symbolsC4
+    - symbolsC5
+    - symbolsD1
+    - symbolsD2
+    
