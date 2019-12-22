@@ -16,8 +16,18 @@
 - 南寧話輸入方案 - `leimaau/naamning_jyutping`
 	- 南寧白話 - `naamning_baakwaa`
 	- 南寧白話(IPA) - `naamning_baakwaa_ipa`
-	- 南寧（亭子）平話 - `naamning_bingwaa`
-	- 南寧（亭子）平話(IPA) - `naamning_bingwaa_ipa`
+	- 南寧(亭子)平話 - `naamning_bingwaa`
+	- 南寧(亭子)平話(IPA) - `naamning_bingwaa_ipa`
+	
+## 安卓端
+
+分支[`naamning_jyutping_android`](https://github.com/leimaau/naamning_jyutping/tree/naamning_jyutping_android)中存放配置同文輸入法需要的文件。
+
+若嫌手工配置麻煩，[**此處**](https://github.com/leimaau/naamning_jyutping/releases)已通過 apktool 重新打包，下載安裝即可。
+
+![QzIiXd.jpg](https://s2.ax1x.com/2019/12/22/QzIiXd.jpg)
+
+![QzIP6H.jpg](https://s2.ax1x.com/2019/12/22/QzIP6H.jpg)
 
 ## 拼音方案查詢
 
@@ -25,4 +35,4 @@
 
 ## 安裝及使用方法
 
-[漢語方言拼音輸入](https://laubonghaudoi.github.io/dialects/) | [本碼表使用技巧](https://leimaau.github.io/book/appendix1/appendix4.2.html) | [安卓端配置文件舉例](https://github.com/leimaau/leimaau_jyutping)
+[漢語方言拼音輸入](https://laubonghaudoi.github.io/dialects/) | [本碼表使用技巧](https://leimaau.github.io/book/appendix1/appendix4.2.html)

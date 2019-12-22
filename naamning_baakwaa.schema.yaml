@@ -4,7 +4,7 @@
 schema:
   schema_id: naamning_baakwaa
   name: "南寧白話"
-  version: "2019.11.06"
+  version: "2019.12.22"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
@@ -115,6 +115,7 @@ speller:
     - derive/^jy?([aeiou])/y$1/   # 容錯 j -> y
     - derive/^jyu/yu/             # 容錯 jyu -> yu
     - derive/^jyu/ju/             # 容錯 jyu -> ju
+    - derive/yu/y/                # 容錯 jyu -> jy
     - derive/aa/r/                # 容錯 aa -> r
     - derive/aa$/a/               # 容錯 aa -> a
     - derive/oe(ng|k)$/eo$1/      # 容錯 oe(ng|k) -> eo(ng|k)
@@ -283,14 +284,6 @@ punctuator:
 
 key_binder:
   import_preset: default
-#  bindings:   # 使用小鶴同文主題時開啓
-#    - {accept: semicolon, send: 2, when: has_menu} # 分號次選
-#    - {accept: dollar, send: 2, when: composing}
-#    - {accept: Release+dollar, send: period, when: composing}
-#    - {accept: Release+period, send: period, when: composing}
-#    - {accept: bar, send: 2, when: composing}
-#    - {accept: Release+bar, send: comma, when: composing}
-#    - {accept: Release+comma, send: comma, when: composing}
 
 recognizer:
   import_preset: default
