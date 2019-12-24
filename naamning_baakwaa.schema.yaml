@@ -4,12 +4,12 @@
 schema:
   schema_id: naamning_baakwaa
   name: "南寧白話"
-  version: "2019.11.06"
+  version: "2019.12.24"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
     採用『香港語言學會粵語拼音方案』
-    聲調輸入 q平 v上 x去 （雙擊爲陽調）
+    聲調輸入 v平 x上 q去 （雙擊爲陽調）
     提供多種字形轉換和提示音轉爲IPA，可根據需要自行開啓
     提供三種反查方案，[`]用漢語拼音反查，[x]用五筆畫反查，[v]用倉頡五代反查
     PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
@@ -30,7 +30,7 @@ switches:
       - 字形 → 香港
       - 字形 → 臺灣
       - 字形 → 日本
-  - name: emoji_cn    # emoji根據需要自行開啓
+  - name: emoji_cn
     reset: 0
     states: [ 〇, 😊 ]
   - name: ascii_mode
@@ -68,12 +68,12 @@ engine:
     - table_translator@cangjie5
   filters:
     - simplifier@zh_simp
-    - simplifier@zh_simp2  # 多字形濾鏡，根據需要自行開啓
+    - simplifier@zh_simp2
     - simplifier@zh_trad
     - simplifier@zh_hk
     - simplifier@zh_tw
     - simplifier@zh_jp
-    - simplifier@emoji_cn  # emoji濾鏡，根據需要自行開啓
+    - simplifier@emoji_cn
     - uniquifier
     - reverse_lookup_filter@reverse_lookup
 
@@ -85,12 +85,12 @@ speller:
     - xform/「.+?」//             # 忽略釋義
     - derive/([123456])//         # 忽略声调
     - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
-    - xform/1/q/
-    - xform/4/qq/
-    - xform/2/v/
-    - xform/5/vv/
-    - xform/3/x/
-    - xform/6/xx/
+    - xform/1/v/                  # 陰平
+    - xform/4/vv/                 # 陽平
+    - xform/2/x/                  # 陰上
+    - xform/5/xx/                 # 陽上
+    - xform/3/q/                  # 陰去
+    - xform/6/qq/                 # 陽去
     - derive/^(z|c|s)y$/$1z/      # 兼容 (zcs)y -> (zcs)z 傳教士方案
     - derive/^(z|c|s)y$/$1ii/     # 兼容 (zcs)y -> (zcs)ii 客家話方案
 #    - derive/a(m|p)$/o$1/         # 兼容 a(m|p) -> o(m|p) 其他邕潯片
@@ -132,24 +132,24 @@ translator:
   prism: naamning_baakwaa
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:    # 需要顯示IPA時這段要被替換掉
-    - xform/([yaeioumngptk])qq/$1⁴/
-    - xform/([yaeioumngptk])q/$1¹/
-    - xform/([yaeioumngptk])vv/$1⁵/
-    - xform/([yaeioumngptk])v/$1²/
-    - xform/([yaeioumngptk])xx/$1⁶/
-    - xform/([yaeioumngptk])x/$1³/
+    - xform/([yaeioumngptk])vv/$1⁴/
+    - xform/([yaeioumngptk])v/$1¹/
+    - xform/([yaeioumngptk])xx/$1⁵/
+    - xform/([yaeioumngptk])x/$1²/
+    - xform/([yaeioumngptk])qq/$1⁶/
+    - xform/([yaeioumngptk])q/$1³/
 #  preedit_format:   # 需要顯示IPA時preedit_format替換成這段
 #    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
-#    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
-#    - xform/([ptk])x/$1˧/	咽jiːt̚˧
-#    - xform/([ptk])q/$1˥/	一jɐt̚
-#    - xform/qq/˨˩/	而jiː˨˩
+#    - xform/([ptk])qq/$1˨/	熱jiːt̚˨
+#    - xform/([ptk])q/$1˧/	咽jiːt̚˧
+#    - xform/([ptk])v/$1˥/	一jɐt̚
+#    - xform/vv/˨˩/
+#    - xform/v/˥˥/
+#    - xform/xx/˨˦/
+#    - xform/x/˧˥/
+#    - xform/qq/˨˨/
 #    - xform/(^|[ '])q/$1ʔ/
-#    - xform/q/˥˥/	倚jiː˥˥
-#    - xform/vv/˨˦/	以jiː˨˦
-#    - xform/v/˧˥/	倚jiː˧˥
-#    - xform/xx/˨˨/	二jiː˨˨
-#    - xform/x/˧˧/	以jiː˧˧
+#    - xform/q/˧˧/
 #    - xform/sl/ɬ/
 #    - xform/([PTK])$/$1]$2/	入jɐp̚
 #    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
@@ -303,7 +303,7 @@ zh_simp:
   opencc_config: t2s.json
   tips: none
 
-zh_simp2:  # 多字形根據需要自行開啓
+zh_simp2:
   option_name: zh_simp2
   opencc_config: t2s.json
   tips: all
@@ -328,7 +328,7 @@ zh_jp:
   opencc_config: t2jp.json
   tips: all
 
-emoji_cn:  # emoji根據需要自行開啓
+emoji_cn:
   opencc_config: emoji.json
   option_name: emoji_cn
   tips: all

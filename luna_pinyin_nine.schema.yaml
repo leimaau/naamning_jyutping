@@ -16,6 +16,8 @@ schema:
       * Android open source project
       * Chewing - 新酷音
       * opencc - 開放中文轉換
+  dependencies:
+    - stroke
 
 switches:
   - name: simplification
@@ -59,14 +61,19 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba1234567890
   delimiter: " '"
   algebra:
-#    - xform/ng/0/
-#    - xform/sh/1/
-#    - xform/ch/1/
-#    - xform/zh/1/
-#    - xlit/abcdefghijklmnopqrstuvwxyz/22233344455566677778889999/
-    - xform/([nl])v/$1ü/
-    - xform/([nl])ue/$1üe/
-    - xform/([jqxy])v/$1u/
+    - erase/^xx$/
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcs]h).+$/$1/
+    - derive/^([nl])ve$/$1ue/
+    - derive/^([jqxy])u/$1v/
+    - derive/un$/uen/
+    - derive/ui$/uei/
+    - derive/iu$/iou/
+    - derive/([aeiou])ng$/$1gn/
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/
+    - derive/ong$/on/
+    - derive/ao$/oa/
+    - derive/([iu])a(o|ng?)$/a$1$2/
     - derive/ng/0/
     - derive/sh/1/
     - derive/ch/1/
@@ -82,29 +89,23 @@ speller:
 
 translator:
   dictionary: luna_pinyin
+  prism: luna_pinyin_nine
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
-#    - xform/ng/0/
-#    - xform/sh/1/
-#    - xform/ch/1/
-#    - xform/zh/1/
-#    - xform/yu/y/
-#    - xlit/abcdefghijklmnopstuwyz/2223334445556667788999/
-    - derive/ng/0/
-    - derive/sh/1/
-    - derive/ch/1/
-    - derive/zh/1/
-    - derive/([abc])/2/
-    - derive/([def])/3/
-    - derive/([ghi])/4/
-    - derive/([jkl])/5/
-    - derive/([mno])/6/
-    - derive/([pqrs])/7/
-    - derive/([tuv])/8/
-    - derive/([wxyz])/9/
     
+reverse_lookup:
+  dictionary: stroke
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+  comment_format:
+    - xform/([nl])v/$1ü/
+
 punctuator:
   import_preset: symbols
 

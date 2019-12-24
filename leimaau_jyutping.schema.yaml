@@ -4,12 +4,12 @@
 schema:
   schema_id: leimaau_jyutping
   name: "貍貓粵拼"
-  version: "2019.11.06"
+  version: "2019.12.24"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
     採用『香港語言學會粵語拼音方案』
-    聲調輸入 q平 v上 x去 （雙擊爲陽調）
+    聲調輸入 v平 x上 q去 （雙擊爲陽調）
     提供多種字形轉換和提示音轉爲IPA，可根據需要自行開啓
     提供三種反查方案，[`]用漢語拼音反查，[x]用五筆畫反查，[v]用倉頡五代反查
     PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
@@ -82,12 +82,12 @@ speller:
   algebra:
     - derive/([123456])//         # 忽略声调
     - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
-    - xform/1/q/
-    - xform/4/qq/
-    - xform/2/v/
-    - xform/5/vv/
-    - xform/3/x/
-    - xform/6/xx/
+    - xform/1/v/                  # 陰平
+    - xform/4/vv/                 # 陽平
+    - xform/2/x/                  # 陰上
+    - xform/5/xx/                 # 陽上
+    - xform/3/q/                  # 陰去
+    - xform/6/qq/                 # 陽去
     - derive/^jy?([aeiour])/y$1/  # 容錯 j -> y
     - derive/^jyu/yu/             # 容錯 jyu -> yu
     - derive/^jyu/ju/             # 容錯 jyu -> ju
@@ -115,24 +115,24 @@ translator:
   prism: leimaau_jyutping
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:    # 需要顯示IPA時這段要被替換掉
-    - xform/([aeioumngptk])qq/$1⁴/
-    - xform/([aeioumngptk])q/$1¹/
-    - xform/([aeioumngptk])vv/$1⁵/
-    - xform/([aeioumngptk])v/$1²/
-    - xform/([aeioumngptk])xx/$1⁶/
-    - xform/([aeioumngptk])x/$1³/
+    - xform/([aeioumngptk])vv/$1⁴/
+    - xform/([aeioumngptk])v/$1¹/
+    - xform/([aeioumngptk])xx/$1⁵/
+    - xform/([aeioumngptk])x/$1²/
+    - xform/([aeioumngptk])qq/$1⁶/
+    - xform/([aeioumngptk])q/$1³/
 #  preedit_format:   # 需要顯示IPA時preedit_format替換成這段
 #    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
-#    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
-#    - xform/([ptk])x/$1˧/	咽jiːt̚˧
-#    - xform/([ptk])q/$1˥/	一jɐt̚
-#    - xform/qq/˨˩/
+#    - xform/([ptk])qq/$1˨/	熱jiːt̚˨
+#    - xform/([ptk])q/$1˧/	咽jiːt̚˧
+#    - xform/([ptk])v/$1˥/	一jɐt̚
+#    - xform/vv/˨˩/
+#    - xform/v/˥˥/
+#    - xform/xx/˩˧/
+#    - xform/x/˧˥/
+#    - xform/qq/˨˨/
 #    - xform/(^|[ '])q/$1ʔ/
-#    - xform/q/˥˥/
-#    - xform/vv/˩˧/
-#    - xform/v/˧˥/
-#    - xform/xx/˨˨/
-#    - xform/x/˧˧/
+#    - xform/q/˧˧/
 #    - xform/([PTK])$/$1]$2/	入jɐp̚
 #    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
 #    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/	月jyːt̚
@@ -268,7 +268,7 @@ zh_simp:
   opencc_config: t2s.json
   tips: none
 
-zh_simp2:  # 多字形根據需要自行開啓
+zh_simp2:
   option_name: zh_simp2
   opencc_config: t2s.json
   tips: all
@@ -293,7 +293,7 @@ zh_jp:
   opencc_config: t2jp.json
   tips: all
 
-emoji_cn:  # emoji根據需要自行開啓
+emoji_cn:
   opencc_config: emoji.json
   option_name: emoji_cn
   tips: all

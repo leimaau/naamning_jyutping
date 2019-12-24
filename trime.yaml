@@ -3783,9 +3783,9 @@ preset_keyboards:
       - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
       - {click: "?", label: "?", long_click: "!", width: 17}
-      - {click: 7, label: pqrs}
-      - {click: 8, label: tuv}
-      - {click: 9, label: wxyz, hint: yu}
+      - {click: 7, label: pqrs, hint: "q陰去 qq陽去"}
+      - {click: 8, label: tuv, hint: "v陰平 vv陽平"}
+      - {click: 9, label: wxyz, hint: "x陰上 xx陽上 yu"}
       - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
       - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 17}
@@ -3824,9 +3824,9 @@ preset_keyboards:
       - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
       - {click: "?", label: "?", long_click: "!", width: 17}
-      - {click: 7, label: pqrs}
-      - {click: 8, label: tuv}
-      - {click: 9, label: wxyz, hint: yu}
+      - {click: 7, label: pqrs, hint: "q陰去 qq陽去"}
+      - {click: 8, label: tuv, hint: "v陰平 vv陽平"}
+      - {click: 9, label: wxyz, hint: "x陰上 xx陽上 yu"}
       - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
       - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 17}
@@ -3865,9 +3865,9 @@ preset_keyboards:
       - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
       - {click: "?", label: "?", long_click: "!", width: 17}
-      - {click: 7, label: pqrs}
-      - {click: 8, label: tuv}
-      - {click: 9, label: wxyz, hint: yu}
+      - {click: 7, label: pqrs, hint: "q陰去 qq陽去"}
+      - {click: 8, label: tuv, hint: "v陰平 vv陽平"}
+      - {click: 9, label: wxyz, hint: "x陰上 xx陽上 yu"}
       - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
       - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 17}
