@@ -3701,9 +3701,9 @@ preset_keyboards:
       - {click: m, long_click: ":", key_text_color: TEX, key_symbol_color: TEX, key_back_color: FFF, hilited_key_back_color: CCH}
       - {click: BackSpace, swipe_up: Candidate_switch1, key_back_color: hsb, key_text_color: hst, hilited_key_back_color: hsh, width: 15}
       # 第四行
-     #- {height: *VJM, click: Keyboard_default, composing: delimiterD1, key_symbol_offset_x: 16, long_click: K_menu, swipe_up: Schema_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 17.5} #如想设置为两个方案来回切换，可把此行首的#号删除，后面被替代行首加上#号
-     #- {height: *VJM, click: Keyboard_default, composing: delimiterD1, key_symbol_offset_x: 16, long_click: K_menu, swipe_up: IME_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 17.5} #如想设置为输入法切换键，可把此行首的#号删除，后面被替代行首加上#号
-      - {height: *VJM, click: Keyboard_default, composing: delimiterD1, key_symbol_offset_x: 17.5, long_click: K_menu, swipe_up: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 17.5} #方案选择
+     #- {height: *VJM, click: K_back, composing: delimiterD1, key_symbol_offset_x: 16, long_click: K_menu, swipe_up: Schema_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 17.5} #如想设置为两个方案来回切换，可把此行首的#号删除，后面被替代行首加上#号
+     #- {height: *VJM, click: K_back, composing: delimiterD1, key_symbol_offset_x: 16, long_click: K_menu, swipe_up: IME_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 17.5} #如想设置为输入法切换键，可把此行首的#号删除，后面被替代行首加上#号
+      - {height: *VJM, click: K_back, composing: delimiterD1, key_symbol_offset_x: 17.5, long_click: K_menu, swipe_up: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 17.5} #方案选择
       - {click: ",", label: "  ，", composing: delimiterD, key_symbol_offset_x: 16, long_click: "?", width: 17.5, key_back_color: bdb, key_text_color: bdt, key_symbol_color: bds, hilited_key_back_color: bdh, hilited_key_text_color: hbdt}
      #- {click: space, key_text_size: 9, key_text_offset_x: 58, key_text_offset_y: 2, key_symbol_offset_x: 60, key_symbol_offset_y: 6, long_click: Mode_switch, swipe_left: Left, swipe_right: Right, key_back_color: kgb, key_text_color: kgt, key_symbol_color: kgs, hilited_key_back_color: kgh, width: 45}
       - {click: space, key_text_size: 9, key_text_offset_x: 20, long_click: Mode_switch, swipe_left: Left, swipe_right: Right, key_back_color: zkgb, key_text_offset_y: 2, key_text_color: kgt, hilited_key_text_color: kgh, hilited_key_symbol_color: 0x00ffffff, key_symbol_color: 0x00ffffff, hilited_key_back_color: zkgh, width: 33}
@@ -3739,13 +3739,13 @@ preset_keyboards:
       - {click: 4, label: ghi}
       - {click: 5, label: jkl}
       - {click: 6, label: mno}
-      - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
+      - {click: Keyboard_symbols, long_click: Color_switch, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
       - {click: "?", label: "?", long_click: "!", width: 17}
       - {click: 7, label: pqrs}
       - {click: 8, label: tuv}
       - {click: 9, label: wxyz}
-      - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
+      - {click: Keyboard_eng, long_click: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
       - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 17}
       - {click: 0, label: ng}
@@ -3780,13 +3780,13 @@ preset_keyboards:
       - {click: 4, label: ghi}
       - {click: 5, label: jkl}
       - {click: 6, label: mno}
-      - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
+      - {click: Keyboard_symbols, long_click: Color_switch, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
       - {click: "?", label: "?", long_click: "!", width: 17}
       - {click: 7, label: pqrs, hint: "q陰去 qq陽去"}
       - {click: 8, label: tuv, hint: "v陰平 vv陽平"}
       - {click: 9, label: wxyz, hint: "x陰上 xx陽上 yu"}
-      - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
+      - {click: Keyboard_eng, long_click: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
       - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 17}
       - {click: 0, label: ng, hint: "oe eo"}
@@ -3821,13 +3821,13 @@ preset_keyboards:
       - {click: 4, label: ghi}
       - {click: 5, label: jkl}
       - {click: 6, label: mno}
-      - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
+      - {click: Keyboard_symbols, long_click: Color_switch, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
       - {click: "?", label: "?", long_click: "!", width: 17}
       - {click: 7, label: pqrs, hint: "q陰去 qq陽去"}
       - {click: 8, label: tuv, hint: "v陰平 vv陽平"}
       - {click: 9, label: wxyz, hint: "x陰上 xx陽上 yu"}
-      - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
+      - {click: Keyboard_eng, long_click: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
       - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 17}
       - {click: 0, label: ng, hint: "oe eo"}
@@ -3862,13 +3862,13 @@ preset_keyboards:
       - {click: 4, label: ghi}
       - {click: 5, label: jkl}
       - {click: 6, label: mno}
-      - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
+      - {click: Keyboard_symbols, long_click: Color_switch, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
       - {click: "?", label: "?", long_click: "!", width: 17}
       - {click: 7, label: pqrs, hint: "q陰去 qq陽去"}
       - {click: 8, label: tuv, hint: "v陰平 vv陽平"}
       - {click: 9, label: wxyz, hint: "x陰上 xx陽上 yu"}
-      - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
+      - {click: Keyboard_eng, long_click: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
       - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 17}
       - {click: 0, label: ng, hint: "oe eo"}
@@ -4139,10 +4139,8 @@ preset_keys:
   IME_switch1: {label: ●, functional: false, send: LANGUAGE_SWITCH} #彈出對話框選擇輸入法
   IME_last: {label: 上一输入法, send: LANGUAGE_SWITCH, select: .last} #直接切換到上一輸入法
   IME_next: {label: 下一输入法, send: LANGUAGE_SWITCH, select: .next} #直接切換到下一輸入法
-#  K_back: {label: 返回, send: Eisu_toggle, select: .last_lock}
-  K_back: {label: 返回, send: Eisu_toggle, select: .default}
-#  K_back1: {label: Ⓑ, functional: false, send: Eisu_toggle, select: .last_lock}
-  K_back1: {label: Ⓑ, functional: false, send: Eisu_toggle, select: .default}
+  K_back: {label: 返回, send: Eisu_toggle, select: .last_lock}
+  K_back1: {label: Ⓑ, functional: false, send: Eisu_toggle, select: .last_lock}
   K_default: {label: 中文, send: Eisu_toggle, select: .default}
   K_default1: {label: EN, functional: false, send: Eisu_toggle, select: .:default}
   K_defaultMR: {label: ⌨, functional: false, send: Eisu_toggle, select: .default}
