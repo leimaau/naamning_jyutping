@@ -82,7 +82,7 @@ style:
   key_long_text_size: 15 #两字以上时键字号
   key_text_size: 21 #键字号
   key_width: 10.0 #键宽，占银幕宽的百分比
-  keyboards: [.default, default, defaultVJ, letter, letterfh, number, use, menu, menux, symbols, symbols01, symbols11, symbols12, symbols13, symbols14, symbols21, symbols22, symbols31, symbols32, symbols33, symbols34, symbols35, symbols36, emoji, symbols42, symbols43, symbols44, symbols51, symbols52, symbols53, symbols54, symbols55, symbols56, symbols61, symbols62, symbols63, symbols64, symbols65, symbols71, symbols72, symbols73, symbols74, symbols75, symbols81, symbols82, symbols83, symbols91, symbols92, symbols93, symbolsA1, symbolsA2, symbolsA3, symbolsA4, symbolsA5, symbolsB1, symbolsB2, symbolsB3, symbolsC1, symbolsC2, symbolsC3, symbolsC4, symbolsC5, symbolsD1, symbolsD2] #键盘配置
+  keyboards: [.default, default, defaultVJ, letter, letterfh, number, use, menu, menux, symbols, symbols01, symbols11, symbols12, symbols13, symbols14, symbols21, symbols22, symbols31, symbols32, symbols33, symbols34, symbols35, symbols36, emoji, symbols42, symbols43, symbols44, symbols51, symbols52, symbols53, symbols54, symbols55, symbols56, symbols61, symbols62, symbols63, symbols64, symbols65, symbols71, symbols72, symbols73, symbols74, symbols75, symbols81, symbols82, symbols83, symbols91, symbols92, symbols93, symbolsA1, symbolsA2, symbolsA3, symbolsA4, symbolsA5, symbolsB1, symbolsB2, symbolsB3, symbolsC1, symbolsC2, symbolsC3, symbolsC4, symbolsC5, symbolsD1, symbolsD2, eng, luna_pinyin_nine, leimaau_jyutping_nine, naamning_baakwaa_nine, naamning_bingwaa_nine, cangjie5, stroke] #键盘配置
   label_text_size: 14 #悬浮窗序号字号
   label_font: ziti.ttf #标签字型
   latin_font: ziti.ttf #西文字型
@@ -3651,7 +3651,7 @@ preset_keyboards:
     width: 13.5
     
   eng:
-    ascii_mode: 0
+    ascii_mode: 1
     author: flypy.com
     name: "英文26键"
     ascii_keyboard: letter  #指定密码键盘
@@ -3879,6 +3879,7 @@ preset_keyboards:
     name: 倉頡五代鍵盤
     author: 皛筱晓小笨鱼
     ascii_mode: 0
+    ascii_keyboard: letter  #指定密码键盘
     width: 10
     height: *VJG
     horizontal_gap: *VJL
@@ -3932,6 +3933,7 @@ preset_keyboards:
     name: 五筆劃鍵盤
     author: 皛筱晓小笨鱼
     ascii_mode: 0
+    ascii_keyboard: letter  #指定密码键盘
     width: 20
     height: *VJG
     horizontal_gap: *VJL
