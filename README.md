@@ -3,9 +3,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/naamning_jyutping.svg) ![GitHub](https://img.shields.io/github/license/leimaau/naamning_jyutping.svg)
 
 > * 採用『香港語言學會粵語拼音方案』
-> * 聲調輸入 v平 x上 q去 （雙擊爲陽調）
+> * 聲調輸入 q平 v上 x去 （雙擊爲陽調）
 > * 提供多種字形轉換和提示音轉爲IPA，可根據需要自行開啓
-> * 提供三種反查方案，[`]用漢語拼音反查，[x]用五筆畫反查，[v]用倉頡五代反查
+> * 提供四種反查方案，[`]用漢語拼音反查，[x]用五筆畫反查，[v]用倉頡五代反查，[r]用五筆86反查
 > * PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
 > * 註釋reverse_lookup/tags可顯示釋義，可根據需要自行開啓
 
