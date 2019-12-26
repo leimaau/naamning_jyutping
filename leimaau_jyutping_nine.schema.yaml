@@ -4,20 +4,21 @@
 schema:
   schema_id: leimaau_jyutping_nine
   name: "貍貓粵拼(九鍵)"
-  version: "2019.12.24"
+  version: "2019.12.26"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
     採用『香港語言學會粵語拼音方案』
-    聲調輸入 v平 x上 q去 （雙擊爲陽調）
+    聲調輸入 q平 v上 x去 （雙擊爲陽調）
     提供多種字形轉換和提示音轉爲IPA，可根據需要自行開啓
-    提供三種反查方案，[`]用漢語拼音反查，[x]用五筆畫反查，[v]用倉頡五代反查
+    提供四種反查方案，[`]用漢語拼音反查，[x]用五筆畫反查，[v]用倉頡五代反查，[r]用五筆86反查
     PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
     項目主頁 https://github.com/leimaau/leimaau_jyutping
   dependencies:
     - luna_pinyin
     - stroke
     - cangjie5
+    - wubi86
 
 switches:
   - options: [zh_simp2, zh_simp, zh_trad, zh_hk, zh_tw, zh_jp]  # 多種字形轉換方案，根據需要自行開啓
@@ -29,7 +30,7 @@ switches:
       - 字形 → 香港
       - 字形 → 臺灣
       - 字形 → 日本
-  - name: emoji_cn
+  - name: emoji_cn    # emoji根據需要自行開啓
     reset: 0
     states: [ 〇, 😊 ]
   - name: ascii_mode
@@ -37,6 +38,9 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+#  - name: zh_simp  # 若開啓多字形此段可註釋
+#    reset: 1
+#    states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
 
@@ -56,6 +60,7 @@ engine:
     - affix_segmentor@luna_pinyin
     - affix_segmentor@stroke
     - affix_segmentor@cangjie5
+    - affix_segmentor@wubi86
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -65,14 +70,15 @@ engine:
     - script_translator@luna_pinyin
     - table_translator@stroke
     - table_translator@cangjie5
+    - table_translator@wubi86
   filters:
     - simplifier@zh_simp
-    - simplifier@zh_simp2
+    - simplifier@zh_simp2  # 多字形濾鏡，根據需要自行開啓
     - simplifier@zh_trad
     - simplifier@zh_hk
     - simplifier@zh_tw
     - simplifier@zh_jp
-    - simplifier@emoji_cn
+    - simplifier@emoji_cn  # emoji濾鏡，根據需要自行開啓
     - uniquifier
     - reverse_lookup_filter@reverse_lookup
 
@@ -82,22 +88,21 @@ speller:
   algebra:
     - derive/([123456])//         # 忽略声调
     - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
-    - xform/1/v/                  # 陰平
-    - xform/4/vv/                 # 陽平
-    - xform/2/x/                  # 陰上
-    - xform/5/xx/                 # 陽上
-    - xform/3/q/                  # 陰去
-    - xform/6/qq/                 # 陽去
+    - xform/1/q/                  # 陰平
+    - xform/4/qq/                 # 陽平
+    - xform/2/v/                  # 陰上
+    - xform/5/vv/                 # 陽上
+    - xform/3/x/                  # 陰去
+    - xform/6/xx/                 # 陽去
 #    - derive/^jy?([aeiour])/y$1/  # 容錯 j -> y
 #    - derive/^jyu/yu/             # 容錯 jyu -> yu
 #    - derive/^jyu/ju/             # 容錯 jyu -> ju
-#    - derive/aa/r/                # 容錯 aa -> r
     - derive/aa$/a/               # 容錯 aa -> a
 #    - derive/eo([int])$/u$1/      # 容錯 eo(int) -> u(int)
     - derive/dik$/d/              # 快出「的」字
     - derive/oe(ng|k)$/eo$1/      # 容錯 oe(ng|k) -> eo(ng|k)
     - derive/eo([int])$/oe$1/     # 容錯 eo(int) -> oe(int)
-    - derive/yu/y/                # 教院式 jyu -> jy
+    - derive/yu/y/                # 教院式 jyu -> jy，yu -> y
     - derive/eoi$/eoy/            # 教院式 eoi <-> eoy
     - derive/([bpmfdtnlgkhzc])ei$/$1i/        # 模糊 ei -> i
     - derive/([bpmfdtnlhzcs])ou$/$1u/         # 模糊 ou -> u
@@ -129,24 +134,24 @@ translator:
   prism: leimaau_jyutping_nine
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:    # 需要顯示IPA時這段要被替換掉
-    - xform/([aeioumngptk])vv/$1⁴/
-    - xform/([aeioumngptk])v/$1¹/
-    - xform/([aeioumngptk])xx/$1⁵/
-    - xform/([aeioumngptk])x/$1²/
-    - xform/([aeioumngptk])qq/$1⁶/
-    - xform/([aeioumngptk])q/$1³/
+    - xform/([aeioumngptk])qq/$1⁴/
+    - xform/([aeioumngptk])q/$1¹/
+    - xform/([aeioumngptk])vv/$1⁵/
+    - xform/([aeioumngptk])v/$1²/
+    - xform/([aeioumngptk])xx/$1⁶/
+    - xform/([aeioumngptk])x/$1³/
 #  preedit_format:   # 需要顯示IPA時preedit_format替換成這段
 #    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
-#    - xform/([ptk])qq/$1˨/	熱jiːt̚˨
-#    - xform/([ptk])q/$1˧/	咽jiːt̚˧
-#    - xform/([ptk])v/$1˥/	一jɐt̚
-#    - xform/vv/˨˩/
-#    - xform/v/˥˥/
-#    - xform/xx/˩˧/
-#    - xform/x/˧˥/
-#    - xform/qq/˨˨/
+#    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
+#    - xform/([ptk])x/$1˧/	咽jiːt̚˧
+#    - xform/([ptk])q/$1˥/	一jɐt̚
+#    - xform/qq/˨˩/
 #    - xform/(^|[ '])q/$1ʔ/
-#    - xform/q/˧˧/
+#    - xform/q/˥˥/
+#    - xform/vv/˩˧/
+#    - xform/v/˧˥/
+#    - xform/xx/˨˨/
+#    - xform/x/˧˧/
 #    - xform/([PTK])$/$1]$2/	入jɐp̚
 #    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
 #    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/	月jyːt̚
@@ -245,9 +250,19 @@ cangjie5:    # 倉頡五代反查
   disable_user_dict_for_patterns:
     - "^z.*$"
     - "^yyy.*$"
-
+    
+wubi86:    # 五筆86反查
+  tag: wubi86
+  dictionary: wubi86
+  enable_user_dict: false
+  prefix: "r"
+  suffix: ";"
+  tips: 〔五筆86〕
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+    
 reverse_lookup:
-  tags:  [luna_pinyin, stroke, cangjie5]
+  tags:  [luna_pinyin, stroke, cangjie5, wubi86]
   overwrite_comment: true
   dictionary: leimaau_jyutping
   comment_format:
@@ -268,13 +283,14 @@ recognizer:
     luna_pinyin: "`[a-z]*'?$"
     stroke: "x[hspnz]*'?$"
     cangjie5: "v[a-z]*'?$"
+    wubi86: "r[a-z]*'?$"
 
 zh_simp:
   option_name: zh_simp
   opencc_config: t2s.json
   tips: none
 
-zh_simp2:
+zh_simp2:  # 多字形根據需要自行開啓
   option_name: zh_simp2
   opencc_config: t2s.json
   tips: all
@@ -299,7 +315,7 @@ zh_jp:
   opencc_config: t2jp.json
   tips: all
 
-emoji_cn:
+emoji_cn:  # emoji根據需要自行開啓
   opencc_config: emoji.json
   option_name: emoji_cn
   tips: all
