@@ -30,6 +30,10 @@ speller:
   alphabet: "!'()+-./0123456789:;<=>?[\\]^`abcdefghijklmnopqrstuvwxyz|~"
   initials: "!()/0123456789:;?\\]abcdefghijklmnopqrstuvwxyz|"
   auto_select: true
+  
+menu:
+  alternative_select_keys: "123456789"
+  page_size: 9  # 候選詞數
 
 translator:
   dictionary: ipa_yunlong

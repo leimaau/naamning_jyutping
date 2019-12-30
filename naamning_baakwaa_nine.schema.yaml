@@ -90,7 +90,7 @@ speller:
     - xform/\(.+?\)//             # 忽略釋義
     - xform/「.+?」//             # 忽略釋義
     - derive/([123456])//         # 忽略声调
-    - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
+#    - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
     - xform/1/q/                  # 陰平
     - xform/4/qq/                 # 陽平
     - xform/2/v/                  # 陰上

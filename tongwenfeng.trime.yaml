@@ -36,7 +36,7 @@ style:
   comment_height: 14 #编码提示区高度
   comment_on_top: true #编码提示在上方或右侧
   comment_text_size: 12 #编码提示字号
-  hanb_font: hanb.ttf #扩充字体
+  hanb_font: Ext.ttf #hanb.ttf #扩充字体
   horizontal: true #水平模式
   horizontal_gap: *hgap #键水平间距
   layout:
@@ -3948,7 +3948,7 @@ preset_keyboards:
     - {label: '弓', long_click: '(', click: n}
     - {label: '一', long_click: ')', click: m}
     - {long_click: '<', click: ','}
-    - {click: BackSpace, long_click: Escape, width: 10, key_back_color: bbs, key_text_color: tbs}
+    - {click: BackSpace, width: 10, key_back_color: bbs, key_text_color: tbs}
     - {click: Hide}
     - {click: Shift_L, send_bindings: false}
     - {click: Keyboard_symbols_new, long_click: Color_switch, key_back_color: bkg, key_text_color: tkg}
@@ -3970,7 +3970,7 @@ preset_keyboards:
     - {click: h, label: '一'}
     - {click: s, label: '丨'}
     - {click: p, label: '丿'}
-    - {click: BackSpace, long_click: Escape, key_back_color: bbs, key_text_color: tbs}
+    - {click: BackSpace, key_back_color: bbs, key_text_color: tbs}
     - {click: ';', long_click: ':'}
     - {click: n, label: '丶'}
     - {click: z, label: '乙'}
@@ -3982,7 +3982,7 @@ preset_keyboards:
     - {click: space, width: 40}
     - {click: Keyboard_eng, long_click: Menu, width: 10, key_back_color: bkg, key_text_color: tkg}
     - {click: Return, long_click: Theme_settings, width: 20, key_back_color: benter, key_text_color: tenter}
-        
+    
 android_keys:
   __include: trime:/android_keys
 
