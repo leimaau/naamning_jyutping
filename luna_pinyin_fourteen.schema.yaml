@@ -2,12 +2,11 @@
 # encoding: utf-8
 
 schema:
-  schema_id: luna_pinyin_nine
-  name: 朙月拼音(9鍵)
-  version: "0.24"
+  schema_id: luna_pinyin_fourteen
+  name: 朙月拼音(14鍵)
+  version: "2020.01.03"
   author:
     - 佛振 <chen.sst@gmail.com>
-    - Leo <leo9562@outlook.com>（修改为九宫格键盘）
     - LeiMaau <leimaau@qq.com>（改写）
   description: |
     Rime 預設的拼音輸入方案。
@@ -58,7 +57,7 @@ engine:
     - simplifier@emoji_cn
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890
+  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890~!@?
   delimiter: " '"
   algebra:
     - erase/^xx$/
@@ -74,22 +73,24 @@ speller:
     - derive/ong$/on/
     - derive/ao$/oa/
     - derive/([iu])a(o|ng?)$/a$1$2/
-    - derive/ng/0/
-    - derive/sh/1/
-    - derive/ch/1/
-    - derive/zh/1/
-    - derive/([abc])/2/
-    - derive/([def])/3/
-    - derive/([ghi])/4/
-    - derive/([jkl])/5/
-    - derive/([mno])/6/
-    - derive/([pqrs])/7/
-    - derive/([tuv])/8/
-    - derive/([wxyz])/9/
+    - derive/([qw])/1/
+    - derive/([er])/2/
+    - derive/([ty])/3/
+    - derive/([ui])/4/
+    - derive/([op])/5/
+    - derive/([as])/6/
+    - derive/([df])/7/
+    - derive/([gh])/8/
+    - derive/([jk])/9/
+    - derive/l/0/
+    - derive/([zx])/~/
+    - derive/([cv])/!/
+    - derive/([bn])/@/
+    - derive/m/?/
 
 translator:
   dictionary: luna_pinyin
-  prism: luna_pinyin_nine
+  prism: luna_pinyin_fourteen
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/

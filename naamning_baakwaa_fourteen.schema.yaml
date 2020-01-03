@@ -2,9 +2,9 @@
 # encoding: utf-8
 
 schema:
-  schema_id: leimaau_jyutping_nine
-  name: "貍貓粵拼(9鍵)"
-  version: "2019.12.26"
+  schema_id: naamning_baakwaa_fourteen
+  name: "南寧白話(14鍵)"
+  version: "2020.01.03"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
@@ -13,7 +13,8 @@ schema:
     提供多種字形轉換和提示音轉爲IPA，可根據需要自行開啓
     提供四種反查方案，[`]用漢語拼音反查，[x]用五筆畫反查，[v]用倉頡五代反查，[r]用五筆86反查
     PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
-    項目主頁 https://github.com/leimaau/leimaau_jyutping
+    註釋reverse_lookup/tags可顯示釋義，可根據需要自行開啓
+    項目主頁 https://github.com/leimaau/naamning_jyutping
   dependencies:
     - luna_pinyin
     - stroke
@@ -83,9 +84,11 @@ engine:
     - reverse_lookup_filter@reverse_lookup
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890
+  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890~!@?
   delimiter: " '"
   algebra:
+    - xform/\(.+?\)//             # 忽略釋義
+    - xform/「.+?」//             # 忽略釋義
     - derive/([123456])//         # 忽略声调
 #    - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
     - xform/1/q/                  # 陰平
@@ -94,52 +97,66 @@ speller:
     - xform/5/vv/                 # 陽上
     - xform/3/x/                  # 陰去
     - xform/6/xx/                 # 陽去
-#    - derive/^jy?([aeiour])/y$1/  # 容錯 j -> y
+    - derive/^(z|c|s)y$/$1z/      # 兼容 (zcs)y -> (zcs)z 傳教士方案
+    - derive/^(z|c|s)y$/$1ii/     # 兼容 (zcs)y -> (zcs)ii 客家話方案
+#    - derive/a(m|p)$/o$1/         # 兼容 a(m|p) -> o(m|p) 其他邕潯片
+#    - derive/aa(m)$/o$1/          # 兼容 aam -> om 其他邕潯片
+#    - derive/^j/nj/               # 兼容 j -> nj 其他邕潯片 nj[ȵ]
+    - derive/a([nt])$/eo$1/       # 模糊 a(nt) -> eo(nt)
+    - derive/ui$/eoi/          	  # 模糊 ui -> eoi
+    - derive/yu$/eoi/          	  # 模糊 yu -> eoi
+    - derive/^sl/s/               # 模糊 sl -> s
+    - derive/^(g|k)wo/$1o/        # 模糊 (gk)wo -> (gk)o
+    - derive/^(g|k)wik/$1ik/      # 模糊 (gk)wik -> (gk)ik
+    - derive/i$/ei/          	  # 模糊 i -> ei
+    - derive/u$/ou/          	  # 模糊 u -> ou
+    - derive/saang$/sang/         # 模糊 saang -> sang 庚韻二等字文讀
+#    - derive/kok$/fok/            # 模糊 kok -> fok
+    - derive/fut$/kut/            # 模糊 fut -> kut 「豁達、蛞蝓」
+    - derive/gwaat$/kut/          # 模糊 gwaat -> kut 「包括、聒噪」
+    - derive/dik$/d/              # 快出「的」字
+#    - derive/^jy?([aeiou])/y$1/   # 容錯 j -> y
 #    - derive/^jyu/yu/             # 容錯 jyu -> yu
 #    - derive/^jyu/ju/             # 容錯 jyu -> ju
+    - derive/yu/y/                # 容錯 jyu -> jy
     - derive/aa$/a/               # 容錯 aa -> a
-#    - derive/eo([int])$/u$1/      # 容錯 eo(int) -> u(int)
-    - derive/dik$/d/              # 快出「的」字
     - derive/oe(ng|k)$/eo$1/      # 容錯 oe(ng|k) -> eo(ng|k)
     - derive/eo([int])$/oe$1/     # 容錯 eo(int) -> oe(int)
-    - derive/yu/y/                # 教院式 jyu -> jy，yu -> y
-    - derive/eoi$/eoy/            # 教院式 eoi <-> eoy
-    - derive/([bpmfdtnlgkhzc])ei$/$1i/        # 模糊 ei -> i
-    - derive/([bpmfdtnlhzcs])ou$/$1u/         # 模糊 ou -> u
-    - derive/e(ng|k)$/i$1/        # 模糊 e(ng|k) -> i(ng|k)
+    - derive/eoi$/eoy/            # 教院式 eoi -> eoy
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
     - abbrev/^(gw|kw|ng).+$/$1/   # 聲母簡拼
-    - derive/ng/0/
-    - derive/oe/0/
-    - derive/eo/0/
-    - derive/gw/1/
-    - derive/kw/1/
-    - derive/aa/1/
-    - derive/([abc])/2/
-    - derive/([def])/3/
-    - derive/([ghi])/4/
-    - derive/([jkl])/5/
-    - derive/([mno])/6/
-    - derive/([pqrs])/7/
-    - derive/([tuv])/8/
-    - derive/([wxyz])/9/
+    - abbrev/^([s][l]).+$/$1/     # 聲母簡拼
+    - derive/([qw])/1/
+    - derive/([er])/2/
+    - derive/([ty])/3/
+    - derive/([ui])/4/
+    - derive/([op])/5/
+    - derive/([as])/6/
+    - derive/([df])/7/
+    - derive/([gh])/8/
+    - derive/([jk])/9/
+    - derive/l/0/
+    - derive/([zx])/~/
+    - derive/([cv])/!/
+    - derive/([bn])/@/
+    - derive/m/?/
 
 menu:
   alternative_select_keys: "123456789"
   page_size: 7  # 候選詞數
 
 translator:
-  dictionary: leimaau_jyutping
-  prism: leimaau_jyutping_nine
+  dictionary: naamning_baakwaa
+  prism: naamning_baakwaa_fourteen
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:    # 需要顯示IPA時這段要被替換掉
-    - xform/([aeioumngptk])qq/$1⁴/
-    - xform/([aeioumngptk])q/$1¹/
-    - xform/([aeioumngptk])vv/$1⁵/
-    - xform/([aeioumngptk])v/$1²/
-    - xform/([aeioumngptk])xx/$1⁶/
-    - xform/([aeioumngptk])x/$1³/
+    - xform/([yaeioumngptk])qq/$1⁴/
+    - xform/([yaeioumngptk])q/$1¹/
+    - xform/([yaeioumngptk])vv/$1⁵/
+    - xform/([yaeioumngptk])v/$1²/
+    - xform/([yaeioumngptk])xx/$1⁶/
+    - xform/([yaeioumngptk])x/$1³/
 #  preedit_format:   # 需要顯示IPA時preedit_format替換成這段
 #    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
 #    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
@@ -148,10 +165,11 @@ translator:
 #    - xform/qq/˨˩/
 #    - xform/(^|[ '])q/$1ʔ/
 #    - xform/q/˥˥/
-#    - xform/vv/˩˧/
+#    - xform/vv/˨˦/
 #    - xform/v/˧˥/
 #    - xform/xx/˨˨/
 #    - xform/x/˧˧/
+#    - xform/sl/ɬ/
 #    - xform/([PTK])$/$1]$2/	入jɐp̚
 #    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
 #    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/	月jyːt̚
@@ -162,56 +180,71 @@ translator:
 #    - xform/y([aeior])/j$1/	一yat/jɐt̚/
 #    - xform/(aa|r)([iu])/Aː\U$2/	嗎maː
 #    - xform/a([iu])/ɐ\U$1/	米mɐi
-#    - xform/(aa|r)([ptk])/Aː\U$2]/	鈪aːk̚
-#    - xform/a([ptk])/ɐ\U$1]/	呃ɐk̚
+#    - xform/(aa|r)([ptk])/Aː\U$2]/	aːk̚
+#    - xform/a([ptk])/ɐ\U$1]/	握ɐk̚
 #    - xform/(aa|r)/Aː/	嗎maː
 #    - xform/b/P/	吧paː
-#    - xform/c/T͡sH/	差tsʰaː
+#    - xform/c/T͡ʃH/	差tʃʰaː
 #    - xform/d/T/	打taː
 #    - xform/eu/ɛːU/	掉tɛːu
-#    - xform/eoi/ɵY/	水sɵy
+#    - xform/eoi/ɵY/	水sɵy（廣州）
 #    - xform/oei/ɵY/	容錯
 #    - xform/oe([ptk])/œː$1]/	約jœːk̚
-#    - xform/oe(ng)/œː$1/	容錯
+#    - xform/oe(ng)/œː$1/	良lœːŋ
 #    - xform/oe([t])/ɵ$1]/	容錯
 #    - xform/oe([n])/ɵ$1/	容錯
-#    - xform/oe/œː/	張tsœːŋ
-#    - xform/oi/ɔːI/	蓋kʰɔːi
+#    - xform/oe/œː/	張tʃœːŋ
+#    - xform/oi/ɔːI/	愛ɔːi
 #    - xform/eo(ng)/œːŋ/	容錯
 #    - xform/eo([k])/œː$1]/	容錯
-#    - xform/eo([t])/ɵ$1]/	率sɵt̚
-#    - xform/eon/ɵn/	信sɵn
-#    - xform/ou/OU/	無mou
+#    - xform/eo([t])/ɵ$1]/	率sɵt̚（廣州）
+#    - xform/eon/ɵn/	信sɵn（廣州）
+#    - xform/ou/OU/	無mou（廣州）
 #    - xform/u([k])/ʊ$1]/	六lʊk̚
 #    - xform/ui/UːI/	回wuːi
-#    - xform/iu/IːU/	小siːu
-#    - xform/i(ng)/ɪN/	名mɪŋ
+#    - xform/iu/IːU/	要jiːu
+#    - xform/i(ng)/ɪN/	鳴mɪŋ
 #    - xform/ik/ɪK]/	式sɪk̚
 #    - xform/i([pt])/Iː$1]/	結kiːt̚
-#    - xform/eo/ɵ/	去hɵy
+#    - xform/eo/ɵ/	去hɵy（廣州）
 #    - xform/a/ɐ/	粒nɐp̚
-#    - xform/ei/EI/	欸ei
+#    - xform/ei/EI/	欸ei（廣州）
 #    - xform/i/Iː/	是siː
-#    - xform/e([ptk])/ɛː$1]/	壢lɛːk̚
-#    - xform/e/ɛː/	寫sɛː
+#    - xform/e([ptk])/ɛː$1]/	癧lɛːk̚
+#    - xform/e/ɛː/	寫ɬɛː
 #    - xform/o([ptk])/ɔː$1]/	莫mɔːk̚
 #    - xform/u([pt])/Uː$1]/	活wuːt̚
 #    - xform/u(ng)/ʊN/	動tʊŋ
-#    - xform/o/ɔː/	錯tsʰɔː
+#    - xform/o/ɔː/	錯tʃʰɔː
 #    - xform/u/Uː/	故kuː
 #    - xform/ng/N/	我ŋɔː
-#    - xform/n/n/	你nei
+#    - xform/n/n/	你niː
 #    - xform/kw/KWH/	群kʷʰɐn
 #    - xform/gw/KW/	均kʷɐn
 #    - xform/g/K/	急kɐp̚
 #    - xform/(^|[ '])([ptk])/$1$2H/	噴pʰɐn
 #    - xform/w/w/	雲wɐn
 #    - xform/j/j/	人jɐn
-#    - xform/m/m/	美mei
-#    - xform/l/l/	里lei
-#    - xform/s/s/	死sei
-#    - xform/z/T͡s/	這t͡sɛː
+#    - xform/m/m/	尾mi
+#    - xform/l/l/	里li
+#    - xform/s/ʃ/	审ʃɐm
+#    - xform/z/T͡ʃ/	這tʃɛː
+#    - xform/em/ɛːM/
+#    - xform/en/ɛːN/
+#    - xform/T͡ʃy/T͡sɿ/
+#    - xform/T͡ʃHy/T͡sHɿ/
+#    - xform/ʃy/sɿ/
+#    - xform/T͡ʃT͡ʃ/T͡sɿ/
+#    - xform/T͡ʃHT͡ʃ/T͡sHɿ/
+#    - xform/ʃT͡ʃ/sɿ/
+#    - xform/T͡ʃIːIː/T͡sɿ/
+#    - xform/T͡ʃHIːIː/T͡sHɿ/
+#    - xform/ʃIːIː/sɿ/
+#    - xform/nj/ȵ/
 #    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
+  comment_format:
+    - xform/\(.+?\)//    # 處理組詞拼音
+    - xform/「.+?」//    # 處理組詞拼音
 
 luna_pinyin:    # 拼音反查
   tag: luna_pinyin
@@ -260,15 +293,17 @@ wubi86:    # 五筆86反查
   tips: 〔五筆86〕
   disable_user_dict_for_patterns:
     - "^z.*$"
-    
+
 reverse_lookup:
-  tags:  [luna_pinyin, stroke, cangjie5, wubi86]
+  tags:  [luna_pinyin, stroke, cangjie5, wubi86]  # 需要打字時顯示釋義則註釋這行，建議豎排顯示時使用【很有用的功能，建議PC上使用！】
   overwrite_comment: true
-  dictionary: leimaau_jyutping
+  dictionary: naamning_baakwaa
   comment_format:
     - xform/ /\｜/
     - xform/^/〔/
     - xform/$/〕/
+    - xform/「/ /
+    - xform/」//
 
 punctuator:
   import_preset: symbols
@@ -319,3 +354,5 @@ emoji_cn:  # emoji根據需要自行開啓
   opencc_config: emoji.json
   option_name: emoji_cn
   tips: all
+  
+    

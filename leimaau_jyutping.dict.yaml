@@ -11,7 +11,7 @@
 
 ---
 name: leimaau_jyutping
-version: "2019.10.25"
+version: "2020.01.02"
 sort: by_weight	# original
 use_preset_vocabulary: true
 ...
@@ -87790,12 +87790,15 @@ use_preset_vocabulary: true
 捏脊	nip6 zek3
 捏脊治療	nip6 zek3 zi6 liu4
 捏造	nip6 zou6
+蜎入	gyun1 jap6
 捐入	gyun1 jap6
+蜎出	gyun1 ceot1
 捐出	gyun1 ceot1
 捐助	gyun1 zo6
 捐助人	gyun1 zo6 jan4
 捐募	gyun1 mou6
 捐命	gyun1 ming6
+蜎山窿	gyun1 saan1 lung1
 捐山窿	gyun1 saan1 lung1
 捐棄	gyun1 hei3
 捐棄前嫌	gyun1 hei3 cin4 jim4
@@ -137454,13 +137457,17 @@ use_preset_vocabulary: true
 蝠鼠	fuk1 syu2
 蝦丸	haa1 jyun2
 蝦乾	haa1 gon1
+㗇人	haa1 jan4
 蝦人	haa1 jan4
+㗇人㗇物	haa1 jan4 haa1 mat6
+蝦人蝦物	haa1 jan4 haa1 mat6
 蝦仁	haa1 jan4
 蝦公	haa1 gung1
 蝦兵蟹將	haa1 bing1 haai5 zoeng3
 蝦夷	haa1 ji4
 蝦夷蔥	haa1 ji4 cung1
 蝦子	haa1 zi2
+㗇得就㗇	haa1 dak1 zau6 haa1
 蝦得就蝦	haa1 dak1 zau6 haa1
 蝦春	haa1 ceon1
 蝦條	haa1 tiu2
@@ -137479,6 +137486,7 @@ use_preset_vocabulary: true
 蝦虎魚	haa1 fu2 jyu2
 蝦虎魚科	haa1 fu2 jyu2 fo1
 蝦蛄	haa1 gu1
+㗇㗇霸霸	haa1 haa1 baa3 baa3
 蝦蝦霸霸	haa1 haa1 baa3 baa3
 蝦蟆	haa1 mou1
 蝦轆	haa1 luk1
@@ -166798,8 +166806,9 @@ WIFI	waai faai
 光瞪瞪	gwong1 caang4 caang4
 光盤	gwong1 pun2
 廣泛	gwong2 faan6
-狷窿狷罅	gyun1 lung1 gyun1 laa3
+蜎窿	gyun1 lung1
 蜎窿蜎罅	gyun1 lung1 gyun1 laa3
+狷窿狷罅	gyun1 lung1 gyun1 laa3
 下下	haa5 haa5
 下期	haa6 kei4
 蟹螯	haai5 gong6

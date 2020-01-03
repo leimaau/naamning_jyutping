@@ -2,9 +2,9 @@
 # encoding: utf-8
 
 schema:
-  schema_id: leimaau_jyutping_nine
-  name: "貍貓粵拼(9鍵)"
-  version: "2019.12.26"
+  schema_id: leimaau_jyutping_fourteen
+  name: "貍貓粵拼(14鍵)"
+  version: "2020.01.03"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
@@ -83,7 +83,7 @@ engine:
     - reverse_lookup_filter@reverse_lookup
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890
+  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890~!@?
   delimiter: " '"
   algebra:
     - derive/([123456])//         # 忽略声调
@@ -110,20 +110,20 @@ speller:
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
     - abbrev/^(gw|kw|ng).+$/$1/   # 聲母簡拼
-    - derive/ng/0/
-    - derive/oe/0/
-    - derive/eo/0/
-    - derive/gw/1/
-    - derive/kw/1/
-    - derive/aa/1/
-    - derive/([abc])/2/
-    - derive/([def])/3/
-    - derive/([ghi])/4/
-    - derive/([jkl])/5/
-    - derive/([mno])/6/
-    - derive/([pqrs])/7/
-    - derive/([tuv])/8/
-    - derive/([wxyz])/9/
+    - derive/([qw])/1/
+    - derive/([er])/2/
+    - derive/([ty])/3/
+    - derive/([ui])/4/
+    - derive/([op])/5/
+    - derive/([as])/6/
+    - derive/([df])/7/
+    - derive/([gh])/8/
+    - derive/([jk])/9/
+    - derive/l/0/
+    - derive/([zx])/~/
+    - derive/([cv])/!/
+    - derive/([bn])/@/
+    - derive/m/?/
 
 menu:
   alternative_select_keys: "123456789"
@@ -131,7 +131,7 @@ menu:
 
 translator:
   dictionary: leimaau_jyutping
-  prism: leimaau_jyutping_nine
+  prism: leimaau_jyutping_fourteen
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:    # 需要顯示IPA時這段要被替換掉
     - xform/([aeioumngptk])qq/$1⁴/
