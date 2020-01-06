@@ -84,7 +84,7 @@ engine:
     - reverse_lookup_filter@reverse_lookup
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890~!@?
+  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890
   delimiter: " '"
   algebra:
     - xform/\(.+?\)//             # 忽略釋義
@@ -127,20 +127,20 @@ speller:
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
     - abbrev/^(gw|kw|ng).+$/$1/   # 聲母簡拼
     - abbrev/^([s][l]).+$/$1/     # 聲母簡拼
-    - derive/([qw])/1/
-    - derive/([er])/2/
-    - derive/([ty])/3/
-    - derive/([ui])/4/
-    - derive/([op])/5/
-    - derive/([as])/6/
-    - derive/([df])/7/
-    - derive/([gh])/8/
-    - derive/([jk])/9/
-    - derive/l/0/
-    - derive/([zx])/~/
-    - derive/([cv])/!/
-    - derive/([bn])/@/
-    - derive/m/?/
+    - derive/([qw])/q/
+    - derive/([er])/e/
+    - derive/([ty])/t/
+    - derive/([ui])/u/
+    - derive/([op])/o/
+    - derive/([as])/a/
+    - derive/([df])/d/
+    - derive/([gh])/g/
+    - derive/([jk])/j/
+    - derive/l/l/
+    - derive/([zx])/z/
+    - derive/([cv])/c/
+    - derive/([bn])/b/
+    - derive/m/m/
 
 menu:
   alternative_select_keys: "123456789"

@@ -74,10 +74,10 @@ speller:
     - derive/ong$/on/
     - derive/ao$/oa/
     - derive/([iu])a(o|ng?)$/a$1$2/
-    - derive/ng/0/
-    - derive/sh/1/
-    - derive/ch/1/
-    - derive/zh/1/
+#    - derive/ng/0/
+#    - derive/sh/1/
+#    - derive/ch/1/
+#    - derive/zh/1/
     - derive/([abc])/2/
     - derive/([def])/3/
     - derive/([ghi])/4/
@@ -86,6 +86,10 @@ speller:
     - derive/([pqrs])/7/
     - derive/([tuv])/8/
     - derive/([wxyz])/9/
+
+menu:
+  alternative_select_keys: "123456789"
+  page_size: 7  # 候選詞數
 
 translator:
   dictionary: luna_pinyin

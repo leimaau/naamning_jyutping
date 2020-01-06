@@ -71,6 +71,10 @@ speller:
     - derive/ao$/oa/
     - derive/([iu])a(o|ng?)$/a$1$2/
 
+menu:
+  alternative_select_keys: "123456789"
+  page_size: 7  # 候選詞數
+
 translator:
   dictionary: luna_pinyin
   preedit_format:

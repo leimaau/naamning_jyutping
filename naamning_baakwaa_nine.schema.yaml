@@ -127,12 +127,12 @@ speller:
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
     - abbrev/^(gw|kw|ng).+$/$1/   # 聲母簡拼
     - abbrev/^([s][l]).+$/$1/     # 聲母簡拼
-    - derive/ng/0/
-    - derive/oe/0/
-    - derive/eo/0/
-    - derive/gw/1/
-    - derive/kw/1/
-    - derive/aa/1/
+#    - derive/ng/0/
+#    - derive/oe/0/
+#    - derive/eo/0/
+#    - derive/gw/1/
+#    - derive/kw/1/
+#    - derive/aa/1/
     - derive/([abc])/2/
     - derive/([def])/3/
     - derive/([ghi])/4/
