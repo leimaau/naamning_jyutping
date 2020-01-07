@@ -13,7 +13,7 @@ luna_pinyin_nine: &luna_pinyin_nine
   keys:
   #第一行
   - {click: ",", label: "，", long_click: ";", width: 17}
-  - {click: Keyboard_bqsy4_new, key_back_color: bkg, key_text_color: tkg}
+  - {click: delimiter, key_back_color: bkg, key_text_color: tkg}
   - {click: 2, label: ABC}
   - {click: 3, label: DEF}
   - {click: BackSpace, width: 20, key_back_color: bbs, key_text_color: tbs}
@@ -22,16 +22,16 @@ luna_pinyin_nine: &luna_pinyin_nine
   - {click: 4, label: GHI}
   - {click: 5, label: JKL}
   - {click: 6, label: MNO}
-  - {click: Keyboard_eng, label: abc, composing: delimiter, width: 20, key_back_color: bkg, key_text_color: tkg}
+  - {click: Keyboard_bqsy4_new, composing: Escape, width: 20}
   #第三行
-  - {click: "?", label: "?", long_click: "「」{Left}", width: 17}
+  - {click: "?", label: "?", long_click: "(){Left}", width: 17}
   - {click: 7, label: PQRS}
   - {click: 8, label: TUV}
   - {click: 9, label: WXYZ}
-  - {click: Keyboard_number_new, width: 20, key_back_color: bkg, key_text_color: tkg}
+  - {click: "!", label: "!", long_click: "「」{Left}", width: 20}
   #第四行
-  - {click: "!", label: "!", long_click: "(){Left}", width: 17}
-  - {click: Keyboard_symbols_new, composing: comma, long_click: Color_switch, key_back_color: bkg, key_text_color: tkg, width: 16.5}
+  - {click: Keyboard_symbols_new, width: 17}
+  - {click: Keyboard_number_new, composing: comma, long_click: Color_switch, width: 16.5}
   - {click: space, long_click: Keyboard_eng, key_text_size: "10", width: 30}
   - {click: Keyboard_eng, composing: period, long_click: Menu, key_back_color: bkg, key_text_color: tkg, width: 16.5}
   - {click: Return, composing: Escape, long_click: Theme_settings, width: 20, key_back_color: benter, key_text_color: tenter}
@@ -65,7 +65,7 @@ luna_pinyin_fourteen: &luna_pinyin_fourteen
   - {click: ',', label: '，', long_click: '<>{Left}', key_back_color: bh4, key_text_color: th4, width: 10}
   - {click: space, long_click: Keyboard_eng, key_text_size: "10", width: 30, key_back_color: bkg, key_text_color: tkg}
   - {click: '.', label: '。', long_click: Keyboard_kao, key_back_color: bh4, key_text_color: th4, width: 10}
-  - {click: Keyboard_eng, long_click: '?', key_text_size: "10", key_back_color: bh4, key_text_color: th4, width: 10}
+  - {click: Keyboard_eng, long_click: '?', key_text_size: "10", key_back_color: bgn, key_text_color: tgn, width: 10}
   - {click: Return, composing: Escape, width: 15, key_back_color: benter, key_text_color: tenter}
 
 patch:
@@ -132,6 +132,8 @@ patch:
   "preset_keyboards/letter/keys/@33/long_click": Keyboard_cn
   "preset_keyboards/letter/keys/@35/click": Keyboard_cn
   "preset_keyboards/letter/keys/@35/key_text_size": 10
+  "preset_keyboards/letter/keys/@35/key_back_color": benter
+  "preset_keyboards/letter/keys/@35/key_text_color": tenter
   
   "preset_keyboards/number_new":
     ascii_mode: 1
@@ -151,19 +153,19 @@ patch:
       - {click: 4}
       - {click: 5}
       - {click: 6}
-      - {click: Keyboard_symbols_new, label: abc, width: 20, key_back_color: bkg, key_text_color: tkg}
+      - {click: ".", long_click: ",", width: 20}
     #第三行
       - {click: "/", long_click: "*", width: 17}
       - {click: 7}
       - {click: 8}
       - {click: 9}
-      - {click: Keyboard_last_lock, width: 20, key_back_color: bkg, key_text_color: tkg}
+      - {click: "@", long_click: "=", width: 20}
     #第四行
-      - {click: "@", long_click: "=", width: 17}
-      - {click: ","}
+      - {click: Keyboard_symbols_new, width: 17}
+      - {click: Keyboard_default, key_back_color: benter, key_text_color: tenter}
       - {click: 0}
-      - {click: "."}
-      - {click: Return, long_click: Theme_settings, width: 20, key_back_color: benter, key_text_color: tenter}
+      - {click: space1}
+      - {click: Return, width: 20, key_back_color: benter, key_text_color: tenter}
       
   "preset_keyboards/luna_pinyin_nine": *luna_pinyin_nine
   "preset_keyboards/leimaau_jyutping_nine": *luna_pinyin_nine
@@ -219,7 +221,7 @@ patch:
     - {click: BackSpace, key_text_size: "10", width: 10, key_back_color: bbs, key_text_color: tbs}
     - {click: Hide, key_text_size: "10"}
     - {click: Shift_L, key_text_size: "10", send_bindings: false}
-    - {click: Keyboard_symbols_new, key_text_size: "10", long_click: Color_switch, key_back_color: bkg, key_text_color: tkg}
+    - {click: Keyboard_symbols_new, key_text_size: "10", long_click: Color_switch}
     - {click: space, key_text_size: "10", long_click: Mode_switch, width: 40}
     - {click: Mode_switch, key_text_size: "10", long_click: Menu}
     - {long_click: '>', click: '.'}
@@ -246,7 +248,7 @@ patch:
     - {click: ',', long_click: '.'}
     - {click: Hide, key_text_size: "10", width: 10}
     - {click: '/', long_click: '^', width: 10}
-    - {click: Keyboard_symbols_new, key_text_size: "10", long_click: Color_switch, width: 10, key_back_color: bkg, key_text_color: tkg}
+    - {click: Keyboard_symbols_new, key_text_size: "10", long_click: Color_switch, width: 10}
     - {click: space, key_text_size: "10", width: 40}
     - {click: Keyboard_eng, key_text_size: "10", long_click: Menu, width: 10, key_back_color: bkg, key_text_color: tkg}
     - {click: Return, long_click: Theme_settings, width: 20, key_back_color: benter, key_text_color: tenter}
@@ -258,7 +260,7 @@ patch:
   "preset_keys/space": {repeatable: false, preview: '␣', functional: false, send: space}
   "preset_keys/Keyboard_eng": {label: "中/英", send: Eisu_toggle, select: letter}
   "preset_keys/Keyboard_cn": {label: "英/中", send: Eisu_toggle, select: .last_lock}
-  "preset_keys/Keyboard_symbols_new": {label: "符号", send: Eisu_toggle, select: bqfh1}
-  "preset_keys/Keyboard_number_new": {label: "123", send: Eisu_toggle, select: number_new}
-  "preset_keys/Keyboard_bqsy4_new": {label: "^_^", send: Eisu_toggle, select: kao_happy}
+  "preset_keys/Keyboard_symbols_new": {label: "符号", send: Eisu_toggle, select: bqfh1, functional: false}
+  "preset_keys/Keyboard_number_new": {label: "123", send: Eisu_toggle, select: number_new, functional: false}
+  "preset_keys/Keyboard_bqsy4_new": {label: "^_^", send: Eisu_toggle, select: kao_happy, functional: false}
   

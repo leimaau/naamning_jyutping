@@ -58,7 +58,7 @@ luna_pinyin_nine: &luna_pinyin_nine
   keys:
   #第一行
     - {click: ",", label: "，", long_click: ";", width: 17}
-    - {click: emoji_new}
+    - {click: delimiter}
     - {click: 2, label: ABC}
     - {click: 3, label: DEF}
     - {click: BackSpace, width: 20, key_back_color: hsb, hilited_key_back_color: hsh, key_text_color: hst, hilited_key_text_color: hsht}
@@ -67,18 +67,18 @@ luna_pinyin_nine: &luna_pinyin_nine
     - {click: 4, label: GHI}
     - {click: 5, label: JKL}
     - {click: 6, label: MNO}
-    - {click: Keyboard_symbols, composing: delimiter, long_click: Color_switch, key_text_color: SHt, width: 20}
+    - {click: Keyboard_symbols, composing: Escape, long_click: Color_switch, width: 20}
   #第三行
     - {click: "?", label: "?", long_click: "「」{Left}", width: 17}
     - {click: 7, label: PQRS}
     - {click: 8, label: TUV}
     - {click: 9, label: WXYZ}
-    - {click: Keyboard_number_new, long_click: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
+    - {click: emoji_new, long_click: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
   #第四行
     - {height: *VJM, click: "!", label: "!", long_click: "(){Left}", width: 17}
     - {click: Keyboard_eng2, composing: comma, width: 16.5}
     - {click: space, key_text_size: 9, key_symbol_offset_x: 0, width: 30}
-    - {click: Keyboard_symbols2, composing: period, width: 16.5}
+    - {click: Keyboard_number_new, composing: period, width: 16.5}
     - {click: Return, composing: Escape, long_click: K_menu, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 20}
     
 luna_pinyin_fourteen: &luna_pinyin_fourteen
@@ -119,7 +119,7 @@ luna_pinyin_fourteen: &luna_pinyin_fourteen
   - {click: ',', label: '，', long_click: '「」{Left}', width: 10}
   - {click: space, key_text_size: 9, key_symbol_offset_x: 0, width: 30}
   - {click: '.', label: '。', long_click: '(){Left}', width: 10}
-  - {click: Keyboard_symbols, long_click: Menu, width: 10}
+  - {click: Keyboard_symbols, long_click: Menu, width: 10, key_back_color: bdb, key_text_color: bdt, key_symbol_color: bds, hilited_key_back_color: bdh, hilited_key_text_color: bdht}
   - {click: Return, composing: Escape, long_click: K_menu, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 15}
   
 patch:
@@ -186,18 +186,18 @@ patch:
       - {click: 4}
       - {click: 5}
       - {click: 6}
-      - {click: Keyboard_symbols, long_click: Color_switch, key_text_color: SHt, width: 20}
+      - {click: ".", long_click: ",", width: 20}
     #第三行
       - {click: "/", long_click: "*", width: 17}
       - {click: 7}
       - {click: 8}
       - {click: 9}
-      - {click: K_back, long_click: Menu, width: 20, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh}
+      - {click: "@", long_click: "=", width: 20}
     #第四行
-      - {height: *VJM, click: "@", long_click: "=", width: 17}
-      - {click: ","}
+      - {height: *VJM, click: Keyboard_symbols, long_click: Color_switch, key_text_color: SHt, width: 17}
+      - {click: space1, key_back_color: hsb, hilited_key_back_color: hsh, key_text_color: hst, hilited_key_text_color: hsht}
       - {click: 0}
-      - {click: "."}
+      - {click: K_back, long_click: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh}
       - {click: Return, long_click: K_menu, width: 20, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs}
       
   "preset_keyboards/luna_pinyin_nine": *luna_pinyin_nine
@@ -307,9 +307,7 @@ patch:
   "preset_keys/Keyboard_eng": {label: "英文", send: Eisu_toggle, select: letter}
   "preset_keys/Keyboard_eng2": {label: "英文", send: Eisu_toggle, select: letter, functional: false}
   "preset_keys/Keyboard_symbols": {label: "符号", send: Eisu_toggle, select: symbolsCN}
-  "preset_keys/Keyboard_symbols2": {label: "符号", send: Eisu_toggle, select: symbolsCN, functional: false}
-  "preset_keys/Keyboard_number_new": {label: "数字", send: Eisu_toggle, select: number_new}
-  "preset_keys/emoji_new": {label: "^_^", send: Eisu_toggle, select: emoji, functional: false}
-  "preset_keys/delimiter": {label: 分词, text: ''''}
-
+  "preset_keys/Keyboard_number_new": {label: "123", send: Eisu_toggle, select: number_new, functional: false}
+  "preset_keys/emoji_new": {label: "^_^", send: Eisu_toggle, select: emoji}
+  "preset_keys/delimiter": {label: 分词, text: '''', functional: false}
   
