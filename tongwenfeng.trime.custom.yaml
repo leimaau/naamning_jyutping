@@ -13,28 +13,28 @@ luna_pinyin_nine: &luna_pinyin_nine
   keys:
   #第一行
   - {click: ",", label: "，", long_click: ";", width: 17}
-  - {click: delimiter, key_back_color: bkg, key_text_color: tkg}
-  - {click: 2, label: ABC}
-  - {click: 3, label: DEF}
+  - {click: delimiter, long_click: 1, key_back_color: bkg, key_text_color: tkg}
+  - {click: a, long_click: 2, label: ABC}
+  - {click: d, long_click: 3, label: DEF}
   - {click: BackSpace, width: 20, key_back_color: bbs, key_text_color: tbs}
   #第二行
   - {click: ".", label: "。", long_click: ":", width: 17}
-  - {click: 4, label: GHI}
-  - {click: 5, label: JKL}
-  - {click: 6, label: MNO}
+  - {click: g, long_click: 4, label: GHI}
+  - {click: j, long_click: 5, label: JKL}
+  - {click: m, long_click: 6, label: MNO}
   - {click: Keyboard_bqsy4_new, composing: Escape, width: 20}
   #第三行
   - {click: "?", label: "?", long_click: "(){Left}", width: 17}
-  - {click: 7, label: PQRS}
-  - {click: 8, label: TUV}
-  - {click: 9, label: WXYZ}
+  - {click: p, long_click: 7, label: PQRS}
+  - {click: t, long_click: 8, label: TUV}
+  - {click: w, long_click: 9, label: WXYZ}
   - {click: "!", label: "!", long_click: "「」{Left}", width: 20}
   #第四行
   - {click: Keyboard_symbols_new, width: 17}
   - {click: Keyboard_number_new, composing: comma, long_click: Color_switch, width: 16.5}
   - {click: space, long_click: Keyboard_eng, key_text_size: "10", width: 30}
   - {click: Keyboard_eng, composing: period, long_click: Menu, key_back_color: bkg, key_text_color: tkg, width: 16.5}
-  - {click: Return, composing: Escape, long_click: Theme_settings, width: 20, key_back_color: benter, key_text_color: tenter}
+  - {click: Return, long_click: Theme_settings, width: 20, key_back_color: benter, key_text_color: tenter}
 
 luna_pinyin_fourteen: &luna_pinyin_fourteen
   ascii_mode: 0
@@ -162,7 +162,7 @@ patch:
       - {click: "@", long_click: "=", width: 20}
     #第四行
       - {click: Keyboard_symbols_new, width: 17}
-      - {click: Keyboard_default, key_back_color: benter, key_text_color: tenter}
+      - {click: Keyboard_last_lock, key_back_color: benter, key_text_color: tenter}
       - {click: 0}
       - {click: space1}
       - {click: Return, width: 20, key_back_color: benter, key_text_color: tenter}

@@ -18,13 +18,17 @@ schema:
     - stroke
 
 switches:
+  - name: simplification
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: emoji_cn
+    reset: 0
+    states: [ 〇, 😊 ]
   - name: ascii_mode
     reset: 0
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: simplification
-    states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
 
@@ -46,12 +50,12 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - table_translator@custom_phrase
     - reverse_lookup_translator
     - script_translator
   filters:
     - simplifier
     - uniquifier
+    - simplifier@emoji_cn
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -81,14 +85,6 @@ translator:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
-
-custom_phrase:
-  dictionary: ""
-  user_dict: custom_phrase
-  db_class: stabledb
-  enable_completion: false
-  enable_sentence: false
-  initial_quality: 1
 
 reverse_lookup:
   dictionary: stroke
@@ -120,3 +116,9 @@ recognizer:
   patterns:
     punct: '^/([0-9]0?|[A-Za-z]+)$'
     reverse_lookup: "`[a-z]*'?$"
+    
+emoji_cn:
+  opencc_config: emoji.json
+  option_name: emoji_cn
+  tips: all
+  

@@ -83,7 +83,7 @@ engine:
     - reverse_lookup_filter@reverse_lookup
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890
+  alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
     - derive/([123456])//         # 忽略声调

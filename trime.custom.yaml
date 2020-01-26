@@ -58,28 +58,28 @@ luna_pinyin_nine: &luna_pinyin_nine
   keys:
   #第一行
     - {click: ",", label: "，", long_click: ";", width: 17}
-    - {click: delimiter}
-    - {click: 2, label: ABC}
-    - {click: 3, label: DEF}
+    - {click: delimiter, long_click: 1}
+    - {click: a, long_click: 2, label: ABC}
+    - {click: d, long_click: 3, label: DEF}
     - {click: BackSpace, width: 20, key_back_color: hsb, hilited_key_back_color: hsh, key_text_color: hst, hilited_key_text_color: hsht}
   #第二行
     - {click: ".", label: "。", long_click: ":", width: 17}
-    - {click: 4, label: GHI}
-    - {click: 5, label: JKL}
-    - {click: 6, label: MNO}
+    - {click: g, long_click: 4, label: GHI}
+    - {click: j, long_click: 5, label: JKL}
+    - {click: m, long_click: 6, label: MNO}
     - {click: Keyboard_symbols, composing: Escape, long_click: Color_switch, width: 20}
   #第三行
-    - {click: "?", label: "?", long_click: "「」{Left}", width: 17}
-    - {click: 7, label: PQRS}
-    - {click: 8, label: TUV}
-    - {click: 9, label: WXYZ}
+    - {click: "?", label: "?", long_click: "(){Left}", width: 17}
+    - {click: p, long_click: 7, label: PQRS}
+    - {click: t, long_click: 8, label: TUV}
+    - {click: w, long_click: 9, label: WXYZ}
     - {click: emoji_new, long_click: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
   #第四行
-    - {height: *VJM, click: "!", label: "!", long_click: "(){Left}", width: 17}
+    - {height: *VJM, click: "!", label: "!", long_click: "「」{Left}", width: 17}
     - {click: Keyboard_eng2, composing: comma, width: 16.5}
     - {click: space, key_text_size: 9, key_symbol_offset_x: 0, width: 30}
     - {click: Keyboard_number_new, composing: period, width: 16.5}
-    - {click: Return, composing: Escape, long_click: K_menu, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 20}
+    - {click: Return, long_click: K_menu, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 20}
     
 luna_pinyin_fourteen: &luna_pinyin_fourteen
   ascii_mode: 0

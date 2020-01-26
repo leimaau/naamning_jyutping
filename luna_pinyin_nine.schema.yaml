@@ -1,4 +1,4 @@
-## Rime schema
+# Rime schema
 # encoding: utf-8
 
 schema:
@@ -7,7 +7,6 @@ schema:
   version: "0.24"
   author:
     - 佛振 <chen.sst@gmail.com>
-    - Leo <leo9562@outlook.com>（修改为九宫格键盘）
     - LeiMaau <leimaau@qq.com>（改写）
   description: |
     Rime 預設的拼音輸入方案。
@@ -21,16 +20,18 @@ schema:
 
 switches:
   - name: simplification
-    states: [ 繁體, 简体 ]
     reset: 1
-  - name: ascii_mode
-    states: [ 中文, 西文]
+    states: [ 漢字, 汉字 ]
   - name: emoji_cn
     reset: 0
     states: [ 〇, 😊 ]
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-    reset: 0
+  - name: ascii_punct
+    states: [ 。，, ．， ]
 
 engine:
   processors:
@@ -50,15 +51,15 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - script_translator
     - reverse_lookup_translator
+    - script_translator
   filters:
     - simplifier
     - uniquifier
     - simplifier@emoji_cn
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890
+  alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
     - erase/^xx$/
@@ -74,18 +75,14 @@ speller:
     - derive/ong$/on/
     - derive/ao$/oa/
     - derive/([iu])a(o|ng?)$/a$1$2/
-#    - derive/ng/0/
-#    - derive/sh/1/
-#    - derive/ch/1/
-#    - derive/zh/1/
-    - derive/([abc])/2/
-    - derive/([def])/3/
-    - derive/([ghi])/4/
-    - derive/([jkl])/5/
-    - derive/([mno])/6/
-    - derive/([pqrs])/7/
-    - derive/([tuv])/8/
-    - derive/([wxyz])/9/
+    - derive/([abc])/a/
+    - derive/([def])/d/
+    - derive/([ghi])/g/
+    - derive/([jkl])/j/
+    - derive/([mno])/m/
+    - derive/([pqrs])/p/
+    - derive/([tuv])/t/
+    - derive/([wxyz])/w/
 
 menu:
   alternative_select_keys: "123456789"

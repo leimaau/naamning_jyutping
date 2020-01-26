@@ -4,7 +4,7 @@
 schema:
   schema_id: naamning_bingwaa_nine
   name: "南寧(亭子)平話(9鍵)"
-  version: "2019.12.26"
+  version: "2020.01.08"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
@@ -84,7 +84,7 @@ engine:
     - reverse_lookup_filter@reverse_lookup
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba1234567890
+  alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
     - xform/\(.+?\)//             # 忽略釋義
@@ -116,20 +116,14 @@ speller:
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
     - abbrev/^(gw|kw|ng).+$/$1/   # 聲母簡拼
     - abbrev/^([s][l]).+$/$1/     # 聲母簡拼
-#    - derive/ng/0/
-#    - derive/oe/0/
-#    - derive/eo/0/
-#    - derive/gw/1/
-#    - derive/kw/1/
-#    - derive/aa/1/
-    - derive/([abc])/2/
-    - derive/([def])/3/
-    - derive/([ghi])/4/
-    - derive/([jkl])/5/
-    - derive/([mno])/6/
-    - derive/([pqrs])/7/
-    - derive/([tuv])/8/
-    - derive/([wxyz])/9/
+    - derive/([abc])/a/
+    - derive/([def])/d/
+    - derive/([ghi])/g/
+    - derive/([jkl])/j/
+    - derive/([mno])/m/
+    - derive/([pqrs])/p/
+    - derive/([tuv])/t/
+    - derive/([wxyz])/w/
 
 menu:
   alternative_select_keys: "123456789"
