@@ -1,4 +1,4 @@
-# 南寧話輸入方案
+# Rime Nanning Dialect Input Scheme | 南寧話輸入方案
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/naamning_jyutping.svg) ![GitHub](https://img.shields.io/github/license/leimaau/naamning_jyutping.svg)
 
@@ -25,9 +25,9 @@
 
 若嫌手工配置麻煩，[**此處**](https://github.com/leimaau/naamning_jyutping/releases)已通過 apktool 重新打包，下載安裝即可。
 
-![QzIiXd.jpg](https://s2.ax1x.com/2019/12/22/QzIiXd.jpg)
+![](https://s2.ax1x.com/2020/02/15/1xrn4H.jpg)
 
-![QzIP6H.jpg](https://s2.ax1x.com/2019/12/22/QzIP6H.jpg)
+![](https://s2.ax1x.com/2020/02/15/1xrmUe.jpg)
 
 ## 拼音方案查詢
 
