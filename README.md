@@ -1,3 +1,5 @@
+<div lang="yue-HK">
+
 # Rime Nanning Dialect Input Scheme | 南寧話輸入方案
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/naamning_jyutping.svg) ![GitHub](https://img.shields.io/github/license/leimaau/naamning_jyutping.svg)
@@ -29,10 +31,12 @@
 
 ![](https://s2.ax1x.com/2020/02/15/1xrmUe.jpg)
 
-## 拼音方案查詢
+## 拼音方案及查詢工具
 
-[南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
+[Leimaau‘s Webdict 2.0](https://leimaau.gitee.io/leimaau-webdict2/) | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
 
 ## 安裝及使用方法
 
 [漢語方言拼音輸入](https://www.hanhngiox.net/) | [本碼表使用技巧](https://leimaau.github.io/book/appendix1/appendix4.2.html)
+
+</div>
