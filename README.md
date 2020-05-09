@@ -1,4 +1,4 @@
-<div lang="yue-HK">
+<div lang="zh-HK">
 
 # Rime Nanning Dialect Input Scheme | 南寧話輸入方案
 
@@ -27,13 +27,13 @@
 
 若嫌手工配置麻煩，[**此處**](https://github.com/leimaau/naamning_jyutping/releases)已通過 apktool 重新打包，下載安裝即可。
 
-![](https://s2.ax1x.com/2020/02/15/1xrn4H.jpg)
+![](./demo/RIME-NN.jpg)
 
-![](https://s2.ax1x.com/2020/02/15/1xrmUe.jpg)
+![](./demo/RIME-NNT.jpg)
 
 ## 拼音方案及查詢工具
 
-[Leimaau‘s Webdict 2.0](https://leimaau.gitee.io/leimaau-webdict2/) | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
+[Leimaau‘s Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
 
 ## 安裝及使用方法
 
