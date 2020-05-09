@@ -4,10 +4,6 @@
 
 若嫌手工配置麻煩，[**此處**](https://github.com/leimaau/naamning_jyutping/releases)已通過 apktool 重新打包，下載安裝即可。
 
-![](https://s2.ax1x.com/2020/02/15/1xrn4H.jpg)
-
-![](https://s2.ax1x.com/2020/02/15/1xrmUe.jpg)
-
 ## 命令簡介
 
 ```
