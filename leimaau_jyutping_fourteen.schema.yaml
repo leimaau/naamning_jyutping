@@ -101,15 +101,6 @@ key_binder:
 recognizer:
   __include: leimaau_jyutping.schema:/recognizer
 
-zh_simp:
-  __include: leimaau_jyutping.schema:/zh_simp
-
-zh_simp2:
-  __include: leimaau_jyutping.schema:/zh_simp2
-
-zh_trad:
-  __include: leimaau_jyutping.schema:/zh_trad
-
 zh_hk:
   __include: leimaau_jyutping.schema:/zh_hk
 
