@@ -6,8 +6,8 @@
 
 > * 採用『香港語言學會粵語拼音方案』
 > * 聲調輸入 q平 v上 x去 （雙擊爲陽調）
-> * 提供多種字形轉換和提示音轉爲IPA，可根據需要自行開啓
-> * 提供四種反查方案，[`]用漢語拼音反查，[x]用五筆畫反查，[v]用倉頡五代反查，[r]用五筆86反查
+> * IPA版提供多種字形轉換和提示音爲IPA
+> * 提供六種反查方案，[`]普拼反查粵拼，[x]五筆畫反查粵拼，[v]倉頡五代反查粵拼，[r]五筆86反查粵拼，[xx]用普拼反查中古音，[xj]用粵拼反查中古音
 > * PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
 > * 註釋reverse_lookup/tags可顯示釋義，可根據需要自行開啓
 
@@ -33,7 +33,7 @@
 
 ## 拼音方案及查詢工具
 
-[Leimaau‘s Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
+[Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
 
 ## 安裝及使用方法
 
