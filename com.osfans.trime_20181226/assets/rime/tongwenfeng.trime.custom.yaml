@@ -65,7 +65,7 @@ luna_pinyin_fourteen: &luna_pinyin_fourteen
   - {click: ',', label: '，', long_click: '<>{Left}', key_back_color: bh4, key_text_color: th4, width: 10}
   - {click: space, long_click: Keyboard_eng, key_text_size: "10", width: 30, key_back_color: bkg, key_text_color: tkg}
   - {click: '.', label: '。', long_click: Keyboard_kao, key_back_color: bh4, key_text_color: th4, width: 10}
-  - {click: Keyboard_eng, long_click: '?', key_text_size: "10", key_back_color: bgn, key_text_color: tgn, width: 10}
+  - {click: Keyboard_eng, long_click: Color_switch, key_text_size: "10", key_back_color: bgn, key_text_color: tgn, width: 10}
   - {click: Return, composing: Escape, width: 15, key_back_color: benter, key_text_color: tenter}
 
 patch:
@@ -128,12 +128,14 @@ patch:
   "preset_keyboards/default/keys/@33/key_text_size": 10
   "preset_keyboards/default/keys/@35/click": Mode_switch
   "preset_keyboards/default/keys/@35/key_text_size": 10
+  "preset_keyboards/default/keys/@35/long_click": Color_switch
   "preset_keyboards/letter/keys/@33/key_text_size": 10
   "preset_keyboards/letter/keys/@33/long_click": Keyboard_cn
   "preset_keyboards/letter/keys/@35/click": Keyboard_cn
   "preset_keyboards/letter/keys/@35/key_text_size": 10
   "preset_keyboards/letter/keys/@35/key_back_color": benter
   "preset_keyboards/letter/keys/@35/key_text_color": tenter
+  "preset_keyboards/letter/keys/@35/long_click": Color_switch
   
   "preset_keyboards/number_new":
     ascii_mode: 1

@@ -152,14 +152,12 @@ java -jar -Duser.language=en "%~dp0\apktool.jar" %1 %2 %3 %4 %5 %6 %7 %8 %9
 	
 	apktool d -f -m -s -r com.osfans.trime_20181226.apk
 	
-	apktool d -f -m -s -r bluedict.apk
 
 (2)回编译（打包）
    apktool b 1 -o 1_Mod.apk
    
    apktool b com.osfans.trime_20181226 -o app-release-mod.apk
    
-   apktool b bluedict -o bluedict-mod.apk
 
 (3)生成keystore 密钥
   keytool -genkeypair -alias androiddebugkey -keyalg RSA -validity 36500 -keystore debug.keystore
@@ -172,9 +170,6 @@ java -jar -Duser.language=en "%~dp0\apktool.jar" %1 %2 %3 %4 %5 %6 %7 %8 %9
    
    jarsigner -verbose -keystore debug.keystore -signedjar app-release-signed.apk app-release-mod.apk androiddebugkey
    
-   jarsigner -verbose -keystore debug.keystore -signedjar bluedict-signed.apk bluedict-mod.apk androiddebugkey
-   
-   jarsigner -verbose -keystore debug.keystore -storepass android -signedjar PLOD-release-v2.3-signed.apk PLOD-mod.apk androiddebugkey
 
 命令行的解释
 jarsigner -verbose -keystore [您的私钥存放路径] -signedjar [签名后文件存放路径] [未签名的文件路径] [您的证书的别名]
@@ -187,9 +182,6 @@ jarsigner -verbose -keystore [您的私钥存放路径] -signedjar [签名后文件存放路径] 
 
    zipalign -f -v 4 app-release-signed.apk app-release-20191221.apk
    
-   zipalign -f -v 4 bluedict-signed.apk bluedict-20191223.apk
-   
-   zipalign -f -v 4 PLOD-release-v2.2-signed.apk PLOD-20191223.apk
    
 使用命令行对其的方法：
 1、在Android SDK的tools文件夹下，找到zipalign.exe文件。
