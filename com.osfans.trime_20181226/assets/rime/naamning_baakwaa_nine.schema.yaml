@@ -112,15 +112,6 @@ key_binder:
 recognizer:
   __include: naamning_baakwaa.schema:/recognizer
 
-zh_simp:
-  __include: naamning_baakwaa.schema:/zh_simp
-
-zh_simp2:
-  __include: naamning_baakwaa.schema:/zh_simp2
-
-zh_trad:
-  __include: naamning_baakwaa.schema:/zh_trad
-
 zh_hk:
   __include: naamning_baakwaa.schema:/zh_hk
 

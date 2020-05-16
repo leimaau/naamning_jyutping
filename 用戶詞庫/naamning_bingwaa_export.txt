@@ -1,0 +1,245 @@
+# Rime user dictionary export
+#@/db_name	naamning_bingwaa.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	301
+#@/user_id	5c424b51-8e00-4084-98a9-fea6da82f980
+穎	(又)jan5	1
+竭	(又)kit2	1
+掰	(又)mak2「同擘字」	1
+夜	(文)je6「夜來香」	1
+扁	(白)ben2「扁豆；打，又作揙字」	1
+沕	(語)mi3「潷」	1
+嗉	(語)slyu3「雞嗉」	1
+鴉	aa1	1
+亞	aa3	1
+一	at2	1
+爸	baa1	1
+旁	baang4	1
+悲	bai1	1
+不	bat2	1
+並	bing6	1
+鱉	bit2	1
+博	bok2	1
+補充	bu2 coeng1	1
+布	bu3	1
+參	caam1	1
+慘	caam2	1
+插	caap2	1
+刷	caat2	1
+出	cat2	1
+次表	ci3 biu2	1
+飼	ci6	1
+撐	ciang1	1
+倡	ciang3	1
+遷西	cin1 slai1	1
+妾	cip2	1
+搓	co1	1
+汆	con1	2
+篡	con3	2
+杵	cyu2	1
+打錯	daa2 co3	0
+彈	daan4	1
+得	dak2	2
+地方誌	di6 fong1 zi3	1
+的	dik2	2
+典	dim2	1
+對你	dui3 ni5	1
+掇	dut2	1
+罰	faat6	1
+忽	fat2	1
+科	fo1	1
+簡直	gaan2 zik6	1
+搞	gaau2	1
+搞錯	gaau2 co3	1
+雞王	gai1 hong4	1
+金	gam1	1
+琴	gam4	1
+庚	gang1	2
+更新	gang1 slan1	4
+訖	gat2	1
+割	get2	1
+耿	giang2	1
+見	gin3	1
+腱	gin6	1
+鍋	go1	2
+過	go3	1
+光	gong1	1
+箍	gu1	1
+股	gu2	1
+鬼	gwai2	3
+貴	gwai3	2
+桂南	gwai3 naam4	3
+滾	gwan2	1
+棍	gwan3	1
+迥	gwing5	1
+車禍	gyu1 wo6	0
+車禍意義	gyu1 wo6 ji3 nji6	1
+看	haan1	1
+鼾	haan1	1
+刊	haan2	1
+閑	haan4	1
+渴	haat2	1
+系	hai6	1
+欽州	ham1 zau1	1
+乞	hat2	1
+後	hau6	0
+享受	hiang2 sau6	1
+贏	hing4	1
+和	ho4	3
+河	ho4	1
+火影	hu2 ing2	1
+血	hyut2	1
+應該	ing1 gaai1	1
+影	ing2	2
+下	jaa5	1
+揖	jap2	1
+入	jap5	2
+有	jau5	1
+又	jau6	6
+意義	ji3 nji6	0
+移	ji4	1
+若	jiak2	1
+藥	jiak5	1
+螢	jing4	1
+榮	joeng4	1
+用	joeng6	1
+芮	jui6	1
+魚	jyu4	2
+焉	jyun1「何也」	1
+菸民	jyun3 man4	1
+元	jyun4	1
+言	jyun4	1
+圓圈	jyun4 hyun1	1
+粵拼	jyut5 ping3	1
+康	kaang1	1
+奚	kai1	1
+契	kai3	2
+磕	kap2	1
+企	ki2	1
+窠	ko1	1
+課	ko3	1
+盔	kui1	2
+魁	kui1	2
+傀	kui2	1
+傀	kui2「傀儡」	1
+劊	kwai3	1
+潰	kwai3	1
+勿	kwat2	1
+缺	kyut2	1
+拉	laai1	1
+來	laai4	1
+藍	laam4	1
+瘌	laat5	1
+泣	lap3	2
+略	liak5	1
+了	liu5	2
+六級	loek5 kap2	0
+六級後	loek5 kap2 hau6	1
+攏	loeng2	1
+類似	lui6 (又)ci5	1
+捋	lut5	1
+屢	lyu5	1
+劣	lyut5	1
+馬	maa5	1
+米	mai5	1
+紋	man4	1
+物	mat5	1
+未	mi6	1
+莫	miak5	2
+麥	miak5	2
+孟	miang5	1
+滅	mit5	2
+模	mo4	1
+忘	mong6	1
+無福	mu4 foek2	1
+母	mu5	1
+滿江紅	mun5 gaang1 hoeng4	2
+哪	naa5	1
+尼	nai4	1
+泣	nap3	1
+粒	nap3	2
+伍	ng5	1
+午	ng5	1
+互	ng6	1
+悟	ng6	1
+艾	ngaai6	1
+熬	ngaau4	1
+毅	ngai6	1
+藝	ngai6	1
+銀	ngan4	1
+杌	ngat6	1
+勾	ngau1	1
+弱	ngiak2	1
+弱	ngiak5	6
+額	ngiak5	5
+我	ngo5	2
+我打錯	ngo5 daa2 co3	1
+我真的	ngo5 zan1 dik2	1
+疑	ni4	2
+你	ni5	2
+粘	nim1	1
+牙	njaa4	1
+瘧	njak5	1
+虐	njak5	3
+人	njan4	1
+刃	njan6	2
+日	njat5	1
+牛	njau4	1
+釀	njiang6	4
+月	njyut5	1
+屋	oek2	1
+握	oek2	1
+沃	oek2	1
+往	ong5	2
+盼	paan3	1
+鋪	pu1	1
+涮	saan3	1
+牀	saang4	1
+受賄	sau6 hui2	1
+詩	si1	1
+是	si6	3
+省掉	siang2「省份」 diu6	1
+聲調	sing1 diu4	2
+攝	sip2	1
+舌本	sit6 bun2	1
+洗牙	slai2 ngaa4	1
+修訂	slau1 ding3	2
+修改	slau1 gaai2	2
+修正	slau1 zing3「正式」	1
+寫	sle2	1
+寫了	sle2 liu5	2
+死	sli2	1
+簫	sliu1	1
+笑料	sliu3 liu6	1
+所	slo2	1
+送杵	sloeng3 cyu2	1
+蘇	slu1	2
+喧	slyun1	1
+說明	syut2 ming4	2
+太	taai3	1
+忒	tak2	1
+話	waa6	1
+話說	waa6 syut2	1
+還是	waan4 si6	2
+爲	wai4	1
+爲何	wai4「作爲」 ho4	1
+橫	wang4	3
+巫	wu1	1
+真的	zan1 dik2	0
+知乎	zi1 hu4	2
+字	zi6	1
+謝	zi6	1
+字母	zi6 mu5	1
+治污	zi6 wu1	2
+餞	zin6	1
+節	zit2	2
+截	zit6	1
+左	zo2	1
+捉	zok2	1
+存	zon4	1
+最近	zui3 gan5	1
+撮	zut2	1
+拙	zyut2	2
+浙	zyut2	1
+絕	zyut6	1
