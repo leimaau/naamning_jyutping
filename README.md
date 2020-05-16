@@ -37,6 +37,6 @@
 
 ## 安裝及使用方法
 
-[漢語方言拼音輸入](https://www.hanhngiox.net/) | [本碼表使用技巧](https://leimaau.github.io/book/appendix1/appendix4.2.html)
+[漢語方言拼音輸入](https://hanhngiox.net/) | [本碼表使用技巧](https://leimaau.github.io/book/appendix1/appendix4.2.html)
 
 </div>
