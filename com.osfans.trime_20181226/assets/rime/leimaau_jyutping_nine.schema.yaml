@@ -25,6 +25,27 @@ switches:
 
 engine:
   __include: leimaau_jyutping.schema:/engine
+  __patch:
+      segmentors:
+        - ascii_segmentor
+        - matcher
+        - affix_segmentor@luna_pinyin
+        - affix_segmentor@stroke
+        - affix_segmentor@cangjie5
+        - affix_segmentor@wubi86
+        - abc_segmentor
+        - punct_segmentor
+        - fallback_segmentor
+      translators:
+        - punct_translator
+        - script_translator
+        - script_translator@luna_pinyin
+        - table_translator@stroke
+        - table_translator@cangjie5
+        - table_translator@wubi86
+      filters:
+        - simplifier
+        - uniquifier
 
 speller:
   __include: leimaau_jyutping.schema:/speller
