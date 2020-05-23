@@ -27,7 +27,7 @@
 
 ---
 name: naamning_baakwaa
-version: "2020.05.23"
+version: "2020.05.24"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -11300,7 +11300,6 @@ A站	ei zaam6	100
 
 等下	dang2 haa5
 一下	jat1 haa5
-壹下	jat1 haa5
 二下	ji6 haa5
 三下	slaam1 haa5
 四下	sli3 haa5
@@ -11311,6 +11310,9 @@ A站	ei zaam6	100
 八下	baat3 haa5
 九下	gau2 haa5
 十下	sap6 haa5
+百下	baak3 haa5
+千下	cin1 haa5
+萬下	maan6 haa5
 上山	soeng5 saan1
 上街	soeng5 gaai1
 上書	soeng5 syu1
@@ -11591,6 +11593,324 @@ A站	ei zaam6	100
 倥侗	hung1 tung4
 倥傯	hung2 zung2
 侗族	dung6 zuk6
+倒塌	du2 taap3
+倒水	du2 sui2
+倒茶	du2 caa4
+倒垃圾	du2 laap6 slaap3
+打倒	daa2 du2
+倒戈	du2 gwo1
+倒閉	du2 bai3
+倒臺	du2 toi4
+倒胃口	du2 wai6 hau2
+跌倒	dit3 du2
+顛倒	din1 du2
+倒手	du2 sau2
+倒班	du2 baan1
+倒替	du2 tai3
+倒出	du2 cyut1
+倒坍	du2 taan1
+倒嗓子	du2 slong1 zy2
+倒嗓子	du2 slong1 zi2
+倒楣	du2 mi4
+倒霉	du2 mui4
+倒掛	du3 gwaa3
+倒掟	du3 deng3
+倒敘	du3 zyu6
+倒敍	du3 zyu6
+倒退	du3 tui3
+倒貼	du3 tip3
+倒置	du3 zi3
+倒懸	du3 jyun4
+倒吊	du3 diu3
+倒褪	du3 tan3
+倒影	du3 jing2
+倒映	du3 jing2
+倒數	du3 su2
+倒車	du3 ce1
+反倒	faan2 du3
+倒行逆施	du3 hang4 nik6 si1
+倒果為因	du3 gwo2 wai4 jan1
+倒持泰阿	du3 ci4 taai3 o1
+倒打一耙	du3 daa2 jat1 paa4
+牛扒	ngau4 paa2
+一打	jat1 daa1
+爲虎作倀	wai6 fu2 zok3 coeng1
+為虎作倀	wai6 fu2 zok3 coeng1
+倀倀	coeng1 coeng1
+倀鬼	coeng1 gwai2
+倡優	coeng1 jau1
+提倡	tai4 coeng1
+倡議	coeng1 ji5
+倡導	coeng1 du6
+首倡	sau2 coeng1
+假充	gaa2 cung1
+假扮	gaa2 baan6
+假冒	gaa2 mu6
+假冒	gaa2 maau6
+假托	gaa2 tok3
+假託	gaa2 tok3
+假借	gaa2 ze3
+假設	gaa2 cit3
+假象	gaa2 zoeng6
+假想敵	gaa2 sloeng2 dik6
+假面具	gaa2 min6 gyu6
+假惺惺	gaa2 sling1 sling1
+假道學	gaa2 du6 hok6
+假手於人	gaa2 sau2 jyu1 jan4
+假公濟私	gaa2 gung1 zai3 sy1
+假公濟私	gaa2 gung1 zai3 si1
+真假	zan1 gaa2
+假如	gaa2 jyu4
+假使	gaa2 si2
+假使	gaa2 sai2
+假貨	gaa2 fo3
+假想	gaa2 sloeng2
+假定	gaa2 ding6
+假說	gaa2 syut3
+狐假虎威	wu4 gaa2 fu2 wai1
+假名	gaa2 ming4
+假若	gaa2 joek6
+假山	gaa2 saan1
+假釋	gaa2 slik1
+冒頓	mak6 duk6
+假期	kaa3 ki4
+放假	fong3 kaa3
+渡假	du6 kaa3
+寒假	hon4 kaa3
+暑假	syu2 kaa3
+休假	jau1 kaa3
+請假	ceng2 kaa3
+度假	du6 kaa3
+假日	kaa3 jat6
+依傍	ji1 bong6
+依山傍水	ji1 saan1 bong6 sui2
+傍人籬壁	bong6 jan4 li4 bik1
+傍人門戶	bong6 jan4 mun4 wu6
+傍大款	bong6 daai6 fun2
+傍晚	pong4 maan5
+傍晌	pong4 hoeng2
+傍午	pong4 ng5
+傀儡	kwai2 lui5
+傀儡皇帝	kwai2 lui5 wong4 dai3
+傀儡政權	kwai2 lui5 zing3 kyun4
+傀奇	gwai1 ki4
+傀偉	gwai1 wai5
+傀然	gwai1 jin4
+傀異	gwai1 ji6
+傀然獨立	gwai1 jin4 duk6 lap6
+傳記	zyun6 gi3
+小傳	sliu2 zyun6
+水滸傳	sui2 fu2 zyun6
+傳詰	zyun6 kit3
+傳略	zyun6 loek6
+自傳	zy6 zyun6
+自傳	zi6 zyun6
+經傳	ging1 zyun6
+詩經毛傳	si1 ging1 mu4 zyun6
+外傳	ngoi6 zyun6
+名不見經傳	ming4 bat1 gin3 ging1 zyun6
+射雕英雄傳	se6 diu1 jing1 hung4 zyun6
+傳奇	zyun6 ki4
+雕刻	diu1 hak1
+雕刻	tiu1 hak1
+傳奇	cyun4 ki4
+傳達	cyun4 daat6
+流傳	lau4 cyun4
+傳人	cyun4 jan4
+傳世	cyun4 sai3
+傳言	cyun4 jin4
+傳染	cyun4 jim5
+傳神	cyun4 san4
+傳教	cyun4 gaau3
+傳授	cyun4 sau6
+傳媒	cyun4 mui4
+傳統	cyun4 tung2
+傳說	cyun4 syut3
+傳誦	cyun4 zung6
+傳頌	cyun4 zung6
+傳播	cyun4 bo3
+傳宗接代	cyun4 zung1 zip3 doi6
+宣傳	slyun1 cyun4
+言傳身教	jin4 cyun4 san1 gaau3
+名不虛傳	ming4 bat1 hyu1 cyun4
+傳情	cyun4 cing4
+傳下來	cyun4 haa6 loi4
+相傳	sloeng1 cyun4
+傳呼	cyun4 fu1
+傳訊	cyun4 slyun3
+傳訊	cyun4 slan3
+傳承	cyun4 sing4
+傳熱	cyun4 jit6
+傳電	cyun4 din6
+傳導	cyun4 du6
+傳聞	cyun4 man4
+傳票	cyun4 piu3
+傳送	cyun4 slung3
+傳真	cyun4 zan1
+傳遞	cyun4 dai6
+傳銷	cyun4 sliu1
+傳令	cyun4 ling6
+傳信	cyun4 slyun3
+傳信	cyun4 slan3
+傳來	cyun4 loi4
+傳唱	cyun4 coeng3
+傳回	cyun4 wui4
+傳家	cyun4 gaa1
+傳聲	cyun4 seng1
+傳話	cyun4 waa6
+傳動	cyun4 dung6
+傳出	cyun4 cyut1
+不教胡馬度陰山	bat1 gaau1 wu4 maa5 du6 jam1 saan1
+敢教日月換新天	gaam2 gaau1 jat6 jyut6 wun6 slan1 tin1
+教書	gaau3 syu1
+教書	geu3 syu1
+僮僕	tung4 puk6
+書僮	syu1 tung4
+家僮	gaa1 tung4
+三尺僮	slaam1 cek3 tung4
+僮族	zong6 zuk6
+斤兩	gan1 loeng2
+一兩	jat1 loeng2
+二兩	ji6 loeng2
+三兩	slaam1 loeng2
+四兩	sli3 loeng2
+五兩	ng5 loeng2
+六兩	luk6 loeng2
+七兩	cat1 loeng2
+八兩	baat3 loeng2
+八兩	bet3 loeng2
+九兩	gau2 loeng2
+十兩	sap6 loeng2
+百兩	baak3 loeng2
+千兩	cin1 loeng2
+萬兩	maan6 loeng2
+半兩	bun3 loeng2
+公兩	gung1 loeng2
+市兩	si5 loeng2
+英兩	jing1 loeng2
+銀兩	ngan4 loeng2
+冠軍	gun3 gwan1
+冠禮	gun3 lai5
+弱冠	joek6 gun3
+未冠	mi6 gun3
+勇冠三軍	jung5 gun3 slaam1 gwan1
+冠山戴粒	gun3 saan1 daai3 nap1
+奪冠	dyut6 gun3
+冠以	gun3 ji5
+冠上	gun3 soeng6
+冠絕	gun3 zyut6
+冠名	gun3 meng4
+冠詞	gun3 cy4
+冠詞	gun3 ci4
+衣冠	ji1 gun1
+冠冕	gun1 min5
+冠蓋	gun1 goi3
+冠心病	gun1 slam1 beng6
+王冠	wong4 gun1
+花冠	faa1 gun1
+雞冠	gai1 gun1
+樹冠	syu6 gun1
+冠脈	gun1 mak6
+冠縣	gun1 jyun6
+冠狀	gun1 zong6
+冠狀病毒	gun1 zong6 beng6 duk6
+一切	jat1 cai3
+本分	bun2 fan6
+分外	fan6 ngoi6
+分量	fan6 loeng6
+名分	ming4 fan6
+成分	sing4 fan6
+身分	san1 fan6
+過分	gwo3 fan6
+部分	bu6 fan6
+水分	sui2 fan6
+二分之	ji6 fan6 zi1
+三分之	slaam1 fan6 zi1
+四分之	sli3 fan6 zi1
+五分之	ng5 fan6 zi1
+六分之	luk6 fan6 zi1
+七分之	cat1 fan6 zi1
+八分之	baat3 fan6 zi1
+八分之	bet3 fan6 zi1
+九分之	gau2 fan6 zi1
+十分之	sap6 fan6 zi1
+百分之	baak3 fan6 zi1
+千分之	cin1 fan6 zi1
+萬分之	maan6 fan6 zi1
+糖分	tong4 fan6
+安分	on1 fan6
+情分	cing4 fan6
+分內	fan6 nui6
+分開	fan1 hoi1
+區分	kyu1 fan1
+分隔	fan1 gaak3
+分寸	fan1 cyun3
+分心	fan1 slam1
+分功	fan1 gung1
+分工	fan1 gung1
+分手	fan1 sau2
+分化	fan1 faa3
+分別	fan1 bit6
+分身	fan1 san1
+分析	fan1 slik1
+分歧	fan1 ki4
+分明	fan1 ming4
+分居	fan1 gyu1
+分封	fan1 fung1
+分紅	fan1 hung4
+分配	fan1 pui3
+分娩	fan1 min5
+分野	fan1 je5
+分裂	fan1 lit6
+分解	fan1 gaai2
+分號	fan1 hu6
+分贓	fan1 zong1
+分庭抗體	fan1 ting4 kong3 tai2
+分崩離析	fan1 bang1 li4 slik1
+分道揚鑣	fan1 du6 joeng4 biu1
+積分	zik1 fan1
+分離	fan1 li4
+分成	fan1 sing4
+分門別類	fan1 mun4 bit6 lui6
+分割	fan1 got3
+分校	fan1 haau6
+分店	fan1 dim3
+不分	bat1 fan1
+分發	fan1 faat3
+通分	tung1 fan1
+約分	joek3 fan1
+分數	fan1 su3
+瓜分	gwaa1 fan1
+分給	fan1 kap1
+分佈	fan1 bu3
+分擔	fan1 daam1
+分曉	fan1 hiu2
+分泌	fan1 bi3
+分散	fan1 slaan3
+分水嶺	fan1 sui2 leng5
+分享	fan1 hoeng2
+成日	seng4 jat6
+成街	seng4 gaai1
+成地	seng4 di6
+成頭	seng4 tau4
+成百	seng4 baak3
+冇成	mu5 seng4
+成唔成	seng4 m4 seng4
+成個	seng4 go3
+成身	seng4 san1
+成世	seng4 sai3
+成嚿	seng4 gau6
+成朝早	seng4 ziu1 zu2
+成村	seng4 cyun1
+成棚	seng4 paang4
+成條街	seng4 tiu4 gaai1
+成晚	seng4 maan5
+成碌木	seng4 luk1 muk6
+成隻	seng4 zek3
+成班	seng4 baan1
+離氣	le4 he3
+剌謬	laat6 mau6
+乖剌	gwaai1 laat6
 
 
 
