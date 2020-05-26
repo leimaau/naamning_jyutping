@@ -23,7 +23,7 @@
 
 ---
 name: naamning_bingwaa
-version: "2020.05.24"
+version: "2020.05.27"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -434,7 +434,7 @@ import_tables:
 菠	bo1	
 㝿	(又)bo2	5%
 跛	(書)bo2	10%
-播	bo3	
+播	(又)bo3	10%
 薄	bo6「薄荷」	
 㩧	boek3「敲」	
 埲	(語)boek6「串」	10%
@@ -460,7 +460,7 @@ import_tables:
 佈	bu3	
 布	bu3	
 怖	bu3	
-播	(又)bu3	10%
+播	bu3	
 匍	bu4	
 婆	bu4	
 浮	(白)bu4	50%
@@ -830,7 +830,7 @@ import_tables:
 初	cu1	
 粗	cu1	
 取	(白)cu2「助詞，動詞後表動作方式，着」	50%
-娶	(白)cu2	50%
+娶	(白)cu2「娶老婆，娶心抱」	50%
 楚	cu2	
 礎	cu2	
 醋	cu3	
@@ -1207,7 +1207,6 @@ import_tables:
 哆	do1「哆嗦」	
 多	do1	
 躲	do2	
-剁	(又)do3	10%
 佗	do4	
 沱	do4	
 跎	do4	
@@ -1274,6 +1273,7 @@ import_tables:
 綞	du2	
 賭	du2	
 跺	du2	
+剁	(又)du3	10%
 蠹	du3	
 圖	du4	
 屠	du4	
@@ -2186,6 +2186,7 @@ import_tables:
 炬	gyu6	
 苣	gyu6	
 遽	gyu6	
+鉅	gyu6	
 颶	gyu6	
 堅	gyun1	
 娟	gyun1	
@@ -2523,7 +2524,7 @@ import_tables:
 呵	ho1	
 苛	ho1	
 何	ho4	
-和	ho4	
+和	ho4「和麪，和氣，和棋」	
 嗬	ho4「嘆詞；～哆de3，嗩吶」	
 河	ho4	
 荷	ho4「薄荷，荷花」	
@@ -2597,6 +2598,7 @@ import_tables:
 呼	hu1	
 枯	hu1	
 科	hu1	
+窠	hu1	
 蝌	hu1	
 骷	(書)hu1	10%
 伙	hu2	
@@ -2612,6 +2614,7 @@ import_tables:
 褲	hu3	
 貨	hu3	
 乎	hu4	
+和	(又)hu4「和氣，和牌，和尚」	10%
 壺	hu4	
 弧	hu4	
 湖	hu4	
@@ -3319,10 +3322,7 @@ import_tables:
 蹺	kiu2「蹊蹺」	
 竅	kiu3	
 柯	ko1	
-科	(又)ko1	10%
-窠	ko1	
 苛	(又)ko1	10%
-蝌	(又)ko1	10%
 軻	ko1	
 可	ko2	
 坷	ko2	
@@ -3454,7 +3454,7 @@ import_tables:
 𢷒	kyut2	
 剌	laa1「割開」	
 啦	laa1「啦啦隊」	
-喇	laa1「喇嘛；語氣詞」	5%
+喇	laa1「喇嘛」	5%
 嘞	laa1「語氣詞」	
 喇	laa2「喇叭」	
 籮	(白)laa4「籮斗」	50%
@@ -3805,9 +3805,9 @@ import_tables:
 玀	lo4	
 籮	lo4	
 羅	lo4	
-腡	lo4	
+腡	(又)lo4	10%
 蘿	lo4	
-螺	lo4	
+螺	(又)lo4	10%
 邏	lo4	
 鑼	lo4	
 騾	lo4	
@@ -3851,7 +3851,9 @@ import_tables:
 廬	lu4	
 爐	lu4	
 臚	lu4	
+腡	lu4	
 蘆	lu4	
+螺	lu4	
 顱	lu4	
 驢	(又)lu4	10%
 鱸	lu4	
@@ -4851,7 +4853,7 @@ import_tables:
 坡	po1	
 叵	po2	
 頗	po2	
-破	po3	
+破	(又)po3	10%
 仆	(又)poek2	10%
 僕	(又)poek2	10%
 蹼	(又)poek2	10%
@@ -4886,7 +4888,7 @@ import_tables:
 脯	pu2「果脯」	
 譜	pu2	
 輔	pu2	
-破	(又)pu3	10%
+破	pu3	
 簸	pu3	
 舖	pu3「店舖」	
 鋪	pu3「店鋪」	
@@ -5263,9 +5265,9 @@ import_tables:
 秫	slat6	
 述	slat6	
 修	slau1	
-脩	slau1	
 蒐	slau1「蒐集」	
 羞	slau1	
+脩	slau1	
 颼	slau1	
 餿	slau1	
 叟	slau2	
@@ -6364,6 +6366,7 @@ import_tables:
 蟋	(訓)zik2「～蟀zat2，又作織蟀」	10%
 跡	zik2	
 蹟	zik2	
+陟	zik2	
 鯽	(書)zik2	10%
 值	zik6	
 夕	zik6	
@@ -6706,7 +6709,6 @@ import_tables:
 捷	zyut6	
 睫	zyut6	
 絕	zyut6	
-
 
 
 # 英文讀音
@@ -7258,7 +7260,7 @@ A站	ei zaam6	100
 傳說	zyun4 syut2
 傳誦	zyun4 zoeng6
 傳頌	zyun4 zoeng6
-傳播	zyun4 bo3
+傳播	zyun4 bu3
 傳宗接代	zyun4 zoeng1 zip2 daai6
 宣傳	slyun1 zyun4
 言傳身教	jyun4 zyun4 san1 gaau3
@@ -7400,6 +7402,217 @@ A站	ei zaam6	100
 分享	fan1 hiang2
 剌謬	laat5 mau6
 乖剌	gwaai1 laat5
+勝利	sing3 li6
+勝負	sing3 fu6
+勝敗	sing3 baai6
+戰勝	zin3 sing3
+名勝	ming4 sing3
+名勝古蹟	ming4 sing3 gu2 zik2
+勝券在握	sing3 hyun3 zaai6 oek2
+勝券在握	sing3 gyun3 zaai6 oek2
+邪不勝正	sle4 bat2 sing3 zing3
+反敗為勝	faan2 baai6 wai4 sing3
+優勝劣敗	jau1 sing3 lyut5 baai6
+取勝	cyu2 sing3
+以弱勝強	ji5 ngiak5 sing3 giang4
+勝於	sing3 jyu1
+勝地	sing3 di6
+勝境	sing3 ging2
+勝似	sing3 zi3
+方勝	fong1 sing3
+玉勝	njoek5 sing3
+勝算	sing3 slun3
+勝跡	sing3 zik2
+勝券	sing3 hyun3
+勝券	sing3 gyun3
+勝狀	sing3 zaang6
+勝景	sing3 ging2
+娶老婆	cu2 laau5 bu4
+娶老婆	cyu2 laau5 bu4
+娶心抱	cu2 slam1 baau5
+娶心抱	cyu2 slam1 baau5
+勝任	sing1 njam6
+不勝枚舉	bat2 sing1 mui4 gyu2
+高處不勝寒	gaau1 cyu3 bat2 sing1 haan4
+防不勝防	fong4 bat2 sing1 fong4
+數不勝數	su2 bat2 sing1 su2
+美不勝收	mai5 bat2 sing1 sau1
+力不能勝	lik5 bat2 nang4 sing1
+不勝其煩	bat2 sing1 gi4 faan4
+不可勝數	bat2 ko2 sing1 su2
+不勝感激	bat2 sing1 gaam2 gik2
+匙羹	zi4 giang1
+湯匙	taang1 zi4
+茶匙	zaa4 zi4
+羹匙	giang1 zi4
+飯匙	faan6 zi4
+灰匙	hui1 zi4
+鎖匙	slu2 si4
+鑰匙	jiak5 si4
+匙扣	si4 kau3
+車匙	ce1 si4
+配匙	pui3 si4
+門匙	mun4 si4
+撞匙	zong6 si4
+失匙夾萬	sat2 si4 gaap2 maan6
+夾萬	gaap2 maan6
+姓區	sling3 au1
+參商	sam1 siang1
+人參	njan4 sam1
+黨參	daang2 sam1
+海參	haai2 sam1
+高麗參	gaau1 lai6 sam1
+梅花參	mui4 waa1 sam1
+月沒參橫	njyut5 mut5 sam1 wiang4
+曾參	zang1 sam1
+曾參殺人	zang1 sam1 saat2 njan4
+參差	cam1 ci1
+參錯	cam1 caak2
+嘮叨	laau4 daau1
+嘮嘮叨叨	laau4 laau4 daau1 daau1
+叨嘮	daau1 laau4
+叨咕	daau1 gu1
+叨登	daau1 dang1
+叨蹬	daau1 dang1
+叨叨	daau1 daau1
+絮絮叨叨	slyu3 slyu3 daau1 daau1
+叨叨絮絮	daau1 daau1 slyu3 slyu3
+叨念	daau1 nim6
+叨光	taau1 gong1
+叨擾	taau1 jiu5
+叨教	taau1 gaau3
+叨竊	taau1 cit2
+叨竊非據	taau1 cit2 fi1 gyu3
+喇叭	laa2 baa2
+喇嘛	laa1 maa4
+哈喇	haa1 laat5
+吃飯	hik2 faan6
+口吃	hau2 gat2
+吃吃而笑	hat2 hat2 ji4 sliu3
+笑吃吃	sliu3 hat2 hat2
+叱吒	cik2 ciak2
+哪吒	naa4 zaa1
+木吒	moek5 zaa1
+引吭高歌	jan5 haang4 gaau1 go1
+吭聲	hang1 sing1
+不吭聲	bat2 hang1 sing1
+一聲不吭	at2 sing1 bat2 hang1
+唱歌堂	ciang3 gaa1 daang4
+否極泰來	pi2 gik6 taai3 laai4
+臧否	zaang1 pi2
+天地否	tin1 di6 pi2
+陟罰臧否	zik2 faat6 zaang1 pi2
+否泰	pi2 taai3
+酒吧	zau2 baa1
+吧檯	baa1 daai4
+吧女	baa1 nyu5
+網吧	mong5 baa1
+水吧	sui2 baa1
+清吧	cing1 baa1
+吧托	baa1 taak2
+吧廳	baa1 ting1
+基吧	gi1 baa1
+水吧	sui2 baa1
+迪吧	dik6 baa1
+泡吧	paau3 baa1
+落吧	laak5 baa1
+吧主	baa1 zyu2
+貼吧	tip2 baa1
+爆吧	baau6 baa1
+吧嗒	baa1 daap3
+吧喳	baa1 zaa1
+吧唧	baa1 zik2
+算吧啦	slun3 baa1 laa1
+了吧	liu5 baa6
+有吧	jau5 baa6
+好吧	haau2 baa6
+沒有吧	mut5 jau5 baa6
+和氣	hu4 hi3
+和氣	ho4 hi3
+和牌	hu4 baai4
+和牌	ho4 baai4
+和尚	hu4 sang6
+和尚	ho4 sang6
+呆子	daai1 zi2
+書呆子	syu1 daai1 zi2
+獃子	daai1 zi2
+書獃子	syu1 daai1 zi2
+呆板	ngaai4 baan2
+獃板	ngaai4 baan2
+咖啡	kaa1 fi1
+咖啡因	kaa1 fi1 an1
+咖啡色	kaa1 fi1 sik2
+咖喱	gaa3 li1
+呢絨	nai4 joeng4
+呢喃	nai4 naam4
+細呢呢	slai3 ni3 ni3
+呱呱叫	gwaa1 gwaa1 giu3
+頂呱呱	ding2 gwaa1 gwaa1
+呱呱大哭	gu1 gu1 daai6 hoek2
+呱呱墜地	gu1 gu1 zui6 di6
+笑咪咪	sliu3 mi3 mi3
+貓咪	meu3 mi3
+貓咪	maau3 mi3
+亂哄哄	lun6 hoeng1 hoeng1
+哄騙	hoeng2 pin3
+吞咽	tan1 jyun3
+咽氣	jyun3 hi3
+咽苦吐甜	jyun3 hu2 tu3 dim4
+狼吞虎咽	laang4 tan1 hu2 jyun3
+細嚼慢咽	slai3 ziak2 maan6 jyun3
+咽喉	jyun1 hau4
+鼻咽	bi6 jyun1
+鼻咽癌	bi6 jyun1 ngaam4
+哽咽	gang2 jit2
+咽泣	jit2 lap3
+嗚咽	wu1 jit2
+悲咽	bai1 jit2
+填咽	din4 jit2
+咯血	laak5 hyut2
+咯痰	laak5 daam4
+咯魚翅	laak5 njyu4 ci3
+咯咯笑	gaak2 gaak2 sliu3
+咯崩	gaak2 bang1
+咯噔	gaak2 dang1
+咯噠	gaak2 daat6
+咯吱	gaak2 zi1
+咯當	gaak2 daang1
+咯咯而笑	gaak2 gaak2 ji4 sliu3
+咯咯響	gaak2 gaak2 hiang2
+吡咯	bi2 laak5
+吡啶	bi2 ding6
+哼唱	hang1 ciang3
+哼歌	hang1 go1
+哼哈	hang1 haa1
+哼唧	hang1 zik2
+哼聲	hang1 sing1
+哼哧	hang1 ci1
+哼唷	hang1 jo1
+哼哈二將	hang1 haa1 nji6 ziang3
+哼哼唧唧	hang1 hang1 zik2 zik2
+哩啦	li1 laa1
+哩哩啦啦	li1 li1 laa1 laa1
+嗶哩嗶哩	bat2 li1 bat2 li1
+哩哩囉囉	li1 li1 lo1 lo1
+花哩碌	waa1 li1 lok3
+花碌碌	waa1 lok3 lok3
+花哩碌碌	waa1 li1 lok3 lok3
+花哩花碌	waa1 li1 waa1 lok3
+花哩胡碌	waa1 li1 hu4 lok3
+唉聲嘆氣	aai1 sing1 taan3 hi3
+唉聲歎氣	aai1 sing1 taan3 hi3
+哦松	ngo4 zoeng4
+吟哦	njam4 ngo4
+吟沉	ngam4 zam4
+啞啞	iak2 iak2
+啞然	iak2 jyun4
+啞然而笑	iak2 jyun4 ji4 sliu3
+啞然失笑	iak2 jyun4 sat2 sliu3
+鴉聲啞啞	aa1 sing1 iak2 iak2
+咿啞	ji1 aa1
+而且	oe4 ce2
+而今	ji4 gam1
+
 
 
 
@@ -7485,6 +7698,8 @@ A站	ei zaam6	100
 钂鈀	taang1 baa4
 龜茲	gau1 zi4
 龜裂	gwan1 lyut5
+玉米	njoek5 mai5
+玉米	njyu6 mai5
 
 
 # 本地詞彙表
@@ -7496,8 +7711,8 @@ A站	ei zaam6	100
 亞便
 嚕便
 唓咧
-咿㕭
-咿呦
+咿㕭	ji3 jaau3
+咿呦	ji3 jaau3
 黑頸
 #敆伙	gap3 fo2
 #敆份	gap3 fan6
@@ -7514,8 +7729,6 @@ A站	ei zaam6	100
 #好佮	hu2 gap3
 #佮口	gap3 hau2
 #御米	njyu6 mai5
-#玉米	juk6 mai5
-#玉米	njyu6 mai5	# 本字御米
 #儆惜	geng6 slek3
 #撈籬	laau1 li1
 #鬎鬁	laat3 li1
