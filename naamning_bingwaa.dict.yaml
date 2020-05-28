@@ -23,7 +23,7 @@
 
 ---
 name: naamning_bingwaa
-version: "2020.05.27"
+version: "2020.05.29"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -7165,13 +7165,12 @@ A站	ei zaam6	100
 倒車	daau3 ce1
 反倒	faan2 daau3
 倒行逆施	daau3 hiang4 nik5 si1
-倒果為因	daau3 go2 wai4 an1
+倒果爲因	daau3 go2 wai4 an1
 倒持泰阿	daau3 zi4 taai3 o1
 倒打一耙	daau3 daa2 at2 baa4
 牛扒	njau4 paa2
 一打	at2 daa1
 爲虎作倀	wai6 hu2 zaak2 ciang1
-為虎作倀	wai6 hu2 zaak2 ciang1
 倀倀	ciang1 ciang1
 倀鬼	ciang1 gwai2
 倡優	ciang1 jau1
@@ -7411,7 +7410,7 @@ A站	ei zaam6	100
 勝券在握	sing3 hyun3 zaai6 oek2
 勝券在握	sing3 gyun3 zaai6 oek2
 邪不勝正	sle4 bat2 sing3 zing3
-反敗為勝	faan2 baai6 wai4 sing3
+反敗爲勝	faan2 baai6 wai4 sing3
 優勝劣敗	jau1 sing3 lyut5 baai6
 取勝	cyu2 sing3
 以弱勝強	ji5 ngiak5 sing3 giang4
@@ -7610,8 +7609,473 @@ A站	ei zaam6	100
 啞然失笑	iak2 jyun4 sat2 sliu3
 鴉聲啞啞	aa1 sing1 iak2 iak2
 咿啞	ji1 aa1
-而且	oe4 ce2
+而且	ji4 ce2
 而今	ji4 gam1
+喀山	hiak2 saan1
+喀什	hiak2 sap6
+喀什市	hiak2 sap6 si5
+喀喇沁	hiak2 laa1 sam3
+喀土穆	hiak2 tu2 moek5
+喀布爾	hiak2 bu3 nji5
+喀斯特	hiak2 sli1 dak6
+喀斯特地貌	hiak2 sli1 dak6 di6 maau6
+喀秋莎	hiak2 cau1 saa1
+喀麥隆	hiak2 miak5 loeng4
+喀什噶爾	hiak2 sap6 gaa1 nji5
+喀什地區	hiak2 sap6 di6 kyu1
+喀喇沁旗	hiak2 laa1 sam3 gi4
+喀拉拉邦	hiak2 laai1 laai1 baang1
+喀拉汗國	hiak2 laai1 haan6 gok2
+喀納斯湖	hiak2 naap5 sli1 hu4
+喀喇崑崙山脈	hiak2 laa1 kwan1 lan4 saan1 miak5
+喀爾巴阡山脈	hiak2 nji5 baa1 cin1 saan1 miak5
+喀拉喀托火山	hiak2 laai1 hiak2 taak2 hu2 saan1
+喀喇沁左翼蒙古族自治縣	hiak2 laa1 sam3 zo2 jik5 moeng4 gu2 zoek6 zi6 zi6 jyun6
+喀嚓	kaa1 caat2
+喀噠	kaa1 daat6
+喀吧	kaa1 baa1
+喪失	slaang3 sat2
+沮喪	zyu2 slaang3
+喪生	slaang3 siang1
+喪志	slaang3 zi3
+喪命	slaang3 ming6
+喪氣	slaang3 hi3
+喪心病狂	slaang3 slam1 bing6 gwaang4
+喪家之犬	slaang3 gaa1 zi1 hyun2
+喪盡天良	slaang3 zan6 tin1 liang4
+喪權辱國	slaang3 gyun4 njoek5 gok2
+頹喪	dui4 slaang3
+喪權	slaang3 gyun4
+喪偶	slaang3 ngau5
+懊喪	aau3 slaang3
+喪魂落魄	slaang3 wan4 laak5 piak2
+喪膽	slaang3 daam2
+喪鐘	slaang3 zoeng1
+喪事	slaang1 sai6
+婚喪	wan1 slaang1
+喪服	slaang1 foek6
+喪葬	slaang1 zaang3
+喪儀	slaang1 nji4
+喪禮	slaang1 lai5
+治喪	zi6 slaang1
+哭喪	hoek2 slaang1
+奔喪	ban1 slaang1
+弔喪	diu3 slaang1
+喪亂	slaang1 lun6
+單于	sim4 jyu4
+姓單	sling3 syun6
+單縣	syun6 jyun6
+嗎哪	maa5 naa4
+嗎啡	maa5 fi1
+食嗆	sik6 ciang1
+吃嗆	hik2 ciang1
+嗆咳	ciang1 kat2
+嗆着	ciang1 ziak6
+吃飯嗆着	hik2 faan6 ciang1 ziak6
+油煙嗆人	jau4 jyun1 ciang3 njan4
+嗆人	ciang3 njan4
+夠嗆	gau3 ciang3
+嘀嗒	dik3 daap3
+嘀咕	dik6 gu1
+嘀嘀咕咕	dik6 dik6 gu1 gu1
+嘛嘛哋	maa4 maa4 di6
+喧嘩	hyun1 waa1
+輿論大嘩	jyu4 lan6 daai6 waa1
+嘩眾取寵	waa1 zoeng3 cyu2 coeng2
+嘩然	waa1 jyun4
+嘩笑	waa1 sliu3
+嘩變	waa1 bin3
+嘩嘩	waa1 waa1
+嘩嘩地	waa1 waa1 di6
+嘩啦	waa1 laa1
+嘩啦啦	waa1 laa1 laa1
+噢咻	jyu2 jau1
+囉嗦	lo1 slo1
+囉囉嗦嗦	lo1 lo1 slo1 slo1
+囉里囉嗦	lo1 li5 lo1 slo1
+嘍囉	lau4 lo4
+囉唣	lo4 zaau6
+囉唕	lo4 zaau6
+圓圈	jyun4 hyun1
+圈子	hyun1 zi2
+圈套	hyun1 taau3
+圈佔	hyun1 zim3
+圈閱	hyun1 jyut5
+圈點	hyun1 dim2
+圈定	hyun1 ding6
+圈地	hyun1 di6
+圈內	hyun1 nui6
+圈外	hyun1 waai6
+圈圈	hyun1 hyun1
+圈數	hyun1 su3
+圈聲	hyun1 sing1
+怪圈	gwaai3 hyun1
+圈餅	hyun1 bing2
+飯圈	faan6 hyun1
+光圈	gong1 hyun1
+線圈	slin3 hyun1
+花圈	waa1 hyun1
+圈狀物	hyun1 zaang6 fat5
+圈狀物	hyun1 zaang6 mat5
+影視圈	ing2 si6 hyun1
+娛樂圈	jyu4 laak5 hyun1
+圈圈點點	hyun1 hyun1 dim2 dim2
+圈地運動	hyun1 di6 wan6 doeng6
+可圈可點	ko2 hyun1 ko2 dim2
+羅圈	lo4 hyun1
+羅圈腿	lo4 hyun1 tui2
+轉圈	zyun3 hyun1
+頸圈	ging2 hyun1
+豬圈	zyu1 gyun6
+羊圈	jiang4 gyun6
+圈養	gyun6 jiang5
+圈牢	gyun6 laau4
+圈肥	gyun6 fi4
+圈檻	gyun6 laam6
+馬圈	maa5 gyun6
+狗圈	gau2 gyun6
+點燈	dim2 dang1
+點炮	dim2 paau3
+點心	dem2 slam1
+點鹽	dem2 jim4
+點水	dem2 sui2
+商埠	siang1 fau6
+大埠	daai6 fau6
+本埠	bun2 fau6
+外埠	waai6 fau6
+開埠	haai1 fau6
+埠頭	bu6 dau4
+石埠	sik6 bu6
+船埠	syun4 bu6
+河埠	ho4 bu6
+塞車	slak2 ce1
+堵塞	du2 slak2
+瓶塞	bing4 slak2
+塞住	slak2 zyu6
+塞責	slak2 ziak2
+阻塞	zo2 slak2
+搪塞	daang4 slak2
+閉塞	bai3 slak2
+茅塞頓開	maau4 slak2 dan3 haai1
+邊塞	bin1 saai3
+塞外	saai3 waai6
+出塞	cat2 saai3
+要塞	jiu3 saai3
+塞翁失馬	saai3 oeng1 sat2 maa5
+壅土	oeng1 tu2
+壅肥	oeng1 fi4
+壅泥	oeng1 nai4
+壅罯	oeng1 ap2
+壅積	oeng1 zik2
+壅塞	oeng1 slak2
+壅滯	oeng1 zai6
+壅蔽	oeng1 bi6
+壅閉	oeng1 bai3
+悲夫	bai1 fu4
+夫天地者	fu4 tin1 di6 ze2
+夫人不言	fu4 njan4 bat2 jyun4
+夫戰	fu4 zin3
+逝者如斯夫	si3 ze2 jyu4 sli1 fu4
+奇數	gi1 su3
+奇偶	gi1 ngau5
+五十有奇	ngu5 sap6 jau5 gi1
+五十有奇	ng5 sap6 jau5 gi1
+六十有奇	loek5 sap6 jau5 gi1
+奄然	jim2 jyun4
+奄有	jim2 jau5
+奄忽	jim2 fat2
+奄有四方	jim2 jau5 sli3 fong1
+奄奄	jim1 jim1
+奄奄一息	jim1 jim1 at2 slik2
+氣息奄奄	hi3 slik2 jim1 jim1
+喜好	hi2 haau3
+嗜好	si6 haau3
+愛好	aai3 haau3
+好奇	haau3 gi4
+好惡	haau3 wu3
+好色	haau3 sik2
+好尚	haau3 sang6
+好學	haau3 haak6
+好客	haau3 hiak2
+好勝	haau3 sing3
+好大喜功	haau3 daai6 hi2 goeng1
+好行小慧	haau3 hiang4 sliu2 wai6
+好勇鬥狠	haau3 joeng5 dau3 han2
+好高騖遠	haau3 gaau1 mu6 jyun5
+好爲人師	haau3 wai4 njan4 sai1
+君子好逑	gwan1 zi2 haau3 　
+各有所好	gaak2 jau5 slo2 haau3
+好生之德	haau3 siang1 zi1 dak2
+好逸惡勞	haau3 jat6 wu3 laau4
+好壞	haau2 waai6
+好人	haau2 njan4
+好歹	haau2 daai2
+好手	haau2 sau2
+好看	haau2 haan3
+好睇	haau2 dai6
+好醜	haau2 cau2
+美好	mai5 haau2
+好感	haau2 gaam2
+相好	sliang1 haau2
+友好	jau5 haau2
+好了	haau2 liu5
+很好	han2 haau2
+好遠	haau2 jyun5
+好辦	haau2 baan6
+好比	haau2 bi2
+好似	haau2 zi3
+好像	haau2 ziang6
+好笑	haau2 sliu3
+好說	haau2 syut2
+好低	haau2 dai1
+好高	haau2 gaau1
+好處	haau2 cyu3
+好勁	haau2 ging3
+好賣	haau2 maai6
+好多	haau2 do1
+好吃	haau2 hik2
+好好吃	haau2 haau2 hik2
+好食	haau2 sik6
+好好食	haau2 haau2 sik6
+好味	haau2 mi6
+好彩	haau2 caai2
+好聽	haau2 ting1
+好命	haau2 ming6
+好合	haau2 haap6
+好呀	haau2 aa1
+好啊	haau2 aa1
+好意	haau2 ji3
+好氣	haau2 hi3
+好玩	haau2 waan6
+好話	haau2 waa6
+百年好合	biak2 nin4 haau2 haap6
+好肉剜瘡	haau2 njoek5 wun2 caang1
+好事多磨	haau2 sai6 do1 mu4
+好自爲之	haau2 zi6 wai4 zi1
+好好先生	haau2 haau2 slin1 siang1
+姣好	gaau2 haau2
+姣美	gaau2 mai5
+姣豔	gaau2 jim6
+姣妻	gaau2 cai1
+姣麗	gaau2 lai6
+發姣	faat2 haau4
+姣婆	haau4 bu4
+姥姥	laau5 laau5
+姥娘	laau5 niang4
+姥爺	laau5 je4
+姥鯊	laau5 saa1
+姑姥姥	gu1 laau5 laau5
+姨姥姥	ji4 laau5 laau5
+劉姥姥	lau4 laau5 laau5
+公姥	goeng1 mu5
+阿孃	aa3 niang3
+孃孃	niang3 niang3
+婀娜	o1 no4
+婀娜多姿	o1 no4 do1 zi1
+裊娜	niu5 no4
+娜娜	naa4 naa4
+安娜	aan1 naa4
+李娜	li5 naa4
+蒙娜麗莎	moeng4 naa4 lai6 saa1
+名媛	ming4 jyun4
+嬋媛	sim4 jyun4
+淑媛	soek6 jyun4
+媛女	jyun6 nyu5
+媛德	jyun6 dak2
+孱弱	saan4 ngiak5
+孱羸	saan4 lui4
+孱瑣	saan4 slu2
+孱微	saan4 mi4
+孱王	saan4 hong4
+孱頭	caan3 dau4
+星宿	sling1 slau3
+二十八宿	nji6 sap6 baat2 slau3
+住宿	zyu6 sloek2
+宿舍	sloek2 se3
+宿命	sloek2 ming6
+宿疾	sloek2 zat6
+宿將	sloek2 ziang3
+宿惡	sloek2 aak2
+宿賊	sloek2 cak6
+宿醉	sloek2 zui3
+宿好	sloek2 haau2
+宿好	sloek2 haau3
+歸宿	gwai1 sloek2
+尉遲	wat2 zi4
+尉繚	wat2 liu4
+上尉	sang6 wai3
+少尉	siu3 wai3
+太尉	taai3 wai3
+都尉	du1 wai3
+大將	daai6 ziang3
+將領	ziang3 ling5
+將帥	ziang3 sui3
+麻將牌	maa4 ziang3 baai4
+干將莫邪	gaan1 ziang3 moek5 je4
+激將法	gik2 ziang3 faat2
+點將	dim2 ziang3
+兵來將擋	bing1 laai4 ziang3 daang2
+過關斬將	gu3 gwaan1 zaam2 ziang3
+調兵遣將	diu6 bing1 hyun2 ziang3
+王侯將相	hong4 hau4 ziang3 sliang3
+損兵折將	slun2 bing1 zyut2 ziang3
+上將	sang6 ziang3
+中將	zoeng1 ziang3
+少將	siu3 ziang3
+幹將	gaan3 ziang3
+闖將	caang2 ziang3
+老將	laau5 ziang3
+將才	ziang3 zaai4
+將士	ziang3 sai6
+將來	ziang1 laai4
+將近	ziang1 gan5
+將就	ziang1 zau6
+將要	ziang1 jiu3
+將軍	ziang1 gwan1
+將養	ziang1 jiang5
+將息	ziang1 slik2
+將次	ziang1 ci3
+將功贖罪	ziang1 goeng1 soek6 zui6
+將計就計	ziang1 gi3 zau6 gi3
+將功補過	ziang1 goeng1 bu2 gu3
+恩將仇報	an1 ziang1 sau4 baau3
+將信將疑	ziang1 slan3 ziang1 ni4
+將錯就錯	ziang1 co3 zau6 co3
+將進酒	ciang1 zan3 zau2
+少年	siu3 nin4
+老少	laau5 siu3
+年少	nin4 siu3
+少爺	siu3 je4
+少壯	siu3 zaang3
+少校	siu3 gaau3
+少將	siu3 ziang3
+少小無猜	siu3 sliu2 fu4 caai1
+少小無猜	siu3 sliu2 mu4 caai1
+少不更事	siu3 bat2 gang1 sai6
+闊少	hut2 siu3
+惡少	aak2 siu3
+少女	siu3 nyu5
+少男	siu3 naam4
+少尉	siu3 wai3
+少婦	siu3 fu6
+少小	siu3 sliu2
+多少	do1 siu2
+少候	siu2 hau6
+少許	siu2 hyu2
+少頃	siu2 king2
+少量	siu2 liang6
+少禮	siu2 lai5
+少安無躁	siu2 aan1 fu4 caau3
+少安無躁	siu2 aan1 mu4 caau3
+少見多怪	siu2 gin3 do1 gwaai3
+缺少	kyut2 siu2
+稀少	hi1 siu2
+少見	siu2 gin3
+少有	siu2 jau5
+少待	siu2 daai6
+少數	siu2 su3
+少陪	siu2 bui4
+屏除	bing2 zyu4
+屏棄	bing2 hi3
+屏息	bing2 slik2
+屏去	bing2 hyu3
+屏住	bing2 zyu6
+屏住呼吸	bing2 zyu6 hu1 kap2
+屏息靜氣	bing2 slik2 zing6 hi3
+屏退	bing2 tui3
+屏絕	bing2 zyut6
+屏風	bing4 foeng1
+熒屏	jing4 bing4
+孔雀開屏	koeng2 ciak2 haai1 bing4
+屏障	bing4 ziang3
+屯里	dan6 li5
+崎嶇	ki1 kyu1
+崎嶇不平	ki1 kyu1 bat2 bing4
+長崎	ziang4 gi4
+島嶼	daau2 zyu6
+鼓浪嶼	gu2 laang6 zyu6
+大嶼山	daai6 jyu4 saan1
+差別	caa1 bit6
+差異	caa1 ji6
+差錯	caa1 co3
+時差	si4 caa1
+差可	caa1 ko2
+差舛	caa1 cyun2
+差池	caa1 zi4
+差忒	caa1 tak2
+差距	caa1 gyu5
+差勁	caa1 ging3
+差額	caa1 ngiak5
+差三錯四	caa1 slaam1 co3 sli3
+差強人意	caa1 giang4 njan4 ji3
+偏差	pin1 caa1
+誤差	ngu6 caa1
+誤差	ng6 caa1
+差數	caa1 su3
+差得多	caa1 dak2 do1
+差不多	caa1 bat2 do1
+差得遠	caa1 dak2 jyun5
+千差萬別	cin1 caa1 maan6 bit6
+一念之差	at2 nim6 zi1 caa1
+陰錯陽差	jam1 co3 jiang4 caa1
+差之毫釐	caa1 zi1 haau4 li4
+太差	taai3 caa1
+差價	caa1 gaa3
+差互	caa1 hu6
+差失	caa1 sat2
+差點	caa1 dim2
+差點兒	caa1 dim2 nji4
+相差	sliang3 caa1
+乞兒	hat2 nji3
+出差	cat2 caai1
+差遣	caai1 hyun2
+差役	caai1 wik5
+差使	caai1 sai2
+差事	caai1 sai6
+兼差	gim1 caai1
+郵差	jau4 caai1
+聽差	ting1 caai1
+衙差	njaa4 caai1
+鬼使神差	gwai2 si2 san4 caai1
+專差	zyun1 caai1
+美差	mai5 caai1
+信差	slan3 caai1
+差撥	caai1 but6
+差夫	caai1 fu1
+差人	caai1 njan4
+參差	caam1 ci1
+差等	ci1 dang2
+差肩	ci1 gyun1
+石幢	sik6 zong4
+幡幢	faan1 zong4
+旗幢	gi4 zong4
+經幢	ging1 zong4
+幢幢	zong4 zong4
+人影幢幢	njan4 ing2 zong4 zong4
+鬼影幢幢	gwai2 ing2 zong4 zong4
+幢麾	zong4 wai1
+幢蓋	zong4 gaai3
+幢節	zong4 zit2
+幢幡	zong4 faan1
+海幢寺	haai2 daang4 zi6
+幾乎	gi1 hu4
+庶幾	syu3 gi1
+幾微	gi1 mi4
+幾近	gi1 gan5
+幾不可辨	gi1 bat2 ko2 bin6
+忖度	cun2 daak6
+量度	liang4 daak6
+度長絜大	daak6 ziang4 kyut2 daai6
+度德量力	daak6 dak2 liang6 lik5
+揣度	cui2 daak6
+測度	cak2 daak6
+以己度人	ji5 gi2 daak6 njan4
+猜度	caai1 daak6
+審時度勢	sam2 si4 daak6 si3
+審度	sam2 daak6
+審度時勢	sam2 daak6 si4 si3
+
+
 
 
 
@@ -7629,7 +8093,6 @@ A站	ei zaam6	100
 亂哄哄	lun6 hoeng1 hoeng1
 喇嘛	laa1 maa4
 嗆着	ciang1 ziak6
-嘀嗒	dik3 daap3
 奄奄一息	jim1 jim1 at2 slik2
 幾乎	gi1 hu4
 暈車	wan1 ce1
