@@ -22,12 +22,13 @@
 # 2009年張菁雅《桂南平話語音比較研究》 |  記音質量： ★★☆☆☆  两颗星
 #
 #「基礎字音表」常用字取自上述文獻並經過審音，生僻字依中古音並結合文獻與實際推導
+#「多音字標註」對常用多音字進行配詞標註
 #「本地詞彙表」收錄上述文獻已有的分類詞表並增補新詞
 #
 
 ---
 name: naamning_baakwaa
-version: "2020.06.23"
+version: "2020.06.24"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -13543,7 +13544,7 @@ A站	ei zaam6	100
 敢作敢為	gaam2 zok3 gaam2 wai4
 變廢為寶	bin3 fai3 wai4 bu2
 化險為夷	faa3 him2 wai4 ji4
-言為心聲	jin4 wai4 slam1 sing1
+言為心聲	jin4 wai4 slam1 seng1
 識時務者為俊傑	sik1 si4 mu6 ze2 wai4 zan3 git6
 不為所動	bat1 wai4 slo2 dung6
 為人所害	wai4 jan4 slo2 hoi6
@@ -13585,7 +13586,7 @@ A站	ei zaam6	100
 敢作敢爲	gaam2 zok3 gaam2 wai4
 變廢爲寶	bin3 fai3 wai4 bu2
 化險爲夷	faa3 him2 wai4 ji4
-言爲心聲	jin4 wai4 slam1 sing1
+言爲心聲	jin4 wai4 slam1 seng1
 識時務者爲俊傑	sik1 si4 mu6 ze2 wai4 zan3 git6
 不爲所動	bat1 wai4 slo2 dung6
 爲人所害	wai4 jan4 slo2 hoi6
@@ -13638,7 +13639,7 @@ A站	ei zaam6	100
 燕子	jin3 zi2
 燕窩	jin3 wo1
 勞燕分飛	lu4 jin3 fan1 fi1
-燕語鶯聲	jin3 jyu5 ang1 sing1
+燕語鶯聲	jin3 jyu5 ang1 seng1
 燕好	jin3 hu2
 燕侶	jin3 lyu5
 燕麥	jin3 mak6
@@ -14348,6 +14349,8 @@ A站	ei zaam6	100
 翹手	heu1 sau2
 翹腳	keu1 goek3
 翹手	keu1 sau2
+翹二郎腿	heu1 ji6 long4 tui2
+翹二郎腿	keu1 ji6 long4 tui2
 翹起	heu1 hi2
 翹起	keu1 hi2
 翹尾巴	heu1 mi5 baa1
@@ -14365,7 +14368,6 @@ A站	ei zaam6	100
 翹課	kiu4 ko3
 翹課	kiu4 fo3
 翹足	kiu4 zuk1
-翹二郎腿	kiu4 ji6 long4 tui2
 翹舌	kiu4 sit6
 翹舌音	kiu4 sit6 jam1
 翹辮子	kiu4 bin1 zy2
@@ -15349,6 +15351,623 @@ A站	ei zaam6	100
 遊說	jau4 sui3
 說客	sui3 haak3
 游說	jau4 sui3
+材料	coi4 liu2
+塑料	slok3 liu2
+乜料	mat1 liu2
+冇料	mu5 liu2
+有料	jau5 liu2
+加料	gaa1 liu2
+勁料	ging6 liu2
+單料	daan1 liu2
+原料	jyun4 liu2
+咩料	me1 liu2
+塗料	tu4 liu2
+嘥料	slaai1 liu2
+嚟料	lai4 liu2
+堅料	gin1 liu2
+填料	tin4 liu2
+報料	bu3 liu2
+搲料	we2 liu2
+撲料	puk1 liu2
+斬料	zaam2 liu2
+斬料	zem2 liu2
+燃料	jin4 liu2
+爆料	baau3 liu2
+猛料	maang5 liu2
+物料	mat6 liu2
+豬料	zyu1 liu2
+用料	jung6 liu2
+碎料	slui3 liu2
+肥料	fi4 liu2
+衣料	ji1 liu2
+資料	zy1 liu2
+資料	zi1 liu2
+配料	pui3 liu2
+顏料	ngaan4 liu2
+飲料	jam2 liu2
+香料	hoeng1 liu2
+笑料	sliu3 liu2
+佐料	zo2 liu2
+養料	joeng5 liu2
+底料	dai2 liu2
+廢料	fai3 liu2
+曬料	saai3 liu2
+木料	muk6 liu2
+染料	jim5 liu2
+流料	lau4 liu2
+預料	jyu6 liu6
+始料不及	ci2 liu6 bat1 gap6
+豈料	hi2 liu6
+未料	mi6 liu6
+意料	ji3 liu6
+意料之中	ji3 liu6 zi1 zung1
+意料之外	ji3 liu6 zi1 ngoi6
+乜斜	me4 sle4
+乜斜	me1 ce4
+音調	jam1 diu6
+腔調	hong1 diu6
+腔調	koeng1 diu6
+調動	diu6 dung6
+調查	diu6 caa4
+調任	diu6 jam6
+調換	diu6 wun6
+調集	diu6 zap6
+調號	diu6 hu6
+調撥	diu6 but6
+調職	diu6 zik1
+調兵遣將	diu6 bing1 hin2 zoeng3
+調虎離山	diu6 fu2 li4 saan1
+曲調	kuk1 diu6
+格調	gaak3 diu6
+抽調	cau1 diu6
+調檔案	diu6 dong2 on3
+聲調	seng1 diu6
+陳詞濫調	can4 cy4 laam6 diu6
+陳詞濫調	can4 ci4 laam6 diu6
+老調重彈	lu5 diu6 cung4 taan4
+情調	cing4 diu6
+筆調	bat1 diu6
+大調	daai6 diu6
+小調	sliu2 diu6
+陰平調	jam1 ping4 diu6
+陰上調	jam1 soeng5 diu6
+陰去調	jam1 hyu3 diu6
+陰入調	jam1 jap6 diu6
+陽平調	joeng4 ping4 diu6
+陽上調	joeng4 soeng5 diu6
+陽去調	joeng4 hyu3 diu6
+陽入調	joeng4 jap6 diu6
+上陰入調	soeng5 jam1 jap6 diu6
+下陰入調	haa6 jam1 jap6 diu6
+上陽入調	soeng5 joeng4 jap6 diu6
+下陽入調	haa6 joeng4 jap6 diu6
+中入調	zung1 jap6 diu6
+調配	diu6 pui3
+調子	diu6 zy2
+調子	diu6 zi2
+調和	tiu4 wo4
+調整	tiu4 zing2
+調治	tiu4 zi6
+調侃	tiu4 hon2
+調配	tiu4 pui3
+調唆	tiu4 slo1
+調理	tiu4 li5
+調解	tiu4 gaai2
+調教	tiu4 gaau3
+調停	tiu4 ting4
+調節	tiu4 zit3
+調馴	tiu4 slyun4
+調馴	tiu4 slan4
+調馴	tiu4 can4
+調劑	tiu4 zai1
+調戲	tiu4 hi3
+調脂弄粉	tiu4 zi1 nung6 fan2
+調嘴學舌	tiu4 zui2 hok6 sit6
+協調	hip3 tiu4
+風調雨順	fung1 tiu4 jyu5 syun6
+風調雨順	fung1 tiu4 jyu5 san6
+調酒	tiu4 zau2
+調酒師	tiu4 zau2 sy1
+調酒師	tiu4 zau2 si1
+眾口難調	zung3 hau2 naan4 tiu4
+調價	tiu4 gaa3
+調情	tiu4 cing4
+調羹	tiu4 gang1
+調料	tiu4 liu2
+調皮	tiu4 pi4
+調味	tiu4 mi6
+調笑	tiu4 sliu3
+知識	zi1 sik1
+識丁	sik1 ding1
+識見	sik1 gin3
+識別	sik1 bit6
+識拔	sik1 baat6
+識相	sik1 sloeng3
+識破	sik1 po3
+識荊	sik1 ging1
+識羞	sik1 slau1
+識貨	sik1 fo3
+識趣	sik1 cyu3
+識鑒	sik1 gaam3
+常識	coeng4 sik1
+認識	jing6 sik1
+學識	hok6 sik1
+標識	biu1 zi3
+款識	fun2 zi3
+默識	mak6 zi3
+博聞強識	bok3 man4 koeng4 zi3
+記識	gi3 zi3
+賁臨	bi3 lam4
+虎賁	fu2 ban1
+賁門	ban1 mun4
+姓賈	sling3 gaa2
+賈寶玉	gaa2 bu2 juk6
+賈誼	gaa2 ni6
+賈平凹	gaa2 ping4 aau3
+商賈	soeng1 gu2
+賈人	gu2 jan4
+賈客	gu2 haak3
+賈害	gu2 hoi6
+賈禍	gu2 wo6
+賈儈	gu2 kwai3
+賈其餘勇	gu2 ki4 jyu4 jung5
+富商大賈	fu3 soeng1 daai6 gu2
+多錢善賈	do1 cin4 sin6 gu2
+私賈民田	sy1 gu2 man4 tin4
+私賈民田	si1 gu2 man4 tin4
+賈馬	gu2 maa5
+餘勇可賈	jyu4 jung5 ho2 gu2
+蹊蹺	kai1 kiu2
+蹊徑	hai4 ging3
+下自成蹊	haa6 zy6 sing4 hai4
+下自成蹊	haa6 zi6 sing4 hai4
+獨闢蹊徑	duk6 pik1 hai4 ging3
+蹭蹬	cang3 dang6
+蹬腳	dang1 goek3
+蹺腳	heu1 goek3
+蹺手	heu1 sau2
+蹺腳	keu1 goek3
+蹺手	keu1 sau2
+汽車	hi3 ce1
+車馬炮	gyu1 maa5 paau3
+車馬炮	gyu1 maa5 peu3
+車馬砲	gyu1 maa5 paau3
+車馬砲	gyu1 maa5 peu3
+車馬	gyu1 maa5
+車馬	ce1 maa5
+車馬費	gyu1 maa5 fai3
+車馬費	ce1 maa5 fai3
+舟車	zau1 gyu1
+舟車勞頓	zau1 gyu1 lu4 dan6
+年載	nin4 zoi2
+一年半載	jat1 nin4 bun3 zoi2
+千載難逢	cin1 zoi2 naan4 fung4
+載重	zoi3 cung5
+記載	gi3 zoi3
+輾轉	zin2 zyun2
+輾轉反側	zin2 zyun2 faan2 zak1
+輾平	nen2 ping4
+輾斃	nen2 bai6
+輾斃	nen2 bi6
+輾死	nen2 sli2
+輾米	nen2 mai5
+輾軋	nen2 zaat3
+輾過	nen2 gwo3
+輾米廠	nen2 mai5 cong2
+輾子	nen2 zy2
+輾子	nen2 zi2
+石輾	sek6 nen2
+輾中藥	nen2 zung1 joek6
+輾壓	nen2 aat3
+一米	jat1 mai1
+兩米	loeng5 mai1
+三米	slaam1 mai1
+四米	sli3 mai1
+五米	ng5 mai1
+六米	luk6 mai1
+七米	cat1 mai1
+八米	bet3 mai1
+八米	baat3 mai1
+九米	gau2 mai1
+零米	ling4 mai1
+十米	sap6 mai1
+千米	cin1 mai1
+百米	baak3 mai1
+萬米	maan6 mai1
+平方米	ping4 fong1 mai1
+立方米	lap6 fong1 mai1
+轉動	zyun3 dung6
+轉得快	zyun3 dak1 faai3
+轉圓圈	zyun3 jyun4 hyun1
+轉螺絲	zyun3 lo4 sy1
+轉螺絲	zyun3 lo4 si1
+轉子	zyun3 zy2
+轉子	zyun3 zi2
+轉悠	zyun3 jau4
+轉軸	zyun3 zuk6
+轉臺	zyun3 toi4
+轉盤	zyun3 pun4
+轉爐	zyun3 lu4
+團團轉	tyun4 tyun4 zyun3
+轉圈	zyun3 hyun1
+轉一轉	zyun3 jat1 zyun3
+一轉	jat1 zyun3
+兩轉	loeng5 zyun3
+三轉	slaam1 zyun3
+轉彎	zyun3 waan1
+轉彎抹角	zyun3 waan1 mut3 gok3
+轉送	zyun2 slung3
+轉運	zyun2 wan6
+轉移	zyun2 ji4
+轉學	zyun2 hok6
+翻轉	faan1 zyun2
+旋轉	slyun4 zyun2
+髮旋	faat3 zyun6
+轉口	zyun2 hau2
+轉手	zyun2 sau2
+轉化	zyun2 faa3
+轉世	zyun2 sai3
+轉注	zyun2 zyu3
+轉向	zyun2 hoeng3
+轉折	zyun2 zit3
+轉述	zyun2 slyut6
+轉述	zyun2 slat6
+轉述	zyun2 sat6
+轉託	zyun2 tok3
+轉眼	zyun2 ngaan5
+轉眼	zyun2 ngen5
+轉側	zyun2 zak1
+轉換	zyun2 wun6
+轉載	zyun2 zoi3
+轉播	zyun2 bo3
+轉機	zyun2 gi1
+轉瞬	zyun2 syun3
+轉瞬	zyun2 san3
+轉變	zyun2 bin3
+轉讓	zyun2 joeng6
+轉捩點	zyun2 lit6 dim2
+轉危為安	zyun2 ngai4 wai4 on1
+轉敗為勝	zyun2 baai6 wai4 sing3
+轉危爲安	zyun2 ngai4 wai4 on1
+轉敗爲勝	zyun2 baai6 wai4 sing3
+轉身	zyun2 san1
+左轉	zo2 zyun2
+右轉	jau6 zyun2
+扭轉	nau2 zyun2
+好轉	hu2 zyun2
+轉交	zyun2 gaau1
+轉交	zyun2 geu1
+轉達	zyun2 daat6
+轉戰	zyun2 zin3
+轉告	zyun2 gu3
+轉嫁	zyun2 gaa3
+轉角	zyun2 gok3
+轉念	zyun2 nim6
+轉文	zyun2 man4
+轉型	zyun2 jing4
+轉折點	zyun2 zit3 dim2
+轉正	zyun2 zing3
+迤邐	ji5 li5
+迤向	ji5 hoeng3
+迤東	ji5 dung1
+迤南	ji5 naam4
+迤西	ji5 slai1
+迤北	ji5 bak1
+逶迤	wai1 ji4
+新造	slan1 cu5
+製造	zai3 zu6
+造化	zu6 faa3
+造就	zu6 zau6
+造福	zu6 fuk1
+造謠	zu6 jiu4
+造次	zu6 cy3
+造次	zu6 ci3
+造化弄人	zu6 faa3 nung6 jan4
+創造	cong3 zu6
+筆參造化	bat1 caam1 zu6 faa3
+一年兩造	jat1 nin4 loeng5 zu6
+造船	zu6 syun4
+造詣	cu3 ngai6
+造訪	cu3 fong2
+造謁	cu3 jit3
+深造	sam1 cu3
+登峰造極	dang1 fung1 cu3 gik6
+莫邪	mok6 je4
+是邪非邪	si6 je4 fi1 je4
+碘酊	din2 ding1
+酊劑	ding1 zai1
+顛茄酊	din1 ke4 ding1
+酩酊	ming5 ding2
+酩酊大醉	ming5 ding2 daai6 zui3
+酪酒	lu6 zau2
+酪酥	lu6 slu1
+杏仁酪	hang6 jan4 lu6
+核桃酪	hat6 tu4 lu6
+果子酪	gwo2 zy2 lu6
+果子酪	gwo2 zi2 lu6
+杏仁露	hang6 jan4 lu6
+核桃露	hat6 tu4 lu6
+果子露	gwo2 zy2 lu6
+果子露	gwo2 zi2 lu6
+重要	zung6 jiu3
+重點	zung6 dim2
+嚴重	jim4 zung6
+重心	zung6 slam1
+重用	zung6 jung6
+重臣	zung6 can4
+重鎮	zung6 zan3
+重聽	zung6 teng1
+慎重	san6 zung6
+穩重	wan2 zung6
+重視	zung6 si6
+重地	zung6 di6
+戰略重地	zin3 loek6 zung6 di6
+貴重	gwai3 zung6
+重任	zung6 jam6
+器重	hi3 zung6
+重男輕女	zung6 naam4 heng1 nyu5
+莊重	zong1 zung6
+隆重	lung4 zung6
+老成持重	lu5 sing4 ci4 zung6
+繁重	faan4 zung6
+重大	zung6 daai6
+深重	sam1 zung6
+情深誼重	cing4 sam1 ni6 zung6
+輕重	heng1 cung5
+重量	cung5 loeng6
+重負	cung5 fu6
+重創	cung5 cong3
+重傷	cung5 soeng1
+重載	cung5 zoi3
+重擔	cung5 daam3
+重工業	cung5 gung1 nip6
+重金屬	cung5 gam1 suk6
+重頭戲	cung5 tau4 hi3
+舉重	gyu2 cung5
+舉重若輕	gyu2 cung5 joek6 heng1
+重金	cung5 gam1
+重金聘用	cung5 gam1 ping3 jung6
+病重	beng6 cung5
+幾重	gi2 cung5
+幾斤重	gi2 gan1 cung5
+加重	gaa1 cung5
+重力	cung5 lik6
+濃墨重彩	nung4 mak6 cung5 coi2
+重罰	cung5 faat6
+重罰不用	cung5 faat6 bat1 jung6
+重複	cung4 fuk1
+重讀	cung4 duk6
+重九	cung4 gau2
+重九節	cung4 gau2 zit3
+重申	cung4 san1
+重言	cung4 jin4
+重沓	cung4 daap6
+重唱	cung4 coeng3
+重婚	cung4 fan1
+重婚	cung4 wan1
+重圍	cung4 wai4
+重陽	cung4 joeng4
+重演	cung4 jin2
+重見天日	cung4 gin3 tin1 jat6
+重修舊好	cung4 slau1 gau6 hu2
+重操舊業	cung4 cu1 gau6 nip6
+重整旗鼓	cung4 zing2 ki4 gu2
+重蹈覆轍	cung4 du6 fuk1 zit3
+重疊	cung4 dip6
+重重疊疊	cung4 cung4 dip6 dip6
+山重水複	saan1 cung4 sui2 fuk1
+山重水複疑無路	saan1 cung4 sui2 fuk1 ni4 mu4 lu6
+故地重遊	gu3 di6 cung4 jau4
+一重重	jat1 cung4 cung4
+千重浪	cin1 cung4 long6
+萬重山	maan6 cung4 saan1
+重新	cung4 slan1
+重洋	cung4 joeng4
+測量	cak1 loeng4
+量米	loeng4 mai5
+丈量	zoeng6 loeng4
+量長短	loeng4 coeng4 dyun2
+量杯	loeng4 bui1
+量具	loeng4 gyu6
+量度	loeng4 dok6
+估量	gu2 loeng4
+思量	sy1 loeng4
+思量	si1 loeng4
+車載斗量	ce1 zoi3 dau2 loeng4
+量體溫	loeng4 tai2 wan1
+海水不可用斗量	hoi2 sui2 bat1 ho2 jung6 dau2 loeng4
+掂量	dim1 loeng4
+商量	soeng1 loeng4
+量體重	loeng4 tai2 cung5
+量血壓	loeng4 hyut3 aat3
+體重	tai2 cung5
+數量	su3 loeng6
+膽量	daam2 loeng6
+力量	lik6 loeng6
+氣量	hi3 loeng6
+量詞	loeng6 cy4
+量詞	loeng6 ci4
+量入為出	loeng6 jap6 wai4 cyut1
+量入爲出	loeng6 jap6 wai4 cyut1
+量才稱職	loeng6 coi4 cing1 zik1
+量腹而食	loeng6 fuk1 ji4 sik6
+酒量	zau2 loeng6
+流量	lau4 loeng6
+度量	du6 loeng6
+度量衡	du6 loeng6 hang4
+音量	jam1 loeng6
+少量	siu2 loeng6
+衡量	hang4 loeng6
+量力而為	loeng6 lik6 ji4 wai4
+量力而爲	loeng6 lik6 ji4 wai4
+量才錄用	loeng6 coi4 luk6 jung6
+過量	gwo3 loeng6
+產量	caan2 loeng6
+出口量	cyut1 hau2 loeng6
+量力而行	loeng6 lik6 ji4 hang4
+量變	loeng6 bin3
+量販店	loeng6 faan3 dim3
+店鋪	dim3 pu3
+當鋪	dong3 pu3
+鋪位	pu3 wai2
+鋪面	pu3 min6
+鋪保	pu3 bu2
+藥鋪	joek6 pu3
+十六鋪	sap6 luk6 pu3
+鋪頭	pu3 tau4
+鋪設	pu1 cit3
+鋪張	pu1 zoeng1
+牀鋪	cong4 pu1
+卧鋪	ngo6 pu1
+鋪開	pu1 hoi1
+鋪敘	pu1 zyu6
+鋪陳	pu1 can4
+鋪墊	pu1 dim6
+鋪蓋	pu1 goi3
+鋪天蓋地	pu1 tin1 goi3 di6
+鋪眉苫眼	pu1 mi4 sim3 ngaan5
+鋪張揚厲	pu1 zoeng1 joeng4 lai6
+鋪錦列繡	pu1 gam2 lit6 slau3
+平鋪直敘	ping4 pu1 zik6 zyu6
+平鋪直敍	ping4 pu1 zik6 zyu6
+鋪牀單	pu1 cong4 daan1
+鋪牀	pu1 cong4
+鋪地毯	pu1 di6 taan2
+鋪路	pu1 lu6
+鋪鐵軌	pu1 tit3 gwai2
+一鋪	jat1 pu1
+兩鋪	loeng5 pu1
+三鋪	slaam1 pu1
+鋪砌	pu1 cai3
+嚴厲	jim4 lai6
+厲害	lai6 hoi6
+厲害	li6 hoi6
+利害	li6 hoi6
+錯誤	co3 ng6
+過錯	gwo3 co3
+錯謬	co3 mau6
+錯亂	co3 lyun6
+交錯	gaau1 cok3
+錯雜	cok3 zaap6
+錯落	cok3 lok6
+錯落有致	cok3 lok6 jau5 zi3
+錯綜	cok3 zung1
+錯綜複雜	cok3 zung1 fuk1 zaap6
+錯彩鏤金	cok3 coi2 lau6 gam1
+雜錯	zaap6 cok3
+錯刀	cok3 du1
+鞳鏜	daap6 tong1
+鏜鞳	tong1 daap6
+鏜鏜	tong1 tong1
+鏜鑼	tong1 lo4
+小鏜鑼	sliu2 tong1 lo4
+鏜孔	tong4 hung2
+鏜牀	tong4 cong4
+瓦鐺	ngaa5 caang1
+酒鐺	zau2 caang1
+餅鐺	beng2 caang1
+鋃鐺	long4 dong1
+鈴鐺	ling4 dong1
+鐺鐺	dong1 dong1
+鐺鐺車	dong1 dong1 ce1
+鑽子	zyun3 zy2
+鑽子	zyun3 zi2
+鑽石	zyun3 sek6
+風鑽	fung1 zyun3
+電鑽	din6 zyun3
+手搖鑽	sau2 jiu4 zyun3
+鑽戒	zyun3 gaai3
+鑽孔	zyun3 hung2
+鑽頭	zyun3 tau4
+鑽研	zyun1 jin4
+鑽仰	zyun1 joeng5
+鑽營	zyun1 jing4
+鑽木取火	zyun1 muk6 cyu2 fo2
+鑽冰求酥	zyun1 bing1 kau4 slu1
+鑽探	zyun1 taam3
+鑽入	zyun1 jap6
+鑽空子	zyun1 hung1 zy2
+鑽空子	zyun1 hung1 zi2
+鑽進	zyun1 zan3
+鑽牛角尖	zyun1 ngau4 gok3 zim1
+空子	hung1 zy2
+空子	hung1 zi2
+生長	saang1 zoeng2
+長幼	zoeng2 jau3
+省長	saang2 zoeng2
+長高	zoeng2 gu1
+師長	sy1 zoeng2
+師長	si1 zoeng2
+學長	hok6 zoeng2
+長老	zoeng2 lu5
+長者	zoeng2 ze2
+長雄	zoeng2 hung4
+成長	sing4 zoeng2
+部長	bu6 zoeng2
+長知識	zoeng2 zi1 sik1
+消長	sliu1 zoeng2
+長子	zoeng2 zy2
+長子	zoeng2 zi2
+長孫	zoeng2 slyun1
+家長	gaa1 zoeng2
+長輩	zoeng2 bui3
+處長	cyu3 zoeng2
+年長	nin4 zoeng2
+尊長	zyun1 zoeng2
+市長	si5 zoeng2
+局長	guk6 zoeng2
+長銹	zoeng2 slau3
+長滿	zoeng2 mun5
+長大	zoeng2 daai6
+揠苗助長	aat3 miu4 zo6 zoeng2
+長見識	zoeng2 gin3 sik1
+長一智	zoeng2 jat1 zi3
+長官	zoeng2 gun1
+長相	zoeng2 sloeng3
+長進	zoeng2 zan3
+長相思	coeng4 sloeng1 sy1
+長相思	coeng4 sloeng1 si1
+長短	coeng4 dyun2
+長春	coeng4 cyun1
+長春	coeng4 can1
+天長地久	tin1 coeng4 di6 gau2
+長生	coeng4 saang1
+長舌	coeng4 sit6
+長夜	coeng4 je6
+長河	coeng4 ho4
+長途	coeng4 tu4
+長眠	coeng4 min4
+長處	coeng4 cyu3
+長治久安	coeng4 zi6 gau2 on1
+長風破浪	coeng4 fung1 po3 long6
+長袖善舞	coeng4 zau6 sin6 mu5
+長歌當哭	coeng4 go1 dong3 huk1
+長繩繫日	coeng4 sing4 hai6 jat6
+長度	coeng4 du6
+長距離	coeng4 kyu5 li4
+長命	coeng4 meng6
+特長	dak6 coeng4
+揚長避短	joeng4 coeng4 bi6 dyun2
+一無所長	jat1 mu4 slo2 coeng4
+漫長	maan6 coeng4
+全長	cyun4 coeng4
+身長	san1 coeng4
+萬古長青	maan6 gu2 coeng4 cing1
+一技之長	jat1 gi6 zi1 coeng4
+取長補短	cyu2 coeng4 bu2 dyun2
+擅長	sin6 coeng4
+長於	coeng4 jyu1
+長久	coeng4 gau2
+長空	coeng4 hung1
+長年	coeng4 nin4
+長篇	coeng4 pin1
+長天	coeng4 tin1
+長征	coeng4 zing1
+長俸	coeng4 fung2
+長遠	coeng4 jyun5
+長龍	coeng4 lung4
+長物	zoeng6 mat6
+身無長物	san1 mu4 zoeng6 mat6
 
 
 
@@ -15487,6 +16106,7 @@ A站	ei zaam6	100
 孃孃	noeng1 noeng1
 阿孃	aa3 noeng1
 譅氣	saap3 hi3
+屈氣	wat1 hi3
 慍氣	wat1 hi3	# 又作殟氣
 離氣	le4 he3
 褦襶	le5 de2
