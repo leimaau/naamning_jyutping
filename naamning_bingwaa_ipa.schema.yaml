@@ -137,7 +137,7 @@ translator:
     - xform/et/ɛːT]/
     - xform/nj/ȵ/
     - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
-#  preedit_format:   # 需要顯示《南寧平話詞典》版IPA時preedit_format替換成這段
+#  preedit_format:   # 需要顯示《南寧平話詞典》版IPA時preedit_format替換成這段（改進∅u(int)=>wu(int)，∅y(nt)=>jy(nt)，∅i-=>j-）
 #    - xform/(^|[ '])(m)+$/$1$2̩/
 #    - xform/(^|[ '])(ng)+$/$1$2̍/
 #    - xform/([ptk])xx/$1˨/
