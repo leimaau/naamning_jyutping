@@ -224,12 +224,14 @@
 飽	baau2	
 報	baau3	
 豹	baau3	
+⿺包谷	baau4「古壯字，秕，本字穮」	
 刨	baau4	
 匏	baau4	
 咆	baau4	
 庖	baau4	
 狍	baau4	
 麅	baau4	
+穮	(語)baau4「～穀，秕穀」	10%
 袍	baau4	
 鉋	baau4	
 抱	baau5	
@@ -989,6 +991,7 @@
 擔	(名)daam3「擔子」	10%
 壜	daam4	
 罈	daam4	
+埮	daam4「同壜字」	
 潭	daam4	
 燂	daam4「火燻」	
 痰	daam4	
@@ -999,6 +1002,7 @@
 淡	daam5	
 啖	(量)daam6「口」	
 噉	daam6「同啖字」	
+埮	daam6「地平而長」	
 澹	daam6	
 丹	daan1	
 單	daan1「單獨」	
@@ -1114,8 +1118,8 @@
 特	dak6	
 䏙	dam1「肚䏙，肚子；肥～～，矮胖貌」	
 抌	dam2「捶；編織；打劫」	
-⿰压屯	dam4「古壯字，壓、塌下，又作坍字」	
-坍	(語)dam4「壓；塌下；又作古壯字⿰压屯」	10%
+坍	(語)dam4「壓；塌下，古壯字埮」	10%
+埮	(語)dam4「古壯字，倒塌，又作坍字」	10%
 𧽼	dam4「～～轉」	
 凼	dam5「水坑」	
 氹	dam5「水坑」	
@@ -3597,8 +3601,9 @@
 強	kiang2「勉強」	
 躿	(語)kiang3「瘦蜢miang3～，非常瘦」	10%
 擊	kik2	
-揢	kik2「阻礙，絆」	
-𠽤	kik2「阻礙，絆」	
+揢	kik2「阻礙、絆，本字棘」	
+棘	(語)kik2「阻礙、絆」	10%
+𠽤	kik2「阻礙、絆，本字棘」	
 傾	king1	
 檾	king2	
 苘	king2	
@@ -4338,6 +4343,7 @@
 莽	maang5	
 蟒	maang5	
 凹	(訓)maap3	
+⿱打末	maap6「古壯字，用石擲、用棍打」	
 抹	maat5「抹布，抹乾」	
 襪	maat5	
 䅦	maau1「虛鬆不實，又作泡字」	
@@ -5037,7 +5043,8 @@
 跴	(白)njaai2	20%
 踩	(白)njaai2	20%
 踹	(白)njaai2	20%
-嚼	(語)njaai3	10%
+⿰口靄	njaai3「古壯字，嚼」	
+嚼	(語)njaai3「古壯字⿰口靄」	10%
 顏	njaan4	
 眼	njaan5	
 齴	njaan5「高峻貌」	
@@ -5230,7 +5237,7 @@
 肨	paang3	
 胖	(又)paang3「肥胖」	10%
 拋	paau1	
-泡	paau1「量詞；虛鬆不實」	5%
+泡	paau1「量詞；虛鬆不實，本字穮」	5%
 穮	(語)paau1「禾虛貌」	10%
 脬	paau1	
 跑	paau2	
@@ -5420,8 +5427,8 @@
 哨	saau3「哨牙，齙牙」	
 潲	saau3	
 睄	saau3	
-睄	(語)saau4「掃視」	10%
-𥋘	saau4「掃視，又作睄字」	
+睄	(又)saau4「掃視」	10%
+𥋘	(又)saau4	10%
 師	sai1	
 獅	sai1	
 篩	sai1	
@@ -5693,8 +5700,10 @@
 掃	slaau3	
 臊	slaau3「害臊」	
 捎	(語)slaau4「吃掉；揍；又作𢶠/𢲵字」	10%
+睄	(語)slaau4「掃視」	10%
 𢲵	slaau4「古壯字，揍，又作捎/𢶠字」	
 𢶠	slaau4「吃掉；揍；又作捎/𢲵字」	
+𥋘	slaau4「掃視，又作睄字」	
 嘶	(又)slai1	10%
 犀	slai1	
 荽	slai1「芫荽」	
@@ -5742,6 +5751,7 @@
 㗂	(語)slang4「古壯字，詞綴，毛～～，高～～」	10%
 䒏	(語)slang4「懵～～，糊糊塗塗，又作古壯字㗂」	10%
 鬙	(語)slang4「鬅bang4～楞lang4，不整潔」	10%
+漝	(語)slap3「古壯字，～碎，瑣碎，疑本字𢶍/颯」	10%
 卹	slat2	
 恤	slat2	
 悉	slat2	
@@ -5752,7 +5762,7 @@
 窣	slat2	
 膝	slat2	
 蟀	(書)slat2	
-蟋	(語)slat2「～蟀zat2」	10%
+蟋	(又)slat2「～蟀zat2」	10%
 朮	slat6	
 術	slat6	
 秫	slat6	
@@ -6069,7 +6079,7 @@
 躺	taang2	
 摥	taang3「順着推拉」	
 燙	taang3	
-熨	(語)taang3「熨斗，又作燙斗」	10%
+熨	(訓)taang3「熨斗，又作燙斗」	10%
 趟	taang3	
 䍇	taap2「罈子」	
 嗒	taap2「嗒然若失」	
@@ -6214,7 +6224,8 @@
 坏	waai6「同壞字」	
 壞	waai6	
 外	waai6	
-掝	(語)waak5「招手」	10%
+⿰扌划	waak5「古壯字，招手，又作掝字」	
+掝	(語)waak5「招手，古壯字⿰扌划」	10%
 劃	waak6	
 惑	(又)waak6	10%
 或	(又)waak6	10%
@@ -6711,6 +6722,7 @@
 執	zap2	
 汁	zap2	
 習	zap6	
+漝	zap6	
 襲	zap6	
 集	zap6	
 卒	zat2	
