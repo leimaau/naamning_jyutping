@@ -4,7 +4,7 @@
 schema:
   schema_id: naamning_baakwaa_ipa
   name: "南寧白話(IPA)"
-  version: "2021.04.22"
+  version: "2021.04.30"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
@@ -79,53 +79,53 @@ translator:
     - xform/xx/˨/
     - xform/x/˧/
     - xform/sl/ɬ/
-    - xform/([PTK])$/$1]$2/
+    - xform/([PTK])$/$1$2/
     - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/
-    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/
-    - xform/([dtlgkhzcsj])yu([t])/$1Yː$2]/
-    - xform/(^|[ '])([jy])u([k])/$1jʊ$3]/
-    - xform/(^|[ '])(jy)u/$1jYː/
-    - xform/yu/Yː/
+    - xform/(^|[ '])(jy|[jy])u([t])/$1jY$3/
+    - xform/([dtlgkhzcsj])yu([t])/$1Y$2/
+    - xform/(^|[ '])([jy])u([k])/$1jʊ$3/
+    - xform/(^|[ '])(jy)u/$1jY/
+    - xform/yu/Y/
     - xform/y([aeior])/j$1/
-    - xform/(aa|r)([iu])/Aː\U$2/
+    - xform/(aa|r)([iu])/A\U$2/
     - xform/a([iu])/ɐ\U$1/
-    - xform/(aa|r)([ptk])/Aː\U$2]/
-    - xform/a([ptk])/ɐ\U$1]/
-    - xform/(aa|r)/Aː/
+    - xform/(aa|r)([ptk])/A\U$2/
+    - xform/a([ptk])/ɐ\U$1/
+    - xform/(aa|r)/A/
     - xform/b/P/
-    - xform/c/T͡ʃH/
+    - xform/c/TʃH/
     - xform/d/T/
-    - xform/eu/ɛːU/
+    - xform/eu/ɛU/
     - xform/eoi/ɵY/
     - xform/oei/ɵY/
-    - xform/oe([ptk])/œː$1]/
-    - xform/oe(ng)/œː$1/
-    - xform/oe([t])/ɵ$1]/
+    - xform/oe([ptk])/œ$1/
+    - xform/oe(ng)/œ$1/
+    - xform/oe([t])/ɵ$1/
     - xform/oe([n])/ɵ$1/
-    - xform/oe/œː/
-    - xform/oi/ɔːI/
-    - xform/eo(ng)/œːŋ/
-    - xform/eo([k])/œː$1]/
-    - xform/eo([t])/ɵ$1]/
+    - xform/oe/œ/
+    - xform/oi/ɔI/
+    - xform/eo(ng)/œŋ/
+    - xform/eo([k])/œ$1/
+    - xform/eo([t])/ɵ$1/
     - xform/eon/ɵn/
     - xform/ou/OU/
-    - xform/u([k])/ʊ$1]/
-    - xform/ui/UːI/
-    - xform/iu/IːU/
+    - xform/u([k])/ʊ$1/
+    - xform/ui/UI/
+    - xform/iu/IU/
     - xform/i(ng)/EN/
-    - xform/ik/EK]/
-    - xform/i([pt])/Iː$1]/
+    - xform/ik/EK/
+    - xform/i([pt])/I$1/
     - xform/eo/ɵ/
     - xform/a/ɐ/
     - xform/ei/EI/
-    - xform/i/Iː/
-    - xform/e([ptk])/ɛː$1]/
-    - xform/e/ɛː/
-    - xform/o([ptk])/ɔː$1]/
-    - xform/u([pt])/Uː$1]/
+    - xform/i/I/
+    - xform/e([ptk])/ɛ$1/
+    - xform/e/ɛ/
+    - xform/o([ptk])/ɔ$1/
+    - xform/u([pt])/U$1/
     - xform/u(ng)/ʊN/
-    - xform/o/ɔː/
-    - xform/u/Uː/
+    - xform/o/ɔ/
+    - xform/u/U/
     - xform/ng/N/
     - xform/n/n/
     - xform/kw/KWH/
@@ -137,20 +137,20 @@ translator:
     - xform/m/m/
     - xform/l/l/
     - xform/s/ʃ/
-    - xform/z/T͡ʃ/
-    - xform/em/ɛːM/
-    - xform/en/ɛːN/
-    - xform/T͡ʃy/T͡sɿ/
-    - xform/T͡ʃHy/T͡sHɿ/
+    - xform/z/Tʃ/
+    - xform/em/ɛM/
+    - xform/en/ɛN/
+    - xform/Tʃy/Tsɿ/
+    - xform/TʃHy/TsHɿ/
     - xform/ʃy/sɿ/
-    - xform/T͡ʃT͡ʃ/T͡sɿ/
-    - xform/T͡ʃHT͡ʃ/T͡sHɿ/
-    - xform/ʃT͡ʃ/sɿ/
-    - xform/T͡ʃIːIː/T͡sɿ/
-    - xform/T͡ʃHIːIː/T͡sHɿ/
-    - xform/ʃIːIː/sɿ/
+    - xform/TʃTʃ/Tsɿ/
+    - xform/TʃHTʃ/TsHɿ/
+    - xform/ʃTʃ/sɿ/
+    - xform/TʃII/Tsɿ/
+    - xform/TʃHII/TsHɿ/
+    - xform/ʃII/sɿ/
     - xform/nj/ȵ/
-    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
+    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊY|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊy|"
   comment_format:
     - xform/\(.+?\)//    # 處理組詞拼音
     - xform/「.+?」//    # 處理組詞拼音

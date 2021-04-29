@@ -4,7 +4,7 @@
 schema:
   schema_id: naamning_bingwaa_ipa
   name: "南寧(亭子)平話(IPA)"
-  version: "2020.08.07"
+  version: "2021.04.30"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
@@ -80,46 +80,46 @@ translator:
     - xform/xx/˨/
     - xform/x/˥/
     - xform/sl/ɬ/
-    - xform/([PTK])$/$1]$2/
-    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/
-    - xform/([dtlgkhzcsj])yu([t])/$1Yː$2]/
-    - xform/(^|[ '])(jy)u/$1jYː/
-    - xform/yu/Yː/
+    - xform/([PTK])$/$1$2/
+    - xform/(^|[ '])(jy|[jy])u([t])/$1jY$3/
+    - xform/([dtlgkhzcsj])yu([t])/$1Y$2/
+    - xform/(^|[ '])(jy)u/$1jY/
+    - xform/yu/Y/
     - xform/y([aeior])/j$1/
-    - xform/(aa|r)([iu])/Aː\U$2/
+    - xform/(aa|r)([iu])/A\U$2/
     - xform/a([iu])/ɐ\U$1/
-    - xform/(aa|r)([ptk])/Aː\U$2]/
-    - xform/a([ptk])/ɐ\U$1]/
-    - xform/(aa|r)/Aː/
+    - xform/(aa|r)([ptk])/A\U$2/
+    - xform/a([ptk])/ɐ\U$1/
+    - xform/(aa|r)/A/
     - xform/b/P/
-    - xform/c/T͡ʃH/
+    - xform/c/TʃH/
     - xform/d/T/
-    - xform/eu/ɛːU/
-    - xform/oe([ptk])/œː$1]/
-    - xform/oe(ng)/œː$1/
-    - xform/oe/œː/
-    - xform/eo(ng)/œːŋ/
-    - xform/eo([k])/œː$1]/
+    - xform/eu/ɛU/
+    - xform/oe([ptk])/œ$1/
+    - xform/oe(ng)/œ$1/
+    - xform/oe/œ/
+    - xform/eo(ng)/œŋ/
+    - xform/eo([k])/œ$1/
     - xform/ou/OU/
-    - xform/u([k])/O$1]/
-    - xform/ui/UːI/
-    - xform/iu/IːU/
+    - xform/u([k])/O$1/
+    - xform/ui/UI/
+    - xform/iu/IU/
     - xform/i(ng)/EN/
-    - xform/ik/EK]/
-    - xform/i([pt])/Iː$1]/
+    - xform/ik/EK/
+    - xform/i([pt])/I$1/
     - xform/a/ɐ/
     - xform/ei/EI/
-    - xform/i/Iː/
-    - xform/e([ptk])/ɛː$1]/
-    - xform/e/ɛː/
-    - xform/Iːɐ/Iɐ/
-    - xform/Iːɐk/Iɐk]/
-    - xform/Iːɐng/IɐN/
-    - xform/o([ptk])/O$1]/
-    - xform/u([pt])/Uː$1]/
+    - xform/i/I/
+    - xform/e([ptk])/ɛ$1/
+    - xform/e/ɛ/
+    - xform/Iɐ/Iɐ/
+    - xform/Iɐk/Iɐk/
+    - xform/Iɐng/IɐN/
+    - xform/o([ptk])/O$1/
+    - xform/u([pt])/U$1/
     - xform/u(ng)/ON/
     - xform/o/O/
-    - xform/u/Uː/
+    - xform/u/U/
     - xform/ng/N/
     - xform/n/n/
     - xform/kw/KWH/
@@ -131,11 +131,11 @@ translator:
     - xform/m/m/
     - xform/l/l/
     - xform/s/ʃ/
-    - xform/z/T͡ʃ/
-    - xform/em/ɛːm/
-    - xform/en/ɛːn/
+    - xform/z/Tʃ/
+    - xform/em/ɛm/
+    - xform/en/ɛn/
     - xform/nj/ȵ/
-    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
+    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊY|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊy|"
   comment_format:
     - xform/\(.+?\)//    # 處理組詞拼音
     - xform/「.+?」//    # 處理組詞拼音
