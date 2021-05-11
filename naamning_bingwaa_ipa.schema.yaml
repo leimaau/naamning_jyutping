@@ -79,47 +79,47 @@ translator:
     - xform/v/˧/
     - xform/xx/˨/
     - xform/x/˥/
+    - xform/([PTK])$/$1]$2/
+    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/
+    - xform/([dtlgkhzcsj])yu([t])/$1Yː$2]/
     - xform/sl/ɬ/
-    - xform/([PTK])$/$1$2/
-    - xform/(^|[ '])(jy|[jy])u([t])/$1jY$3/
-    - xform/([dtlgkhzcsj])yu([t])/$1Y$2/
-    - xform/(^|[ '])(jy)u/$1jY/
-    - xform/yu/Y/
+    - xform/(^|[ '])(jy)u/$1jYː/
+    - xform/yu/Yː/
     - xform/y([aeior])/j$1/
-    - xform/(aa|r)([iu])/A\U$2/
+    - xform/(aa|r)([iu])/Aː\U$2/
     - xform/a([iu])/ɐ\U$1/
-    - xform/(aa|r)([ptk])/A\U$2/
-    - xform/a([ptk])/ɐ\U$1/
-    - xform/(aa|r)/A/
+    - xform/(aa|r)([ptk])/Aː\U$2]/
+    - xform/a([ptk])/ɐ\U$1]/
+    - xform/(aa|r)/Aː/
     - xform/b/P/
-    - xform/c/TʃH/
+    - xform/c/T͡ʃH/
     - xform/d/T/
-    - xform/eu/ɛU/
-    - xform/oe([ptk])/œ$1/
-    - xform/oe(ng)/œ$1/
-    - xform/oe/œ/
-    - xform/eo(ng)/œŋ/
-    - xform/eo([k])/œ$1/
+    - xform/eu/ɛːU/
+    - xform/oe([ptk])/œː$1]/
+    - xform/oe(ng)/œː$1/
+    - xform/oe/œː/
+    - xform/eo(ng)/œːŋ/
+    - xform/eo([k])/œː$1]/
     - xform/ou/OU/
-    - xform/u([k])/O$1/
-    - xform/ui/UI/
-    - xform/iu/IU/
+    - xform/u([k])/O$1]/
+    - xform/ui/UːI/
+    - xform/iu/IːU/
     - xform/i(ng)/EN/
-    - xform/ik/EK/
-    - xform/i([pt])/I$1/
+    - xform/ik/EK]/
+    - xform/i([pt])/Iː$1]/
     - xform/a/ɐ/
     - xform/ei/EI/
-    - xform/i/I/
-    - xform/e([ptk])/ɛ$1/
-    - xform/e/ɛ/
-    - xform/Iɐ/Iɐ/
-    - xform/Iɐk/Iɐk/
-    - xform/Iɐng/IɐN/
-    - xform/o([ptk])/O$1/
-    - xform/u([pt])/U$1/
+    - xform/i/Iː/
+    - xform/e([ptk])/ɛː$1]/
+    - xform/e/ɛː/
+    - xform/Iːɐ/Iɐ/
+    - xform/Iːɐk/Iɐk]/
+    - xform/Iːɐng/IɐN/
+    - xform/o([ptk])/O$1]/
+    - xform/u([pt])/Uː$1]/
     - xform/u(ng)/ON/
     - xform/o/O/
-    - xform/u/U/
+    - xform/u/Uː/
     - xform/ng/N/
     - xform/n/n/
     - xform/kw/KWH/
@@ -131,11 +131,11 @@ translator:
     - xform/m/m/
     - xform/l/l/
     - xform/s/ʃ/
-    - xform/z/Tʃ/
-    - xform/em/ɛm/
-    - xform/en/ɛn/
+    - xform/z/T͡ʃ/
+    - xform/em/ɛːm/
+    - xform/en/ɛːn/
     - xform/nj/ȵ/
-    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊY|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊy|"
+    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
   comment_format:
     - xform/\(.+?\)//    # 處理組詞拼音
     - xform/「.+?」//    # 處理組詞拼音
