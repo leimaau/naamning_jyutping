@@ -1321,7 +1321,6 @@
 審度時勢	sam2 dok6 si4 sai3
 廁足	cak1 zuk1
 玩弄	waan2 nung6
-玩弄	waan2 lung6
 玩弄	wun6 lung6
 捉弄	zok3 lung6
 耍弄	saa2 lung6
@@ -2410,11 +2409,11 @@
 玩遊戲	waan2 jau4 hi3
 玩遊戲機	waan2 jau4 hi3 gi1
 玩具	waan2 gyu6
-古玩	gu2 waan2
-珍玩	zan1 waan2
-玩物	waan2 mat6
-玩意	waan2 ji3
-玩藝	waan2 ngai6
+古玩	gu2 wun6
+珍玩	zan1 wun6
+玩物	wun6 mat6
+玩意	wun6 ji3
+玩藝	wun6 ngai6
 玩味	waan2 mi6
 玩耍	waan2 saa2
 玩笑	waan2 sliu3
@@ -2487,7 +2486,7 @@
 畫圈	waak6 hyun1
 畫知	waak6 zi1
 番禺	pun1 jyu4
-典當	din2 dong3
+典當	dim2 dong3
 當作	dong3 zok3
 妥當	to5 dong3
 當鋪	dong3 pu3
@@ -4350,7 +4349,7 @@
 登峰造極	dang1 fung1 cu3 gik6
 莫邪	mok6 je4
 是邪非邪	si6 je4 fi1 je4
-碘酊	din2 ding1
+碘酊	dim2 ding1
 酊劑	ding1 zai1
 顛茄酊	din1 ke4 ding1
 酩酊	ming5 ding2

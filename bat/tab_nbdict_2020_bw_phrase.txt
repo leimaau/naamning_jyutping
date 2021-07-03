@@ -2168,12 +2168,12 @@
 玩遊戲	waan6 jau4 hi3
 玩遊戲機	waan6 jau4 hi3 gi1
 玩具	waan6 gyu6
-古玩	gu2 waan6
-珍玩	zan1 waan6
-玩物	waan6 fat5
-玩物	waan6 mat5
-玩意	waan6 ji3
-玩藝	waan6 nji6
+古玩	gu2 wun6
+珍玩	zan1 wun6
+玩物	wun6 fat5
+玩物	wun6 mat5
+玩意	wun6 ji3
+玩藝	wun6 nji6
 玩味	waan6 mi6
 玩耍	waan6 saa2
 玩笑	waan6 sliu3
@@ -2234,7 +2234,7 @@
 畫圈	waa6 hyun1
 畫知	waa6 zi1
 番禺	pun1 jyu4
-典當	din2 daang3
+典當	dim2 daang3
 當作	daang3 zaak2
 妥當	to2 daang3
 當鋪	daang3 pu3
@@ -3952,7 +3952,7 @@
 登峰造極	dang1 foeng1 caau3 gik6
 莫邪	moek5 je4
 是邪非邪	si6 je4 fi1 je4
-碘酊	din2 ding1
+碘酊	dim2 ding1
 酊劑	ding1 zai6
 顛茄酊	din1 ge4 ding1
 酩酊	ming5 ding2
