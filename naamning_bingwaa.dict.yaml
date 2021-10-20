@@ -17,14 +17,14 @@
 # 2009年陳海倫、林亦《粵語平話土話方音字彙》 |  記音質量： ★★★☆☆  三颗星
 # 2016年余瑾《廣西平話研究》 | 記音質量： ★★★★☆  四颗星
 #
-#「基礎字音表」常用字取自上述文獻並經過審音，生僻字依中古音並結合文獻與實際推導
+#「基礎字音表」常用字取自上述文獻並經過審音，生僻字依中古音並結合文獻與實際推導，TSV檔 https://github.com/leimaau/Nanning-Dialect-Manual
 #「多音字標註」對常用多音字進行配詞標註
 #「本地詞彙表」收錄上述文獻已有的分類詞表並增補新詞
 #
 
 ---
 name: naamning_bingwaa
-version: "2021.07.03"
+version: "2021.10.20"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -45,14 +45,14 @@ import_tables:
 亞	aa3「亞洲；近指代詞（這），又作阿字，本字箇」	
 掗	aa3「掗賈」	
 阿	aa3「阿哥；近指代詞（這），又作亞字，本字箇」	
-啊	aa4「吆～～，哇哇叫」	
+啊	aa4「表示惋惜；吆～～，哇哇叫」	
 啊	aa5「表示疑問」	10%
-啊	aa6「表示惋惜」	10%
+啊	aa6「句首表示應答或醒悟，句末表示驚歎」	10%
 哀	aai1	
 哎	aai1	
 唉	aai1「唉聲嘆氣」	
 噯	aai1「同哎字」	10%
-埃	aai1	
+埃	aai1「埃及；塵埃」	
 挨	aai1「挨近」	
 欸	aai1「嘆詞」	
 噯	aai2「噯氣；嘆詞」	
@@ -97,6 +97,7 @@ import_tables:
 揠	aat2	
 遏	aat2	
 閼	aat2「閼塞」	
+嗷	(語)aau1「象聲詞；語氣詞」	5%
 擙	aau1「夠到」	
 熝	aau1「煨熟，同𤏶字」	
 爊	aau1「煨熟，同𤏶字」	
@@ -152,7 +153,7 @@ import_tables:
 罯	ap2「捂、敷，又作搕/罨/盦字」	
 一	at2	
 壹	at2	
-啊	(語)at3「打～啾ciu1，打噴嚏」	10%
+啊	(語)at3「打～啾[tʃʰiu53]，打噴嚏」	10%
 扤	at3「用力塞」	
 區	au1「姓」	10%
 歐	au1	
@@ -230,6 +231,7 @@ import_tables:
 阪	baan2	
 𢲔	baan2「摔；摔打；本字拌」	
 𢴬	baan2「摔；摔打；本字拌」	
+⿺走片	baan4「古壯字，爬」	
 爿	baan4	
 辦	baan6	
 扮	baan6	
@@ -242,6 +244,8 @@ import_tables:
 榜	baang2	
 綁	baang2	
 膀	baang2「肩膀」	
+髈	baang2「同膀字」	
+搒	baang3「划船」	
 謗	baang3	
 傍	baang4「傍晚」	
 嘭	(語)baang4「擬聲詞」	10%
@@ -253,6 +257,7 @@ import_tables:
 磅	baang4「磅礡」	
 膀	baang4「膀胱」	10%
 螃	baang4	
+髈	baang4「同膀字」	
 棒	(又)baang5	10%
 蚌	baang5	
 傍	baang6「依傍」	
@@ -261,6 +266,7 @@ import_tables:
 鎊	baang6	
 卟	(語)baap3「用力甩、糊上」	10%
 八	baat2	
+哵	baat2	
 坺	baat6	
 拔	baat6	
 跋	baat6	
@@ -276,14 +282,14 @@ import_tables:
 飽	baau2	
 報	baau3	
 豹	baau3	
-⿺包谷	baau4「古壯字，秕，本字穮」	
+⿺包谷	baau4「古壯字，秕，本字穮/𦔩」	
 刨	baau4	
 匏	baau4	
 咆	baau4	
 庖	baau4	
 狍	baau4	
 麅	baau4	
-穮	(語)baau4「～穀，秕穀」	10%
+穮	(語)baau4「～穀，秕穀，又作𦔩字」	10%
 袍	baau4	
 鉋	baau4	
 抱	baau5	
@@ -313,6 +319,7 @@ import_tables:
 匐	(又)bak6	10%
 蔔	bak6	
 泵	bam1	
+⿰口罈	bam6「古壯字，罈子」	
 奔	ban1	
 賓	ban1	
 彬	ban1	
@@ -321,6 +328,7 @@ import_tables:
 浜	ban1「同濱字」	
 濱	ban1	
 繽	ban1	
+臏	(又)ban1	5%
 賁	ban1「虎賁；姓」	
 錛	ban1	
 鬢	(又)ban1	5%
@@ -351,6 +359,7 @@ import_tables:
 憑	bang4「憑據」	
 嘭	bang4	
 彭	bang4	
+搒	bang4「笞打」	
 朋	bang4	
 棚	bang4	
 澎	bang4	
@@ -377,11 +386,11 @@ import_tables:
 䏽	bau6「瘻～，不整潔，臃腫」	
 啤	be1「啤酒」	
 屄	(白)be1「女陰」	
-㞎	be4「～㞎be5，屎」	
+㞎	be4「～㞎[pɛ24]，屎」	
 疤	(語)be4「麻～，麻子」	10%
-㞎	be5「㞎be4～，屎」	
+㞎	be5「㞎[pɛ21]～，屎」	
 唄	be6「語氣詞」	
-匾	ben2	
+匾	(白)ben2	
 扁	(白)ben2「扁菜；扁桃體；打，又作揙字」	
 揙	(白)ben2「打」	
 貶	(白)ben2	20%
@@ -435,6 +444,7 @@ import_tables:
 被	bi6「被動」	
 贔	bi6	
 避	bi6	
+陛	(又)bi6	10%
 鼻	bi6	
 伯	biak2	
 佰	biak2	
@@ -445,15 +455,16 @@ import_tables:
 白	biak6	
 柄	(白)biang3「名詞，刀～」	
 平	(白)biang4「便宜」	20%
-㧸	biang5「驅趕」	
-抨	(語)biang5「驅趕」	10%
-𢴒	biang5「驅趕」	
+㧸	biang5「驅趕，又作抨/搒字」	
+抨	(語)biang5「驅趕，又作搒字」	10%
+搒	(語)biang5「驅趕，又作抨字」	10%
+𢴒	biang5「驅趕，又作抨/搒字」	
 壁	bik2	
 愎	bik2	
 煏	bik2「火勢逼人」	
 璧	bik2	
 碧	bik2	
-迫	(訓)bik2「訓讀逼」	10%
+迫	(訓)bik2「訓讀逼，壓迫、擠迫」	10%
 逼	bik2	
 煸	bin1	
 砭	bin1	
@@ -461,6 +472,7 @@ import_tables:
 蝙	bin1	
 邊	bin1	
 鞭	bin1	
+匾	(文)bin2	
 扁	(文)bin2	
 揙	(文)bin2	
 貶	bin2	
@@ -538,7 +550,7 @@ import_tables:
 簸	(又)bo2「簸三萬，一種遊戲」	10%
 跛	(書)bo2	10%
 噃	bo3「語氣詞」	
-薄	bo6「薄荷」	10%
+薄	bo6「薄荷，又作蔢𦽅」	10%
 㩧	boek3「敲」	
 攴	(又)boek3	10%
 欂	boek6「欂子，柚子」	
@@ -649,6 +661,7 @@ import_tables:
 𦤣	but6	
 叉	caa1	
 差	caa1「差別」	
+掐	(語)caa1「掐，又作揢字」	5%
 揢	(又)caa1「掐」	10%
 搓	(白)caa1	20%
 杈	caa1	
@@ -778,11 +791,11 @@ import_tables:
 嗅	cau3「嗅覺」	
 臭	cau3	
 惆	cau4	
-奢	(又)ce1	10%
+奢	(又)ce1「奢侈的逆同化」	10%
 車	ce1「車輛」	
 且	ce2	
 扯	ce2	
-唓	ce3「唓咧le3，話多，本字啁嘐（嘐啁）」	
+唓	ce3「唓咧[lɛ55]，話多，本字啁嘐（嘐啁）」	
 笡	ce3「斜、陡」	
 斜	ce4	
 鵮	(語)cem1「鳥啄物」	10%
@@ -892,6 +905,7 @@ import_tables:
 諂	cim2	
 僭	cim3	
 塹	cim3	
+懺	(又)cim3	10%
 暹	cim3	
 仟	cin1	
 千	cin1	
@@ -922,7 +936,7 @@ import_tables:
 澈	cit2	
 竊	cit2	
 設	cit2	
-啾	(語)ciu1「打啊at3～，打噴嚏」	10%
+啾	(語)ciu1「打啊[ɐt5]～，打噴嚏，又作𠰉字」	10%
 悄	ciu1	
 昭	ciu1	
 繰	ciu1「繰邊」	
@@ -1015,10 +1029,10 @@ import_tables:
 蛆	cyu1	
 趨	cyu1	
 取	cyu2	
-處	cyu2「相處」	
+處	cyu2「相處，處理」	
 娶	cyu2	
 杵	cyu2	
-處	cyu3「處所」	
+處	cyu3「處所，到處」	
 趣	cyu3	
 川	cyun1	
 穿	cyun1	
@@ -1039,8 +1053,8 @@ import_tables:
 打	(外)daa1「十二個，英語dozen」	5%
 打	daa2「打人」	
 舵	(白)daa5	20%
-呆	daai1「書呆子」	10%
-獃	daai1「書獃子」	10%
+呆	daai1「書呆子，癡呆」	10%
+獃	daai1「書獃子，癡獃」	10%
 傣	daai2	
 歹	daai2	
 帶	daai3	
@@ -1079,6 +1093,7 @@ import_tables:
 鵮	(文)daam1「叼」	
 膽	daam2	
 紞	daam2「冕前垂者」	
+帎	daam3「冠俯前」	
 擔	(名)daam3「擔子」	10%
 壜	daam4	
 罈	daam4	
@@ -1137,6 +1152,7 @@ import_tables:
 宕	daang6	
 盪	daang6	
 蕩	daang6	
+趤	daang6	
 搭	daap2	
 撘	daap2「同搭字」	
 瘩	daap2	
@@ -1181,6 +1197,7 @@ import_tables:
 稻	daau6	
 蹈	daau6	
 道	daau6	
+䐎	dai1	
 低	dai1	
 氐	dai1「古民族名；二十八宿之一」	
 底	dai2	
@@ -1218,8 +1235,9 @@ import_tables:
 抌	dam2「捶；編織，古壯字𦅯；打劫，壯語daemj」	
 揼	dam2「同抌字」	
 𦅯	dam2「古壯字，編織」	
-髧	(語)dam3「垂下，又作紞字」	10%
-紞	(語)dam3「垂下，又作髧字」	10%
+帎	(語)dam3「垂下」	10%
+髧	(語)dam3「垂下，又作紞字，本字帎」	10%
+紞	(語)dam3「垂下，又作髧字，本字帎」	10%
 坍	(語)dam4「壓；塌下，古壯字埮」	10%
 埮	(語)dam4「古壯字，倒塌，又作坍字」	10%
 𧽼	dam4「～～轉」	
@@ -1301,12 +1319,13 @@ import_tables:
 哣	dau6「吽哣，呆滯」	
 痘	dau6	
 竇	dau6「情竇；姓」	
+讀	dau6「句讀」	10%
 豆	dau6	
 逗	dau6	
 爹	de1	
 嗲	de2「撒嬌」	
 襶	(習)de2「褦襶」	
-哆	(語)de3「嗬ho4哆，嗩吶」	10%
+哆	(語)de3「嗬[ho21]～，嗩吶」	10%
 嗲	de4「流～～，滴瀝貌」	
 鵮	(白)dem1「啄；叼」	
 點	(白)dem2「點鹽，點水」	20%
@@ -1319,7 +1338,7 @@ import_tables:
 掉	(白)deu6「丟棄」	20%
 調	(白)deu6「調轉、調動，又作掉轉、掉動」	20%
 啲	di3「表示少量；表示處所」	
-哋	di6「我哋，我們」	
+哋	di6「我～，我們，本字等」	
 地	di6	
 掟	(語)diang3「擲，扔」	10%
 椗	(語)diang3「蒂」	10%
@@ -1405,7 +1424,7 @@ import_tables:
 蝶	dip6	
 諜	dip6	
 跌	dit2	
-啲	(又)dit3「表示少量」	10%
+啲	(又)dit3「表示少量，一說本字尐」	10%
 秩	dit6	
 迭	dit6	
 䯾	diu1「小兒留髮」	
@@ -1468,7 +1487,7 @@ import_tables:
 牘	doek6	
 犢	doek6	
 獨	doek6	
-讀	doek6	
+讀	doek6「讀書」	
 黷	doek6	
 東	doeng1	
 冬	doeng1	
@@ -1554,12 +1573,12 @@ import_tables:
 腯	(又)dut3	10%
 奪	dut6	
 𡁯	dut6	
-噘	(語)dyu1「蚊蟲叮」	5%
-噘	(語)dyu3「蜂蜇」	10%
+䐎	(語)dyu1「皮膚上的小疙瘩」	10%
+噘	(語)dyu3「蚊蟲叮」	10%
 哎	(又)e1「表示驚異」	10%
 欸	(又)e1「表示驚異」	10%
 ⿸尸且	e3「古壯字，屎，又作𡲢字」	
-嘅	(語)e3「弱化讀音」	10%
+嘅	(語)e3「弱讀」	10%
 虵	(語)e4「古壯字，螠～，蛤蚧」	10%
 欸	e6「嘆詞」	
 誒	e6	
@@ -1658,9 +1677,9 @@ import_tables:
 缶	fau5	
 埠	fau6「商埠」	
 㹃	(又)fe3	10%
-㹃	(語)fe5「褦le5㹃，同褦襶」	10%
-𢝵	(語)fet3「揈fang4～～，輕浮」	10%
-𢞵	(語)fet3「揈fang4～～，輕浮」	10%
+㹃	(語)fe5「褦[lɛ24]㹃，同褦襶」	10%
+𢝵	(語)fet3「揈[fɐŋ21]～～，輕浮」	10%
+𢞵	(語)fet3「揈[fɐŋ21]～～，輕浮」	10%
 啡	fi1「咖啡」	
 妃	fi1	
 扉	fi1	
@@ -1684,7 +1703,7 @@ import_tables:
 𢝵	fit3「抽打」	
 𢞵	fit3「抽打」	
 吙	(語)fo4「擬聲詞，～～聲，熟睡聲」	10%
-吙	(語)fo6「啡fi3啡fi3～～，形容工作緊張，又作䬍字」	10%
+吙	(語)fo6「啡[fi55]啡[fi55]～～，形容工作緊張，又作䬍字」	10%
 復	(習)foek2	
 複	foek2	
 幅	foek2	
@@ -1718,7 +1737,7 @@ import_tables:
 鳳	foeng6	
 奉	foeng6	
 縫	foeng6「裂縫」	
-䬍	(語)fot6「啡fi3啡fi3～～，形容工作緊張」	10%
+䬍	(語)fot6「啡[fi55]啡[fi55]～～，形容工作緊張」	10%
 伕	fu1	
 俘	fu1	
 夫	fu1「夫妻」	
@@ -1860,7 +1879,7 @@ import_tables:
 感	gaam2	
 敢	gaam2	
 橄	gaam2	
-咁	gaam3「廣州話用字，表示程度，箇物的合音」	
+咁	gaam3「廣州話用字，表示程度，箇物（箇麽）的合音」	
 尷	gaam3	
 淦	gaam3	
 監	gaam3「太監」	10%
@@ -2040,7 +2059,7 @@ import_tables:
 趷	gat6「～路，滾蛋，又作趌/䞘字」	
 𠹳	gat6「（粥）稠，疑本字渴」	
 𢷒	(語)gat6「擡、扛，本字揭，又作搩字」	10%
-佝	(又)gau1	10%
+佝	(文)gau1「佝僂」	
 勾	(文)gau1	
 溝	gau1	
 牞	gau1	
@@ -2090,6 +2109,7 @@ import_tables:
 騎	(又)ge4「騎馬」	10%
 箝	(白)gem4	
 鉗	(白)gem4	
+黔	(白)gem4	20%
 黚	(白)gem4	20%
 舔	(語)gem5「又作䭑字」	10%
 鰜	(白)gem5「又作魽字」	20%
@@ -2172,7 +2192,7 @@ import_tables:
 祈	gi4	
 祺	gi4	
 耆	gi4	
-茄	(白)gi4「茄瓜」	20%
+茄	(白)gi4「茄瓜，茄子」	20%
 衹	gi4「同祇字；衹衼」	
 騎	gi4「騎馬」	
 鰭	gi4	
@@ -2236,6 +2256,7 @@ import_tables:
 堅	(又)gin1	10%
 犍	gin1「犍牛」	
 肩	(又)gin1	10%
+揵	gin2「難」	
 趼	(又)gin2	10%
 建	gin3	
 毽	(書)gin3	10%
@@ -2243,10 +2264,13 @@ import_tables:
 見	gin3	
 乾	gin4「乾坤」	
 掮	gin4	
+揵	gin4「掮扛」	
 犍	gin4「犍爲縣」	
 虔	gin4	
 件	(又)gin6	10%
 健	gin6	
+揵	gin6「同楗字」	
+腱	(又)gin6	10%
 鍵	gin6	
 京	ging1	
 兢	ging1	
@@ -2316,13 +2340,14 @@ import_tables:
 轎	giu6	
 哥	go1	
 歌	go1	
-嗰	go2	
+嗰	go2「廣州話用字，那，本字箇」	
 果	go2	
 猓	go2	
 粿	go2	
 蜾	go2	
 裹	go2	
 餜	go2	
+𠜴	go2	
 個	go3	
 箇	go3	
 ⿵门可	go4「古壯字，彎曲」	
@@ -2336,7 +2361,8 @@ import_tables:
 鵠	goek2「鵠的」	10%
 侷	goek6	
 局	goek6	
-焗	goek6「悶」	
+焅	(語)goek6「悶，俗字焗」	10%
+焗	goek6「悶，本字焅」	
 跼	goek6	
 鋦	goek6「金屬元素，符號Cm」	
 碽	goeng1	
@@ -2398,9 +2424,11 @@ import_tables:
 顧	gu3	
 瓠	(語)gu4「瓠子瓜」	10%
 傀	gui1「傀奇」	
+瑰	(又)gui1「瑰寶」	10%
 䠩	gui6「累，又作癐/攰字」	
 攰	gui6「累，又作癐/䠩字」	
 癐	gui6「累，又作䠩/攰字」	
+㕵	guk2「同國字」	
 國	guk2	
 幗	guk2	
 虢	guk2	
@@ -2443,9 +2471,9 @@ import_tables:
 褂	gwaa3	
 呱	(語)gwaa4「疊音詞綴，響～～」	10%
 乖	gwaai1	
-拐	gwaai2「拐帶」	
-枴	gwaai2	
-柺	gwaai2	
+拐	gwaai2「<動>拐帶，拐彎；<名>拐棍」	
+枴	gwaai2「枴棍」	
+柺	gwaai2「柺棍」	
 蒯	(又)gwaai2	10%
 𧊅	gwaai2「螞～，青蛙，壯語」	
 怪	gwaai3	
@@ -2503,9 +2531,11 @@ import_tables:
 鈞	(又)gwan1	10%
 滾	gwan2	
 袞	gwan2	
+䜇	gwan3「騙，又作𧥺/𧬪/謴字」	
 棍	gwan3	
-謴	gwan3「騙，又作𧥺字」	
-𧥺	gwan3「騙，又作謴字」	
+謴	gwan3「騙，又作𧥺/䜇/𧬪字」	
+𧥺	gwan3「騙，又作謴/䜇/𧬪字」	
+𧬪	gwan3「騙，又作𧥺/䜇/謴字」	
 羣	gwan4	
 群	gwan4	
 裙	gwan4	
@@ -2520,8 +2550,9 @@ import_tables:
 骨	gwat2	
 崛	gwat6	
 掘	gwat6	
-𡲬	gwat6「禿、鈍；～頭巷，死衚衕」	
+𥏘	gwat6「禿、鈍；～頭巷，死衚衕」	
 𠺌	gwe1	
+𠜴	(語)gwe2「割」	10%
 瘸	gwe4	
 蟝	(語)gwe4「蠄～，蟾蜍，又作瘸字」	10%
 擖	(語)gwet2「用刀刮」	10%
@@ -2587,7 +2618,6 @@ import_tables:
 狷	gyun3	
 眷	gyun3	
 絹	gyun3	
-腱	(又)gyun3	10%
 乾	(又)gyun4	10%
 拳	gyun4	
 掮	(又)gyun4	10%
@@ -2617,6 +2647,7 @@ import_tables:
 瘕	haa1「扯瘕（掹瘕），喘咳」	
 蝦	haa1「蝦米」	
 𨉣	haa1	
+哈	(又)haa4「笑～～；～一口氣」	10%
 瑕	haa4	
 瘕	haa4「同瑕字」	
 蝦	haa4「蝦蟆，又作蛤蟆」	10%
@@ -2745,7 +2776,7 @@ import_tables:
 蒿	haau1	
 薅	haau1	
 好	haau2「好壞」	
-巧	haau2「技巧」	
+巧	haau2「技巧，巧克力」	
 好	haau3「喜好」	
 孝	haau3	
 效	haau3	
@@ -2767,8 +2798,9 @@ import_tables:
 㞓	hai1「女陰（即谿，山間河），俗字閪」	
 閪	hai1「女陰，本字㞓（即谿，山間河）」	
 啟	(又)hai2	10%
-喺	hai2	
-許	(語)hai3「給」	10%
+喺	hai2「粵方言字，在」	
+與	(語)hai3「給，俗字許」	10%
+許	(語)hai3「給，本字與」	10%
 兮	hai4	
 奚	hai4	
 蹊	hai4「蹊徑」	
@@ -2778,7 +2810,7 @@ import_tables:
 黑	hak2	
 欽	ham1	
 扻	ham5「磕、碰」	
-冚	ham6「蓋得嚴密；全部，冚𠾴唥」	
+冚	ham6「嚴密；全部，冚𠾴唥，本字咸」	
 訢	han1	
 忻	han1	
 昕	han1	
@@ -2810,7 +2842,8 @@ import_tables:
 桁	(又)hang4「桁條」	10%
 衡	hang4	
 瞌	hap3「小睡；合眼」	
-𧪞	(語)hap3「欺負」	10%
+𧪞	(語)hap3「欺負，又作𧬈字」	10%
+𧬈	hap3「欺負」	
 乞	hat2「單字讀」	
 訖	(又)hat2	10%
 迄	(又)hat2	10%
@@ -2838,8 +2871,8 @@ import_tables:
 後	hau6	
 逅	hau6	
 㹃	he3「翻、撬」	
-哈	(語)he4「笑～～」	10%
-嘻	(語)he4「笑～～」	10%
+哈	(又)he4「笑～～，又作嘻字」	10%
+嘻	(又)he4「笑～～，又作哈字」	10%
 喊	(白)hem3	20%
 慳	(白)hen1	20%
 蜆	(白)hen2	
@@ -2883,7 +2916,7 @@ import_tables:
 係	(又)hi3	10%
 系	(又)hi3	10%
 繫	(又)hi3	10%
-唏	(語)hi4「～哩li4㗾he4咧le4，喘氣聲」	10%
+唏	(語)hi4「～哩[li21]㗾[hɛ21]咧[lɛ21]，喘氣聲」	10%
 吓	hiak2「同嚇字」	
 嚇	hiak2	
 喀	hiak2「喀山」	
@@ -2913,14 +2946,19 @@ import_tables:
 歉	him3	
 芡	him3「芡實」	
 嫌	(白)him4	20%
+㩮	(又)hin1	10%
 掀	(又)hin1	10%
+攐	(又)hin1	10%
+攑	(又)hin1	10%
 牽	(又)hin1	10%
 祆	hin1	
+褰	(又)hin1	10%
 軒	(又)hin1	10%
+鍁	(又)hin1	10%
 騫	hin1	
+𣔙	(又)hin1	10%
 顯	hin2	
 蜆	(文)hin2	
-衍	(又)hin2	5%
 譴	hin2	
 遣	hin2	
 憲	hin3	
@@ -2971,7 +3009,7 @@ import_tables:
 苛	ho1	
 何	ho4	
 和	ho4「和麪，和氣，和棋」	
-嗬	ho4「嘆詞；～哆de3，嗩吶」	
+嗬	ho4「嘆詞；～哆[tɛ55]，嗩吶」	
 河	ho4	
 荷	ho4「薄荷，荷花」	
 呵	(語)ho5「表示詢問」	10%
@@ -2981,7 +3019,7 @@ import_tables:
 吙	(又)hoe1「呼氣聲」	5%
 靴	hoe1	
 㗾	hoe4「擬聲詞」	
-㗾	hoe5「㗾hoe4～聲，熱鬧貌」	
+㗾	hoe5「㗾[hœ21]～聲，熱鬧貌」	
 哭	hoek2	
 斛	hoek6	
 鵠	hoek6「鴻鵠」	
@@ -3072,7 +3110,10 @@ import_tables:
 詼	hui1	
 魁	(又)hui1	5%
 悔	hui2	
+洧	hui2	
+痏	hui2	
 賄	hui2	
+鮪	hui2	
 晦	hui3	
 誨	hui3	
 惑	huk6	
@@ -3115,16 +3156,22 @@ import_tables:
 許	hyu2	
 去	hyu3	
 酗	hyu3	
+㩮	hyun1「同攑字」	
 喧	hyun1	
 圈	hyun1「圓圈」	
 嬛	hyun1「便嬛」	
 掀	hyun1	
+攐	hyun1	
+攑	hyun1	
 棬	hyun1	
 牽	hyun1	
 祆	(又)hyun1	10%
 萱	hyun1	
+褰	hyun1	
 軒	hyun1	
+鍁	hyun1	
 騫	(又)hyun1	10%
+𣔙	hyun1	
 顯	(又)hyun2	10%
 犬	hyun2	
 甽	hyun2「同畎字」	
@@ -3188,14 +3235,15 @@ import_tables:
 夜	(白)jaa6「半夜」	
 暇	jaa6	
 吔	(又)jaak3「語氣詞，哎～，表示驚異」	10%
-呝	(語)jaak3「㕭jaau1～，吵嚷」	10%
+呝	(語)jaak3「㕭[jau53]～，吵嚷」	10%
 滲	(語)jaam3「滲漏，古壯字作湆」	10%
 眨	(白)jaap2	20%
 熠	(語)jaap6「詞綴，搧～～，來回搧動」	10%
 瞎	jaat2	
-㕭	jaau1「～呝jaak3，吵嚷」	
+㕭	jaau1「～呝[jak5]，吵嚷」	
 㕭	jaau3「咿～，不認真，又作咿呦」	
 呦	(語)jaau3「咿呦，不認真，又作咿㕭」	10%
+效	(語)jaau3「效果」	10%
 𠯋	jai4「劣質的，本字勩」	
 跩	(語)jai5「孩童頑皮」	10%
 𠯋	jai5「孩童頑皮，本字跩」	
@@ -3314,6 +3362,7 @@ import_tables:
 翳	(語)ji3「翳燈，熄燈」	10%
 肄	ji3	
 薏	ji3	
+咦	ji4	
 圯	ji4	
 夷	ji4	
 姨	ji4	
@@ -3330,7 +3379,7 @@ import_tables:
 頤	ji4	
 飴	ji4	
 以	ji5	
-咦	ji5	
+咦	(又)ji5	10%
 已	ji5	
 矣	ji5	
 迤	ji5「迤邐」	
@@ -3412,13 +3461,12 @@ import_tables:
 嫣	(又)jin1	
 煙	(又)jin1	10%
 菸	(又)jin1	10%
-焉	jin1「何也」	
+焉	jin1「副詞，焉能，焉知」	
 燕	(又)jin1「燕京」	5%
 胭	(又)jin1	10%
 閼	(又)jin1「閼氏」	10%
 偃	jin2	
 演	(書)jin2	
-衍	(又)jin2	5%
 躽	jin2	
 鼴	jin2	
 咽	(又)jin3「吞咽」	10%
@@ -3433,7 +3481,7 @@ import_tables:
 延	(又)jin4	10%
 弦	(又)jin4	10%
 絃	(又)jin4	10%
-焉	jin4「助詞」	
+焉	jin4「助詞，善莫大焉；代詞，心不在焉」	
 然	(又)jin4	10%
 燃	(又)jin4	10%
 筵	(又)jin4	10%
@@ -3466,6 +3514,7 @@ import_tables:
 咽	(又)jit2「哽咽」	10%
 噎	jit2	
 謁	jit2	
+黦	jit2「色壞也」	
 拽	(又)jit6	10%
 吆	jiu1「吆喝」	
 夭	jiu1	
@@ -3621,7 +3670,7 @@ import_tables:
 湮	(又)jyun1	10%
 煙	jyun1	
 菸	jyun1	
-焉	(又)jyun1「何也」	10%
+焉	(又)jyun1	10%
 燕	jyun1「燕京」	5%
 眢	jyun1	
 胭	jyun1	
@@ -3676,7 +3725,7 @@ import_tables:
 涎	(又)jyun4	10%
 湲	jyun4	
 源	jyun4	
-焉	(又)jyun4「助詞」	10%
+焉	(又)jyun4	10%
 然	jyun4	
 燃	jyun4	
 爰	jyun4	
@@ -3723,6 +3772,7 @@ import_tables:
 院	jyun6	
 乙	jyut2	
 咽	jyut2「哽咽」	
+黦	jyut2「黃黑色」	
 噦	jyut5「嘔吐」	
 悅	jyut5	
 曰	jyut5	
@@ -3736,6 +3786,7 @@ import_tables:
 咖	kaa1「咖啡」	
 喀	kaa1「喀嚓」	
 拤	kaa1「掐，又作揢字」	
+掐	(語)kaa1「掐，又作拤字」	5%
 揢	kaa1「掐，又作拤字」	
 假	kaa3「放假」	
 旮	kaa3	
@@ -3769,7 +3820,7 @@ import_tables:
 郭	(白)kaak2	20%
 霍	(白)kaak2	20%
 咯	(語)kaak3「～痰，吐痰，又作喀字」	10%
-喀	(語)kaak3「～痰，吐痰，又作咯字；瘦嚜maak3～，很瘦，瘦蜢躿的陽入對轉」	10%
+喀	(語)kaak3「～痰，吐痰，又作咯字；瘦嚜[mak5]～，很瘦，瘦蜢躿的陽入對轉」	10%
 勘	kaam1	
 堪	kaam1	
 嵌	kaam1	
@@ -3809,19 +3860,21 @@ import_tables:
 蹊	kai1「蹊蹺」	
 啓	kai2	
 啟	kai2	
+剋	(語|新)kai3「當代官話借詞，打、罵，捱～」	10%
 契	kai3	
 克	kak2	
 剋	kak2	
 刻	kak2	
 揢	(語)kak2「卡；坎、階；<量>塊」	10%
+氪	kak2	
 㩿	(訓)kak3「㪐～，路不平，說話結巴」	
 禁	kam1「耐久，耐受」	10%
 襟	kam1	
-冚	kam2「蓋上，本字𠖫」	
-搇	kam2「蓋，本字𠖫；摑」	
+冚	kam2「蓋上，又作𠖫字」	
+搇	kam2「蓋，又作𠖫字；摑」	
 錦	(又)kam2	10%
-𠖫	kam2「蓋」	
-𢫏	kam2「蓋，本字𠖫；摑」	
+𠖫	kam2「蓋，又作冚字」	
+𢫏	kam2「蓋，又作𠖫字；摑」	
 蟾	(訓)kam4「訓讀蠄，蠄蟝」	10%
 蠄	kam4	
 坑	kang1	
@@ -3844,7 +3897,7 @@ import_tables:
 摳	kau1	
 牞	(語)kau1「擡起，又作摳字」	10%
 瞘	kau1	
-佝	(又)kau3	10%
+佝	kau3「佝瞀」	
 叩	kau3	
 媾	(白)kau3	
 寇	kau3	
@@ -3858,7 +3911,7 @@ import_tables:
 橛	(語)ket3「量詞，截」	10%
 撬	(白)keu3「亂翻」	10%
 翹	(語)keu3「乾～～，乾貌」	10%
-翹	(語)keu4「硬～～，乾硬貌；～翹keu3，死亡」	10%
+翹	(語)keu4「硬～～，乾硬貌；～翹[kʰɛu55]，死亡」	10%
 崎	ki1「崎嶇」	
 畸	ki1	
 企	ki2	
@@ -3878,10 +3931,11 @@ import_tables:
 強	kiang2「勉強」	
 羥	kiang2「氫氧基」	
 鏹	kiang2	
-躿	(語)kiang3「瘦蜢miang3～，非常瘦」	10%
+躿	(語)kiang3「瘦蜢[miɐŋ55]～，瘦貌」	10%
 擊	kik2	
 揢	kik2「阻礙、絆，本字棘」	
 棘	(語)kik2「阻礙、絆」	10%
+隙	(又)kik2	10%
 𠽤	kik2「阻礙、絆，本字棘」	
 傾	king1	
 檾	king2	
@@ -3917,6 +3971,7 @@ import_tables:
 曲	koek2	
 麯	koek2	
 麴	koek2	
+焅	koek2	
 硞	koek2「碌硞」	
 酷	koek2	
 孔	koeng2	
@@ -3954,6 +4009,7 @@ import_tables:
 誇	kwaa1	
 胯	(又)kwaa1	5%
 跨	kwaa1	
+𠜴	(語)kwaa2「割」	10%
 胯	kwaa3	
 呱	(語)kwaa4「疊音詞綴，～～聲」	10%
 拐	(又)kwaai2「拐棍」	10%
@@ -3979,10 +4035,14 @@ import_tables:
 虧	kwai1	
 徽	(又)kwai1	10%
 揮	(語)kwai1「揮春，春聯」	10%
+暉	(又)kwai1	10%
+琿	(又)kwai1「璦琿」	10%
 盔	(又)kwai1	10%
 窺	kwai1	
 規	kwai1	
+輝	(又)kwai1	10%
 魁	(又)kwai1	5%
+麾	(又)kwai1	10%
 儈	kwai3	
 劊	kwai3	
 愧	kwai3	
@@ -4018,7 +4078,7 @@ import_tables:
 掝	kwik2「破裂聲」	
 隙	kwik2	
 佉	kyu1	
-佝	kyu1	
+佝	kyu1「同拘字」	
 俱	(又)kyu1	5%
 區	kyu1「區域」	
 嶇	kyu1	
@@ -4087,8 +4147,7 @@ import_tables:
 嘞	laak3「裂開」	
 嘞	(語)laak3「～咑，不整潔」	10%
 挌	(語)laak3「打；擊」	10%
-樂	laak5「快樂」	
-樂	(又)laak5「音樂」	10%
+樂	laak5「快樂；<又>音樂」	
 咯	laak5「咯血」	
 洛	laak5	
 烙	laak5	
@@ -4103,7 +4162,7 @@ import_tables:
 藍	laam4	
 襤	laam4	
 攬	laam5	
-欖	laam5	
+欖	(文)laam5	
 灠	laam5	
 覽	laam5	
 檻	laam6「欄杆；獸檻」	
@@ -4128,23 +4187,25 @@ import_tables:
 廊	laang4	
 榔	laang4	
 狼	laang4	
-琅	laang4	
+琅	laang4「琳琅，琅琊」	
 瑯	laang4	
 硠	laang4	
 螂	laang4	
 郎	laang4	
 鋃	laang4	
 ⿰氵郎	laang5「古壯字，漱、涮洗，又作𠺘字」	
-㙟	laang5	
-埌	laang5「埌東」	
+㙟	laang5「江、湖邊的地窪地」	
+埌	laang5「地名，埌東、埌西，本字㙟/塱」	
+塱	laang5「同㙟字」	
 朗	laang5	
 𠺘	laang5「漱；涮洗；古壯字⿰氵郎」	
 𠻴	laang5「～口，漱口，又作𠺘字」	
+埌	laang6「墳墓」	
 浪	laang6	
 䁽	laap2「掃視」	
 拉	(語)laap2「包攬，又作擸字」	10%
 擸	laap2「包攬」	
-垃	laap5	
+垃	laap5「垃圾，本字擸𢶍」	
 拉	laap5「拉雜（垃雜），拉颯（垃圾）」	10%
 搚	laap5	
 擸	laap5「擸𢶍，又作垃圾」	
@@ -4152,7 +4213,7 @@ import_tables:
 蠟	laap5	
 鑞	laap5	
 𤊶	(語)laat3「熱」	10%
-剌	laat5「乖剌」	
+剌	laat5「乖剌，剌謬；<又>割開」	
 喇	laat5「哈喇」	
 瘌	laat5「瘌痢」	
 癩	laat5「癩痢，同瘌痢」	
@@ -4164,7 +4225,7 @@ import_tables:
 嫪	(語)laau3「淫蕩」	10%
 勞	laau4	
 嘮	laau4	
-撈	(文)laau4「打撈；撈籬li4」	
+撈	(文)laau4「打撈；撈籬[li21]」	
 牢	laau4	
 癆	laau4	
 佬	laau5「詞綴賤稱，本字獠」	
@@ -4204,6 +4265,7 @@ import_tables:
 落	(語)lak2「落～，下來」	10%
 㪐	(訓)lak3「～㩿，路不平，說話結巴」	
 嘞	(語)lak3「詞綴，跳～～」	10%
+㔹	lak5	
 勒	lak5	
 叻	(又)lak5「叻埠，石叻」	10%
 簕	lak5「植物的刺」	
@@ -4231,6 +4293,7 @@ import_tables:
 淪	lan4	
 燐	lan4	
 磷	lan4	
+繗	lan4	
 綸	lan4「滿腹經綸」	
 輪	lan4	
 轔	lan4	
@@ -4249,7 +4312,7 @@ import_tables:
 䉕	(語)lang1「古壯字，篩」	5%
 棱	(語)lang3「鞭痕」	10%
 稜	(語)lang3「鞭痕」	10%
-踜	(語)lang3「跳～～，跳貌；半～掯kang3，做事做一半」	10%
+踜	(語)lang3「跳～～，跳貌；半～掯[kʰɐŋ55]，做事做一半」	10%
 愣	(常)lang4	
 掕	(語)lang4「攔截」	10%
 楞	(常)lang4	
@@ -4302,22 +4365,25 @@ import_tables:
 鏤	lau6	
 陋	lau6	
 哩	le1「助詞」	
-咧	le3「大大咧咧；唓ce3咧，話多，本字啁嘐（嘐啁）」	
+咧	le3「大大咧咧；唓[tʃʰɛ55]咧，話多，本字啁嘐（嘐啁）」	
 咧	(語)le4「語氣詞」	10%
 哩	(語)le4「語氣詞」	10%
 籬	(語)le4「<名>漁網；<動>～魚，網魚」	10%
-褦	(習)le5「褦襶；褦㹃fe5，同褦襶」	
+褦	(習)le5「褦襶；褦㹃[fɛ24]，同褦襶」	
 舐	(語)lem5「又作舔字」	10%
 舔	(語)lem5「又作舐字」	10%
 ⿰谷列	lep2「古壯字，穀～，穀殼」	
+𤊶	(語)let3「熱」	10%
+剌	(語)let6「用刀劃」	10%
 嫽	(白)leu1「挑逗」	5%
 撩	(白)leu1「撩耳朵；撩起」	5%
 鷯	(白)leu1	20%
 鷯	(又)leu2	10%
-嘐	(語)leu3「啁zeu3嘐，嘴巴厲害」	10%
+嘐	(語)leu3「啁[tʃɛu55]嘐，嘴巴厲害」	10%
 寥	(語)leu3「空寥寥，空蕩蕩」	10%
 蔫	(語)leu3「古壯字𦼔」	10%
-𦼔	leu3「古壯字，枯萎、蔫」	
+𣩢	(語)leu3「枯萎、蔫，古壯字𦼔」	10%
+𦼔	leu3「古壯字，枯萎、蔫，疑本字𣩢」	
 獠	(白)leu4「獠牙」	20%
 哩	li1「哩哩啦啦」	
 喱	li1	
@@ -4357,11 +4423,12 @@ import_tables:
 蒞	li6	
 莉	li6	
 鬁	li6	
-叻	liak3「能幹」	
+㔹	(語)liak3「能幹，俗字叻」	10%
+叻	liak3「能幹，本字㔹」	
 掠	liak5	
 略	liak5	
 砳	liak5「石聲，二石相擊之聲」	
-靚	(訓)liang3「漂亮」	
+靚	(訓)liang3「漂亮，本字令」	
 涼	liang4	
 梁	liang4	
 樑	liang4	
@@ -4417,7 +4484,7 @@ import_tables:
 拎	(書)ling1	10%
 靈	(白)ling1「精靈，聰明」	5%
 坽	(語)ling3「坡道；傾斜」	10%
-鈴	(語)ling3「鈴啷lung2，搖鈴聲；～啷lung2佬，貨郎」	10%
+鈴	(語)ling3「鈴啷[loŋ33]，搖鈴聲；～啷[loŋ33]佬，貨郎」	10%
 伶	ling4	
 凌	ling4	
 坽	ling4	
@@ -4472,6 +4539,7 @@ import_tables:
 遼	liu4	
 鐐	liu4	
 镽	liu4「細長」	
+𣩢	liu4	
 𩯊	liu4「細長」	
 了	liu5	
 瞭	liu5「瞭解」	
@@ -4496,6 +4564,8 @@ import_tables:
 瘰	lo5	
 裸	lo5	
 摞	lo6	
+趢	(語)loek2「仆仆～～，踉蹌」	10%
+轆	(語)loek2「滾」	10%
 㟤	loek5	
 六	loek5	
 錄	loek5	
@@ -4507,6 +4577,8 @@ import_tables:
 碌	loek5	
 祿	loek5	
 綠	loek5	
+趢	loek5	
+轆	loek5「軲轆」	
 陸	loek5	
 鹿	loek5	
 麓	loek5	
@@ -4518,7 +4590,7 @@ import_tables:
 嚨	loeng4	
 瓏	loeng4	
 矓	loeng4	
-籠	loeng4「燈籠」	
+籠	loeng4「蒸籠，燈籠」	
 聾	loeng4	
 朧	loeng4	
 躘	loeng4	
@@ -4534,7 +4606,7 @@ import_tables:
 攣	(習)lon1「鑽入；頭髮捲曲」	5%
 鸞	(又)lon4	10%
 圝	(語)lon4「圓形」	10%
-捋	(語)lot3「滑落；滑捋捋」	10%
+捋	(語)lot3「滑落；滑～～」	10%
 嚕	lu1	
 髏	(習)lu1	
 盧	lu4	
@@ -4595,7 +4667,7 @@ import_tables:
 卵	lun5	
 乱	lun6	
 亂	lun6	
-啷	(語)lung2「鈴ling3～佬，貨郎」	10%
+啷	(語)lung2「鈴[leŋ55]～佬，貨郎」	10%
 捋	lut5	
 閭	lyu4	
 驢	lyu4	
@@ -4615,7 +4687,8 @@ import_tables:
 濾	lyu6	
 慮	lyu6	
 攣	(書)lyun4「痙攣」	
-聯	lyun4「聯繫，聯合；<語>縫製」	
+繗	(語)lyun4「縫製，又作聯字」	10%
+聯	lyun4「聯繫，聯合；<語>縫製，疑本字繗」	
 冽	(又)lyut5	10%
 列	(又)lyut5	10%
 劣	lyut5	
@@ -4625,6 +4698,7 @@ import_tables:
 嗎	maa1「疑問助詞」	
 嚜	maa1「助詞」	
 孖	(訓)maa1「孿生，連帶」	
+巴	(語)maa1「～望[moŋ22]，原讀的逆同化」	10%
 螞	maa1「螞螂，蜻蜓；螞𧊅，青蛙，壯語」	5%
 𢲫	maa1「摟，抱；抓，撓」	
 嘛	maa3「助詞」	
@@ -4645,6 +4719,7 @@ import_tables:
 螞	maa6「螞蚱」	
 罵	maa6	
 駡	maa6	
+⿰罢瓜	maai1「古壯字，～瓜，瓠子，壯語本義水瓢」	
 埋	maai4	
 霾	maai4	
 買	maai5	
@@ -4652,7 +4727,7 @@ import_tables:
 邁	maai6	
 掰	(語)maak2「同擘字」	10%
 擘	maak2「掰」	
-嚜	(語)maak3「砍、鋤；瘦～喀kaak3，很瘦，瘦蜢躿的陽入對轉」	10%
+嚜	(語)maak3「砍、鋤；瘦～喀[kʰak5]，很瘦，瘦蜢躿的陽入對轉」	10%
 扳	(白)maan1「扳倒；攀爬」	20%
 摱	maan1	
 攀	(白)maan1「攀爬，本字扳」	20%
@@ -4708,12 +4783,14 @@ import_tables:
 劘	(語)mai1「削」	5%
 𠜱	(白)mai1「削，又作劘字」	20%
 咪	mai3「麥克風」	10%
-咪	(語)mai3「不要」	10%
+咪	(語)mai3「不要，冇係的合音」	10%
 眯	mai3「眯眼」	
 瞇	mai3「瞇眼」	
 謎	mai4	
 迷	mai4	
+醚	mai4	
 弭	(又)mai5	10%
+渳	(又)mai5	10%
 眯	mai5「塵物入眼」	10%
 瞇	mai5「塵物入眼」	10%
 米	mai5	
@@ -4769,7 +4846,7 @@ import_tables:
 問	man6	
 掹	mang1「拉，扯」	
 擝	mang1「同掹字」	
-䁅	(語)mang2「䁅𤿆zang2，同𤷪𤺧」	5%
+䁅	(語)mang2「～𤿆[tʃɐŋ33]，同𤷪𤺧」	5%
 䒐	mang2	
 𤷪	mang2	
 䁅	(語)mang3「暴躁」	10%
@@ -4802,11 +4879,11 @@ import_tables:
 茂	mau6	
 謬	mau6	
 貿	mau6	
-咩	me1	
+咩	me1「羊叫聲」	
 哶	me1	
 孖	(白)me1「孖指，六指」	20%
 乜	me2「～斜，歪斜」	
-歪	(語)me2	5%
+歪	(語)me2「本字乜」	5%
 孭	me3「背，動詞」	
 彌	(語)me4「乳房；乳汁」	10%
 冇	me5「否定詞，本字靡」	
@@ -4815,6 +4892,7 @@ import_tables:
 璺	(白)men3「邊緣；勉強」	20%
 屘	(語)met3	10%
 貓	(白)meu3	
+渳	(語)mi1「小口喝」	5%
 咪	mi3「貓咪」	
 屘	mi3「末尾的，最小的，本字尾」	
 沕	(語)mi3「潷」	10%
@@ -4828,6 +4906,9 @@ import_tables:
 糜	mi4	
 縻	mi4	
 薇	mi4	
+謎	(又)mi4	10%
+迷	(又)mi4	10%
+醚	(又)mi4	10%
 霉	(又)mi4	10%
 黴	(又)mi4	10%
 靡	mi4「奢靡」	10%
@@ -4838,6 +4919,7 @@ import_tables:
 娓	mi5	
 尾	mi5	
 弭	mi5	
+渳	mi5	
 靡	mi5「靡靡之音」	
 味	mi6	
 媚	mi6	
@@ -4851,7 +4933,7 @@ import_tables:
 陌	miak5	
 麥	miak5	
 蜢	(語)miang2「蚱蜢」	5%
-蜢	(語)miang3「瘦～躿kiang3，非常瘦」	10%
+蜢	(語)miang3「瘦～躿[kʰiɐŋ55]，瘦貌」	10%
 盲	miang4	
 虻	miang4	
 䁅	miang5	
@@ -4906,12 +4988,15 @@ import_tables:
 廟	miu6	
 繆	miu6「姓」	10%
 麼	mo1	
+仫	(習)mo1	
 摩	mo1	
 摸	(又)mo1「夜摸」	10%
 摹	mo1「摹仿，又作模仿」	10%
 模	mo1	
 糢	mo1	
+饃	(白)mo1「又作饝/𩞁字」	
 魔	mo1	
+麽	mo1	
 嘸	(語)mo3「喃嘸（南無）佬，道士和尚」	10%
 無	(語)mo3「南無（喃嘸）佬，道士和尚」	10%
 劘	mo4	
@@ -4920,10 +5005,11 @@ import_tables:
 模	(又)mo4	10%
 膜	mo4「膜拜」	10%
 蘑	mo4	
-饃	mo4	
-麼	(語)mo5「表示詢問」	10%
+饃	(文)mo4	
+麼	(語)mo5「句末疑問」	10%
 ⿰手卜	moek2「古壯字，掏，本字摸」	
 摸	moek2「約摸，又作約莫；<語>掏」	10%
+仫	(書)moek5	10%
 寞	moek5	
 幕	moek5	
 木	moek5	
@@ -5027,7 +5113,7 @@ import_tables:
 哪	naa4「哪吒」	5%
 娜	naa4「人名」	
 拿	naa4	
-那	naa6	
+那	naa6「那麼」	
 𠮨	naai3「連帶，疑本字褦」	
 乃	naai5	
 奶	naai5	
@@ -5038,7 +5124,7 @@ import_tables:
 褦	(書)naai6	10%
 諾	naak5	
 喃	(白)naam1「喃經；嘮叨」	
-欖	(白)naam2	5%
+欖	(白)naam2	
 𨂾	naam3「跨」	
 南	naam4	
 喃	(文)naam4「呢喃」	
@@ -5066,9 +5152,9 @@ import_tables:
 納	naap5	
 鈉	naap5	
 㘝	naap6	
-吶	naap6	
+吶	naap6「吶喊，嗩吶」	
 捺	(又)naat2	10%
-焫	naat2「灼，燙；～機gai1，烙鐵」	
+焫	naat2「烙；～機[kɐi53]，烙鐵」	
 捺	naat5	
 呶	naau4	
 撓	naau4	
@@ -5109,6 +5195,7 @@ import_tables:
 𣲷	nap6「溼𣲷𣲷，又作湆字」	
 𥹉	nap6「黏糊；做事慢」	
 ⿰累乜	nat2「古壯字，痠痛，累」	
+吶	nat6「同訥字」	10%
 抐	nat6	
 肭	nat6	
 訥	nat6	
@@ -5150,7 +5237,7 @@ import_tables:
 嫋	(語)neu4「細長柔軟，又作仦字」	10%
 吳	ng4	
 吾	ng4	
-唔	ng4「語氣詞」	
+唔	ng4「語氣詞，思忖聲」	
 梧	ng4	
 蜈	ng4	
 五	ng5	
@@ -5165,7 +5252,7 @@ import_tables:
 誤	ng6	
 枒	ngaa1「枒杈，又作椏杈」	
 椏	ngaa1「椏杈，又作枒杈」	
-掗	(語)ngaa6「掗拃，佔地、霸道」	10%
+掗	(語)ngaa6「掗拃，佔地、霸道」	
 𦜖	(語)ngaa6「𦜖膪」	10%
 𧧝	(語)ngaa6「𧧝𧨊」	10%
 𠊎	ngaai1「𠊎話，客家話，本字我」	
@@ -5207,6 +5294,7 @@ import_tables:
 啽	(語)ngaap3「胡說」	10%
 噏	(語)ngaap3「胡說，本字啽」	10%
 扤	ngaat5「摩擦」	
+嗷	(語)ngaau3「疊音詞綴，煙～～」	10%
 㟼	ngaau4	
 嗷	ngaau4	
 嶅	ngaau4	
@@ -5229,6 +5317,7 @@ import_tables:
 鏊	ngaau6	
 𠱓	ngai1「哀求，又作𠼮字，疑本字磑」	
 𠼮	ngai1「哀求，又作𠱓字，疑本字磑」	
+㪒	ngai4	
 倪	ngai4	
 霓	ngai4	
 蟻	ngai5	
@@ -5261,6 +5350,7 @@ import_tables:
 疙	ngat6	
 訖	(習)ngat6「收訖」	
 迄	ngat6「迄今」	
+佝	(白)ngau1「佝僂」	
 勾	(白)ngau1	
 鈎	(白)ngau1	
 鉤	(白)ngau1	
@@ -5270,9 +5360,12 @@ import_tables:
 吽	ngau6「吽哣，呆滯」	
 枒	(白)nge1	20%
 椏	(白)nge1	20%
-𡃀	nge1「牛𡃀nge3～，童語」	
-𡃀	nge3「牛～𡃀nge1，童語；𡃀nge4～，二胡」	
-𡃀	nge4「～𡃀nge3，二胡」	
+𡃀	nge1「牛𡃀[ŋɛ55]～，童語」	
+㪒	(語)nge2「推門聲」	5%
+㪒	(語)nge3「㪒[ŋɛ21]～，二胡」	10%
+𡃀	nge3「牛～𡃀[ŋɛ53]，童語；𡃀[ŋɛ21]～，二胡，本字㪒」	
+㪒	(語)nge4「～㪒[ŋɛ55]，二胡」	10%
+𡃀	nge4「～𡃀[ŋɛ55]，二胡，本字㪒」	
 嘢	nge5「東西」	
 齞	(語)ngen1「齜，露齒」	5%
 𪗛	(語)ngen1「齜，露齒」	5%
@@ -5283,9 +5376,9 @@ import_tables:
 扤	(白)nget5「摩擦」	20%
 扤	(白)nget6「磨蹭」	20%
 嗷	(語)ngeu3「疊音詞綴，哭～～」	10%
-弱	(又)ngiak5	10%
-瘧	(又)ngiak5	10%
-虐	(又)ngiak5	10%
+弱	ngiak5	
+瘧	ngiak5	
+虐	ngiak5	
 額	ngiak5	
 鬤	ngiang4「頭髮亂貌」	
 仰	ngiang5	
@@ -5344,6 +5437,7 @@ import_tables:
 匿	nik5	
 暱	nik5	
 逆	nik5	
+𠸺	nik5	
 溺	nik6	
 拈	(文)nim1	
 捻	(又)nim1「同拈字；同棯字」	5%
@@ -5393,6 +5487,7 @@ import_tables:
 躡	nip5	
 鑷	nip5	
 鎳	nip5	
+𢢜	nip5「懼也，危也」	
 𦛠	(文)nip5	
 孽	nit5	
 捏	(又)nit5	10%
@@ -5427,6 +5522,8 @@ import_tables:
 踹	(白)njaai2	20%
 ⿰口靄	njaai3「古壯字，嚼」	
 嚼	(語)njaai3「古壯字⿰口靄」	10%
+逆	(語)njaak3「不稱心」	10%
+𠸺	(語)njaak3「乾～～，水分少、乾」	10%
 樂	njaak5「音樂」	
 岳	njaak5	
 嶽	njaak5	
@@ -5437,14 +5534,15 @@ import_tables:
 齴	njaan5「高峻貌」	
 贋	njaan6	
 雁	njaan6	
-⿰忄夹	njaap3「古壯字，心～，心煩」	
+⿰忄夹	njaap3「古壯字，心～，心煩，疑本字𢢜」	
 炠	(語)njaap3「古壯字，刺癢」	10%
+𢢜	(語)njaap3「心～，心煩，古壯字⿰忄夹」	10%
 撓	(語)njaau1「抓撓」	5%
 爪	(白)njaau2	20%
 咬	njaau5	
-弱	njak5	
-瘧	njak5	
-虐	njak5	
+弱	(又)njak5	10%
+瘧	(又)njak5	10%
+虐	(又)njak5	10%
 飲	njam2「飲酒」	
 飲	njam3「飲馬」	10%
 任	njam4「姓」	5%
@@ -5482,7 +5580,7 @@ import_tables:
 牛	njau4	
 惹	nje5	
 偌	nje6	
-兒	(語)nji3「乞兒」	10%
+兒	(白)nji3「乞兒」	20%
 毅	(又)nji3	10%
 儀	nji4	
 兒	nji4	
@@ -5557,6 +5655,7 @@ import_tables:
 越	(又)njyut5「越南」	10%
 娜	no4「婀娜」	
 挪	no4	
+那	(又)no4「那蓮，地名」	10%
 搙	noek2「揉搓，～麪粉」	
 朒	noek6	
 燶	noeng1「焦、糊，本字𪒬」	
@@ -5631,13 +5730,15 @@ import_tables:
 啪	(又)paak3「擬聲詞」	10%
 扳	paan1「同攀字」	10%
 攀	paan1	
-㔙	(又)paan3	10%
 盼	paan3	
 襻	paan3	
-㔙	paang1「兩手平伸之距離」	
+㔙	paang1	
 嘭	(語)paang1「擬聲詞；詞綴，聾～～」	5%
+絣	(語)paang1「兩手平伸之距離，又作𢏳字」	10%
 胮	paang1「臭胮胮，臭烘烘」	
 𠾴	(語)paang1「疊音詞綴，聾～～」	10%
+𢏳	paang1「兩手平伸之距離，又作絣字」	
+髈	paang2「蹄髈」	
 肨	paang3	
 胖	(又)paang3「肥胖」	10%
 卟	(語)paap3「搭；擬聲詞」	10%
@@ -5704,7 +5805,7 @@ import_tables:
 珀	piak2	
 粕	(白)piak2	20%
 舶	(白)piak2	20%
-迫	piak2	
+迫	piak2「逼迫」	
 魄	piak2「魂魄」	
 𢫦	piak2「拍本字」	
 僻	pik2	
@@ -5799,7 +5900,7 @@ import_tables:
 判	pun3	
 叛	pun3	
 拚	pun3	
-潑	put2「打潑」	
+潑	put2「打潑；活潑」	
 㸺	saa1	
 沙	saa1	
 砂	saa1	
@@ -5829,6 +5930,8 @@ import_tables:
 栓	saan1	
 潸	saan1	
 珊	saan1	
+羶	(又)saan1	10%
+膻	(又)saan1「膻味」	10%
 舢	saan1	
 跚	saan1	
 閂	saan1	
@@ -5972,10 +6075,12 @@ import_tables:
 賒	(白)si1	20%
 使	(書)si2「致使」	10%
 屎	si2	
+矢	(又)si2	10%
 豕	(又)si2	10%
 世	si3	
 使	si3「大使」	5%
 勢	si3	
+嗜	si3	
 噬	si3	
 弒	si3	
 柶	si3	
@@ -5993,7 +6098,6 @@ import_tables:
 鰣	si4	
 市	si5	
 侍	si6	
-嗜	si6	
 峙	si6	
 恃	si6	
 是	si6	
@@ -6068,7 +6172,7 @@ import_tables:
 禪	sin6「禪讓」	
 繕	sin6	
 膳	sin6	
-闡	(又)sin6	10%
+闡	(訓)sin6「訓讀禪」	10%
 升	sing1	
 昇	sing1	
 聲	sing1	
@@ -6098,6 +6202,7 @@ import_tables:
 少	siu2「多少」	
 少	siu3「少年」	
 韶	siu4	
+召	siu6「姓，同邵字；召公」	10%
 紹	siu6	
 肇	siu6	
 邵	siu6	
@@ -6118,14 +6223,12 @@ import_tables:
 三	slaam1	
 糝	(名)slaam2「粉末」	
 饞	(白)slaam4「嘴～」	20%
-羶	(又)slaan1	10%
-膻	(又)slaan1「膻味」	10%
 散	slaan2「鬆散」	
 傘	slaan3	
 散	slaan3「解散」	
 潵	slaan3「水散也」	
 喪	slaang1「喪事」	
-嗓	(又)slaang1	5%
+嗓	(舊)slaang1	5%
 桑	slaang1	
 𦅇	slaang1	
 嗓	slaang2	
@@ -6134,7 +6237,7 @@ import_tables:
 喪	slaang3「喪失」	
 𦅇	(又)slaang3	10%
 㨘	slaang5「拭擦；訓斥；打」	
-圾	slaap2	
+圾	slaap2「垃圾，本字擸𢶍」	
 趿	(文)slaap2	
 颯	slaap2	
 𢶍	slaap2「擸𢶍，又作垃圾」	
@@ -6203,7 +6306,7 @@ import_tables:
 擤	slang3	
 㗂	(語)slang4「古壯字，詞綴，毛～～，高～～」	10%
 䒏	(語)slang4「懵～～，糊糊塗塗，又作古壯字㗂」	10%
-鬙	(語)slang4「鬅bang4～楞lang4，不整潔」	10%
+鬙	(語)slang4「鬅[pɐŋ21]～楞[lɐŋ21]，不整潔」	10%
 㨘	(又)slang5	10%
 喋	(語)slap3「吸食」	10%
 漝	(語)slap3「古壯字，～碎，瑣碎，疑本字𢶍/颯」	10%
@@ -6218,7 +6321,7 @@ import_tables:
 窣	slat2	
 膝	slat2	
 蟀	(書)slat2	
-蟋	(又)slat2「～蟀zat2」	10%
+蟋	(又)slat2「～蟀[tʃɐt3]」	10%
 朮	(習)slat6	
 術	slat6	
 秫	slat6	
@@ -6246,8 +6349,9 @@ import_tables:
 寫	sle2	
 卸	sle3	
 瀉	sle3	
-斜	(語)sle4「乜me4～，醉態」	10%
+斜	(語)sle4「乜[mɛ21]～，醉態」	10%
 邪	sle4「邪惡」	
+惜	(白)slek3「疼愛」	20%
 𤗈	(白)slep2「楔」	
 ⿸疒妾	slep3「古壯字，辣痛」	
 趿	(語)slep6	10%
@@ -6457,7 +6561,7 @@ import_tables:
 帥	sui3	
 稅	sui3	
 税	sui3	
-說	sui3「說服」	10%
+說	sui3「遊說」	10%
 垂	sui4	
 誰	sui4	
 陲	sui4	
@@ -6597,7 +6701,7 @@ import_tables:
 鋱	tak2	
 探	(語)tam3「裝入衣袋，又作撢字」	10%
 撢	(語)tam3「裝入衣袋，又作探字」	10%
-𧨾	tam3「哄小孩」	
+𧨾	tam3「哄小孩，疑本字噡/誩」	
 吞	tan1	
 飩	tan1	
 氽	tan2	
@@ -6629,7 +6733,7 @@ import_tables:
 腆	(書)tin2	
 靦	tin2「靦顏」	
 廳	ting1	
-聽	ting1「聽見」	
+聽	ting1「聽見，收聽」	
 朾	ting1「虛朾」	
 汀	ting1	
 烴	ting1「碳氫化合物」	
@@ -6637,7 +6741,7 @@ import_tables:
 挺	ting2	
 梃	ting2	
 烶	ting2	
-聽	ting3「聽候」	10%
+聽	ting3「聽候，聽任，聽其自然」	10%
 帖	tip2	
 貼	tip2	
 鐵	tit2	
@@ -6677,7 +6781,7 @@ import_tables:
 噢	(語)u3「～呵，表示無奈或嘲諷」	10%
 哦	(語)u5「表示驚奇」	10%
 噢	(語)u5「表示驚奇」	10%
-哎	(語)ui5「～喲/唷，表示意外」	10%
+哎	(語)ui5「～喲/唷，表示意外，哦/噢+喲/唷的逆同化」	10%
 齷	(常)uk2	
 汪	ung1	
 枉	ung2	
@@ -6724,14 +6828,17 @@ import_tables:
 掝	waak6「裂開」	
 彎	waan1	
 灣	waan1	
+挽	waan2	
+輓	waan2	
 綰	waan2	
+緩	(又)waan2	10%
 圜	waan4「圍繞」	
 嬛	waan4「嫏嬛」	
 環	waan4	
 還	waan4	
 頑	waan4	
-挽	waan5	
-輓	waan5	
+皖	(又)waan5	10%
+莞	(又)waan5「莞爾」	10%
 鯇	waan5	
 宦	waan6	
 幻	waan6	
@@ -6740,7 +6847,7 @@ import_tables:
 豢	waan6	
 撔	(語)waang5「繞道，疑運路行的合音」	10%
 挖	(文)waat2	
-斡	waat2	
+斡	waat2「斡旋；陸斡，地名」	
 滑	waat6	
 猾	waat6	
 媪	(語)waau2「母親」	10%
@@ -6759,17 +6866,24 @@ import_tables:
 麾	wai1	
 癐	wai1「象聲詞」	
 薳	wai2「草名；姓」	
+偉	(白)wai2「于貴切」	
+儰	(白)wai2	
 卉	wai2	
 委	wai2	
+暐	(白)wai2	
 毀	wai2	
 燬	wai2	
 譭	wai2	
+煒	(白)wai2	
 猥	wai2	
+瑋	(白)wai2	
 痿	wai2	
+緯	(白)wai2	
 萎	wai2	
 虫	wai2「虺的本字」	
 虺	wai2「虺蛇」	
 諉	wai2	
+韙	(白)wai2	
 㜇	wai3	
 噦	wai3「噦噦」	
 喂	wai3	
@@ -6796,21 +6910,20 @@ import_tables:
 惟	wai4	
 桅	wai4	
 維	wai4	
-葦	(又)wai4「于非切」	5%
+葦	wai4	5%
 茴	wai4	
 蛔	wai4	
 違	wai4	
 闈	wai4	
 韋	wai4	
-偉	wai5	
-儰	wai5	
+偉	(文)wai5	
+儰	(文)wai5	
 喂	(語)wai5「句首表示引起注意、句末表示祈使」	10%
-暐	wai5	
-煒	wai5	
-瑋	wai5	
-緯	wai5	
-葦	wai5	
-韙	wai5	
+暐	(文)wai5	
+煒	(文)wai5	
+瑋	(文)wai5	
+緯	(文)wai5	
+韙	(文)wai5	
 為	wai6「為了」	
 爲	wai6「爲了」	
 會	wai6	
@@ -6849,7 +6962,7 @@ import_tables:
 揾	wan2「找」	
 搵	wan2「找」	
 穩	wan2	
-困	(白)wan3「囚禁，又作韞字」	20%
+困	(白)wan3「囚禁，又作圂/韞字」	20%
 睏	(白)wan3	
 慍	wan3	
 揾	wan3「按」	
@@ -6906,12 +7019,14 @@ import_tables:
 膃	wat2	
 菀	wat2「茂盛」	
 鬱	wat2「愁」	
+黦	(又)wat2「黃黑色」	10%
 抇	wat5	
 佸	wat6	
 核	wat6「果核」	
 活	wat6	
 聿	wat6	
-汪	(語)wau3「擬聲詞，狗吠聲」	10%
+㕵	(語)wau3「擬聲詞，狗吠聲，又作汪字」	10%
+汪	(語)wau3「擬聲詞，狗吠聲，又作㕵字」	10%
 噦	(語)we2「嘔吐」	5%
 搲	(白)we2「撓，抓」	
 𢱑	(白)we2「同搲字」	
@@ -6976,8 +7091,8 @@ import_tables:
 吒	zaa1「哪吒」	
 咱	zaa1	
 喳	zaa1	
-抓	zaa1「握、拿，又作揸字」	10%
-揸	zaa1「握、拿」	
+抓	zaa1「握、拿，又作揸字，本字𠭯」	10%
+揸	zaa1「握、拿，本字𠭯」	
 摣	zaa1「同揸字」	
 查	zaa1「姓；同楂字」	10%
 楂	zaa1	
@@ -7014,10 +7129,12 @@ import_tables:
 仔	zaai2「仔女，本字崽」	
 宰	zaai2	
 崽	zaai2	
+滓	(又)zaai2	10%
 載	zaai2「年載」	5%
 債	zaai3	
 再	zaai3	
 載	zaai3「載重，記載」	
+儕	zaai4「同儕」	
 才	zaai4	
 纔	zaai4	
 材	zaai4	
@@ -7145,7 +7262,7 @@ import_tables:
 穄	zai3	
 際	zai3	
 霽	zai3	
-儕	zai4「儕家，人家」	
+儕	(語)zai4「儕家、大儕，大家」	10%
 臍	zai4	
 薺	zai4「荸薺，薺菜」	
 齊	zai4	
@@ -7231,7 +7348,7 @@ import_tables:
 鬙	zang1	
 䒏	zang2	
 𤺧	zang2	
-𤿆	zang2「䁅mang2𤿆，同𤷪𤺧」	
+𤿆	zang2「䁅[mɐŋ33]～，同𤷪𤺧」	
 甑	zang3	
 䉕	zang4	
 倀	zang4「獨立貌」	
@@ -7244,6 +7361,7 @@ import_tables:
 漝	zap6	
 襲	zap6	
 集	zap6	
+㰵	zat2	
 卒	zat2	
 厔	(語)zat2「塞；瓶塞；本字窒，又作庢/挃字」	10%
 庢	(語)zat2「塞；瓶塞；本字窒，又作厔/挃字」	10%
@@ -7319,7 +7437,7 @@ import_tables:
 㵶	(白)zet3	20%
 擳	(白)zet3	20%
 瀄	(白)zet3	20%
-啁	(語)zeu3「啁嘐leu3，嘴巴厲害」	10%
+啁	(語)zeu3「啁嘐[lɛu55]，嘴巴厲害」	10%
 之	zi1	
 茲	zi1	
 卮	zi1	
@@ -7510,7 +7628,7 @@ import_tables:
 績	zik2	
 職	zik2	
 脊	zik2	
-蟋	(訓)zik2「～蟀zat2，又作織蟀」	10%
+蟋	(訓)zik2「～蟀[tʃɐt3]，訓讀織蟀」	10%
 跡	zik2	
 蹟	zik2	
 陟	zik2	
@@ -7565,12 +7683,12 @@ import_tables:
 荐	zin3	
 薦	zin3	
 顫	zin3	
-餞	zin3	
 前	zin4	
 纏	zin4	
 錢	zin4	
 踐	zin5	
 賤	zin6	
+餞	zin6	
 偵	zing1	
 征	zing1	
 徵	zing1「徵求」	
@@ -7651,7 +7769,7 @@ import_tables:
 潮	ziu4	
 瞧	ziu4	
 兆	ziu6	
-召	ziu6	
+召	ziu6「號召」	
 噍	ziu6「嚼」	
 趙	ziu6	
 佐	zo2	
@@ -7745,7 +7863,7 @@ import_tables:
 鑽	(名)zon3「鑽子」	
 存	zon4	
 纂	zon6	
-㰵	zot3「吮吸」	
+㰵	(語)zot3「吮吸」	10%
 啜	(語)zot3「吮吸，本字㰵」	10%
 嘬	(語)zot3「吮吸，本字㰵」	10%
 租	zu1	
@@ -7765,6 +7883,7 @@ import_tables:
 嘴	zui2	
 惴	zui3	
 最	zui3	
+綴	zui3	
 醉	zui3	
 捶	zui4	
 椎	zui4「同槌或捶字」	10%
@@ -7774,7 +7893,7 @@ import_tables:
 隋	zui4	
 隨	zui4	
 墜	zui6	
-綴	zui6	
+綴	(又)zui6	10%
 罪	zui6	
 贅	zui6	
 捉	zuk2	
@@ -7787,9 +7906,10 @@ import_tables:
 攢	zun4「攢聚」	
 樁	zung1	
 噇	zung4	
-幢	zung4「人影幢幢」	10%
+幢	zung4「人影幢幢，經幢」	10%
 仲	(又)zung6	10%
 幢	zung6「量詞」	
+憧	(語)zung6「擔～，蠢笨」	10%
 撞	zung6	
 撮	(又)zut2	10%
 侏	zyu1	
@@ -7889,6 +8009,7 @@ import_tables:
 捷	(又)zyut6	10%
 睫	(又)zyut6	10%
 絕	zyut6	
+
 
 
 # 英文讀音
@@ -8407,7 +8528,7 @@ A站	ei zaam6	100
 傀儡皇帝	kui2 lui5 hung4 dai3
 傀儡政權	kui2 lui5 zing3 gyun4
 傀奇	gui1 gi4
-傀偉	gui1 wai5
+傀偉	gui1 wai2
 傀然	gui1 jyun4
 傀異	gui1 ji6
 傀然獨立	gui1 jyun4 doek6 lap5
@@ -9674,7 +9795,7 @@ A站	ei zaam6	100
 更且	gang3 ce2
 更甚	gang3 sam6
 更上一層樓	gang3 sang5 at2 zang4 lau4
-曾志偉	zang1 zi3 wai5
+曾志偉	zang1 zi3 wai2
 曾子	zang1 zi2
 曾祖	zang1 zu2
 曾孫	zang1 slun1
