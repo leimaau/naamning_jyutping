@@ -392,7 +392,7 @@
 傀儡皇帝	kwai2 lui5 wong4 dai3
 傀儡政權	kwai2 lui5 zing3 kyun4
 傀奇	gwai1 ki4
-傀偉	gwai1 wai5
+傀偉	gwai1 wai2
 傀然	gwai1 jin4
 傀異	gwai1 ji6
 傀然獨立	gwai1 jin4 duk6 lap6
@@ -1798,7 +1798,7 @@
 更且	gang3 ce2
 更甚	gang3 sam6
 更上一層樓	gang3 soeng5 jat1 cang4 lau4
-曾志偉	zang1 zi3 wai5
+曾志偉	zang1 zi3 wai2
 曾子	zang1 zy2
 曾子	zang1 zi2
 曾祖	zang1 zu2
@@ -5022,3 +5022,151 @@
 粘米	zim1 mai5
 跳騞騞	tiu3 fak6 fak6
 吊儾儾	diu3 naang3 naang3
+納錐	naap6 zui1
+屎片波	si2 pin3 bo1
+拗頸	aau3 geng2
+冧把	lam1 baa2
+花頭鴨	faa1 tau4 aap3
+坐盆	co5 pun4
+沙洲	saa1 zau1
+沙神	saa1 san4
+扁鼻	ben2 bi6
+阿啲	aa3 di1
+嚕啲	lu1 di1
+阿便	aa3 bin6
+嚕便	lu1 bin6
+邊啲	bin1 di1
+邊笪	bin1 daat3
+喺啲	hai2 di1
+打啲	daa2 di1
+唔	m4
+冇	mu5
+朆	mang4
+㖭	lim1
+𠻹	lim1
+～住	～ zyu6
+～緊	～ gan2
+～嗮	～ slaai3
+噉	gam2
+昨日	zok6 mat6
+琴日	kam4 mat6
+尋日	cam4 mat6
+𨳍	cot6
+鳥	deu1
+鳩	gau1
+㞓	hai1
+屄	be1
+罷就	baa6 zau6
+𨳍就	cot6 zau6
+而家	ji4 gaa1
+爭交	zaang1 geu1
+嘈交	cu4 geu1
+拜眼睏	baai3 ngen5 han3
+食齊	sik6 cai4
+欂碌	bok1 luk1
+欂碌	buk1 luk1
+包粟	baau1 sluk1
+老竇	lu5 dau6
+老（⿰老吉）	laau1 ge1
+老乸	lu5 naa2
+老孃	laau1 neng1
+弟弟	di4 di2
+細屎窟	slai3 si2 fat1
+細路仔	slai3 lu6 zai2
+細蚊仔	slai3 man1 zai2
+細佬	slai3 lu2
+阿弟	aa3 di2
+出去耍	cyut1 hyu3 saa2
+係冇係	hai6 mu5 hai6
+好冇好	hu2 mu5 hu2
+係…一(啊)係…	hai6 … jat1(aa1) hai6 …
+一(啊)系…一(啊)系…	jat1(aa1) hai6 … jat1(aa1) hai6 …
+…鬼魂都(啊)失	… gwai2 wan4 du1(aa1) sat1
+…得鬼魂	… dak1 gwai2 wan4
+…㞓魂失	… hai1 wan4 sat1
+至	zi3
+勁	ging6
+要冇是	jiu3 mu5 si6
+要冇然	jiu3 mu5 jin4
+要冇係	jiu3 mu5 hai6
+一冇係	jat1 mu5 hai6
+是但	si6 daan6
+同點	tung4 dim2
+爲乜事	wai6 mat1 si6
+爲乜嘢	wai6 mat1 je5
+做乜事	zu3 mat1 si6
+做乜嘢	zu3 mat1 je5
+吆	eu1
+喊	hem3
+執笠	zap1 lap1
+掉垃圾	deu6 laap6 slaap3
+晏晝	aan3 zau3
+上晝	soeng6 zau3
+下晝	haa6 zau3
+行冇得	haang4 mu5 dak1
+冇行得	mu5 haang4 dak1
+忔失	ngat1 sat1
+忔失	nget1 set1
+疙𤶸	gat6 naa1
+孤寒	gu1 hon4
+心悒	slam1 jaap1
+閉翳	bai3 ai3
+捲筒粉	gyun2 tung4 fan2
+扁粉	ben2 fan2
+圓粉	jyun4 fan2
+素粉	slu3 fan2
+酸嘢	slyun1 je5
+金桔	gam1 gat1
+流嘢	lau4 je5
+靚嘢	leng3 je5
+論盡	lan6 zan6
+銻仔	tai1 zai2
+糾正	dau2 zing3
+黃蝖	wong4 hyun2
+黃䘆	wong4 hyun2
+地龍	di6 lung4
+飛鼠	fi1 syu2
+織蟀	zik1 zat1
+蟀蟀	zyut1 zyut1
+躲蒙雞	do2 mung1 gai1
+火燭車	fo2 zuk1 ce1
+一啲啲	jat1 di1 di1
+文半	man1 bun3
+一文半	jat1 man1 bun3
+十點達四	sap6 dim2 daat6 sli3
+一䊆水	jat1 gau6 sui2
+爲得過	wai4 dak1 go3
+識得	sik1 dak1
+知到	zi1 du3
+差伙	caa1 fo2
+燒菸	siu1 jin1
+食菸	sik6 jin1
+食渣米	sik6 jaa1 mai5
+蘭	laan1
+蘭公	laan1 gung1
+老友	lu5 jau5
+風𢝵	fung1 fet1
+夠派	gau3 paai1
+油脂仔	jau4 zi1 zai2
+油脂女	jau4 zi1 nyu2
+柔姿仔	jau4 zi1 zai2
+柔姿女	jau4 zi1 nyu2
+油脂裝	jau4 zi1 zong1
+柔姿裝	jau4 zi1 zong1
+三腳雞	slaam1 goek3 gai1
+三馬仔	slaam1 maa5 zai2
+油脂車	jau4 zi1 ce1
+油脂的	jau4 zi1 dik1
+柔姿車	jau4 zi1 ce1
+柔姿的	jau4 zi1 dik1
+咿㕭	ji1 jaau1
+咿呦	ji1 jaau1
+呇水	man3 sui2
+汶水	man3 sui2
+埌東	long5 dung1
+埌西	long5 slai1
+唓咧	ce1 le1
+友仔	jau5 zai2
+食粉	sik6 fan2
+嗍粉	sok3 fan2
+欶粉	sok3 fan2
