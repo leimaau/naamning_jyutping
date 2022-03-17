@@ -1,0 +1,194 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: ZH/yV30pCELw9cQRLar9RMCVUGs=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: UxTo50U1DpaRPwv1R6tYwFp9fPQ=
+
+Name: assets/licensing.html
+SHA1-Digest: TElL+gLRwahtYA/+eJpKhFhTHX8=
+
+Name: assets/rime/bopomofo_tw.schema.yaml
+SHA1-Digest: vzKOGYn8ofmhozBFWXbNedN6i24=
+
+Name: assets/rime/default.yaml
+SHA1-Digest: gHY2khjSAdCI5VJ8Er+Ym4aT6J8=
+
+Name: assets/rime/essay.txt
+SHA1-Digest: yYMfoL/M5NMgbpI4eJ/I/0zb90U=
+
+Name: assets/rime/luna_pinyin.dict.yaml
+SHA1-Digest: EzlxymzgavRSQP1osuIQmJvjoag=
+
+Name: assets/rime/luna_pinyin.schema.yaml
+SHA1-Digest: hFBhBo4ZEuoaGpuQvpkJzCXwL6c=
+
+Name: assets/rime/luna_pinyin_simp.schema.yaml
+SHA1-Digest: ZZMzoA7rlvx70YmW7DVm7tJpGfY=
+
+Name: assets/rime/opencc/HKVariants.txt
+SHA1-Digest: Gluu/TRFf6oZuLU8uzzNP/DVqYQ=
+
+Name: assets/rime/opencc/HKVariantsPhrases.txt
+SHA1-Digest: V60Kyy0k47FbmrE4sqWBevseoC4=
+
+Name: assets/rime/opencc/HKVariantsRev.txt
+SHA1-Digest: DH9hSjH3khaIxITOUv/qwjdxfmc=
+
+Name: assets/rime/opencc/HKVariantsRevPhrases.txt
+SHA1-Digest: tIjJ/f8QHtDH1bDLWFSjZZqwOe0=
+
+Name: assets/rime/opencc/JPVariants.txt
+SHA1-Digest: 5tSEUSf62/LqrDEFQRjI+FuFbsA=
+
+Name: assets/rime/opencc/STCharacters.txt
+SHA1-Digest: fPs5vRvZGhe7CdrcdS3LC+vnkrM=
+
+Name: assets/rime/opencc/STPhrases.txt
+SHA1-Digest: NzF7v0Faaeee4BIESSTK0unAf1M=
+
+Name: assets/rime/opencc/TSCharacters.txt
+SHA1-Digest: 6jRBlxP7SYRi17nRtR0NBjVjylg=
+
+Name: assets/rime/opencc/TSPhrases.txt
+SHA1-Digest: F833zdsy0KxzUtHZgSNoxzFlQcA=
+
+Name: assets/rime/opencc/TWPhrases.txt
+SHA1-Digest: Es4ZufvARh68v1xVblWu4PFQR10=
+
+Name: assets/rime/opencc/TWPhrasesRev.txt
+SHA1-Digest: 7xowGoxLE8+qZs2UnoOzb7FjrMQ=
+
+Name: assets/rime/opencc/TWVariants.txt
+SHA1-Digest: /+sa0myeWloVEBj9bY8xl12MvUk=
+
+Name: assets/rime/opencc/TWVariantsRev.txt
+SHA1-Digest: 3w5ou8hzJZtT6fIGri4o8GY6kJw=
+
+Name: assets/rime/opencc/TWVariantsRevPhrases.txt
+SHA1-Digest: FQPiku5JcjkyJMXkDUHffCYdo3s=
+
+Name: assets/rime/opencc/hk2s.json
+SHA1-Digest: rYTy0SY5h7imHoXnqHiqA4FGG0A=
+
+Name: assets/rime/opencc/s2hk.json
+SHA1-Digest: Oc+sLPYPvCUO37cuUcyBvDohRp8=
+
+Name: assets/rime/opencc/s2t.json
+SHA1-Digest: S+Ah16R8MNkD5C3/pRYfofvAA1s=
+
+Name: assets/rime/opencc/s2tw.json
+SHA1-Digest: UZsQhG5ZH0ZiaIxz7D29x0afY4c=
+
+Name: assets/rime/opencc/s2twp.json
+SHA1-Digest: UWKOxz//hFqg2w7rHZLGItaXxDU=
+
+Name: assets/rime/opencc/t2hk.json
+SHA1-Digest: cluI6IFk1S7YdEuYplIjYXCMbaw=
+
+Name: assets/rime/opencc/t2s.json
+SHA1-Digest: E1F9ZouEsmiP3B+PldnCfW0n/Eo=
+
+Name: assets/rime/opencc/t2tw.json
+SHA1-Digest: OTUFtz0c9xH8ODt2p/wgmlSmqQ8=
+
+Name: assets/rime/opencc/tw2s.json
+SHA1-Digest: z7uSGbJKMLlhZ0Uf/fzRqUEnmco=
+
+Name: assets/rime/opencc/tw2sp.json
+SHA1-Digest: ++BLSdSVWz9AqID2zj8mAx0OI8c=
+
+Name: assets/rime/symbols.yaml
+SHA1-Digest: 2pmJvuANY2bA3HRXaloMOZcunMo=
+
+Name: assets/rime/terra_pinyin.dict.yaml
+SHA1-Digest: arDHvQWJ98qm35oFSFwn4RAuK+4=
+
+Name: assets/rime/tongwenfeng.trime.yaml
+SHA1-Digest: NiUXl+ayOXmSkosMOhl6SfH57IM=
+
+Name: assets/rime/trime.yaml
+SHA1-Digest: AqRhPOgcN4URxXjH2nyBjTLfYok=
+
+Name: classes.dex
+SHA1-Digest: Sir76VZ+G/O4jZZmHRgl/SGEawc=
+
+Name: lib/arm64-v8a/libopencc.so
+SHA1-Digest: zuABWJHZzqphu8ltY8fyb1cl5uk=
+
+Name: lib/arm64-v8a/librime.so
+SHA1-Digest: KIaFSVt5MRrf+Q1oXwqdLyEqrck=
+
+Name: lib/arm64-v8a/librime_jni.so
+SHA1-Digest: R7E3EwjpzF0SFPf0HVuMz5nRFk0=
+
+Name: lib/armeabi-v7a/libopencc.so
+SHA1-Digest: O0BRgqgRdP6DhjWk9lMubxOrZpQ=
+
+Name: lib/armeabi-v7a/librime.so
+SHA1-Digest: Vn+l1D5NZuILuoP0BYDvObXzHYY=
+
+Name: lib/armeabi-v7a/librime_jni.so
+SHA1-Digest: 71DgCx9DDlECWY7HkWVCQhZvGMg=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: ia0vMMDxnkHfGl2+9uJP4RDLRmU=
+
+Name: res/drawable-hdpi-v4/status.png
+SHA1-Digest: MNiMJNzr3bFZRi4xnbzgOOl+WCU=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: MZ1Zi7HXFF0uH/uisSpopEqN4vE=
+
+Name: res/drawable-mdpi-v4/status.png
+SHA1-Digest: gAxzNd8lIcVME/GxbKI/+xCwTDg=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: s389AgzMHqX3SvQOVBRCbUsIf50=
+
+Name: res/drawable-xhdpi-v4/status.png
+SHA1-Digest: j4jNTuj+Bu83h1qEsVht9DjszyE=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: 8nSzlhMesZ8GMUGz9zqRiDsSX8I=
+
+Name: res/drawable-xxhdpi-v4/status.png
+SHA1-Digest: 9plFZeEgcfiNWLe/SRc7NwKK9jE=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: lwS4vkHeICQKbY0VLgQKu8xrSuo=
+
+Name: res/drawable-xxxhdpi-v4/status.png
+SHA1-Digest: Azq1NKiwTkDBMHPiSkgOLW/kWe4=
+
+Name: res/layout/candidate_container.xml
+SHA1-Digest: jCULKRbvPVdpn0eDA1yitoq/Hxk=
+
+Name: res/layout/composition_container.xml
+SHA1-Digest: m4osfSCJlkzWQzAQsAdZyPX3fes=
+
+Name: res/layout/input.xml
+SHA1-Digest: W/9AE2C9J2HzetvP0slFolo6aT0=
+
+Name: res/layout/keyboard_key_preview.xml
+SHA1-Digest: oEs5XNcd9xnWySs51ovbf3atjHE=
+
+Name: res/layout/keyboard_popup_keyboard.xml
+SHA1-Digest: kYr1X3u+jAWGWXALEXmG1w4+wzs=
+
+Name: res/layout/licensing.xml
+SHA1-Digest: 9IG1+An3O3pIJmGxLV5m17JQsDo=
+
+Name: res/layout/preference_widget_seekbar.xml
+SHA1-Digest: +uWo+L84bXVqFKkoo+hEDNVSCPo=
+
+Name: res/xml/method.xml
+SHA1-Digest: +WWzsk+Y2W62kl60goqsrtgAMEA=
+
+Name: res/xml/prefs.xml
+SHA1-Digest: U9jBlCeENSc+VDKRTd4LNt43i44=
+
+Name: resources.arsc
+SHA1-Digest: HWDmoqKhh/IgK0F19ESDCq5bYl4=
+

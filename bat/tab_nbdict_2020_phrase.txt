@@ -987,7 +987,7 @@
 壅積	ung1 zik1
 壅塞	jung1 slak1
 壅滯	jung1 zai6
-壅蔽	jung1 bai3
+壅蔽	jung1 bi6
 壅閉	jung1 bai3
 悲夫	bi1 fu4
 夫天地者	fu4 tin1 di6 ze2
@@ -2551,7 +2551,7 @@
 當即	dong1 zik1
 當街	dong1 gaai1
 當今	dong1 gam1
-當局者迷	dong1 guk6 ze2 mai4
+當局者迷	dong1 guk6 ze2 mi4
 當口	dong1 hau2
 當年	dong1 nin4
 當世	dong1 sai3
@@ -2953,7 +2953,7 @@
 累次	lui5 cy3
 累次	lui5 ci3
 累卵	lui5 lyun2
-累遷	lui5 cin1
+累遷	lui5 cim1
 累進	lui5 zan3
 日積月累	jat6 zik1 jyut6 lui5
 危如累卵	ngai4 jyu4 lui5 lyun2
@@ -3205,7 +3205,7 @@
 興訟	hing1 zung6
 興盛	hing1 sing6
 興隆	hing1 lung4
-興利除弊	hing1 li6 cyu4 bai6
+興利除弊	hing1 li6 cyu4 bi6
 興風作浪	hing1 fung1 zok3 long6
 興師動衆	hing1 sy1 dung6 zung3
 興師動衆	hing1 si1 dung6 zung3
@@ -3373,7 +3373,7 @@
 壞着	waai6 zoek6
 聽着	teng1 zoek6
 着實	zoek6 sat6
-着迷	zoek6 mai4
+着迷	zoek6 mi4
 着想	zoek6 sloeng2
 着重	zoek6 zung6
 著衫	zoek3 saam1
@@ -3430,7 +3430,7 @@
 壞著	waai6 zoek6
 聽著	teng1 zoek6
 著實	zoek6 sat6
-著迷	zoek6 mai4
+著迷	zoek6 mi4
 著想	zoek6 sloeng2
 著重	zoek6 zung6
 芳菲	fong1 fi1
@@ -3480,7 +3480,7 @@
 藏人	zong6 jan4
 隱藏	jan2 cong4
 埋藏	maai4 cong4
-捉迷藏	zok3 mai4 cong4
+捉迷藏	zok3 mi4 cong4
 藏匿	cong4 nik6
 藏污納垢	cong4 wu1 naap6 gau3
 藏書	cong4 syu1
@@ -4224,7 +4224,7 @@
 輾轉	zin2 zyun2
 輾轉反側	zin2 zyun2 faan2 zak1
 輾平	nen2 ping4
-輾斃	nen2 bai6
+分爲	fan1 wai4
 輾斃	nen2 bi6
 輾死	nen2 sli2
 輾米	nen2 mai5
@@ -4420,7 +4420,7 @@
 重婚	cung4 wan1
 重圍	cung4 wai4
 重陽	cung4 joeng4
-重演	cung4 jin2
+重演	cung4 jim2
 重見天日	cung4 gin3 tin1 jat6
 重修舊好	cung4 slau1 gau6 hu2
 重操舊業	cung4 cu1 gau6 nip6
@@ -4835,7 +4835,7 @@
 追悔靡及	zui1 fui2 mi5 gap6
 奢靡	se1 mi4
 靡費	mi4 fai3
-靡敝	mi4 bai6
+嘈天巴閉	cu4 tin1 baa1 bai3
 靡敝	mi4 bi6
 靡廢公物	mi4 fai3 gung1 mat6
 靡爛	mi4 laan6
@@ -4848,7 +4848,7 @@
 靦然	tin2 jin4
 靦顏借命	tin2 ngaan4 ze3 ming6
 有靦面目	jau5 tin2 min6 muk6
-靦腆	min5 tin2
+靦腆	min5 dim2
 緬靦	min5 min5
 飲馬	jam3 maa5
 飲牛	jam3 ngau4
@@ -4912,7 +4912,7 @@
 鮮爲人知	slin2 wai4 jan4 zi1
 屢見不鮮	lyu5 gin3 bat1 slin2
 寡廉鮮恥	gwaa2 lim4 slin2 ci2
-倨傲鮮腆	gyu3 ngu6 slin2 tin2
+倨傲鮮腆	gyu3 ngu6 slin2 dim2
 新鮮	slan1 slin1
 鮮果	slin1 go2
 鮮豔	slin1 jim6
@@ -5170,3 +5170,8 @@
 食粉	sik6 fan2
 嗍粉	sok3 fan2
 欶粉	sok3 fan2
+𠯔斜咧	pat1 ce4 le4
+埋口	maai4 hau2
+帶協	daai3 hip3
+參與	caam1 jyu6
+華山	waa6 saan1

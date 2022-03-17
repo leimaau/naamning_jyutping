@@ -1,0 +1,68 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: luna_pinyin_fourteen
+  name: 朙月拼音(14鍵)
+  version: "0.24"
+  author:
+    - 佛振 <chen.sst@gmail.com>
+    - LeiMaau <leimaau@qq.com>（改写）
+  description: |
+    Rime 預設的拼音輸入方案。
+    參考以下作品而創作：
+      * CC-CEDICT
+      * Android open source project
+      * Chewing - 新酷音
+      * opencc - 開放中文轉換
+  dependencies:
+    - stroke
+
+switches:
+  __include: luna_pinyin.schema:/switches
+
+engine:
+  __include: luna_pinyin.schema:/engine
+
+speller:
+  __include: luna_pinyin.schema:/speller
+  __patch:
+      algebra/+:
+        - derive/([qw])/q/
+        - derive/([er])/e/
+        - derive/([ty])/t/
+        - derive/([ui])/u/
+        - derive/([op])/o/
+        - derive/([as])/a/
+        - derive/([df])/d/
+        - derive/([gh])/g/
+        - derive/([jk])/j/
+        - derive/l/l/
+        - derive/([zx])/z/
+        - derive/([cv])/c/
+        - derive/([bn])/b/
+        - derive/m/m/
+
+menu:
+  __include: luna_pinyin.schema:/menu
+
+translator:
+  __include: luna_pinyin.schema:/translator
+  __patch:
+      prism: luna_pinyin_fourteen
+    
+reverse_lookup:
+  __include: luna_pinyin.schema:/reverse_lookup
+
+punctuator:
+  __include: luna_pinyin.schema:/punctuator
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  __include: luna_pinyin.schema:/recognizer
+    
+emoji_cn:
+  __include: luna_pinyin.schema:/emoji_cn
+  

@@ -1,0 +1,15 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: app-release-25249-o_1dm0eunhm6jq1iv3rphtqt165lq-uid-574023.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+isFrameworkApk: false
+packageInfo: null
+sdkInfo: null
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework: null
+version: 2.4.0
+versionInfo: null

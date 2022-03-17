@@ -1,0 +1,147 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: naamning_bingwaa
+  name: "南寧(亭子)平話"
+  version: "2022.03.17"
+  author:
+    - LeiMaau <leimaau@qq.com>
+  description: |
+    採用『香港語言學會粵語拼音方案』
+    聲調輸入 q平 v上 x去 （雙擊爲陽調）
+    IPA版提供多種字形轉換和提示音爲IPA
+    提供一種反查方案，[`]普拼反查粵拼
+    PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
+    註釋reverse_lookup/tags可顯示釋義，可根據需要自行開啓
+    項目主頁 https://github.com/leimaau/naamning_jyutping
+  dependencies:
+    - luna_pinyin
+
+switches:
+  - name: simplification
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@luna_pinyin
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - script_translator@luna_pinyin
+  filters:
+    - simplifier
+    - uniquifier
+    - reverse_lookup_filter@reverse_lookup
+    - reverse_lookup_filter@zyenpheng_reverse_lookup
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - xform/\(.+?\)//             # 忽略釋義
+    - xform/「.+?」//             # 忽略釋義
+    - derive/([123456])//         # 忽略声调
+    - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
+    - xform/1/q/                  # 陰平
+    - xform/4/qq/                 # 陽平
+    - xform/2/v/                  # 陰上
+    - xform/5/vv/                 # 陽上
+    - xform/3/x/                  # 陰去
+    - xform/6/xx/                 # 陽去
+    - derive/^nj/j/               # 模糊 nj -> j
+    - derive/^sl/s/               # 模糊 sl -> s
+    - derive/^ngia(ng|k)/njia$1/        # 模糊 ngia(ng|k) -> njia(ng|k)
+    - derive/^(g|k)wik/$1ik/      # 模糊 (gk)wik -> (gk)ik
+    - derive/^(g|k)ik/$1wik/      # 模糊 (gk)ik -> (gk)wik
+    - derive/i$/ei/          	  # 模糊 i -> ei
+    - derive/u$/ou/          	  # 模糊 u -> ou
+    - derive/ia(ng|k)$/e$1/       # 模糊 ia(ng|k) -> e(ng|k)
+    - derive/dik$/d/              # 快出「的」字
+    - derive/^jy?([aeiou])/y$1/   # 容錯 j -> y
+    - derive/^jyu/yu/             # 容錯 jyu -> yu
+    - derive/^jyu/ju/             # 容錯 jyu -> ju
+    - derive/yu/y/                # 容錯 jyu -> jy
+    - derive/aa$/a/               # 容錯 aa -> a
+    - derive/oe(ng|k)$/eo$1/      # 容錯 oe(ng|k) -> eo(ng|k)
+    - derive/u(ng|k)$/o$1/        # 容錯 u(ng|k) -> o(ng|k)
+    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
+    - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
+    - abbrev/^(gw|kw|ng).+$/$1/   # 聲母簡拼
+    - abbrev/^([s][l]).+$/$1/     # 聲母簡拼
+
+menu:
+  alternative_select_keys: "123456789"
+  page_size: 7  # 候選詞數
+
+translator:
+  dictionary: naamning_bingwaa
+  prism: naamning_bingwaa
+  spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
+  preedit_format: 
+    - xform/([aeioumngptk])qq/$1⁴/
+    - xform/([aeioumngptk])q/$1¹/
+    - xform/([aeioumngptk])vv/$1⁵/
+    - xform/([aeioumngptk])v/$1²/
+    - xform/([aeioumngptk])xx/$1⁶/
+    - xform/([aeioumngptk])x/$1³/
+  comment_format:
+    - xform/\(.+?\)//    # 處理組詞拼音
+    - xform/「.+?」//    # 處理組詞拼音
+
+luna_pinyin:    # 普拼反查粵拼
+  tag: luna_pinyin
+  dictionary: luna_pinyin
+  enable_user_dict: false
+  prefix: "`"
+  suffix: ";"
+  tips: 〔普拼〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+reverse_lookup:
+  tags:  [luna_pinyin]  # 需要打字時顯示釋義則註釋這行，建議豎排顯示時使用【很有用的功能，建議PC上使用！】
+  overwrite_comment: true
+  dictionary: naamning_bingwaa
+  comment_format:
+    - xform/ /\｜/
+    - xform/^/〔/
+    - xform/$/〕/
+    - xform/「/ /
+    - xform/」//
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    luna_pinyin: "`[a-z']*'?$"

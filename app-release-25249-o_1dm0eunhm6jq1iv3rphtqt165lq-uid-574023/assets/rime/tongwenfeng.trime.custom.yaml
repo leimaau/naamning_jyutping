@@ -1,0 +1,268 @@
+# Trime custom style settings
+# encoding: utf-8
+# config_version: "3.0"
+
+luna_pinyin_nine: &luna_pinyin_nine
+  ascii_mode: 0
+  author: LeiMaau <leimaau@qq.com>
+  name: 朙月拼音(9鍵)
+  ascii_keyboard: letter  #指定密码键盘
+  width: 21
+  #height: 48
+  label_transform: uppercase #uppercase|none 中文模式下的字母标签自动大写
+  keys:
+  #第一行
+  - {click: ",", label: "，", long_click: ";", width: 17}
+  - {click: delimiter, long_click: 1, key_back_color: bkg, key_text_color: tkg}
+  - {click: a, long_click: 2, label: ABC}
+  - {click: d, long_click: 3, label: DEF}
+  - {click: BackSpace, width: 20, key_back_color: bbs, key_text_color: tbs}
+  #第二行
+  - {click: ".", label: "。", long_click: ":", width: 17}
+  - {click: g, long_click: 4, label: GHI}
+  - {click: j, long_click: 5, label: JKL}
+  - {click: m, long_click: 6, label: MNO}
+  - {click: Keyboard_bqsy4_new, composing: Escape, width: 20}
+  #第三行
+  - {click: "?", label: "?", long_click: "(){Left}", width: 17}
+  - {click: p, long_click: 7, label: PQRS}
+  - {click: t, long_click: 8, label: TUV}
+  - {click: w, long_click: 9, label: WXYZ}
+  - {click: "!", label: "!", long_click: "「」{Left}", width: 20}
+  #第四行
+  - {click: Keyboard_symbols_new, width: 17}
+  - {click: Keyboard_number_new, composing: comma, long_click: Color_switch, width: 16.5}
+  - {click: space, long_click: Keyboard_eng, key_text_size: "10", width: 30}
+  - {click: Keyboard_eng, composing: period, long_click: Menu, key_back_color: bkg, key_text_color: tkg, width: 16.5}
+  - {click: Return, long_click: Theme_settings, width: 20, key_back_color: benter, key_text_color: tenter}
+
+luna_pinyin_fourteen: &luna_pinyin_fourteen
+  ascii_mode: 0
+  author: LeiMaau <leimaau@qq.com>
+  name: "朙月拼音(14鍵)"
+  width: 20
+  #height: 48
+  label_transform: uppercase #uppercase|none 中文模式下的字母标签自动大写
+  keys:
+  - {click: 'q', label: "QW", long_click: '1'}
+  - {click: 'e', label: "ER", long_click: '2'}
+  - {click: 't', label: "TY", long_click: '3'}
+  - {click: 'u', label: "UI", long_click: '4'}
+  - {click: 'o', label: "OP", long_click: '5'}
+  - {click: 'a', label: "AS", long_click: '6'}
+  - {click: 'd', label: "DF", long_click: '7'}
+  - {click: 'g', label: "GH", long_click: '8'}
+  - {click: 'j', label: "JK", long_click: '9'}
+  - {click: 'l', label: "L", long_click: '0'}
+  - {click: delimiter, key_text_size: "10", key_text_color: tbs, width: 10}
+  - {click: 'z', label: "ZX", long_click: '~'}
+  - {click: 'c', label: "CV", long_click: '!'}
+  - {click: 'b', label: "BN", long_click: '@'}
+  - {click: 'm', label: "M", long_click: '?', width: 15}
+  - {click: BackSpace, key_back_color: bbs, key_text_color: tbs, width: 15}
+  - {click: Keyboard_number, long_click: Menu, width: 12.5, key_back_color: bgn, key_text_color: tgn}
+  - {click: Keyboard_bqrw, long_click: Theme_settings, width: 12.5, key_text_size: "18", key_back_color: bgn, key_text_color: tgn}
+  - {click: ',', label: '，', long_click: '<>{Left}', key_back_color: bh4, key_text_color: th4, width: 10}
+  - {click: space, long_click: Keyboard_eng, key_text_size: "10", width: 30, key_back_color: bkg, key_text_color: tkg}
+  - {click: '.', label: '。', long_click: Keyboard_kao, key_back_color: bh4, key_text_color: th4, width: 10}
+  - {click: Keyboard_eng, long_click: Color_switch, key_text_size: "10", key_back_color: bgn, key_text_color: tgn, width: 10}
+  - {click: Return, composing: Escape, width: 15, key_back_color: benter, key_text_color: tenter}
+
+patch:
+  "style/hanb_font": Ext.ttf
+  "style/keyboards":
+    - .default
+    - letter
+    - default
+    - number
+    - symbols
+    - edit
+    - move
+    - bqrw1
+    - bqrw2
+    - bqrw3
+    - bqrw4
+    - bqrw5
+    - bqqt1
+    - bqqt2
+    - bqqt3
+    - bqqt4
+    - bqqz1
+    - bqqz2
+    - bqqz3
+    - bqqz4
+    - bqqz5
+    - bqpt1
+    - bqpt2
+    - bqhd1
+    - bqhd2
+    - bqhc1
+    - bqhc2
+    - bqlx1
+    - bqlx2
+    - bqlx3
+    - bqlx4
+    - bqlx5
+    - bqkj1
+    - bqkj2
+    - bqkj3
+    - bqkj4
+    - bqfh1
+    - bqfh2
+    - bqfh3
+    - bqfh4
+    - kao_fond
+    - kao_sad
+    - kao_mad
+    - kao_astonished
+    - kao_impotent
+    - kao_happy
+    - numberb
+    - number_new
+    - luna_pinyin_nine
+    - leimaau_jyutping_nine
+    - luna_pinyin_fourteen
+    - leimaau_jyutping_fourteen
+    - cangjie5
+    - stroke
+  "preset_keyboards/default/keys/@33/key_text_size": 10
+  "preset_keyboards/default/keys/@35/click": Mode_switch
+  "preset_keyboards/default/keys/@35/key_text_size": 10
+  "preset_keyboards/default/keys/@35/long_click": Color_switch
+  "preset_keyboards/letter/keys/@33/key_text_size": 10
+  "preset_keyboards/letter/keys/@33/long_click": Keyboard_cn
+  "preset_keyboards/letter/keys/@35/click": Keyboard_cn
+  "preset_keyboards/letter/keys/@35/key_text_size": 10
+  "preset_keyboards/letter/keys/@35/key_back_color": benter
+  "preset_keyboards/letter/keys/@35/key_text_color": tenter
+  "preset_keyboards/letter/keys/@35/long_click": Color_switch
+  
+  "preset_keyboards/number_new":
+    ascii_mode: 1
+    author: LeiMaau <leimaau@qq.com>
+    name: 数字键盘(9鍵)
+    width: 21
+    #height: 48
+    keys:
+    #第一行
+      - {click: "+", long_click: "%", width: 17}
+      - {click: 1} 
+      - {click: 2}
+      - {click: 3}
+      - {click: BackSpace, width: 20, key_back_color: bbs, key_text_color: tbs}
+    #第二行
+      - {click: "-", long_click: "#", width: 17}
+      - {click: 4}
+      - {click: 5}
+      - {click: 6}
+      - {click: ".", long_click: ",", width: 20}
+    #第三行
+      - {click: "/", long_click: "*", width: 17}
+      - {click: 7}
+      - {click: 8}
+      - {click: 9}
+      - {click: "@", long_click: "=", width: 20}
+    #第四行
+      - {click: Keyboard_symbols_new, width: 17}
+      - {click: Keyboard_last_lock, key_back_color: benter, key_text_color: tenter}
+      - {click: 0}
+      - {click: space1}
+      - {click: Return, width: 20, key_back_color: benter, key_text_color: tenter}
+      
+  "preset_keyboards/luna_pinyin_nine": *luna_pinyin_nine
+  "preset_keyboards/leimaau_jyutping_nine": *luna_pinyin_nine
+  "preset_keyboards/leimaau_jyutping_nine/keys/@11/hint": "q陰平 qq陽平"
+  "preset_keyboards/leimaau_jyutping_nine/keys/@12/hint": "v陰上 vv陽上"
+  "preset_keyboards/leimaau_jyutping_nine/keys/@13/hint": "x陰去 xx陽去 yu"
+  
+  "preset_keyboards/luna_pinyin_fourteen": *luna_pinyin_fourteen
+  "preset_keyboards/leimaau_jyutping_fourteen": *luna_pinyin_fourteen
+  "preset_keyboards/leimaau_jyutping_fourteen/keys/@0/hint": "q陰平 qq陽平"
+  "preset_keyboards/leimaau_jyutping_fourteen/keys/@2/hint": "yu"
+  "preset_keyboards/leimaau_jyutping_fourteen/keys/@11/hint": "x陰去 xx陽去"
+  "preset_keyboards/leimaau_jyutping_fourteen/keys/@12/hint": "v陰上 vv陽上"
+    
+  "preset_keyboards/cangjie5":
+    name: 倉頡五代鍵盤
+    author: 皛筱晓小笨鱼
+    ascii_mode: 0
+    ascii_keyboard: letter  #指定密码键盘
+    width: 10
+    height: 48
+    label_transform: uppercase #uppercase|none 中文模式下的字母标签自动大写
+    keys:
+    - {label: '手', long_click: '_', click: q}
+    - {label: '田', long_click: '-', click: w}
+    - {label: '水', long_click: '+', click: e}
+    - {label: '口', long_click: '=', click: r}
+    - {label: '廿', long_click: '|', click: t}
+    - {label: '卜', long_click: '\', click: y}
+    - {label: '山', long_click: '[', click: u}
+    - {label: '戈', long_click: ']', click: i}
+    - {label: '人', long_click: '{', click: o}
+    - {label: '心', long_click: '}', click: p}
+    - {long_click: ':', click: ';'}
+    - {label: '日', long_click: '`', click: a}
+    - {label: '尸', long_click: Up, click: s}
+    - {label: '木', long_click: '~', click: d}
+    - {label: '火', long_click: '!', click: f}
+    - {label: '土', long_click: '@', click: g}
+    - {label: '竹', long_click: '#', click: h}
+    - {label: '十', long_click: '$', click: j}
+    - {label: '大', long_click: '%', click: k}
+    - {label: '中', long_click: '^', click: l}
+    - {long_click: '?', click: '/'}
+    - {label: '符', click: z, long_click: Left}
+    - {label: '難', click: x, long_click: Down}
+    - {label: '金', click: c, long_click: Right}
+    - {label: '女', long_click: '&', click: v}
+    - {label: '月', long_click: '*', click: b}
+    - {label: '弓', long_click: '(', click: n}
+    - {label: '一', long_click: ')', click: m}
+    - {long_click: '<', click: ','}
+    - {click: BackSpace, key_text_size: "10", width: 10, key_back_color: bbs, key_text_color: tbs}
+    - {click: Hide, key_text_size: "10"}
+    - {click: Shift_L, key_text_size: "10", send_bindings: false}
+    - {click: Keyboard_symbols_new, key_text_size: "10", long_click: Color_switch}
+    - {click: space, key_text_size: "10", long_click: Mode_switch, width: 40}
+    - {click: Mode_switch, key_text_size: "10", long_click: Menu}
+    - {long_click: '>', click: '.'}
+    - {click: Return, key_text_size: "10", long_click: Theme_settings, width: 10, key_back_color: benter, key_text_color: tenter}
+    
+  "preset_keyboards/stroke":
+    name: 五筆劃鍵盤
+    author: 皛筱晓小笨鱼
+    ascii_mode: 0
+    ascii_keyboard: letter  #指定密码键盘
+    width: 20
+    height: 48
+    label_transform: uppercase #uppercase|none 中文模式下的字母标签自动大写
+    keys:
+    - {click: '?', long_click: '!'}
+    - {click: h, label: '一'}
+    - {click: s, label: '丨'}
+    - {click: p, label: '丿'}
+    - {click: BackSpace, key_back_color: bbs, key_text_color: tbs}
+    - {click: ';', long_click: ':'}
+    - {click: n, label: '丶'}
+    - {click: z, label: '乙'}
+    - {click: "'", label: '詞組'}
+    - {click: ',', long_click: '.'}
+    - {click: Hide, key_text_size: "10", width: 10}
+    - {click: '/', long_click: '^', width: 10}
+    - {click: Keyboard_symbols_new, key_text_size: "10", long_click: Color_switch, width: 10}
+    - {click: space, key_text_size: "10", width: 40}
+    - {click: Keyboard_eng, key_text_size: "10", long_click: Menu, width: 10, key_back_color: bkg, key_text_color: tkg}
+    - {click: Return, long_click: Theme_settings, width: 20, key_back_color: benter, key_text_color: tenter}
+    
+  "preset_keyboards/naamning_baakwaa_nine/import_preset": leimaau_jyutping_nine
+  "preset_keyboards/naamning_bingwaa_nine/import_preset": leimaau_jyutping_nine
+  "preset_keyboards/naamning_baakwaa_fourteen/import_preset": leimaau_jyutping_fourteen
+  "preset_keyboards/naamning_bingwaa_fourteen/import_preset": leimaau_jyutping_fourteen
+  "preset_keys/space": {repeatable: false, preview: '␣', functional: false, send: space}
+  "preset_keys/Keyboard_eng": {label: "中/英", send: Eisu_toggle, select: letter}
+  "preset_keys/Keyboard_cn": {label: "英/中", send: Eisu_toggle, select: .last_lock}
+  "preset_keys/Keyboard_symbols_new": {label: "符号", send: Eisu_toggle, select: bqfh1, functional: false}
+  "preset_keys/Keyboard_number_new": {label: "123", send: Eisu_toggle, select: number_new, functional: false}
+  "preset_keys/Keyboard_bqsy4_new": {label: "^_^", send: Eisu_toggle, select: kao_happy, functional: false}
+  

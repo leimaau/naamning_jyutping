@@ -2684,7 +2684,7 @@
 累世	lui5 si3
 累次	lui5 ci3
 累卵	lui5 lun5
-累遷	lui5 cin1
+累遷	lui5 cim1
 累進	lui5 zan3
 日積月累	njat5 zik2 njyut5 lui5
 危如累卵	wai4 jyu4 lui5 lun5
@@ -4020,7 +4020,7 @@
 重婚	zoeng4 wan1
 重圍	zoeng4 wai4
 重陽	zoeng4 jiang4
-重演	zoeng4 jin2
+重演	zoeng4 jim2
 重見天日	zoeng4 gin3 tin1 njat5
 重修舊好	zoeng4 slau1 gau6 haau2
 重操舊業	zoeng4 caau1 gau6 nip5
@@ -4415,7 +4415,7 @@
 靦然	tin2 jyun4
 靦顏借命	tin2 njaan4 ze3 ming6
 有靦面目	jau5 tin2 min6 moek5
-靦腆	min5 tin2
+靦腆	min5 dim2
 緬靦	min5 min5
 飲馬	njam3 maa5
 飲牛	njam3 njau4
@@ -4474,7 +4474,7 @@
 鮮爲人知	slyun2 wai4 njan4 zi1
 屢見不鮮	lyu5 gin3 bat2 slyun2
 寡廉鮮恥	gwaa2 lim4 slyun2 ci2
-倨傲鮮腆	gyu3 ngaau6 slyun2 tin2
+倨傲鮮腆	gyu3 ngaau6 slyun2 dim2
 新鮮	slan1 slyun1
 鮮果	slyun1 go2
 鮮豔	slyun1 jim6
@@ -4572,3 +4572,8 @@
 黏米	zim1 mai5
 粘米	zim1 mai5
 懵䒏䒏	moeng5 slang4 slang4
+𠯔斜咧	pat1 ce4 le4
+埋口	maai4 hau2
+參與	caam1 jyu6
+華山	waa6 saan1
+分爲	fan1 wai4

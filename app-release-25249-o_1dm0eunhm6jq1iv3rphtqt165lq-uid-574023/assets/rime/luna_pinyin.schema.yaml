@@ -1,0 +1,124 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: luna_pinyin
+  name: 朙月拼音
+  version: "0.24"
+  author:
+    - 佛振 <chen.sst@gmail.com>
+  description: |
+    Rime 預設的拼音輸入方案。
+    參考以下作品而創作：
+      * CC-CEDICT
+      * Android open source project
+      * Chewing - 新酷音
+      * opencc - 開放中文轉換
+  dependencies:
+    - stroke
+
+switches:
+  - name: simplification
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: emoji_cn
+    reset: 0
+    states: [ 〇, 😊 ]
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+    - simplifier@emoji_cn
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - erase/^xx$/
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcs]h).+$/$1/
+    - derive/^([nl])ve$/$1ue/
+    - derive/^([jqxy])u/$1v/
+    - derive/un$/uen/
+    - derive/ui$/uei/
+    - derive/iu$/iou/
+    - derive/([aeiou])ng$/$1gn/
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/
+    - derive/ong$/on/
+    - derive/ao$/oa/
+    - derive/([iu])a(o|ng?)$/a$1$2/
+
+menu:
+  alternative_select_keys: "123456789"
+  page_size: 7  # 候選詞數
+
+translator:
+  dictionary: luna_pinyin
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+reverse_lookup:
+  dictionary: stroke
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+  comment_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+  bindings:   # 使用小鶴同文主題時開啓
+    - {accept: semicolon, send: 2, when: has_menu} # 分號次選
+    - {accept: dollar, send: 2, when: composing}
+    - {accept: Release+dollar, send: period, when: composing}
+    - {accept: Release+period, send: period, when: composing}
+    - {accept: bar, send: 2, when: composing}
+    - {accept: Release+bar, send: comma, when: composing}
+    - {accept: Release+comma, send: comma, when: composing}
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+    reverse_lookup: "`[a-z]*'?$"
+    
+emoji_cn:
+  opencc_config: emoji.json
+  option_name: emoji_cn
+  tips: all
+  
