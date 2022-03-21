@@ -129,13 +129,13 @@ translator:
   dictionary: naamning_baakwaa
   prism: naamning_baakwaa
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
-  preedit_format: 
-    - xform/([yaeioumngptk])qq/$1⁴/
-    - xform/([yaeioumngptk])q/$1¹/
-    - xform/([yaeioumngptk])vv/$1⁵/
-    - xform/([yaeioumngptk])v/$1²/
-    - xform/([yaeioumngptk])xx/$1⁶/
-    - xform/([yaeioumngptk])x/$1³/
+  preedit_format:
+    - xform/([aeioumngptk])qq/${1}4/
+    - xform/([aeioumngptk])q/${1}1/
+    - xform/([aeioumngptk])vv/${1}5/
+    - xform/([aeioumngptk])v/${1}2/
+    - xform/([aeioumngptk])xx/${1}6/
+    - xform/([aeioumngptk])x/${1}3/
   comment_format:
     - xform/\(.+?\)//    # 處理組詞拼音
     - xform/「.+?」//    # 處理組詞拼音
