@@ -33,10 +33,10 @@
 
 ## 拼音方案及查詢工具
 
-[Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
+[Leimaau's Webdict 3.0](https://leimaau-webdict3.vercel.app/) | [南寧白話拼音方案](https://leimaau-webdict3.vercel.app/posts/PHONETICIZE) | [南寧（亭子）平話拼音方案](https://leimaau-webdict3.vercel.app/posts/PHONETICIZE_bingwaa)
 
 ## 安裝及使用方法
 
-[漢語方言拼音輸入](https://hanhngiox.net/) | [本碼表使用技巧](https://leimaau.github.io/book/appendix1/appendix4.2.html)
+[漢語方言拼音輸入](https://hanhngiox.net/) | [本碼表使用技巧](https://leimaau-webdict3.vercel.app/posts/appendix4.2)
 
 </div>
