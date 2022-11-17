@@ -706,6 +706,7 @@
 㛹	bin4	
 便	bin4「便宜」	
 楩	bin4	
+緶	bin4「用針縫」	
 胼	bin4	
 褊	bin4「褊褼」	
 諞	bin4「巧言」	
@@ -9627,7 +9628,6 @@
 片	pin3「一片，藥片」	
 遍	pin3	
 騙	pin3	
-緶	pin4「用針縫」	
 伻	ping1	
 俜	ping1	
 匉	ping1	
