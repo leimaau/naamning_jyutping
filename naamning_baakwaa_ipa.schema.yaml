@@ -4,7 +4,7 @@
 schema:
   schema_id: naamning_baakwaa_ipa
   name: "南寧白話(IPA)"
-  version: "2022.03.17"
+  version: "2022.11.17"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
@@ -32,9 +32,6 @@ switches:
       - 字形 → 香港
       - 字形 → 臺灣
       - 字形 → 日本
-  - name: emoji_cn
-    reset: 0
-    states: [ 〇, 😊 ]
   - name: ascii_mode
     reset: 0
     states: [ 中文, 西文 ]
@@ -42,6 +39,9 @@ switches:
     states: [ 半角, 全角 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
+  - name: emoji_cn
+    reset: 0
+    states: [ 〇, 😊 ]
 
 engine:
   __include: naamning_baakwaa.schema:/engine
