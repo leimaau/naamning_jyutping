@@ -73,7 +73,7 @@
 中鋒	zung1 fung1
 中層	zung1 cang4
 中興	zung1 hing1
-中斷	zung1 dyun6
+中斷	zung1 tyun5
 中斷	zung1 tyun5
 適中	sik1 zung1
 當中	dong1 zoeng1
@@ -246,7 +246,7 @@
 供出	gung1 cyut1
 招供	ziu1 gung1
 供品	gung3 pan2
-供養	gung3 joeng5
+供養	gung1 joeng5
 供奉	gung3 fung6
 供神	gung3 san4
 上供	soeng5 gung3
@@ -359,8 +359,8 @@
 假公濟私	gaa2 gung1 zai3 si1
 真假	zan1 gaa2
 假如	gaa2 jyu4
-假使	gaa2 si2
 假使	gaa2 sai2
+假使	gaa2 si2
 假貨	gaa2 fo3
 假想	gaa2 sloeng2
 假定	gaa2 ding6
@@ -643,16 +643,16 @@
 娶老婆	cyu2 lu5 po4
 娶心抱	cu2 slam1 pu5
 娶心抱	cyu2 slam1 pu5
-勝任	sing1 jam6
-不勝枚舉	bat1 sing1 mui4 gyu2
-高處不勝寒	gu1 cyu3 bat1 sing1 hon4
-防不勝防	fong4 bat1 sing1 fong4
-數不勝數	su2 bat1 sing1 su2
-美不勝收	mi5 bat1 sing1 sau1
-力不能勝	lik6 bat1 nang4 sing1
-不勝其煩	bat1 sing1 ki4 faan4
-不可勝數	bat1 ho2 sing1 su2
-不勝感激	bat1 sing1 gaam2 gik1
+勝任	sing3 jam6
+不勝枚舉	bat1 sing3 mui4 gyu2
+高處不勝寒	gu1 cyu3 bat1 sing3 hon4
+防不勝防	fong4 bat1 sing3 fong4
+數不勝數	su2 bat1 sing3 su2
+美不勝收	mi5 bat1 sing3 sau1
+力不能勝	lik6 bat1 nang4 sing3
+不勝其煩	bat1 sing3 ki4 faan4
+不可勝數	bat1 ho2 sing3 su2
+不勝感激	bat1 sing3 gaam2 gik1
 匙羹	ci4 gang1
 湯匙	tong1 ci4
 茶匙	caa4 ci4
@@ -860,7 +860,7 @@
 喪權	slong3 kyun4
 喪偶	slong3 ngau5
 懊喪	u3 slong3
-喪魂落魄	slong3 wan4 lok6 paak3
+落魄	lok6 tok3
 喪膽	slong3 daam2
 喪鐘	slong3 zung1
 喪事	slong1 sy6
@@ -1232,9 +1232,6 @@
 崎嶇	ki1 kyu1
 崎嶇不平	ki1 kyu1 bat1 ping4
 長崎	coeng4 ki4
-島嶼	du2 zyu6
-鼓浪嶼	gu2 long6 zyu6
-大嶼山	daai6 jyu4 saan1
 差別	caa1 bit6
 差異	caa1 ji6
 差錯	caa1 co3
@@ -1277,7 +1274,7 @@
 郵差	jau4 caai1
 聽差	ting1 caai1
 衙差	ngaa4 caai1
-鬼使神差	gwai2 si2 san4 caai1
+鬼使神差	gwai2 sai2 san4 caai1
 專差	zyun1 caai1
 美差	mi5 caai1
 信差	slyun3 caai1
@@ -1301,8 +1298,6 @@
 幢蓋	cong4 goi3
 幢節	cong4 zit3
 幢幡	cong4 faan1
-海幢寺	hoi2 tong4 zy6
-海幢寺	hoi2 tong4 zi6
 幾乎	gi1 wu4
 庶幾	syu3 gi1
 幾微	gi1 mi4
@@ -1385,10 +1380,10 @@
 強人所難	koeng5 jan4 slo2 naan4
 強詞奪理	koeng5 cy4 dyut6 li5
 強詞奪理	koeng5 ci4 dyut6 li5
-強使	koeng5 si2
 強使	koeng5 sai2
+強使	koeng5 si2
 強諫	koeng5 gaan3
-倔強	gwat6 goeng6
+倔強	gwat6 koeng5
 強嘴	goeng6 zui2
 子彈	zy2 daan6
 子彈	zi2 daan6
@@ -1597,7 +1592,7 @@
 拗口	aau3 hau2
 拗口	eu3 hau2
 挾菜	gep3 coi3
-挾帶	gaap3 daai3
+挾帶	hip3 daai3
 挨近	aai1 kan5
 挨住	aai1 zyu6
 挨家挨戶	aai1 gaa1 aai1 wu6
@@ -1728,11 +1723,11 @@
 斷章取義	tyun5 zoeng1 cyu2 ji6
 斷斷續續	tyun5 tyun5 zuk6 zuk6
 夢斷黃粱	mung6 tyun5 wong4 loeng4
-斷絕	dyun6 zyut6
-片斷	pin3 dyun6
-當機立斷	dong1 gi1 lap6 dyun6
-斷頭臺	dyun6 tau4 toi4
-斷代史	dyun6 doi6 sai2
+斷絕	tyun5 zyut6
+片斷	pin3 tyun5
+當機立斷	dong1 gi1 lap6 tyun5
+斷頭臺	tyun5 tau4 toi4
+斷代史	tyun5 doi6 sai2
 容易	jung4 ji6
 難易	naan4 ji6
 易如反掌	ji6 jyu4 faan2 zoeng2
@@ -2071,12 +2066,12 @@
 泡沫	pu5 mut6
 肥皁泡	fi4 zu6 pu5
 肥皂泡	fi4 zu6 pu5
-水泡	sui2 pu5
+水泡	sui2 peu3
 冒泡	mu6 pu5
-泡泡	pu5 pu5
-泡泡糖	pu5 pu5 tong4
-泡泡浴	pu5 pu5 juk6
-泡泡紗	pu5 pu5 saa1
+泡泡	paau3 paau3
+泡泡糖	paau3 paau3 tong4
+泡泡浴	paau3 paau3 juk6
+泡泡紗	paau3 paau3 saa1
 發泡	faat3 pu5
 發泡膠	faat3 pu5 gaau1
 發泡膠	faat3 pu5 geu1
@@ -2115,12 +2110,12 @@
 眼泡	ngen5 paau1
 血泡	hyut3 paau1
 卵泡	lyun2 paau1
-娘泡	noeng4 paau1
+氣泡	hi3 peu3
 膿泡	nung4 paau1
-海蘭泡	hoi2 laan4 paau1
+泡饃	paau3 mo1
 泡打粉	paau3 daa2 fan2
-鼓埋泡腮	gu2 maai4 paau1 sloi1
-氣泡	hi3 paau1
+泡沫	paau3 mut6
+氣泡	hi3 paau3
 吹泡	cui1 bok1
 吹𦢊	cui1 bok1
 豆腐泡	dau6 fu6 bok1
@@ -2129,7 +2124,7 @@
 豆𦢊	dau6 bok1
 魚泡	jyu4 bok1
 魚𦢊	jyu4 bok1
-水泡	sui2 bok1
+水泡	sui2 paau3
 浚縣	slyun3 jyun6
 浚縣	slan3 jyun6
 滇池	din1 ci4
@@ -2148,7 +2143,7 @@
 簷溜	jam4 lau6
 房溜	fong4 lau6
 承溜	sing4 lau6
-重溜	zung6 lau6
+重溜	cung5 lau6
 一溜	jat1 lau6
 嚿溜	gau6 lau6
 溜縫	lau6 fung6
@@ -2250,7 +2245,7 @@
 廣為流傳	gong2 wai4 lau4 cyun4
 深為感動	sam1 wai4 gaam2 dung6
 大為高興	daai6 wai4 gu1 hing3
-極為重要	gik6 wai4 zung6 jiu3
+極為重要	gik6 wai4 cung5 jiu3
 頗為得意	po2 wai4 dak1 ji3
 為數不多	wai4 su3 bat1 do1
 為數有限	wai4 su3 jau5 haan6
@@ -2292,7 +2287,7 @@
 廣爲流傳	gong2 wai4 lau4 cyun4
 深爲感動	sam1 wai4 gaam2 dung6
 大爲高興	daai6 wai4 gu1 hing3
-極爲重要	gik6 wai4 zung6 jiu3
+極爲重要	gik6 wai4 cung5 jiu3
 頗爲得意	po2 wai4 dak1 ji3
 爲數不多	wai4 su3 bat1 do1
 爲數有限	wai4 su3 jau5 haan6
@@ -2541,7 +2536,7 @@
 當中介人	dong1 zung1 gaai3 jan4
 敢當	gaam2 dong1
 不敢當	bat1 gaam2 dong1
-難當重任	naan4 dong1 zung6 jam6
+難當重任	naan4 dong1 cung5 jam6
 當家	dong1 gaa1
 銳不可當	jui6 bat1 ho2 dong1
 一夫當關	jat1 fu1 dong1 gwaan1
@@ -3000,38 +2995,38 @@
 天衣無縫	tin1 ji1 mu4 fung6
 無縫	mu4 fung6
 衣縫	ji1 fung6
-縱橫	zung1 waang4
-縱深	zung1 sam1
-縱貫	zung1 gun3
-縱軸	zung1 zuk6
-縱橫捭闔	zung1 waang4 baai2 hap6
-縱橫馳騁	zung1 waang4 ci4 cing2
-縱橫交錯	zung1 waang4 gaau1 cok3
-合縱	hap6 zung1
-放縱	fong3 zung3
-縱虎歸山	zung3 fu2 gwai1 saan1
-縱令	zung3 ling6
-縱言	zung3 jin4
-縱步	zung3 bu6
-縱使	zung3 si2
-縱波	zung3 bo1
-縱酒	zung3 zau2
-縱容	zung3 jung4
-縱覽	zung3 laam5
-七擒七縱	cat1 kam4 cat1 zung3
-縱情	zung3 cing4
-縱目	zung3 muk6
-縱身一跳	zung3 san1 jat1 tiu3
-縱火	zung3 fo2
-欲擒故縱	juk6 kam4 gu3 zung3
-縱情歌唱	zung3 cing4 go1 coeng3
-縱觀	zung3 gun1
-縱論	zung3 lyun6
-縱論	zung3 lan6
-縱有	zung3 jau5
-縱然	zung3 jin4
-縱身	zung3 san1
-縱談	zung3 taam4
+縱橫	zung3 waang4
+縱深	zung3 sam1
+縱貫	zung3 gun3
+縱軸	zung3 zuk6
+縱橫捭闔	zung3 waang4 baai2 hap6
+縱橫馳騁	zung3 waang4 ci4 cing2
+縱橫交錯	zung3 waang4 gaau1 cok3
+合縱	hap6 zung3
+放縱	fong3 zung6
+縱虎歸山	zung6 fu2 gwai1 saan1
+縱令	zung6 ling6
+縱言	zung6 jin4
+縱步	zung6 bu6
+縱使	zung6 sai2
+縱波	zung6 bo1
+縱酒	zung6 zau2
+縱容	zung6 jung4
+縱覽	zung6 laam5
+七擒七縱	cat1 kam4 cat1 zung6
+縱情	zung6 cing4
+縱目	zung6 muk6
+縱身一跳	zung6 san1 jat1 tiu3
+縱火	zung6 fo2
+欲擒故縱	juk6 kam4 gu3 zung6
+縱情歌唱	zung6 cing4 go1 coeng3
+縱觀	zung6 gun1
+縱論	zung6 lyun6
+縱論	zung6 lan6
+縱有	zung6 jau5
+縱然	zung6 jin4
+縱身	zung6 san1
+縱談	zung6 taam4
 翟茀	dik6 fat1
 翬翟	wai1 dik6
 墨翟	mak6 dik6
@@ -3073,7 +3068,7 @@
 聽信	teng1 slyun3
 聽信	teng1 slan3
 聽差	teng1 caai1
-聽從	teng1 cung4
+聽從	ting3 cung4
 聽診	teng1 can2
 聽話	teng1 waa6
 聽聞	teng1 man4
@@ -3375,7 +3370,7 @@
 着實	zoek6 sat6
 着迷	zoek6 mi4
 着想	zoek6 sloeng2
-着重	zoek6 zung6
+着重	zoek6 cung5
 著衫	zoek3 saam1
 衣著	ji1 zoek3
 著衣	zoek3 ji1
@@ -3432,7 +3427,7 @@
 著實	zoek6 sat6
 著迷	zoek6 mi4
 著想	zoek6 sloeng2
-著重	zoek6 zung6
+著重	zoek6 cung5
 芳菲	fong1 fi1
 菲菲	fi1 fi1
 春草芳菲	cyun1 cu2 fong1 fi1
@@ -3807,7 +3802,7 @@
 雪褸	slyut3 lau1
 風褸	fung1 lau1
 襤褸	laam4 lyu5
-重要	zung6 jiu3
+重要	cung5 jiu3
 想要	sloeng2 jiu3
 要人	jiu3 jan4
 要津	jiu3 zyun1
@@ -4179,7 +4174,7 @@
 賁門	ban1 mun4
 姓賈	sling3 gaa2
 賈寶玉	gaa2 bu2 juk6
-賈誼	gaa2 ni6
+賈誼	gaa2 ni4
 賈平凹	gaa2 ping4 waa1
 商賈	soeng1 gu2
 賈人	gu2 jan4
@@ -4364,33 +4359,33 @@
 核桃露	hat6 tu4 lu6
 果子露	go2 zy2 lu6
 果子露	go2 zi2 lu6
-重點	zung6 dim2
-嚴重	jim4 zung6
-重心	zung6 slam1
-重用	zung6 jung6
-重臣	zung6 can4
-重鎮	zung6 zan3
-重聽	zung6 teng1
-慎重	san6 zung6
-穩重	wan2 zung6
-重視	zung6 si6
-重地	zung6 di6
-戰略重地	zin3 loek6 zung6 di6
-貴重	gwai3 zung6
-重任	zung6 jam6
-器重	hi3 zung6
-重男輕女	zung6 naam4 heng1 nyu5
-莊重	zong1 zung6
-隆重	lung4 zung6
-老成持重	lu5 sing4 ci4 zung6
-繁重	faan4 zung6
-重大	zung6 daai6
-深重	sam1 zung6
-情深誼重	cing4 sam1 ni6 zung6
+重點	cung5 dim2
+嚴重	jim4 cung5
+重心	cung5 slam1
+重用	cung5 jung6
+重臣	cung5 can4
+重鎮	cung5 zan3
+重聽	cung5 teng1
+慎重	san6 cung5
+穩重	wan2 cung5
+重視	cung5 si6
+重地	cung5 di6
+戰略重地	zin3 loek6 cung5 di6
+貴重	gwai3 cung5
+重任	cung5 jam6
+器重	hi3 cung5
+重男輕女	cung5 naam4 heng1 nyu5
+莊重	zong1 cung5
+隆重	lung4 cung5
+老成持重	lu5 sing4 ci4 cung5
+繁重	faan4 cung5
+重大	cung5 daai6
+深重	sam1 cung5
+情深誼重	cing4 sam1 ni4 cung5
 輕重	heng1 cung5
 重量	cung5 loeng6
 重負	cung5 fu6
-重創	cung5 cong3
+重創	cung5 cong1
 重傷	cung5 soeng1
 重載	cung5 zoi3
 重工業	cung5 gung1 nip6
@@ -4697,7 +4692,7 @@
 亭子間	ting4 zi2 gaan1
 間隔	gaan3 gaak3
 間隙	gaan3 kwik1
-間斷	gaan3 dyun6
+間斷	gaan3 tyun5
 離間	li4 gaan3
 間接	gaan3 zip3
 挑撥離間	tiu1 but6 li4 gaan3
@@ -4916,7 +4911,7 @@
 新鮮	slan1 slin1
 鮮果	slin1 go2
 鮮豔	slin1 jim6
-朝鮮	ciu4 slin1
+朝鮮	ciu4 slin2
 鮮明	slin1 ming4
 鮮車怒馬	slin1 gyu1 nu6 maa5
 鮮艷	slin1 jim6
@@ -5044,9 +5039,6 @@
 朆	mang4
 㖭	lim1
 𠻹	lim1
-～住	～ zyu6
-～緊	～ gan2
-～嗮	～ slaai3
 噉	gam2
 昨日	zok6 mat6
 琴日	kam4 mat6
@@ -5173,6 +5165,278 @@
 𠯔斜咧	pat1 ce4 le4
 埋口	maai4 hau2
 帶協	daai3 hip3
-參與	caam1 jyu6
 華山	waa6 saan1
 般若	bo1 je5
+鬼使神差	gwai2 si2 san4 caai1
+創痛	cong1 tung3
+創痍	cong1 ji4
+創傷	cong1 soeng1
+并州	bing1 zau1
+工尺	gung1 ce2
+亞啲	aa3 di1
+亞便	aa3 bin6
+黑頸	hak1 geng2
+敆伙	gap3 fo2
+敆份	gap3 fan6
+敆手	gap3 sau2
+敆檔	gap3 dong3
+好敆	hu2 gap3
+敆口	gap3 hau2
+佮伙	gap3 fo2
+佮份	gap3 fan6
+佮手	gap3 sau2
+佮檔	gap3 dong3
+佮計	gap3 gai3
+好佮	hu2 gap3
+佮口	gap3 hau2
+儆惜	geng6 slek3
+瘌痢	laat3 li1
+獁騮	maa1 lau1
+紮馬	zaap3 maa5
+紮馬步	zaap3 maa5 bu6
+馬扎	maa5 zaap6
+譅氣	saap3 hi3
+屈氣	wat1 hi3
+慍氣	wat1 hi3
+褦襶	le5 de2
+褦㹃	le5 fe5
+㪐㩿	lak1 kak1
+𡃀𡃀	nge4 nge1
+㞎㞎	be4 be2
+㞎㞎	baa4 baa2
+㗾㗾聲	hoe4 hoe2 seng1
+㗾哆	hoe4 doe1
+𧚔裙	tung2 kwan4
+㤿憸	jim1 zim1
+腌臢	ap1 zap1
+癡戇戇	ci1 ngang1 ngang1
+等下子	dang2 haa5 zi2
+等下子	dang2 haa5 zi1
+一下子	jat1 haa5 zi2
+一下子	jat1 haa5 zi1
+一下子	at1 haa5 zi2
+一下子	at1 haa5 zi1
+一下子	aa1 haa5 zi2
+一下子	aa1 haa5 zi1
+一文	jat1 man1
+一文	at1 man1
+一文	aa1 man1
+一個	jat1 go3
+一個	at1 go3
+一個	aa1 go3
+乒铃乓唥	bing1 ling1 baang1 laang1
+倾铃䆲䆡	king1 ling1 kwaang1 laang1
+棹船	zaau6 syun4
+齮齮龁龁	ngi6 ngi1 nget6 nget6
+吱吱啁啁	zi1 zi1 zeu1 zeu1
+溼𣲷𣲷	sap1 nap6 nap6
+溼湆湆	sap1 nap6 nap6
+耍摩摩	saa2 mo4 mo1
+屘屘屎	met1 met1 si2
+廿八拐	jaa6 bet3 gwaai2
+擠油渣	zi1 jau4 zaa1
+鬼魂啊失	gwai2 wan4 aa1 sat1
+滾喳喳	gwan2 zaa4 zaa4
+溜雞	liu1 gai1
+馬嘟嘚	maa5 du1 dak1
+螞𧊅	maa1 gwaai2
+盲頭雞	maang4 tau4 gai1
+牛骨仔	ngau4 gwat1 zai2
+木碌	muk6 luk1
+曬腩	saai3 naam5
+舞牚牚	mu5 caang3 caang3
+豬臑臑	zyu1 no4 no2
+豬儺儺	zyu1 no4 no2
+扯冬瓜話葫蘆	ce2 dung1 gwaa1 waa6 wu4 lu4
+撐遮	caang3 ze1
+獨食獨生瘡打死冇人幫	duk6 sik6 duk6 saang1 cong1 daa2 sli2 mu5 jan4 bong1
+躘蹱	lung3 cung3
+躘躘蹱蹱	lung3 lung3 cung3 cung3
+飲酒醉	jam2 zau2 zui3
+要唔是	jiu3 m4 si6
+要唔然	jiu3 m4 jin4
+奇離柺	ke4 le4 gwaai2
+差火	caa1 fo2
+底挺	dai2 ting2
+麻疤	maa4 be4
+蠄蟝	kam4 kyu4
+蠄蟝	kam4 kwe4
+蠄瘸	kam4 kwe4
+蟾蜍	sim4 syu4
+螞螂䗧	maa5 long4 kong4
+螠虵	ak1 e4
+瀨尿	laai5 niu6
+瀨屎	laai5 si2
+攋尿	laai5 niu6
+攋屎	laai5 si2
+啁嘐	zeu1 leu1
+嘐啁	leu1 zeu1
+啁嘐	zaau1 laau1
+嘐啁	laau1 zaau1
+啁嘐	ce1 le1
+哎喲	ui2 jo2
+哎唷	ui2 ju2
+哎唷	ui2 ju6
+哦呵	u3 hu3
+噢呵	u3 hu3
+鬅鬙	lang4 slang1
+簕竇	lak6 dau3
+喳喳	zaa4 zaa4
+㗱㗱	zap6 zap6
+硞硞	kuk1 kuk1
+卟卟	bap6 bap6
+噌噌	zang4 zang4
+喳喳	jaa1 jaa1
+呀呀	jaa1 jaa1
+吔吔	jaa1 jaa1
+呱呱	gwe4 gwe4
+𠺌𠺌	gwe4 gwe4
+喲喲	jo1 jo1
+呱呱	gwaa4 gwaa4
+聒聒	gwet1 gwet1
+嗟嗟	ze4 ze4
+砳砳	kok1 kok1
+吟吟	jam1 jam1
+呀呀	ngaa1 ngaa1
+霅霅	slap6 slap6
+喋喋	slap6 slap6
+呀呀	nge1 nge1
+坺潵	paat6 slaat6
+跋躠	paat6 slaat6
+迾迾	laat6 laat6
+列列	laat6 laat6
+趖趖	zo4 zo4
+趿趿	slap6 slap6
+靸靸	slap6 slap6
+戇戇	ngang6 ngang6
+碽緪	gung4 gang4
+碽縆	gung4 gang4
+娑娑	slo4 slo4
+娑娑	slaa4 slaa4
+儾儾	naang3 naang3
+豔豔	jem1 jem1
+艷艷	jem1 jem1
+咚咚	dung1 dung1
+叮叮	ding1 ding1
+黚黚	gam4 gam4
+鋥鋥	saang3 saang3
+𦅇𦅇	song3 song3
+黚黚	gem4 gem4
+嗷嗷	ngaau3 ngaau3
+啤啤	bi1 bi1
+嘛嘛	maa1 maa1
+𡁶𡁶	zet6 zet6
+宿宿	sluk1 sluk1
+黕黕	dam2 dam2
+𦛠𦛠	net1 net1
+㗂㗂	slang4 slang4
+䒏䒏	slang4 slang4
+嫋嫋	neu4 neu4
+裊裊	neu4 neu4
+仦仦	neu4 neu4
+腯腯	tan4 tan4
+臑臑	no1 no1
+蜢躿	meng2 keng2
+掹鏗	mang1 kang1
+擝鏗	mang1 kang1
+蜢躿	mang1 kang1
+𤹍𤹍	nang1 nang1
+丁丁	ding1 ding1
+戇戇	ngang1 ngang1
+嘭嘭	baang1 baang1
+乓乓	baang1 baang1
+尋尋	slam4 slam4
+𠸂𠸂	dat6 dat6
+擘擘	maak3 maak3
+𪙛𪙛	nak6 nak6
+坺坺	baat6 baat6
+碽碽	gung4 gung4
+碽碽	kung1 kung1
+趖趖	so4 so4
+居居	gyu1 gyu1
+嗲嗲	de4 de4
+咑咑	daa4 daa4
+䯾䯾	deu4 deu4
+騞騞	fak6 fak6
+食喳喳	sik6 zaa4 zaa4
+咬㗱㗱	ngeu5 zap6 zap6
+咬硞硞	ngeu5 kuk1 kuk1
+拍卟卟	paak3 bap6 bap6
+打噌噌	daa2 zang4 zang4
+吆喳喳	eu1 jaa1 jaa1
+吆呀呀	eu1 jaa1 jaa1
+吆吔吔	eu1 jaa1 jaa1
+吆呱呱	eu1 gwe4 gwe4
+吆𠺌𠺌	eu1 gwe4 gwe4
+吆喳喳	eu1 zaa4 zaa4
+吆喲喲	eu1 jo1 jo1
+吆呱呱	eu1 gwaa4 gwaa4
+吆聒聒	eu1 gwet1 gwet1
+笑嗟嗟	sliu3 ze4 ze4
+笑噱噱	sliu3 kok1 kok1
+笑吟吟	sliu3 jam1 jam1
+哭呀呀	huk1 ngaa1 ngaa1
+哭霅霅	huk1 slap6 slap6
+哭呀呀	huk1 nge1 nge1
+坐坺潵	co5 paat6 slaat6
+坐跋躠	co5 paat6 slaat6
+睡坺潵	sui6 paat6 slaat6
+睡跋躠	sui6 paat6 slaat6
+睡迾迾	sui6 laat6 laat6
+睡列列	sui6 laat6 laat6
+走趖趖	zau2 zo4 zo4
+趯喳喳	dek3 zaa4 zaa4
+行趿趿	haang4 slap6 slap6
+行靸靸	haang4 slap6 slap6
+拖趿趿	to1 slap6 slap6
+拖靸靸	to1 slap6 slap6
+徛戇戇	ki5 ngang6 ngang6
+跌碽緪	dit3 gung4 gang4
+跌碽縆	dit3 gung4 gang4
+𠳺娑娑	lan3 slo4 slo4
+崩趖趖	bang1 zo4 zo4
+拜喋喋	baai3 slap6 slap6
+紅豔豔	hung4 jem1 jem1
+紅艷艷	hung4 jem1 jem1
+紅咚咚	hung4 dung1 dung1
+紅叮叮	hung4 ding1 ding1
+黃黚黚	wong4 gam4 gam4
+黃鋥鋥	wong4 saang3 saang3
+黃𦅇𦅇	wong4 song3 song3
+黃黚黚	wong4 gem4 gem4
+綠嗷嗷	luk6 ngaau3 ngaau3
+青啤啤	ceng1 bi1 bi1
+青嗷嗷	ceng1 ngaau3 ngaau3
+黑嘛嘛	hak1 maa1 maa1
+白𡁶𡁶	baak6 zet6 zet6
+白宿宿	baak6 sluk1 sluk1
+矮黕黕	ai2 dam2 dam2
+矮𦛠𦛠	ai2 net1 net1
+高㗂㗂	gu1 slang4 slang4
+高嫋嫋	gu1 neu4 neu4
+高仦仦	gu1 neu4 neu4
+肥腯腯	fi4 tan4 tan4
+肥臑臑	fi4 no1 no1
+瘦蜢躿	sau3 meng2 keng2
+瘦掹鏗	sau3 mang1 kang1
+瘦擝鏗	sau3 mang1 kang1
+瘦蜢躿	sau3 mang1 kang1
+瘦𤹍𤹍	sau3 nang1 nang1
+奀丁丁	ngan1 ding1 ding1
+癡戇戇	ci1 ngang1 ngang1
+傻戇戇	slo4 ngang1 ngang1
+聾嘭嘭	lung4 baang1 baang1
+聾乓乓	lung4 baang1 baang1
+盲尋尋	maang4 slam4 slam4
+啞𠸂𠸂	aa2 dat6 dat6
+跛趿趿	bai1 slap6 slap6
+跛靸靸	bai1 slap6 slap6
+乾翹翹	gon1 keu1 keu1
+乾擘擘	gon1 maak3 maak3
+溼霅霅	sap1 slap6 slap6
+濕霅霅	sap1 slap6 slap6
+粈𪙛𪙛	neu1 nak6 nak6
+熱坺坺	jit6 baat6 baat6
+乾絣絣	gon1 mang3 mang3
+乾繃繃	gon1 mang3 mang3
+落雨娑娑	lok6 jyu5 slaa4 slaa4
