@@ -4,7 +4,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/naamning_jyutping.svg) ![GitHub](https://img.shields.io/github/license/leimaau/naamning_jyutping.svg)
 
-> * 採用『香港語言學會粵語拼音方案』
+> * 採用『香港語言學學會粵語拼音方案』
 > * 聲調輸入 q平 v上 x去 （雙擊爲陽調）
 > * IPA版提供多種字形轉換和提示音爲IPA
 > * 提供六種反查方案，[`]普拼反查粵拼，[x]五筆畫反查粵拼，[v]倉頡五代反查粵拼，[r][粵語兩分](https://github.com/CanCLID/rime-loengfan)反查粵拼，[xx]用普拼反查中古音，[xj]用粵拼反查中古音
@@ -37,6 +37,6 @@
 
 ## 安裝及使用方法
 
-[漢語方言拼音輸入](https://hanhngiox.net/) | [本碼表使用技巧](https://leimaau-webdict3.vercel.app/posts/appendix4.2)
+[漢語方言拼音輸入](https://hanhngiox.net/) | [本碼表使用技巧](https://leimaau.github.io/book/appendix1/appendix4.2.html)
 
 </div>
