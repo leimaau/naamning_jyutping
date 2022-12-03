@@ -190,17 +190,17 @@
 伽馬	gaa1 maa5
 伽馬射線	gaa1 maa5 se6 slin3
 佃作	din4 zaak2
-使者	si3 ze2
-使命	si3 ming6
-使館	si3 gun2
-使節	si3 zit2
-大使	daai6 si3
-公使	goeng1 si3
-出使	cat2 si3
-節度使	zit2 du6 si3
-布政使	bu3 zing3 si3
-按察使	aan3 caat2 si3
-不斬來使	bat2 zaam2 laai4 si3
+使者	sai2 ze2
+使命	sai2 ming6
+使館	sai2 gun2
+使節	sai2 zit2
+大使	daai6 sai2
+公使	goeng1 sai2
+出使	cat2 sai2
+節度使	zit2 du6 sai2
+布政使	bu3 zing3 sai2
+按察使	aan3 caat2 sai2
+不斬來使	bat2 zaam2 laai4 sai2
 使用	sai2 joeng6
 供給	goeng1 kap2
 供應	goeng1 ing3
@@ -3936,11 +3936,11 @@
 筆參造化	bat2 caam1 zaau6 waa3
 一年兩造	at2 nin4 liang5 zaau6
 造船	zaau6 syun4
-造詣	caau3 ngai6
-造訪	caau3 fung2
-造謁	caau3 jit2
-深造	sam1 caau3
-登峰造極	dang1 foeng1 caau3 gik6
+造詣	zaau6 ngai6
+造訪	zaau6 fung2
+造謁	zaau6 jit2
+深造	sam1 zaau6
+登峰造極	dang1 foeng1 zaau6 gik6
 莫邪	moek5 je4
 是邪非邪	si6 je4 fi1 je4
 碘酊	dim2 ding1
@@ -4512,7 +4512,7 @@
 罵罵咧咧	maa6 maa6 le3 le3
 駡駡咧咧	maa6 maa6 le3 le3
 啊嘛	aa5 maa3
-可汗	kak2 haan6
+可汗	kak2 haan4
 汗國	haan4 guk2
 成吉思汗	sing4 gat2 sli1 haan4
 鋤大弟	zo4 daai6 di2
@@ -4522,7 +4522,7 @@
 沮誦	zyu1 zoeng6
 斤兩	gan1 liang5
 人質	njan4 zi3
-大使館	daai6 si3 gun2
+大使館	daai6 sai2 gun2
 成數	sing4 su3
 幾成	gi2 sing4
 钂鈀	taang1 baa4

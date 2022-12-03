@@ -208,17 +208,17 @@
 伽馬	gaa1 maa5
 伽馬射線	gaa1 maa5 se6 slin3
 佃作	tin4 zok3
-使者	si3 ze2
-使命	si3 ming6
-使館	si3 gun2
-使節	si3 zit3
-大使	daai6 si3
-公使	gung1 si3
-出使	cyut1 si3
-節度使	zit3 du6 si3
-布政使	bu3 zing3 si3
-按察使	on3 caat3 si3
-不斬來使	bat1 zaam2 loi4 si3
+使者	sai2 ze2
+使命	sai2 ming6
+使館	sai2 gun2
+使節	sai2 zit3
+大使	daai6 sai2
+公使	gung1 sai2
+出使	cyut1 sai2
+節度使	zit3 du6 sai2
+布政使	bu3 zing3 sai2
+按察使	on3 caat3 sai2
+不斬來使	bat1 zaam2 loi4 sai2
 使用	sai2 jung6
 供給	gung1 kap1
 供應	gung1 jing3
@@ -360,7 +360,6 @@
 真假	zan1 gaa2
 假如	gaa2 jyu4
 假使	gaa2 sai2
-假使	gaa2 si2
 假貨	gaa2 fo3
 假想	gaa2 sloeng2
 假定	gaa2 ding6
@@ -1381,7 +1380,6 @@
 強詞奪理	koeng5 cy4 dyut6 li5
 強詞奪理	koeng5 ci4 dyut6 li5
 強使	koeng5 sai2
-強使	koeng5 si2
 強諫	koeng5 gaan3
 倔強	gwat6 koeng5
 強嘴	goeng6 zui2
@@ -4337,11 +4335,11 @@
 筆參造化	bat1 caam1 zu6 faa3
 一年兩造	jat1 nin4 loeng5 zu6
 造船	zu6 syun4
-造詣	cu3 ngai6
-造訪	cu3 fong2
-造謁	cu3 jit3
-深造	sam1 cu3
-登峰造極	dang1 fung1 cu3 gik6
+造詣	zu6 ngai6
+造訪	zu6 fong2
+造謁	zu6 jit3
+深造	sam1 zu6
+登峰造極	dang1 fung1 zu6 gik6
 莫邪	mok6 je4
 是邪非邪	si6 je4 fi1 je4
 碘酊	dim2 ding1
@@ -4968,7 +4966,7 @@
 店舖	dim3 pu3
 沮誦	zyu1 zung6
 人質	jan4 zi3
-大使館	daai6 si3 gun2
+大使館	daai6 sai2 gun2
 成數	cing4 su3
 幾成	gi2 cing4
 钂鈀	tong2 paa4
@@ -5071,11 +5069,8 @@
 出去耍	cyut1 hyu3 saa2
 係冇係	hai6 mu5 hai6
 好冇好	hu2 mu5 hu2
-係…一(啊)係…	hai6 … jat1(aa1) hai6 …
-一(啊)系…一(啊)系…	jat1(aa1) hai6 … jat1(aa1) hai6 …
-…鬼魂都(啊)失	… gwai2 wan4 du1(aa1) sat1
-…得鬼魂	… dak1 gwai2 wan4
-…㞓魂失	… hai1 wan4 sat1
+得鬼魂	 dak1 gwai2 wan4
+㞓魂失	 hai1 wan4 sat1
 至	zi3
 勁	ging6
 要冇是	jiu3 mu5 si6
@@ -5167,7 +5162,6 @@
 帶協	daai3 hip3
 華山	waa6 saan1
 般若	bo1 je5
-鬼使神差	gwai2 si2 san4 caai1
 創痛	cong1 tung3
 創痍	cong1 ji4
 創傷	cong1 soeng1

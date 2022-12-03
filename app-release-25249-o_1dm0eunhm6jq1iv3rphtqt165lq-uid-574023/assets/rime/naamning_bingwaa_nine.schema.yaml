@@ -8,7 +8,7 @@ schema:
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
-    採用『香港語言學會粵語拼音方案』
+    採用『香港語言學學會粵語拼音方案』
     聲調輸入 q平 v上 x去 （雙擊爲陽調）
     IPA版提供多種字形轉換和提示音爲IPA
     提供一種反查方案，[`]普拼反查粵拼
