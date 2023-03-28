@@ -159,7 +159,7 @@
 仆開	puk1 hoi1
 仆喺	puk1 hai2
 仆轉	puk1 zyun3
-姓仇	sling3 kau4
+姓仇	sling3 cau4
 仔肩	zy1 gin1
 仔肩	zi1 gin1
 仔雞	zy2 gai1
@@ -408,8 +408,6 @@
 名不見經傳	ming4 bat1 gin3 ging1 zyun6
 射雕英雄傳	se6 diu1 jing1 hung4 zyun6
 傳奇	zyun6 ki4
-雕刻	diu1 hak1
-雕刻	tiu1 hak1
 傳奇	cyun4 ki4
 傳達	cyun4 daat6
 流傳	lau4 cyun4
@@ -776,9 +774,9 @@
 嗚咽	wu1 jit3
 悲咽	bi1 jit3
 填咽	tin4 jit3
-咯血	lok3 hyut3
-咯痰	lok3 taam4
-咯魚翅	lok3 jyu4 ci3
+咯血	kaak3 hyut3
+咯痰	kaak3 taam4
+咯魚翅	kaak3 jyu4 ci3
 咯咯笑	gok3 gok3 sliu3
 咯崩	gok3 bang1
 咯噔	gok3 dang1
@@ -787,7 +785,7 @@
 咯當	gok3 dong1
 咯咯而笑	gok3 gok3 ji4 sliu3
 咯咯響	gok3 gok3 hoeng2
-吡咯	bi2 lok6
+吡咯	bi2 lok3
 吡啶	bi2 ding6
 哼唱	hang1 coeng3
 哼歌	hang1 go1
@@ -1315,7 +1313,7 @@
 審度時勢	sam2 dok6 si4 sai3
 廁足	cak1 zuk1
 玩弄	waan2 nung6
-玩弄	wun6 lung6
+玩弄	waan2 lung6
 捉弄	zok3 lung6
 耍弄	saa2 lung6
 弄瓦	lung6 ngaa5
@@ -2402,17 +2400,17 @@
 玩遊戲	waan2 jau4 hi3
 玩遊戲機	waan2 jau4 hi3 gi1
 玩具	waan2 gyu6
-古玩	gu2 wun6
-珍玩	zan1 wun6
-玩物	wun6 mat6
-玩意	wun6 ji3
-玩藝	wun6 ngai6
+古玩	gu2 waan2
+珍玩	zan1 waan2
+玩物	waan2 mat6
+玩意	waan2 ji3
+玩藝	waan2 ngai6
 玩味	waan2 mi6
 玩耍	waan2 saa2
 玩笑	waan2 sliu3
-玩弄	wun6 nung6
-玩世不恭	wun6 sai3 bat1 gung1
-玩物喪志	wun6 mat6 slong3 zi3
+玩弄	waan2 nung6
+玩世不恭	waan2 sai3 bat1 gung1
+玩物喪志	waan2 mat6 slong3 zi3
 遊玩	jau4 waan6
 琿春縣	wan4 cyun1 jyun6
 琿春縣	wan4 can1 jyun6
@@ -2557,12 +2555,12 @@
 興奮	hing1 fan5
 一疋	jat1 pat1
 兩疋	loeng5 pat1
-疏記	so3 gi3
-疏證	so3 zing3
-注疏	zyu3 so3
-奏疏	zau3 so3
-上疏	soeng5 so3
-註疏	zyu3 so3
+疏記	so1 gi3
+疏證	so1 zing3
+注疏	zyu3 so1
+奏疏	zau3 so1
+上疏	soeng6 so1
+註疏	zyu3 so1
 癩蛤蟆	laai3 haa4 maa4
 癩皮狗	laai3 pi4 gau2
 癩病	laai3 beng6
@@ -2574,7 +2572,7 @@
 盛菜	sing4 coi3
 盛湯	sing4 tong1
 盛載	sing4 zoi3
-盛殮	sing4 lim5
+盛殮	sing4 lim2
 太監	taai3 gaam3
 國子監	gok3 zy2 gaam3
 國子監	gok3 zi2 gaam3
@@ -2910,8 +2908,8 @@
 稱譽	cing1 jyu6
 稱賞	cing1 soeng2
 稱頌	cing1 zung6
-虧空	kwai1 hung3
-空缺	hung3 kyut3
+虧空	kwai1 hung1
+空缺	hung1 kyut3
 筠連	gwan1 lin4
 筠連縣	gwan1 lin4 jyun6
 筠竹	wan4 zuk1
@@ -2993,14 +2991,14 @@
 天衣無縫	tin1 ji1 mu4 fung6
 無縫	mu4 fung6
 衣縫	ji1 fung6
-縱橫	zung3 waang4
-縱深	zung3 sam1
-縱貫	zung3 gun3
-縱軸	zung3 zuk6
-縱橫捭闔	zung3 waang4 baai2 hap6
-縱橫馳騁	zung3 waang4 ci4 cing2
-縱橫交錯	zung3 waang4 gaau1 cok3
-合縱	hap6 zung3
+縱橫	zung6 waang4
+縱深	zung6 sam1
+縱貫	zung6 gun3
+縱軸	zung6 zuk6
+縱橫捭闔	zung6 waang4 baai2 hap6
+縱橫馳騁	zung6 waang4 ci4 cing2
+縱橫交錯	zung6 waang4 gaau1 cok3
+合縱	hap6 zung6
 放縱	fong3 zung6
 縱虎歸山	zung6 fu2 gwai1 saan1
 縱令	zung6 ling6
@@ -3138,7 +3136,7 @@
 背面	bui3 min6
 力透紙背	lik6 tau3 zi2 bui3
 背着手	bui3 zoek6 sau2
-背過臉去	bui3 go3 lim5 hyu3
+背過臉去	bui3 go3 lim2 hyu3
 背着	bui3 zoek6
 背債	bui3 zaai3
 背黑鍋	bui3 hak1 go1
@@ -4125,9 +4123,6 @@
 調教	tiu4 gaau3
 調停	tiu4 ting4
 調節	tiu4 zit3
-調馴	tiu4 slyun4
-調馴	tiu4 slan4
-調馴	tiu4 can4
 調劑	tiu4 zai1
 調戲	tiu4 hi3
 調脂弄粉	tiu4 zi1 nung6 fan2
@@ -4383,7 +4378,7 @@
 輕重	heng1 cung5
 重量	cung5 loeng6
 重負	cung5 fu6
-重創	cung5 cong1
+重創	cung5 cong3
 重傷	cung5 soeng1
 重載	cung5 zoi3
 重工業	cung5 gung1 nip6
@@ -4824,7 +4819,7 @@
 隨風而靡	cui4 fung1 ji4 mi5
 望風披靡	mong6 fung1 pi1 mi5
 靡所不有	mi5 slo2 bat1 jau5
-心神靡寧	slam1 san4 mi5 ning4
+寧願	ning4 jyun2
 追悔靡及	zui1 fui2 mi5 gap6
 奢靡	se1 mi4
 靡費	mi4 fai3
@@ -4837,7 +4832,7 @@
 靦然人面	tin2 jin4 jan4 min6
 靦冒	tin2 mu6
 靦面	tin2 min6
-靦臉	tin2 lim5
+靦臉	tin2 lim2
 靦然	tin2 jin4
 靦顏借命	tin2 ngaan4 ze3 ming6
 有靦面目	jau5 tin2 min6 muk6
@@ -4988,9 +4983,8 @@
 浮急促數	fau4 gap1 cuk1 sok3
 促數	cuk1 sok3
 遲數	ci4 sok3
-疏數	so1 sok3
 頻數	pan4 sok3
-數見不鮮	sok3 gin3 bat1 slin1
+數見不鮮	sok3 gin3 bat1 slin2
 高蹻	gu1 goek3
 高趫	gu1 kiu4
 高蹺	gu1 kiu2
@@ -5160,11 +5154,11 @@
 𠯔斜咧	pat1 ce4 le4
 埋口	maai4 hau2
 帶協	daai3 hip3
-華山	waa6 saan1
+華山	waa4 saan1
 般若	bo1 je5
-創痛	cong1 tung3
-創痍	cong1 ji4
-創傷	cong1 soeng1
+創痛	cong3 tung3
+人質	jan4 zat1
+創傷	cong3 soeng1
 并州	bing1 zau1
 工尺	gung1 ce2
 亞啲	aa3 di1
@@ -5200,7 +5194,7 @@
 㞎㞎	baa4 baa2
 㗾㗾聲	hoe4 hoe2 seng1
 㗾哆	hoe4 doe1
-𧚔裙	tung2 kwan4
+桶裙	tung2 kwan4
 㤿憸	jim1 zim1
 腌臢	ap1 zap1
 癡戇戇	ci1 ngang1 ngang1
@@ -5434,3 +5428,7 @@
 乾絣絣	gon1 mang3 mang3
 乾繃繃	gon1 mang3 mang3
 落雨娑娑	lok6 jyu5 slaa4 slaa4
+說服	syut3 fuk6
+遊說	jau4 syut3
+說客	syut3 haak3
+游說	jau4 syut3

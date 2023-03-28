@@ -148,7 +148,7 @@
 仆開	puk2 haai1
 仆在	puk2 zaai6
 仆轉	puk2 zyun3
-姓仇	sling3 gau4
+姓仇	sling3 sau4
 仔肩	zi1 gyun1
 仔雞	zi2 gai1
 仔豬	zi2 zyu1
@@ -705,9 +705,9 @@
 嗚咽	wu1 jit2
 悲咽	bai1 jit2
 填咽	din4 jit2
-咯血	laak5 hyut2
-咯痰	laak5 daam4
-咯魚翅	laak5 njyu4 ci3
+咯血	kaak3 hyut2
+咯痰	kaak3 daam4
+咯魚翅	kaak3 njyu4 ci3
 咯咯笑	gaak2 gaak2 sliu3
 咯崩	gaak2 bang1
 咯噔	gaak2 dang1
@@ -716,7 +716,7 @@
 咯當	gaak2 daang1
 咯咯而笑	gaak2 gaak2 ji4 sliu3
 咯咯響	gaak2 gaak2 hiang2
-吡咯	bi2 laak5
+吡咯	bi2 laak2
 吡啶	bi2 ding6
 哼唱	hang1 ciang3
 哼歌	hang1 go1
@@ -1211,7 +1211,7 @@
 審度時勢	sam2 daak6 si4 si3
 廁足	cak2 zoek2
 玩弄	waan6 loeng6
-玩弄	wun6 loeng6
+玩弄	waan6 loeng6
 捉弄	zuk2 loeng6
 耍弄	saa2 loeng6
 弄瓦	loeng6 waa5
@@ -2160,18 +2160,18 @@
 玩遊戲	waan6 jau4 hi3
 玩遊戲機	waan6 jau4 hi3 gi1
 玩具	waan6 gyu6
-古玩	gu2 wun6
-珍玩	zan1 wun6
-玩物	wun6 fat5
-玩物	wun6 mat5
-玩意	wun6 ji3
-玩藝	wun6 nji6
+古玩	gu2 waan6
+珍玩	zan1 waan6
+玩物	waan6 fat5
+玩物	waan6 mat5
+玩意	waan6 ji3
+玩藝	waan6 nji6
 玩味	waan6 mi6
 玩耍	waan6 saa2
 玩笑	waan6 sliu3
-玩世不恭	wun6 si3 bat2 goeng1
-玩物喪志	wun6 fat5 slaang3 zi3
-玩物喪志	wun6 mat5 slaang3 zi3
+玩世不恭	waan6 si3 bat2 goeng1
+玩物喪志	waan6 fat5 slaang3 zi3
+玩物喪志	waan6 mat5 slaang3 zi3
 遊玩	jau4 waan6
 琿春縣	wan4 can1 jyun6
 璦琿	aai3 wai1
@@ -2302,12 +2302,12 @@
 當頭	daang1 dau4
 一疋	at2 pat2
 兩疋	liang5 pat2
-疏記	su3 gi3
-疏證	su3 zing3
-注疏	zyu3 su3
-奏疏	zau3 su3
-上疏	sang5 su3
-註疏	zyu3 su3
+疏記	su1 gi3
+疏證	su1 zing3
+注疏	zyu3 su1
+奏疏	zau3 su1
+上疏	sang6 su1
+註疏	zyu3 su1
 癩蛤蟆	laai6 haa4 maa4
 癩皮狗	laai6 bi4 gau2
 癩病	laai6 bing6
@@ -3743,7 +3743,6 @@
 調教	diu4 gaau3
 調停	diu4 ding4
 調節	diu4 zit2
-調馴	diu4 slan4
 調劑	diu4 zai6
 調戲	diu4 hi3
 調脂弄粉	diu4 zi1 loeng6 fan2
@@ -3982,7 +3981,7 @@
 輕重	hing1 zoeng5
 重量	zoeng5 liang6
 重負	zoeng5 fu6
-重創	zoeng5 caang1
+重創	zoeng5 caang3
 重傷	zoeng5 siang1
 重載	zoeng5 zaai3
 重讀	zoeng5 doek6
@@ -4389,7 +4388,7 @@
 隨風而靡	zui4 foeng1 ji4 mi5
 望風披靡	mung6 foeng1 pi1 mi5
 靡所不有	mi5 slo2 bat2 jau5
-心神靡寧	slam1 san4 mi5 ning4
+寧願	ning4 jyun6
 追悔靡及	zui1 hui2 mi5 gap6
 奢靡	se1 mi4
 靡費	mi4 fi3
@@ -4542,15 +4541,13 @@
 浮急促數	fau4 gap2 coek2 suk2
 促數	coek2 suk2
 遲數	zi4 suk2
-疏數	su1 suk2
 頻數	ban4 suk2
 數見不鮮	suk2 gin3 bat2 slyun1
-浮急促數	fau4 gap2 coek2 slaak2
-促數	coek2 slaak2
-遲數	zi4 slaak2
-疏數	su1 slaak2
-頻數	ban4 slaak2
-數見不鮮	slaak2 gin3 bat2 slyun1
+浮急促數	fau4 gap2 coek2 suk2
+促數	coek2 suk2
+遲數	zi4 suk2
+頻數	ban4 suk2
+數見不鮮	suk2 gin3 bat2 slyun2
 高蹻	gaau1 giak2
 高趫	gaau1 giu4
 高蹺	gaau1 kiu2
@@ -4565,12 +4562,12 @@
 懵䒏䒏	moeng5 slang4 slang4
 𠯔斜咧	pat1 ce4 le4
 埋口	maai4 hau2
-華山	waa6 saan1
+華山	waa4 saan1
 分爲	fan1 wai4
 般若	bo1 nje5
-創痛	caang1 toeng3
-創痍	caang1 ji4
-創傷	caang1 siang1
+創痛	caang3 toeng3
+人質	njan4 zat2
+創傷	caang3 siang1
 并州	bing1 zau1
 工尺	goeng1 ce2
 亞啲	aa3 di3
@@ -4615,7 +4612,7 @@
 㞎㞎	baa4 baa5
 㗾㗾聲	hoe4 hoe5 sing1
 嗬哆	ho4 de3
-𧚔裙	toeng2 gwan4
+桶裙	toeng2 gwan4
 㤿憸	jim1 zim1
 腌臢	ap2 zap2
 癡戇戇	ci1 ngaang3 ngaang3
@@ -4686,3 +4683,7 @@
 哦呵	u3 hu3
 噢呵	u3 hu3
 鬅鬙楞	bang4 slang4 lang4
+說服	syut2 foek6
+遊說	jau4 syut2
+說客	syut2 hiak2
+游說	jau4 syut2
