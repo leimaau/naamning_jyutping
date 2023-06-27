@@ -694,7 +694,7 @@
 叨竊	tu1 cit3
 叨竊非據	tu1 cit3 fi1 gyu3
 喇叭	laa1 baa1
-喇嘛	laa1 maa4
+喇嘛	laa2 maa1
 哈喇	haa1 laat3
 吃飯	hek3 faan6
 口吃	hau2 gat1
@@ -1621,7 +1621,6 @@
 乾撈麪	gon1 lu1 min6
 撈仔	laau1 zai2
 撈佬	laau1 lu2
-撈籬	laau1 li1
 撈起	leu4 hi2
 撈起	laau4 hi2
 撈魚	laau4 jyu4
@@ -5126,7 +5125,7 @@
 蘭	laan1
 蘭公	laan1 gung1
 老友	lu5 jau5
-風𢝵	fung1 fet1
+風唿	fung1 fet1
 夠派	gau3 paai1
 油脂仔	jau4 zi1 zai2
 油脂女	jau4 zi1 nyu2
@@ -5154,7 +5153,7 @@
 𠯔斜咧	pat1 ce4 le4
 埋口	maai4 hau2
 帶協	daai3 hip3
-華山	waa4 saan1
+華山	waa6 saan1
 般若	bo1 je5
 創痛	cong3 tung3
 人質	jan4 zat1
