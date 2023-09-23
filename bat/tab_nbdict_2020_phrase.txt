@@ -2139,7 +2139,7 @@
 房溜	fong4 lau6
 承溜	sing4 lau6
 重溜	cung5 lau6
-一溜	jat1 lau6
+一溜	jat1 liu1
 嚿溜	gau6 lau6
 溜縫	lau6 fung6
 溜窗縫	lau6 coeng1 fung6
@@ -5182,9 +5182,8 @@
 紮馬	zaap3 maa5
 紮馬步	zaap3 maa5 bu6
 馬扎	maa5 zaap6
-譅氣	saap3 hi3
+霎氣	saap3 hi3
 屈氣	wat1 hi3
-慍氣	wat1 hi3
 褦襶	le5 de2
 褦㹃	le5 fe5
 㪐㩿	lak1 kak1
@@ -5312,7 +5311,7 @@
 嗷嗷	ngaau3 ngaau3
 啤啤	bi1 bi1
 嘛嘛	maa1 maa1
-𡁶𡁶	zet6 zet6
+截截	zet6 zet6
 宿宿	sluk1 sluk1
 黕黕	dam2 dam2
 𦛠𦛠	net1 net1
@@ -5395,7 +5394,7 @@
 青啤啤	ceng1 bi1 bi1
 青嗷嗷	ceng1 ngaau3 ngaau3
 黑嘛嘛	hak1 maa1 maa1
-白𡁶𡁶	baak6 zet6 zet6
+白截截	baak6 zet6 zet6
 白宿宿	baak6 sluk1 sluk1
 矮黕黕	ai2 dam2 dam2
 矮𦛠𦛠	ai2 net1 net1
@@ -5424,8 +5423,7 @@
 濕霅霅	sap1 slap6 slap6
 粈𪙛𪙛	neu1 nak6 nak6
 熱坺坺	jit6 baat6 baat6
-乾絣絣	gon1 mang3 mang3
-乾繃繃	gon1 mang3 mang3
+乾繃繃	gon1 mang1 mang1
 落雨娑娑	lok6 jyu5 slaa4 slaa4
 說服	syut3 fuk6
 遊說	jau4 syut3

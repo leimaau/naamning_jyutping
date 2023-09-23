@@ -269,9 +269,9 @@
 倥傯	hoeng2 zoeng2
 侗族	doeng6 zoek6
 倒塌	daau2 taap2
-倒水	daau2 sui2
-倒茶	daau2 zaa4
-倒垃圾	daau2 laap5 slaap2
+倒水	daau3 sui2
+倒茶	daau3 zaa4
+倒垃圾	daau3 laap5 slaap2
 打倒	daa2 daau2
 倒戈	daau2 gu1
 倒閉	daau2 bai3
@@ -1934,7 +1934,7 @@
 房溜	fung4 lau6
 承溜	sing4 lau6
 重溜	zoeng5 lau6
-一溜	at2 lau6
+一溜	at2 liu1
 嚿溜	gau6 lau6
 溜縫	lau6 foeng6
 溜窗縫	lau6 caang1 foeng6
@@ -4599,9 +4599,8 @@
 紮馬步	zaat2 maa5 bu6
 馬扎	maa5 zaap6
 老孃	laau5 niang3
-譅氣	saap2 hi3
+霎氣	saap2 hi3
 屈氣	wat2 hi3
-慍氣	wat2 hi3
 離氣	li4 hi3
 褦襶	le5 de2
 褦㹃	le5 fe5
