@@ -3624,7 +3624,7 @@
 行動	hang4 dung6
 實行	sat6 hang4
 行走	hang4 zau2
-步行	bu6 hang4
+步行	bu6 haang4
 千里之行	cin1 li5 zi1 hang4
 出行	cyut1 hang4
 行旅	hang4 lyu5
@@ -4954,7 +4954,7 @@
 可汗	hak1 hon4
 汗國	hon4 gok3
 成吉思汗	sing4 gat1 si1 hon4
-鋤大弟	co4 daai6 di2
+鋤大地	co4 daai6 di6
 舖位	pu3 wai6
 舖面	pu3 min6
 店舖	dim3 pu3
@@ -5054,7 +5054,7 @@
 老乸	lu5 naa2
 老孃	laau1 neng1
 弟弟	di4 di2
-細屎窟	slai3 si2 fat1
+細屎胐	slai3 si2 fat1
 細路仔	slai3 lu6 zai2
 細蚊仔	slai3 man1 zai2
 細佬	slai3 lu2

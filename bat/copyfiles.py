@@ -7,8 +7,8 @@ path = 'E:\\LocalRepository\\github\\naamning_jyutping'
 files = os.listdir(path)
 files = [ele for ele in files if 'yaml' in ele]
 
-old_str = '2023.06.27'
-new_str = '2023.09.23'
+old_str = '2023.09.23'
+new_str = '2023.12.26'
 
 for file in files:
     if not os.path.isdir(file):
