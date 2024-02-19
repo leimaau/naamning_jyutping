@@ -2441,7 +2441,7 @@
 圖畫	tu4 waa2
 畫皮	waa2 pi4
 畫苑	waa2 jyun2
-畫眉	waa2 mi4
+畫眉	waa6 mi4
 畫廊	waa2 long4
 畫譜	waa2 pu2
 畫棟雕樑	waa2 dung6 diu1 loeng4
@@ -2962,7 +2962,7 @@
 碩果累累	sek6 go2 lui4 lui4
 累囚	lui4 cau4
 累累	lui4 lui4
-累贅	lui4 zui6
+累贅	lui6 zui6
 綸巾	gwaan1 gan1
 羽扇綸巾	jyu5 sin3 gwaan1 gan1
 姓繆	sling3 miu6
@@ -5003,7 +5003,7 @@
 戇居居	ngong3 gyu1 gyu1
 流嗲嗲	lau4 de4 de4
 流咑咑	lau4 daa4 daa4
-軟䯾䯾	jyun5 deu4 deu4
+軟嫋嫋	jyun5 deu4 deu4
 黏米	zim1 mai5
 粘米	zim1 mai5
 跳騞騞	tiu3 fak6 fak6
@@ -5249,10 +5249,8 @@
 蠄蟝	kam4 kwe4
 蠄瘸	kam4 kwe4
 蟾蜍	sim4 syu4
-螞螂䗧	maa5 long4 kong4
-螠虵	ak1 e4
-瀨尿	laai5 niu6
-瀨屎	laai5 si2
+馬螂扛	maa5 long4 kong4
+蚅虵	ak1 e6
 攋尿	laai5 niu6
 攋屎	laai5 si2
 啁嘐	zeu1 leu1
@@ -5279,16 +5277,15 @@
 𠺌𠺌	gwe4 gwe4
 喲喲	jo1 jo1
 呱呱	gwaa4 gwaa4
-聒聒	gwet1 gwet1
+刮刮	gwet1 gwet1
 嗟嗟	ze4 ze4
-砳砳	kok1 kok1
+噱噱	kok1 kok1
 吟吟	jam1 jam1
 呀呀	ngaa1 ngaa1
 霅霅	slap6 slap6
 喋喋	slap6 slap6
 呀呀	nge1 nge1
-坺潵	paat6 slaat6
-跋躠	paat6 slaat6
+坺㳐	paat6 slaat6
 迾迾	laat6 laat6
 列列	laat6 laat6
 趖趖	zo4 zo4
@@ -5297,8 +5294,8 @@
 戇戇	ngang6 ngang6
 碽緪	gung4 gang4
 碽縆	gung4 gang4
-娑娑	slo4 slo4
-娑娑	slaa4 slaa4
+𩄝𩄝	slo4 slo4
+𩄝𩄝	slaa4 slaa4
 儾儾	naang3 naang3
 豔豔	jem1 jem1
 艷艷	jem1 jem1
@@ -5319,12 +5316,9 @@
 䒏䒏	slang4 slang4
 嫋嫋	neu4 neu4
 裊裊	neu4 neu4
-仦仦	neu4 neu4
-腯腯	tan4 tan4
+豚豚	tan4 tan4
 臑臑	no1 no1
 蜢躿	meng2 keng2
-掹鏗	mang1 kang1
-擝鏗	mang1 kang1
 蜢躿	mang1 kang1
 𤹍𤹍	nang1 nang1
 丁丁	ding1 ding1
@@ -5332,9 +5326,9 @@
 嘭嘭	baang1 baang1
 乓乓	baang1 baang1
 尋尋	slam4 slam4
-𠸂𠸂	dat6 dat6
+突突	dat6 dat6
 擘擘	maak3 maak3
-𪙛𪙛	nak6 nak6
+𪐌𪐌	nak6 nak6
 坺坺	baat6 baat6
 碽碽	gung4 gung4
 碽碽	kung1 kung1
@@ -5342,7 +5336,7 @@
 居居	gyu1 gyu1
 嗲嗲	de4 de4
 咑咑	daa4 daa4
-䯾䯾	deu4 deu4
+嫋嫋	deu4 deu4
 騞騞	fak6 fak6
 食喳喳	sik6 zaa4 zaa4
 咬㗱㗱	ngeu5 zap6 zap6
@@ -5357,17 +5351,15 @@
 吆喳喳	eu1 zaa4 zaa4
 吆喲喲	eu1 jo1 jo1
 吆呱呱	eu1 gwaa4 gwaa4
-吆聒聒	eu1 gwet1 gwet1
+吆刮刮	eu1 gwet1 gwet1
 笑嗟嗟	sliu3 ze4 ze4
 笑噱噱	sliu3 kok1 kok1
 笑吟吟	sliu3 jam1 jam1
 哭呀呀	huk1 ngaa1 ngaa1
 哭霅霅	huk1 slap6 slap6
 哭呀呀	huk1 nge1 nge1
-坐坺潵	co5 paat6 slaat6
-坐跋躠	co5 paat6 slaat6
-睡坺潵	sui6 paat6 slaat6
-睡跋躠	sui6 paat6 slaat6
+坐坺㳐	co5 paat6 slaat6
+睡坺㳐	sui6 paat6 slaat6
 睡迾迾	sui6 laat6 laat6
 睡列列	sui6 laat6 laat6
 走趖趖	zau2 zo4 zo4
@@ -5379,7 +5371,7 @@
 徛戇戇	ki5 ngang6 ngang6
 跌碽緪	dit3 gung4 gang4
 跌碽縆	dit3 gung4 gang4
-𠳺娑娑	lan3 slo4 slo4
+碖𩄝𩄝	lan3 slo4 slo4
 崩趖趖	bang1 zo4 zo4
 拜喋喋	baai3 slap6 slap6
 紅豔豔	hung4 jem1 jem1
@@ -5400,31 +5392,27 @@
 矮𦛠𦛠	ai2 net1 net1
 高㗂㗂	gu1 slang4 slang4
 高嫋嫋	gu1 neu4 neu4
-高仦仦	gu1 neu4 neu4
-肥腯腯	fi4 tan4 tan4
+肥豚豚	fi4 tan4 tan4
 肥臑臑	fi4 no1 no1
 瘦蜢躿	sau3 meng2 keng2
-瘦掹鏗	sau3 mang1 kang1
-瘦擝鏗	sau3 mang1 kang1
 瘦蜢躿	sau3 mang1 kang1
 瘦𤹍𤹍	sau3 nang1 nang1
 奀丁丁	ngan1 ding1 ding1
 癡戇戇	ci1 ngang1 ngang1
 傻戇戇	slo4 ngang1 ngang1
-聾嘭嘭	lung4 baang1 baang1
-聾乓乓	lung4 baang1 baang1
+聾嗙嗙	lung4 baang1 baang1
 盲尋尋	maang4 slam4 slam4
-啞𠸂𠸂	aa2 dat6 dat6
+啞突突	aa2 dat6 dat6
 跛趿趿	bai1 slap6 slap6
 跛靸靸	bai1 slap6 slap6
 乾翹翹	gon1 keu1 keu1
 乾擘擘	gon1 maak3 maak3
 溼霅霅	sap1 slap6 slap6
 濕霅霅	sap1 slap6 slap6
-粈𪙛𪙛	neu1 nak6 nak6
+粈𪐌𪐌	neu1 nak6 nak6
 熱坺坺	jit6 baat6 baat6
 乾繃繃	gon1 mang1 mang1
-落雨娑娑	lok6 jyu5 slaa4 slaa4
+落雨𩄝𩄝	lok6 jyu5 slaa4 slaa4
 說服	syut3 fuk6
 遊說	jau4 syut3
 說客	syut3 haak3
