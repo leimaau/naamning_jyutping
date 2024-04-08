@@ -1,210 +1,74 @@
 # Rime schema
 # encoding: utf-8
 
+__include: naamning_baakwaa.schema:/
+
 schema:
   schema_id: naamning_baakwaa_ipa
   name: "南寧白話(IPA)"
-  version: "2024.02.19"
+  version: "2024.04.08"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
-    採用『香港語言學學會粵語拼音方案』
-    聲調輸入 q平 v上 x去 （雙擊爲陽調）
-    IPA版提供多種字形轉換和提示音爲IPA
-    提供六種反查方案，[`]普拼反查粵拼，[x]五筆畫反查粵拼，[v]倉頡五代反查粵拼，[r]粵語兩分反查粵拼，[xx]用普拼反查中古音，[xj]用粵拼反查中古音
+    採用香港語言學學會粵語拼音方案
+    提供聲調輸入 q平 v上 x去 （雙擊爲陽調）和多種字形轉換
+    提供四種反查方案，[`]普拼反查粵拼，[x]五筆畫反查粵拼，[v]倉頡五代反查粵拼，[r]粵語兩分反查粵拼
     PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
-    註釋reverse_lookup/tags可顯示釋義，可根據需要自行開啓
-    項目主頁 https://github.com/leimaau/naamning_jyutping
-  dependencies:
-    - luna_pinyin
-    - stroke
-    - cangjie5
-#    - wubi86
-    - loengfan
-    - zyenpheng
-
-switches:
-  - options: [simplification, noop, zh_hk, zh_tw, zh_jp]
-    reset: 0
-    states:
-      - 字形 → 大陸
-      - 字形 → 傳統〔不轉換〕
-      - 字形 → 香港
-      - 字形 → 臺灣
-      - 字形 → 日本
-  - name: ascii_mode
-    reset: 0
-    states: [ 中文, 西文 ]
-  - name: full_shape
-    states: [ 半角, 全角 ]
-  - name: ascii_punct
-    states: [ 。，, ．， ]
-  - name: emoji_cn
-    reset: 0
-    states: [ 〇, 😊 ]
-
-engine:
-  __include: naamning_baakwaa.schema:/engine
-  __patch:
-    filters:
-      - simplifier
-      - simplifier@zh_hk
-      - simplifier@zh_tw
-      - simplifier@zh_jp
-      - simplifier@emoji_cn
-      - uniquifier
-      - reverse_lookup_filter@reverse_lookup
-      - reverse_lookup_filter@zyenpheng_reverse_lookup
-
-speller:
-  __include: naamning_baakwaa.schema:/speller
-
-menu:
-  __include: naamning_baakwaa.schema:/menu
 
 translator:
   dictionary: naamning_baakwaa
   prism: naamning_baakwaa_ipa
-  spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
+  spelling_hints: 8  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format: 
-    - xform/(^|[ '])(m)+$/$1$2̩/
-    - xform/(^|[ '])(ng)+$/$1$2̍/
-    - xform/([ptk])xx/$1˨/
-    - xform/([ptk])x/$1˧/
-    - xform/([ptk])q/$1˥/
-    - xform/qq/˨˩/
-    - xform/(^|[ '])q/$1ʔ/
-    - xform/q/˥/
-    - xform/vv/˨˦/
-    - xform/v/˧˥/
-    - xform/xx/˨/
-    - xform/x/˧/
-    - xform/([PTK])$/$1]$2/
-    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/
-    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/
-    - xform/([dtlgkhzcsj])yu([t])/$1Yː$2]/
+    - xform/ng/ŋ/
+    - xform/^| |'/,/
+
+    - xform/(,|h)(m|ŋ)(qq?|xx?|vv?)?(?=$|,)/$1$2̍$3/
+    - xform/m̍/m̩/
+
+    - xform/,y(ŋ|k)/,jʊ$1/
+    - xform/,y(n|t)/,jy$1/
+    - xform/,y/,j/
+  
+    - xform/([,qgkŋhdz]oe)t/$1d/
+    - xform/([zcs])y(?!u)/$1ɿ$2/
+    - xform/eo|oe/œ/
+    - xform/yu/y/
+    - xform/aa/r/
+    - xlit/aroe/ɐaɔɛ/
+
+    - xform/ɔu/ou/
+    - xform/œ(n|t)/ɵ$1/
+    - xform/œ[iy]/ɵy̑/
+    - xform/ɛi/ei/
+    - xform/i(ŋ|k)/e$1/
+    - xform/u(ŋ|k)/ʊ$1/
+
+    - xform/a|ɔ|œ|ɛ|i|u|y(?!̑)/$&ː/
+    - xform/([ːɐoɵe][iu])ː/$1/
+    - xform/[ːɐoɵe][ptdk]/$&̚/
+
+    - xform/,([ptc]|kw?)/$&ʰ/
+    - xform/,q/,ʔ/
+    - xform/[kg]w/kʷ/
+    - xform/([cz])(?=ɿ)/t͡s/
+    - xform/c|z/t͡ʃ/
     - xform/sl/ɬ/
-    - xform/(^|[ '])([jy])u([k])/$1jʊ$3]/
-    - xform/(^|[ '])(jy)u/$1jYː/
-    - xform/yu/Yː/
-    - xform/y([aeior])/j$1/
-    - xform/(aa|r)([iu])/Aː\U$2/
-    - xform/a([iu])/ɐ\U$1/
-    - xform/(aa|r)([ptk])/Aː\U$2]/
-    - xform/a([ptk])/ɐ\U$1]/
-    - xform/(aa|r)/Aː/
-    - xform/b/P/
-    - xform/c/T͡ʃH/
-    - xform/d/T/
-    - xform/eu/ɛːU/
-    - xform/eoi/ɵY/
-    - xform/oei/ɵY/
-    - xform/oe([ptk])/œː$1]/
-    - xform/oe(ng)/œː$1/
-    - xform/oe([t])/ɵ$1]/
-    - xform/oe([n])/ɵ$1/
-    - xform/oe/œː/
-    - xform/oi/ɔːI/
-    - xform/eo(ng)/œːŋ/
-    - xform/eo([k])/œː$1]/
-    - xform/eo([t])/ɵ$1]/
-    - xform/eon/ɵn/
-    - xform/ou/OU/
-    - xform/u([k])/ʊ$1]/
-    - xform/ui/UːI/
-    - xform/iu/IːU/
-    - xform/i(ng)/EN/
-    - xform/ik/EK]/
-    - xform/i([pt])/Iː$1]/
-    - xform/eo/ɵ/
-    - xform/a/ɐ/
-    - xform/ei/EI/
-    - xform/i/Iː/
-    - xform/e([ptk])/ɛː$1]/
-    - xform/e/ɛː/
-    - xform/o([ptk])/ɔː$1]/
-    - xform/u([pt])/Uː$1]/
-    - xform/u(ng)/ʊN/
-    - xform/o/ɔː/
-    - xform/u/Uː/
-    - xform/ng/N/
-    - xform/n/n/
-    - xform/kw/KWH/
-    - xform/gw/KW/
-    - xform/g/K/
-    - xform/(^|[ '])([ptk])/$1$2H/
-    - xform/w/w/
-    - xform/j/j/
-    - xform/m/m/
-    - xform/l/l/
-    - xform/s/ʃ/
-    - xform/z/T͡ʃ/
-    - xform/em/ɛːM/
-    - xform/en/ɛːN/
-    - xform/T͡ʃy/T͡sɿ/
-    - xform/T͡ʃHy/T͡sHɿ/
-    - xform/ʃy/sɿ/
-    - xform/T͡ʃT͡ʃ/T͡sɿ/
-    - xform/T͡ʃHT͡ʃ/T͡sHɿ/
-    - xform/ʃT͡ʃ/sɿ/
-    - xform/T͡ʃIːIː/T͡sɿ/
-    - xform/T͡ʃHIːIː/T͡sHɿ/
-    - xform/ʃIːIː/sɿ/
+    - xform/s(?!ɿ)/ʃ/
     - xform/nj/ȵ/
-    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
+    - xlit/bdg/ptk/
+
+    - xform/qq/˨˩/
+    - xform/xx/˨/
+    - xform/vv/˨˦/
+    - xform/q/˥/
+    - xform/x/˧/
+    - xform/v/˧˥/
+
+    - xform/^,//
+    - xform/̑//
+    - xform/,/ /
+    
   comment_format:
     - xform/\(.+?\)//    # 處理組詞拼音
     - xform/「.+?」//    # 處理組詞拼音
-
-luna_pinyin:
-  __include: naamning_baakwaa.schema:/luna_pinyin
-
-stroke:
-  __include: naamning_baakwaa.schema:/stroke
-
-cangjie5:
-  __include: naamning_baakwaa.schema:/cangjie5
-    
-#wubi86:
-#  __include: naamning_baakwaa.schema:/wubi86
-
-loengfan:
-  __include: naamning_baakwaa.schema:/loengfan
-    
-reverse_lookup:
-  __include: naamning_baakwaa.schema:/reverse_lookup
-
-puping_to_zyenpheng:
-  __include: naamning_baakwaa.schema:/puping_to_zyenpheng
-
-jyutping_to_zyenpheng:
-  __include: naamning_baakwaa.schema:/jyutping_to_zyenpheng
-
-zyenpheng_reverse_lookup:
-  __include: naamning_baakwaa.schema:/zyenpheng_reverse_lookup
-
-punctuator:
-  __include: naamning_baakwaa.schema:/punctuator
-
-key_binder:
-  __include: naamning_baakwaa.schema:/key_binder
-
-recognizer:
-  __include: naamning_baakwaa.schema:/recognizer
-
-zh_hk:
-  option_name: zh_hk
-  opencc_config: t2hk.json
-
-zh_tw:
-  option_name: zh_tw
-  opencc_config: t2tw.json
-
-zh_jp:
-  option_name: zh_jp
-  opencc_config: t2jp.json
-
-emoji_cn:
-  opencc_config: emoji.json
-  option_name: emoji_cn
-  tips: all
