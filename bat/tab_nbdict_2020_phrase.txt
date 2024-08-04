@@ -158,7 +158,7 @@
 仆住	puk1 zyu6
 仆開	puk1 hoi1
 仆喺	puk1 hai2
-仆轉	puk1 zyun3
+前仆後繼	cin4 puk1 hau6 gai3
 姓仇	sling3 cau4
 仔肩	zy2 gin1
 仔肩	zi2 gin1
@@ -745,7 +745,7 @@
 咖啡因	kaa1 fi1 jan1
 咖啡色	kaa1 fi1 sik1
 咖喱	gaa3 li1
-呢絨	ni4 jung4
+呢絨	ni4 jung2
 呢喃	ni4 naam4
 細呢呢	slai3 ni1 ni1
 呱呱叫	gwaa1 gwaa1 giu3
@@ -4961,7 +4961,7 @@
 吐谷渾	tu3 juk6 wan4
 谷蠡	luk6 lai5
 句讀	gyu3 dau6
-坷垃	ho2 laap6
+坷垃	ho1 laap6
 快餐麪	faai3 caan1 min6
 快餐麵	faai3 caan1 min6
 碽碽聲	gung4 gung4 seng1
@@ -5013,8 +5013,8 @@
 嘈交	cu4 geu1
 拜眼睏	baai3 ngen5 han3
 食齊	sik6 cai4
-欂碌	bok1 luk1
-欂碌	buk1 luk1
+樸碌	bok1 luk1
+樸碌	buk1 luk1
 包粟	baau1 sluk1
 老竇	lu5 dau6
 老爹	laau1 ge1
@@ -5363,3 +5363,5 @@
 呯呯韸韸	bing4 bing4 bam4 bam4
 老孃	lu5 noeng4
 老爹	lu5 de1
+雪茄	slyut3 ke4
+雪茄	slyut3 ke2

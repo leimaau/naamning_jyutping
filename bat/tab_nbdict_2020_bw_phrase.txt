@@ -135,7 +135,7 @@
 亟經	ki3 ging1
 亟來問訊	ki3 laai4 man6 slan3
 什麼	sam6 mo1
-什錦	sap6 gam2
+什錦	sap6 kam2
 什物	sap6 mat5
 什物	sap6 fat5
 仆頓	fu3 dan3
@@ -146,7 +146,7 @@
 仆住	puk2 zyu6
 仆開	puk2 haai1
 仆在	puk2 zaai6
-仆轉	puk2 zyun3
+前仆後繼	zin4 puk2 hau6 gi3
 姓仇	sling3 sau4
 仔肩	zi2 gyun1
 仔雞	zi2 gai1
@@ -4068,7 +4068,7 @@
 鋪天蓋地	pu1 tin1 gaai3 di6
 鋪眉苫眼	pu1 mi4 sim3 njaan5
 鋪張揚厲	pu1 ziang1 jiang4 lai6
-鋪錦列繡	pu1 gam2 lyut5 slau3
+鋪錦列繡	pu1 kam2 lyut5 slau3
 平鋪直敘	bing4 pu1 zik6 zyu6
 平鋪直敍	bing4 pu1 zik6 zyu6
 鋪牀單	pu1 saang4 daan1
@@ -4533,7 +4533,7 @@
 吐谷渾	tu3 njoek5 wan4
 谷蠡	loek5 lai5
 句讀	gyu3 dau6
-坷垃	ko2 laap5
+坷垃	ko1 laap5
 快餐麪	waai3 caan1 min6
 快餐麵	waai3 caan1 min6
 占米	zim1 mai5
