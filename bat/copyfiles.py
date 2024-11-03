@@ -8,8 +8,8 @@ path2 = 'E:\\LocalRepository\\github\\naamning_jyutping_build\\bat'
 files = os.listdir(path)
 files = [ele for ele in files if 'yaml' in ele]
 
-old_str = '2024.04.08'
-new_str = '2024.08.04'
+old_str = '2024.08.04'
+new_str = '2024.11.03'
 
 for file in files:
     if not os.path.isdir(file):

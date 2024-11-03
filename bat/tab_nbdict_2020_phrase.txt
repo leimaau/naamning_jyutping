@@ -328,7 +328,6 @@
 反倒	faan2 du3
 倒行逆施	du3 hang4 nik6 si1
 倒果爲因	du3 go2 wai4 jan1
-倒果為因	du3 go2 wai4 jan1
 倒持泰阿	du3 ci4 taai3 o1
 倒打一耙	du3 daa2 jat1 paa4
 牛扒	ngau4 paa2
@@ -621,7 +620,6 @@
 勝券在握	sing3 gyun3 zoi6 ak1
 邪不勝正	ce4 bat1 sing3 zing3
 反敗爲勝	faan2 baai6 wai4 sing3
-反敗為勝	faan2 baai6 wai4 sing3
 優勝劣敗	jau1 sing3 lyut6 baai6
 取勝	cyu2 sing3
 以弱勝強	ji5 joek6 sing3 koeng4
@@ -1010,8 +1008,6 @@
 好高騖遠	hu3 gu1 mu6 jyun5
 好爲人師	hu3 wai4 jan4 sy1
 好爲人師	hu3 wai4 jan4 si1
-好為人師	hu3 wai4 jan4 sy1
-好為人師	hu3 wai4 jan4 si1
 君子好逑	gwan1 zy2 hu3 kau4
 君子好逑	gwan1 zi2 hu3 kau4
 各有所好	gok3 jau5 slo2 hu3
@@ -1067,8 +1063,6 @@
 好事多磨	hu2 si6 do1 mo4
 好自爲之	hu2 zy6 wai4 zi1
 好自爲之	hu2 zi6 wai4 zi1
-好自為之	hu2 zy6 wai4 zi1
-好自為之	hu2 zi6 wai4 zi1
 好好先生	hu2 hu2 slin1 saang1
 姣好	gaau2 hu2
 姣美	gaau2 mi5
@@ -1946,9 +1940,9 @@
 籠箱	lung5 sloeng1
 衣籠	ji1 lung5
 仁者樂山	jan4 ze2 ngaau6 saan1
-樂群	ngaau6 kwan4
+樂羣	ngaau6 kwan4
 樂業	ngaau6 nip6
-敬業樂群	ging3 nip6 ngaau6 kwan4
+敬業樂羣	ging3 nip6 ngaau6 kwan4
 樂山樂水	ngaau6 saan1 ngaau6 sui2
 音樂	jam1 ngok6
 樂器	ngok6 hi3
@@ -2204,48 +2198,7 @@
 炕麪包	hong3 min6 baau1
 炕麪包	hong3 min6 beu1
 炕火	hong3 fo2
-作為	zok3 wai4
-人為	jan4 wai4
-行為	hang4 wai4
-為難	wai4 naan4
-為富不仁	wai4 fu3 bat1 jan4
-為人	wai4 jan4
-為所欲為	wai4 slo2 juk6 wai4
-為首	wai4 sau2
-事在人為	sy6 zoi6 jan4 wai4
-事在人為	si6 zoi6 jan4 wai4
-能者為師	nang4 ze2 wai4 sy1
-能者為師	nang4 ze2 wai4 si1
-一分為二	jat1 fan1 wai4 ji6
-敢作敢為	gaam2 zok3 gaam2 wai4
-變廢為寶	bin3 fai3 wai4 bu2
-化險為夷	faa3 him2 wai4 ji4
-言為心聲	jin4 wai4 slam1 seng1
-識時務者為俊傑	sik1 si4 mu6 ze2 wai4 zan3 git6
-不為所動	bat1 wai4 slo2 dung6
-為人所害	wai4 jan4 slo2 hoi6
-廣為流傳	gong2 wai4 lau4 cyun4
-深為感動	sam1 wai4 gaam2 dung6
-大為高興	daai6 wai4 gu1 hing3
-極為重要	gik6 wai4 cung5 jiu3
-頗為得意	po2 wai4 dak1 ji3
-為數不多	wai4 su3 bat1 do1
-為數有限	wai4 su3 jau5 haan6
-為時已晚	wai4 si4 ji5 maan5
-為時不久	wai4 si4 bat1 gau2
-為非作歹	wai4 fi1 zok3 daai2
-為期	wai4 ki4
-為伍	wai4 ng5
-為止	wai4 zi2
-為了	wai6 liu5
-為什麼	wai6 sam6 mo1
-為何	wai6 ho4
-因為	jan1 wai6
-為虎作倀	wai6 fu2 zok3 coeng1
-為國捐軀	wai6 gok3 gyun1 kyu1
-為民請命	wai6 man4 cing2 ming6
-捨身為國	se2 san1 wai6 gok3
-為虎添翼	wai6 fu2 tim1 jik6
+請假	cing2 kaa3
 作爲	zok3 wai4
 人爲	jan4 wai4
 行爲	hang4 wai4
@@ -2301,13 +2254,13 @@
 樂莫大焉	lok6 mok6 daai6 jin4
 善莫大焉	sin6 mok6 daai6 jin4
 焉能治之	jin4 nang4 zi6 zi1
-熨斗	tong3 dau2
-洗熨	slai2 tong3
-熨衣服	tong3 ji1 fuk6
+燙斗	tong3 dau2
+洗燙	slai2 tong3
+燙衣服	tong3 ji1 fuk6
 熨法	wan6 faat3
 熨燙	wan6 tong3
-熨衫	tong3 saam1
-熨衫板	tong3 saam1 baan2
+燙衫	tong3 saam1
+燙衫板	tong3 saam1 baan2
 熨貼	wat1 tip3
 熨帖	wat1 tip3
 燕子	jin3 zy2
@@ -2332,7 +2285,6 @@
 犄角	gi1 gok3
 犄角旮旯	gi1 gok3 kaa3 laa3
 犄角之勢	gi1 gok3 zi1 sai3
-互為犄角	wu6 wai4 gi1 gok3
 互爲犄角	wu6 wai4 gi1 gok3
 率領	slyut1 ling5
 率先	slyut1 slin1
@@ -2446,7 +2398,6 @@
 畫卯	waak6 maau5
 畫押	waak6 aap3
 畫地而趨	waak6 di6 ji4 cyu1
-畫地為牢	waak6 di6 wai4 lu4
 畫地爲牢	waak6 di6 wai4 lu4
 畫虎類狗	waak6 fu2 lui6 gau2
 畫蛇添足	waak6 se4 tim1 zuk1
@@ -2626,7 +2577,6 @@
 相反相成	sloeng1 faan2 sloeng1 sing4
 相去無幾	sloeng1 hyu3 mu4 gi2
 相形見絀	sloeng1 jing4 gin3 zyut3
-相依為命	sloeng1 ji1 wai4 ming6
 相依爲命	sloeng1 ji1 wai4 ming6
 相得益彰	sloeng1 dak1 jik1 zoeng1
 相敬如賓	sloeng1 ging3 jyu4 ban1
@@ -2710,7 +2660,7 @@
 折磨	zit3 mo4
 琢磨	zok3 mo4
 石磨	sek6 mo6
-磨坊	mo6 fong1
+磨坊	mo6 fong4
 磨盤	mo6 pun4
 推磨	tui1 mo6
 電磨	din6 mo6
@@ -2825,8 +2775,8 @@
 有種	jau5 zung2
 幾種	gi2 zung2
 種種	zung2 zung2
-種群	zung2 kwan4
 種羣	zung2 kwan4
+身毒	jyun1 duk1
 稱心	cing3 slam1
 稱身	cing3 san1
 衣不稱身	ji1 bat1 cing3 san1
@@ -2925,7 +2875,6 @@
 累教不改	lui5 gaau3 bat1 goi2
 累年豐收	lui5 nin4 fung1 sau1
 連篇累牘	lin4 pin1 lui5 duk6
-累土為山	lui5 tu2 wai4 saan1
 累土爲山	lui5 tu2 wai4 saan1
 累建奇功	lui5 gin3 ki4 gung1
 累犯不改	lui5 faan6 bat1 goi2
@@ -3216,7 +3165,6 @@
 捨命	se2 ming6
 捨本逐末	se2 bun2 zuk6 mut6
 捨我其誰	se2 ngo5 ki4 sui4
-捨己為人	se2 gi2 wai6 jan4
 捨己爲人	se2 gi2 wai6 jan4
 捨生取義	se2 saang1 cyu2 ji6
 捨近求遠	se2 gan6 kau4 jyun5
@@ -4262,8 +4210,6 @@
 轉瞬	zyun2 san3
 轉變	zyun2 bin3
 轉讓	zyun2 joeng6
-轉危為安	zyun2 ngai4 wai4 on1
-轉敗為勝	zyun2 baai6 wai4 sing3
 轉危爲安	zyun2 ngai4 wai4 on1
 轉敗爲勝	zyun2 baai6 wai4 sing3
 轉身	zyun2 san1
@@ -4419,7 +4365,6 @@
 氣量	hi3 loeng6
 量詞	loeng6 cy4
 量詞	loeng6 ci4
-量入為出	loeng6 jap6 wai4 cyut1
 量入爲出	loeng6 jap6 wai4 cyut1
 量才稱職	loeng6 coi4 cing1 zik1
 量腹而食	loeng6 fuk1 ji4 sik6
@@ -4429,7 +4374,6 @@
 度量衡	du6 loeng6 hang4
 音量	jam1 loeng6
 衡量	hang4 loeng6
-量力而為	loeng6 lik6 ji4 wai4
 量力而爲	loeng6 lik6 ji4 wai4
 量才錄用	loeng6 coi4 luk6 jung6
 過量	go3 loeng6
@@ -4728,9 +4672,7 @@
 難堪	naan4 ham1
 難色	naan4 sik1
 難受	naan4 sau6
-難為	naan4 wai4
 難爲	naan4 wai4
-難為情	naan4 wai4 cing4
 難爲情	naan4 wai4 cing4
 難耐	naan4 noi6
 難產	naan4 caan2
@@ -4745,7 +4687,6 @@
 法網難逃	faat3 mong5 naan4 tu4
 覆水難收	fuk1 sui2 naan4 sau1
 難分難解	naan4 fan1 naan4 gaai2
-勉為其難	min5 wai4 ki4 naan4
 勉爲其難	min5 wai4 ki4 naan4
 艱難	gaan1 naan4
 進退兩難	zan3 tui3 loeng5 naan4
@@ -4868,7 +4809,6 @@
 鮮少	slin2 siu2
 鮮見	slin2 gin3
 鮮有	slin2 jau5
-鮮為人知	slin2 wai4 jan4 zi1
 鮮爲人知	slin2 wai4 jan4 zi1
 屢見不鮮	lyu5 gin3 bat1 slin2
 寡廉鮮恥	gwaa2 lim4 slin2 ci2
@@ -4966,8 +4906,7 @@
 快餐麵	faai3 caan1 min6
 碽碽聲	gung4 gung4 seng1
 響碽碽	hoeng2 kung1 kung1
-滾趖趖	gwan2 zo4 zo4
-滾趖趖	gwan2 so4 so4
+滾䠡䠡	gwan2 zo4 zo4
 煙嗷嗷	jin1 ngaau3 ngaau3
 毛㗂㗂	mu4 slang4 slang4
 戇居居	ngong3 gyu1 gyu1
@@ -5155,7 +5094,7 @@
 屈氣	wat1 hi3
 褦襶	le5 de2
 褦㹃	le5 fe2
-㪐㩿	lak1 kak1
+犖確	lak1 kak1
 𡃀𡃀	nge4 nge1
 㞎㞎	be4 be2
 㞎㞎	baa4 baa2
@@ -5200,7 +5139,7 @@
 曬腩	saai3 naam5
 舞牚牚	mu5 caang3 caang3
 豬臑臑	zyu1 no4 no2
-扯冬瓜話葫蘆	ce2 dung1 gwaa1 waa6 wu4 lu4
+話劇	waa2 kek6
 撐遮	caang3 ze1
 獨食獨生瘡打死冇人幫	duk6 sik6 duk6 saang1 cong1 daa2 sli2 mu5 jan4 bong1
 躘蹱	lung3 cung3
@@ -5248,7 +5187,7 @@
 呀呀	nge1 nge1
 坺㳐	paat6 slaat6
 列列	laat6 laat6
-趖趖	zo4 zo4
+䠡䠡	zo4 zo4
 趿趿	slap6 slap6
 碽緪	gung4 gang4
 𩄝𩄝	slo4 slo4
@@ -5284,7 +5223,6 @@
 坺坺	baat6 baat6
 碽碽	gung4 gung4
 碽碽	kung1 kung1
-趖趖	so4 so4
 居居	gyu1 gyu1
 嗲嗲	de4 de4
 嫋嫋	deu4 deu4
@@ -5309,14 +5247,14 @@
 坐坺㳐	co5 paat6 slaat6
 睡坺㳐	sui6 paat6 slaat6
 睡列列	sui6 laat6 laat6
-走趖趖	zau2 zo4 zo4
+走䠡䠡	zau2 zo4 zo4
 趯喳喳	dek3 zaa4 zaa4
 行趿趿	haang4 slap6 slap6
 拖趿趿	to1 slap6 slap6
 徛蹬蹬	ki5 ngang6 ngang6
 跌碽緪	dit3 gung4 gang4
 碖𩄝𩄝	lan3 slo4 slo4
-崩趖趖	bang1 zo4 zo4
+崩䠡䠡	bang1 zo4 zo4
 拜喋喋	baai3 slap6 slap6
 紅豔豔	hung4 jem1 jem1
 紅艷艷	hung4 jem1 jem1
@@ -5365,3 +5303,11 @@
 老爹	lu5 de1
 雪茄	slyut3 ke4
 雪茄	slyut3 ke2
+蟋蟀	slat1 zat1
+作坊	zok3 fong4
+酒坊	zau2 fong4
+油坊	jau4 fong4
+街坊	gaai1 fong1
+牌坊	paai4 fong1
+醬料	zoeng3 liu6
+彈弓	ten4 gung1
