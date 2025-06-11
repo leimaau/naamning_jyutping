@@ -1,0 +1,78 @@
+name: Create Release
+
+on:
+  push:
+    branches:
+      - build
+
+jobs:
+  build-and-release:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v3
+        with:
+          java-version: '8'
+          distribution: 'adopt'
+
+      - name: Update version in build script
+        run: |
+          # 设置控制台代码页为UTF-8
+          chcp 65001
+          
+          # 读取并修改bat文件
+          $date = Get-Date -Format "yyyyMMdd"
+          $content = Get-Content "trime重新打包.bat" -Raw -Encoding UTF8
+          
+          # 移除pause命令
+          $content = $content -replace "pause", ""
+          
+          # 更新版本号
+          $content = $content -replace "naamning-\d{8}\.apk", "naamning-$date.apk"
+          
+          # 保存修改后的文件
+          $content | Set-Content "trime重新打包.bat" -Encoding UTF8
+
+      - name: Build APK
+        run: |
+          # 设置控制台代码页为UTF-8
+          chcp 65001
+          
+          # 执行打包脚本
+          .\trime重新打包.bat
+          
+          # 检查APK文件是否生成
+          if (-not (Test-Path "naamning-*.apk")) {
+            Write-Error "APK file was not generated"
+            exit 1
+          }
+
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Release latest
+          body: |
+            此處存放自動生成的 APK 文件，始終爲最新版本。
+            
+            安裝方式：
+            下載安裝後，授予各項權限，啓用並打開「同文輸入法」設置。
+            第一步：輸入 → 恢復默認設置，選中所有文件，確定。（可選項）
+            第二步：輸入 → 方案，確定，等待部署完成後即可使用。
+
+            更新：
+            1.更新字音庫；2.擴充詞庫。
+
+            原始包版本 app-release-25249-o_1dm0eunhm6jq1iv3rphtqt165lq-uid-574023
+            小鶴同文主題版本 3.6和4.2。
+          files: |
+            naamning-*.apk
+          generate_release_notes: true
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

@@ -11,14 +11,19 @@ set term off
 spool E:\LocalRepository\github\\naamning_jyutping_build\bat\v_nb_zingjam_rime.txt
 select trad||'	'||note_jp_expl||'	'||rate from v_nb_zingjam_rime;
 
-spool E:\LocalRepository\github\\naamning_jyutping_build\bat\tab_nbdict_2020_phrase.txt
-select replace(trad,'…','')||'	'||replace(jyutping,'…','') from tab_nbdict_2020_phrase where trad not like '%～%' and trad not like '%(%' order by tab_id;
+spool E:\LocalRepository\github\\naamning_jyutping_build\bat\tab_nbdict_all_phrase.txt
+select trad||'	'||jyutping from (
+	select trad_rime trad,jyutping_rime jyutping from v_nb_zingjam_phrase union
+	select replace(trad,'…','') trad,trim(replace(jyutping,'…',' ')) jyutping from v_xiandaihanyu_phrase_all
+) order by jyutping;
 
 spool E:\LocalRepository\github\\naamning_jyutping_build\bat\v_nb_zingjam_bw_rime.txt
 select trad||'	'||note_jp_expl||'	'||rate from v_nb_zingjam_bw_rime;
 
-spool E:\LocalRepository\github\\naamning_jyutping_build\bat\tab_nbdict_2020_bw_phrase.txt
-select replace(trad,'…','')||'	'||replace(jyutping,'…','') from tab_nbdict_2020_bw_phrase where trad not like '%～%' and trad not like '%(%' order by tab_id;
+spool E:\LocalRepository\github\\naamning_jyutping_build\bat\tab_nbdict_all_bw_phrase.txt
+select trad||'	'||jyutping from (
+	select replace(trad,'…','') trad,trim(replace(jyutping,'…',' ')) jyutping from v_xiandaihanyu_phrase_bw_all
+) order by jyutping;
 
 
 delete from temp_xxxx;
@@ -93,3 +98,5 @@ spool E:\LocalRepository\github\\naamning_jyutping_build\bat\temp_xxxx4_bw_infer
 select distinct word||'	'||jyutping||'	'||freq from temp_xxxx4;
 
 spool off
+
+exit;

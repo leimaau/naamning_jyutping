@@ -1,14 +1,13 @@
 一	(語)aa1	10%
 丫	aa1	
 吖	aa1	
-呀	aa1	
-啞	aa1	5%
 啊	aa1	
 鴉	aa1	
 啞	aa2	
 啊	aa2	5%
 嗄	aa2	
 亞	aa3	
+呀	aa3	
 啊	aa3	5%
 埡	aa3	
 婭	aa3	
@@ -17,6 +16,7 @@
 錒	aa3	
 阿	aa3	
 啊	aa4	5%
+十	(語)aa6	10%
 啊	aa6	
 哎	aai1	
 唉	aai1	
@@ -31,10 +31,12 @@
 軶	aak3	
 軛	aak3	
 鈪	aak3	
-俺	(又)aan2	5%
+俺	aan2	
 晏	aan3	
+鷃	aan3	
 罃	aang1	
 罌	aang1	
+㳌	aap3	
 壓	(又)aap3	10%
 押	aap3	
 鴨	aap3	
@@ -47,14 +49,15 @@
 遏	aat3	
 閼	aat3	
 餲	aat3	
+頞	aat3	
 凹	aau1	
 嗷	(語)aau1	5%
 拗	(文)aau2	
 坳	(文)aau3	
+垇	aau3	
 拗	(文)aau3	
 詏	(文)aau3	
 靿	aau3	
-𥁒	aau3	
 哎	(又)ai1	10%
 唉	(又)ai1	10%
 矮	(白)ai1	5%
@@ -83,6 +86,7 @@
 餩	ak1	
 齷	ak1	
 唵	am1	
+媕	am1	
 广	am1	
 庵	am1	
 菴	am1	
@@ -107,6 +111,8 @@
 鶯	ang1	
 哽	ang2	
 嗯	(語)ang3	10%
+蹭	(白)ang3	20%
+㳌	(白)ap1	5%
 姶	ap1	
 搕	ap1	
 浥	(語)ap1	10%
@@ -114,7 +120,7 @@
 腌	ap1	
 一	(語)at1	10%
 壓	(白)at1	5%
-扤	at1	
+扤	(語)at1	5%
 區	au1	5%
 歐	au1	
 毆	au1	
@@ -123,6 +129,7 @@
 鷗	au1	
 熰	au1	
 嘔	au2	
+黝	(白)au2	20%
 𠙶	au2	
 塸	au2	
 慪	au3	
@@ -145,7 +152,7 @@
 蚆	baa1	
 豝	baa1	
 䰾	baa1	
-㞎	(又)baa2	10%
+㞎	(文)baa2	
 把	baa2	
 鈀	baa2	
 靶	baa2	
@@ -154,9 +161,10 @@
 欛	baa3	
 灞	baa3	
 霸	baa3	
-吧	(語)baa4	10%
+叭	(語)baa4	10%
 吧	baa6	
 罷	baa6	
+䶕	baa6	
 䠋	baai1	
 掰	baai1	
 捭	baai2	
@@ -168,6 +176,7 @@
 唄	baai6	5%
 稗	baai6	
 敗	baai6	
+韛	baai6	
 啪	(語)baak1	10%
 伯	baak3	
 佰	baak3	
@@ -184,9 +193,9 @@
 菔	(又)baak6	10%
 踣	baak6	
 鮊	baak6	
-㿀	baan1	
 攽	baan1	
 斑	baan1	
+斒	baan1	
 班	baan1	
 瘢	baan1	
 癍	baan1	
@@ -217,7 +226,6 @@
 甏	baang6	
 卟	(語)baap1	10%
 八	(文)baat3	
-哵	baat3	
 扒	baat3	
 捌	baat3	
 朳	baat3	
@@ -232,6 +240,7 @@
 鈸	baat6	
 魃	baat6	
 鮁	baat6	
+鼥	baat6	
 包	(文)baau1	
 孢	(文)baau1	
 枹	baau1	
@@ -299,7 +308,6 @@
 捹	ban3	
 擯	ban3	
 殯	ban3	
-逩	ban3	
 鬢	ban3	
 倴	ban6	
 坌	ban6	
@@ -309,18 +317,14 @@
 崩	bang1	
 祊	bang1	
 絣	bang1	
-綳	bang1	
 繃	bang1	
 蹦	bang1	
 鏰	bang1	
-綳	(語)bang2	5%
 繃	(語)bang2	5%
 堋	bang3	
 嘣	(語)bang4	10%
-䨻	bang6	
 凭	bang6	5%
 唪	(語)bang6	10%
-𠾴	bang6	
 卟	(語)bap1	10%
 卟	(語)bap6	10%
 不	bat1	
@@ -337,6 +341,7 @@
 蹕	bat1	
 鈈	bat1	
 𢳂	bat1	
+饆	bat1	
 弼	bat6	
 拂	bat6	
 苾	bat6	
@@ -344,15 +349,16 @@
 培	bau6	5%
 啤	be1	
 屄	(白)be1	
-㞎	be2	
-疤	(語)be4	10%
+㞎	(白)be2	
+巴	(白)be4	20%
+疤	(白)be4	20%
 唄	be6	
 噼	(語)bek1	10%
-砭	(白)ben1	20%
 邊	(白)ben1	20%
 匾	(白)ben2	
 扁	(白)ben2	
-揙	(又)ben2	5%
+稨	(白)ben2	
+藊	(白)ben2	
 貶	(白)ben2	
 鉼	beng2	
 餅	beng2	
@@ -363,11 +369,10 @@
 捌	(白)bet3	20%
 䏟	(白)bet6	20%
 咇	(白)bet6	20%
-坺	(白)bet6	20%
-拔	(白)bet6	20%
-泌	(白)bet6	20%
+坺	(白)bet6	5%
+拔	(白)bet6	5%
 癟	(白)bet6	20%
-跋	(白)bet6	20%
+跋	(白)bet6	5%
 包	(白)beu1	
 孢	(白)beu1	
 胞	(白)beu1	
@@ -399,7 +404,6 @@
 沘	bi2	
 畀	bi2	
 秕	bi2	
-肶	bi2	
 舭	bi2	
 芘	bi2	
 譬	(訓)bi2	5%
@@ -424,6 +428,8 @@
 鄪	bi3	
 鉍	bi3	
 閉	(又)bi3	10%
+閟	bi3	
+啤	(語)bi4	10%
 嚊	bi6	
 坒	(又)bi6	10%
 埤	bi6	
@@ -438,7 +444,6 @@
 梐	(又)bi6	10%
 斃	(習)bi6	
 狴	(又)bi6	10%
-睥	bi6	
 箄	bi6	
 箅	bi6	
 篦	bi6	
@@ -451,6 +456,7 @@
 陛	(又)bi6	10%
 鞁	bi6	
 鞴	bi6	
+骳	bi6	
 髲	bi6	
 鼻	bi6	
 鎞	bi6	
@@ -463,6 +469,7 @@
 璧	bik1	
 皕	bik1	
 碧	bik1	
+腷	bik1	
 襞	bik1	
 躄	bik1	
 迫	(罕)bik1	5%
@@ -472,6 +479,7 @@
 甂	bin1	
 砭	bin1	
 籩	bin1	
+箯	bin1	
 緶	bin1	
 萹	bin1	
 蝙	(又)bin1	10%
@@ -483,7 +491,9 @@
 匾	(文)bin2	
 扁	(文)bin2	
 碥	bin2	
+稨	(文)bin2	
 窆	bin2	
+藊	(文)bin2	
 褊	bin2	
 貶	(文)bin2	
 變	bin3	
@@ -503,6 +513,7 @@
 乒	bing1	
 兵	bing1	
 冰	bing1	
+屏	bing1	5%
 并	bing1	5%
 掤	bing1	
 栟	bing1	
@@ -513,7 +524,6 @@
 秉	bing2	
 蛃	bing2	
 邴	bing2	
-鞆	bing2	
 並	(又)bing3	10%
 併	bing3	
 并	bing3	
@@ -531,6 +541,7 @@
 珌	bit1	
 觱	bit1	
 鉍	(又)bit1	5%
+𥷑	bit1	
 彆	bit3	
 憋	bit3	
 蹩	(常)bit3	
@@ -564,10 +575,9 @@
 鑣	biu1	
 颮	biu1	
 飆	biu1	
-飇	biu1	
-飈	biu1	
 驫	biu1	
 驃	biu1	
+髟	biu1	
 俵	biu2	
 婊	biu2	
 脿	biu2	
@@ -591,12 +601,11 @@
 薄	bo6	5%
 㩧	bok1	
 㿺	bok1	
-嚗	(白)bok1	5%
+嚗	(語)bok1	5%
 樸	(白)bok1	20%
 泡	(語)bok1	5%
 𦢊	bok1	
 㬍	bok3	
-䭦	bok3	
 亳	bok3	
 剝	bok3	
 博	bok3	
@@ -607,10 +616,12 @@
 猼	bok3	
 縛	(又)bok3	10%
 膊	bok3	
+趵	bok3	
 鎛	bok3	
 餺	bok3	
 駁	bok3	
 髆	bok3	
+㼎	bok6	
 帛	(又)bok6	10%
 泊	(文)bok6	
 濼	bok6	
@@ -621,7 +632,7 @@
 薄	bok6	
 鉑	bok6	
 雹	bok6	
-魄	(又)bok6	10%
+魄	(常)bok6	
 乓	(文)bong1	
 幫	bong1	
 梆	bong1	
@@ -644,32 +655,35 @@
 棒	bong6	
 棓	bong6	
 磅	bong6	
+稖	bong6	
 謗	bong6	
 鎊	bong6	
 𠼭	(又)bot1	10%
 𡀖	(又)bot1	10%
 𦤣	(語)bot6	10%
 峬	bu1	
+庯	bu1	
 晡	bu1	
 煲	bu1	
 褒	(文)bu1	
 逋	bu1	
 鈽	bu1	
+餔	bu1	
 保	bu2	
 埔	bu2	
 堡	bu2	
-孬	(又)bu2	5%
 寶	bu2	
 葆	bu2	
 補	bu2	
 褓	bu2	
 鴇	bu2	
-𨰻	bu2	
+㘵	bu3	
 儤	bu3	
 佈	bu3	
 布	bu3	
 怖	bu3	
 報	bu3	
+餔	bu3	
 哺	(又)bu6	10%
 埗	bu6	
 埠	bu6	
@@ -689,6 +703,7 @@
 盃	bui1	
 桮	bui1	
 誖	(語)bui1	5%
+唄	bui3	
 揹	bui3	
 狽	bui3	
 背	bui3	
@@ -707,7 +722,7 @@
 誖	bui6	
 鐾	(又)bui6	10%
 卜	(又)buk1	10%
-卟	(又)buk1	10%
+卟	buk1	
 樸	(白)buk1	20%
 伏	(白)buk6	20%
 幞	(又)buk6	10%
@@ -726,6 +741,7 @@
 般	bun1	
 本	bun2	
 畚	bun2	
+粄	bun2	
 苯	bun2	
 半	bun3	
 靽	bun3	
@@ -734,6 +750,7 @@
 柈	bun6	
 泮	bun6	
 畔	bun6	
+秚	bun6	
 絆	bun6	
 韸	(語)bung1	5%
 捧	(白)bung2	20%
@@ -763,6 +780,7 @@
 渤	but6	
 脖	but6	
 荸	but6	
+葧	but6	
 襏	but6	
 餑	but6	
 馞	but6	
@@ -776,7 +794,7 @@
 杈	caa1	
 蹅	caa1	
 鑔	caa2	
-䟕	caa3	
+㤞	caa3	
 侘	caa3	
 奼	caa3	
 岔	caa3	
@@ -788,6 +806,7 @@
 搽	caa4	
 查	caa4	
 槎	caa4	
+碴	caa4	
 苴	caa4	
 茬	caa4	
 茶	caa4	
@@ -799,10 +818,12 @@
 猜	caai1	
 釵	caai1	
 䐆	(白)caai2	20%
+䦟	caai2	
 跐	(白)caai2	20%
 跴	caai2	
 踩	caai2	
 踹	caai2	
+啜	caai3	
 嘬	caai3	
 瘥	caai3	
 蠆	caai3	
@@ -818,14 +839,12 @@
 冊	caak3	
 坼	caak3	
 拆	caak3	
-拺	caak3	
 柵	caak3	
 策	caak3	
+箣	caak3	
 簎	caak3	
 粣	caak3	
 蓛	caak3	
-𡍩	caak3	
-𤖴	caak3	
 賊	(罕)caak6	5%
 參	caam1	
 摻	caam1	
@@ -851,14 +870,13 @@
 巉	caam4	
 慚	caam4	
 攙	(文)caam4	
+瀺	caam4	
 蚕	caam4	
 蠶	caam4	
 讒	caam4	
 鑱	(文)caam4	
 饞	caam4	
 㔆	caam5	
-喰	caan1	
-湌	caan1	
 餐	caan1	
 䊲	caan2	
 產	caan2	
@@ -885,6 +903,7 @@
 瞠	caang1	
 鎗	caang1	
 鐺	caang1	
+倀	(語)caang2	5%
 橙	caang2	
 撐	(又)caang3	10%
 牚	caang3	
@@ -895,6 +914,7 @@
 撜	caang4	
 朾	caang4	
 棖	caang4	
+盯	caang4	5%
 㮑	caap3	
 扱	caap3	
 插	(文)caap3	
@@ -902,6 +922,7 @@
 鍤	caap3	
 𠝞	caap3	
 㔍	caat3	
+䃰	caat3	
 刷	caat3	
 唰	caat3	
 嚓	caat3	
@@ -913,13 +934,13 @@
 涮	(又)caat3	10%
 獺	caat3	
 礤	caat3	
-𩟔	caat3	
+剿	(文)caau1	
 抄	(文)caau1	
 摷	caau1	
 鈔	caau1	
 𤙴	(文)caau1	
 㥮	(又)caau2	5%
-吵	(文)caau2	
+吵	caau2	
 炒	(文)caau2	
 抄	(文)caau3	
 耖	caau3	
@@ -936,6 +957,7 @@
 郪	cai1	
 傺	cai3	
 切	cai3	5%
+憏	cai3	
 沏	cai3	
 瘛	cai3	
 砌	cai3	
@@ -945,7 +967,6 @@
 鱭	cai4	
 齊	cai4	
 鮆	cai4	
-厠	cak1	
 廁	cak1	5%
 惻	cak1	
 測	cak1	
@@ -962,7 +983,10 @@
 駸	cam1	
 寑	cam2	
 寢	cam2	
+梫	cam2	
 磣	cam2	
+趻	cam2	
+踸	cam2	
 鍖	cam2	
 鑔	(語)cam2	10%
 吣	cam3	
@@ -988,6 +1012,7 @@
 覃	cam4	
 鐔	cam4	
 鱘	cam4	
+蟳	cam4	
 燖	cam4	
 璕	cam4	
 鄩	cam4	
@@ -1007,11 +1032,11 @@
 胂	can1	
 膥	can1	
 蝽	can1	
+踆	can1	
 逡	can1	
 鶉	can1	
 哂	can2	
 昣	can2	
-槇	can2	
 槙	can2	
 畛	can2	
 疢	(又)can2	5%
@@ -1052,7 +1077,7 @@
 嶒	cang4	
 曾	cang4	
 鄫	cang4	
-㮑	(語)cap1	5%
+㮑	(白)cap1	5%
 咠	cap1	
 戢	cap1	
 楫	cap1	
@@ -1060,7 +1085,6 @@
 葺	cap1	
 蕺	cap1	
 輯	cap1	
-𠝞	(語)cap1	5%
 䢺	(又)cat1	10%
 七	cat1	
 出	(又)cat1	10%
@@ -1069,9 +1093,9 @@
 柒	cat1	
 桼	cat1	
 漆	cat1	
-猝	(又)cat1	10%
 詘	(又)cat1	10%
 黜	(又)cat1	10%
+紬	cau1	
 抽	cau1	
 掫	cau1	
 搊	cau1	
@@ -1102,6 +1126,7 @@
 蔟	cau3	
 輳	cau3	
 齅	cau3	
+紬	cau4	
 仇	cau4	
 儔	cau4	
 囚	cau4	
@@ -1116,7 +1141,6 @@
 籌	cau4	
 綢	cau4	
 蝤	cau4	
-讐	cau4	
 躊	cau4	
 遒	cau4	
 酋	cau4	
@@ -1131,6 +1155,7 @@
 扯	ce2	
 撦	ce2	
 跙	ce2	
+奲	ce2	
 笡	ce3	
 趄	ce3	
 㙦	ce4	
@@ -1154,12 +1179,17 @@
 請	(白)ceng2	20%
 𠝞	(語)cep1	5%
 插	(白)cep3	
+𠝞	(語)cep6	10%
 㔍	(語)cet1	5%
+出	(語)cet1	10%
+切	(語)cet1	5%
 設	(語)cet1	5%
 㔍	(語)cet6	10%
+切	(語)cet6	10%
+剿	(白)ceu1	5%
 抄	(白)ceu1	
 𤙴	(白)ceu1	
-吵	(白)ceu2	
+吵	(白)ceu2	20%
 炒	(白)ceu2	
 抄	(白)ceu3	5%
 呲	ci1	
@@ -1177,11 +1207,9 @@
 眥	ci1	
 眵	ci1	
 笞	ci1	
-縒	ci1	
 胵	ci1	
 蚩	ci1	
 螭	ci1	
-趀	ci1	
 郗	ci1	
 雌	ci1	
 飺	ci1	
@@ -1219,7 +1247,6 @@
 佽	ci3	
 儩	ci3	
 刺	ci3	
-厠	ci3	
 廁	ci3	
 啻	ci3	
 嗣	(常)ci3	
@@ -1234,15 +1261,14 @@
 絘	ci3	
 翅	ci3	
 翨	ci3	
-胵	ci3	
 莿	ci3	
 蚝	ci3	
 蛓	ci3	
-覗	ci3	
 賜	ci3	
 赤	(語)ci3	10%
 跮	ci3	
 饎	ci3	
+覗	ci3	
 茲	ci4	5%
 匙	ci4	
 坻	ci4	
@@ -1269,7 +1295,6 @@
 荎	ci4	
 薋	ci4	
 蚳	ci4	
-謘	ci4	
 詞	ci4	
 貾	ci4	
 趍	ci4	
@@ -1283,21 +1308,17 @@
 鷀	ci4	
 澬	ci4	
 似	ci5	
+佀	ci5	
 姒	ci5	
 峙	(又)ci5	10%
 恃	ci5	
 汜	ci5	
-洍	ci5	
 鈶	ci5	
 嗣	ci6	
 寺	ci6	
-食	ci6	5%
-飤	ci6	
+食	(古)ci6	5%
 飼	ci6	
-㡿	cik1	
 叱	cik1	
-哧	(又)cik1	10%
-嘁	(又)cik1	10%
 彳	cik1	
 慼	cik1	
 慽	cik1	
@@ -1307,12 +1328,9 @@
 敕	cik1	
 斥	cik1	
 槭	cik1	
-蓛	(又)cik1	5%
-螫	(又)cik1	10%
 赤	cik1	
 飭	cik1	
 鶒	cik1	
-䙲	cim1	
 䙴	cim1	
 僉	cim1	
 孅	cim1	
@@ -1324,7 +1342,6 @@
 籤	cim1	
 籛	cim1	
 纖	cim1	
-薟	cim1	
 襜	cim1	
 遷	(習)cim1	
 鉆	cim1	
@@ -1333,6 +1350,7 @@
 鋟	cim1	
 錟	cim1	
 憸	cim1	
+嬐	cim1	
 諂	cim2	
 僭	cim3	
 塹	cim3	
@@ -1342,7 +1360,6 @@
 撏	cim4	
 潛	cim4	
 灊	cim4	
-䙲	(又)cin1	10%
 䙴	(又)cin1	10%
 仟	cin1	
 千	cin1	
@@ -1367,9 +1384,7 @@
 闡	cin2	
 燀	cin2	
 倩	(又)cin3	10%
-茜	(又)cin3	10%
 前	cin4	
-媊	(又)cin4	10%
 廛	cin4	
 瀍	cin4	
 纏	cin4	
@@ -1383,7 +1398,6 @@
 氰	(又)cing1	5%
 清	cing1	
 稱	cing1	
-腈	(又)cing1	10%
 虰	cing1	
 蟶	cing1	
 蜻	cing1	
@@ -1410,6 +1424,7 @@
 澄	cing4	
 珵	cing4	
 程	cing4	
+腈	(又)cing4	10%
 裎	cing4	
 逞	cing4	
 郢	(又)cing4	10%
@@ -1421,7 +1436,6 @@
 切	cit3	
 屮	cit3	
 徹	cit3	
-懘	(又)cit3	10%
 掣	(又)cit3	10%
 撤	cit3	
 沏	cit3	
@@ -1447,8 +1461,8 @@
 肖	ciu3	
 誚	ciu3	
 鞘	ciu3	
-䩌	ciu4	
 劁	ciu4	
+嶕	ciu4	
 憔	ciu4	
 晁	ciu4	
 朝	ciu4	
@@ -1463,13 +1477,13 @@
 磋	co1	
 蹉	co1	
 憷	co2	
+攞	(語)co2	10%
 楚	co2	
 濋	co2	
 礎	co2	
 脞	co2	
 齼	co2	
 剉	co3	
-厝	co3	
 挫	co3	
 措	co3	
 莝	co3	
@@ -1481,11 +1495,10 @@
 矬	co4	
 蒫	co4	
 酇	co4	
-鉏	co4	
 鋤	co4	
 鹺	co4	
 齹	co4	
-𩄝	co4	
+鉏	co4	
 坐	co5	
 昨	(語)co6	10%
 㪕	coek3	
@@ -1496,7 +1509,6 @@
 焯	coek3	
 碏	coek3	
 綽	coek3	
-蔟	coek3	
 踔	coek3	
 逴	coek3	
 雀	coek3	
@@ -1510,7 +1522,6 @@
 搶	coeng1	5%
 昌	coeng1	
 槍	coeng1	
-椙	coeng1	
 猖	coeng1	
 瑲	coeng1	
 窗	(舊)coeng1	
@@ -1523,6 +1534,7 @@
 閶	coeng1	
 鯧	(書)coeng1	10%
 鶬	coeng1	
+蹡	coeng1	
 搶	coeng2	
 倡	(又)coeng3	10%
 嗆	coeng3	
@@ -1533,8 +1545,9 @@
 瑒	coeng3	
 暢	coeng3	
 蹌	coeng3	
-韔	coeng3	
 鬯	coeng3	
+蹡	coeng3	
+韔	coeng3	
 倘	coeng4	
 償	coeng4	
 場	coeng4	
@@ -1558,6 +1571,7 @@
 長	coeng4	
 鱨	coeng4	
 廧	coeng4	
+出	(語)coet1	10%
 啋	coi1	
 䐆	coi2	
 彩	coi2	
@@ -1569,9 +1583,9 @@
 采	coi2	
 埰	coi3	
 棌	coi3	
-縩	coi3	
 菜	coi3	
 蔡	coi3	
+縩	coi3	
 才	coi4	
 纔	coi4	
 材	coi4	
@@ -1581,8 +1595,6 @@
 剒	cok3	
 戳	cok3	
 擉	cok3	
-縒	cok3	
-逪	cok3	
 䱽	cong1	
 倉	cong1	
 傖	cong1	
@@ -1612,18 +1624,22 @@
 牀	cong4	
 橦	cong4	
 藏	cong4	
+戳	(語)cot6	10%
 腏	(語)cot6	10%
-𨳍	cot6	
 操	cu1	
 粗	cu1	
 觕	cu1	
-艸	cu2	
+麤	cu1	
+懆	cu2	
 草	cu2	
 騲	cu2	
+厝	cu3	
 噪	cu3	
 譟	cu3	
-慥	cu3	
+慥	(又)cu3	10%
+氉	cu3	
 燥	cu3	
+瘄	cu3	
 糙	cu3	
 藻	(常)cu3	
 躁	cu3	
@@ -1631,7 +1647,7 @@
 醋	cu3	
 𥖨	cu3	
 嘈	cu4	
-巢	(又)cu4	10%
+巢	(常)cu4	
 徂	cu4	
 曹	cu4	
 槽	cu4	
@@ -1647,14 +1663,14 @@
 摧	cui1	
 榱	cui1	
 炊	cui1	
+獕	cui1	
 璀	cui1	
 縗	cui1	
-衰	cui1	5%
+衰	(古)cui1	5%
 揣	cui2	
 漼	cui2	
 膪	cui2	
 啐	cui3	
-啜	cui3	
 悴	cui3	
 毳	cui3	
 淬	cui3	
@@ -1667,7 +1683,9 @@
 膬	cui3	
 膵	cui3	
 萃	cui3	
+綷	cui3	
 捶	cui4	
+搥	cui4	
 棰	cui4	
 椎	cui4	5%
 槌	cui4	
@@ -1676,6 +1694,7 @@
 鎚	cui4	
 隋	cui4	
 隨	cui4	
+鬌	cui4	
 𡃴	cui4	
 𢶀	cui4	
 亍	cuk1	
@@ -1699,14 +1718,15 @@
 触	cuk1	
 觸	cuk1	
 觫	cuk1	
-諔	cuk1	
 踧	cuk1	
 蹙	cuk1	
 蹴	cuk1	
 速	cuk1	
 閦	cuk1	
 齪	cuk1	
+𦌊	cuk1	
 餗	cuk1	
+諔	cuk1	
 㳘	cung1	
 充	cung1	
 沖	cung1	
@@ -1715,8 +1735,8 @@
 怱	cung1	
 囪	cung1	
 囱	cung1	
+埇	cung1	
 忡	cung1	
-悤	cung1	
 憧	cung1	
 摏	cung1	
 樅	cung1	
@@ -1733,17 +1753,16 @@
 葱	cung1	
 蔥	cung1	
 驄	cung1	
+瑽	cung1	
 鏦	cung1	
 埫	cung2	
 寵	cung2	
 慫	(又)cung2	10%
-㧤	cung3	
 揰	cung3	
 蹱	(白)cung3	20%
 銃	cung3	
-㗰	cung4	
+𥅻	cung3	
 叢	cung4	
-从	cung4	
 從	cung4	
 崇	cung4	
 悰	cung4	
@@ -1756,16 +1775,14 @@
 藂	cung4	
 虫	cung4	
 蟲	cung4	
-賨	cung4	
 重	cung4	
+賨	cung4	
 重	cung5	
 呲	(老派)cy1	10%
 差	(老派)cy1	10%
 玼	(老派)cy1	10%
 疵	(老派)cy1	10%
 眥	(老派)cy1	10%
-縒	(老派)cy1	10%
-趀	(老派)cy1	10%
 雌	(老派)cy1	10%
 飺	(老派)cy1	10%
 骴	(老派)cy1	10%
@@ -1782,7 +1799,6 @@
 佽	(老派)cy3	10%
 儩	(老派)cy3	10%
 刺	(老派)cy3	10%
-厠	(老派)cy3	10%
 廁	(老派)cy3	10%
 嗣	(老派)cy3	10%
 庛	(老派)cy3	10%
@@ -1793,8 +1809,8 @@
 莿	(老派)cy3	10%
 蚝	(老派)cy3	10%
 蛓	(老派)cy3	10%
-覗	(老派)cy3	10%
 賜	(老派)cy3	10%
+覗	(老派)cy3	10%
 茲	(老派)cy4	10%
 慈	(老派)cy4	10%
 柌	(老派)cy4	10%
@@ -1816,15 +1832,14 @@
 鷀	(老派)cy4	10%
 澬	(老派)cy4	10%
 似	(老派)cy5	10%
+佀	(老派)cy5	10%
 姒	(老派)cy5	10%
 恃	(老派)cy5	10%
 汜	(老派)cy5	10%
-洍	(老派)cy5	10%
 鈶	(老派)cy5	10%
 嗣	(老派)cy6	10%
 寺	(老派)cy6	10%
 食	(老派)cy6	10%
-飤	(老派)cy6	10%
 飼	(老派)cy6	10%
 貙	cyu1	
 芻	cyu1	
@@ -1833,6 +1848,8 @@
 趨	cyu1	
 趍	cyu1	
 雛	(又)cyu1	5%
+鶵	(又)cyu1	5%
+𩿿	(又)cyu1	5%
 取	cyu2	
 娶	cyu2	
 處	cyu3	
@@ -1845,12 +1862,14 @@
 櫥	cyu4	
 涂	cyu4	
 滁	cyu4	
+篨	cyu4	
 躕	cyu4	
 躇	cyu4	
-鉏	cyu4	
 除	cyu4	
 雛	cyu4	
+鉏	cyu4	
 鶵	cyu4	
+𩿿	cyu4	
 佇	cyu5	
 處	cyu5	
 宁	cyu5	
@@ -1880,6 +1899,7 @@
 穿	cyun1	
 膥	(老派)cyun1	10%
 蝽	(老派)cyun1	10%
+踆	(老派)cyun1	10%
 躥	(又)cyun1	5%
 逡	(老派)cyun1	10%
 邨	cyun1	
@@ -1909,6 +1929,7 @@
 攢	cyun4	
 椽	cyun4	
 泉	cyun4	
+牷	cyun4	
 瑔	cyun4	
 痊	cyun4	
 筌	cyun4	
@@ -1916,6 +1937,7 @@
 荃	cyun4	
 詮	cyun4	
 跧	cyun4	
+踆	cyun4	
 蹲	cyun4	5%
 輇	cyun4	
 遄	cyun4	
@@ -1926,6 +1948,7 @@
 䢺	cyut1	
 出	cyut1	
 齣	cyut1	
+卒	(古)cyut1	5%
 怵	cyut1	
 焌	cyut1	
 猝	cyut1	
@@ -1968,6 +1991,7 @@
 䐺	daam6	
 倓	daam6	
 啖	daam6	
+啗	daam6	
 啿	daam6	
 噉	daam6	
 埮	daam6	
@@ -2013,7 +2037,7 @@
 灒	(語)daan6	10%
 僤	daan6	
 燀	daan6	
-噹	(語)daang1	10%
+噹	(白)daang1	20%
 嗒	daap1	
 䐛	daap3	
 搭	daap3	
@@ -2032,9 +2056,8 @@
 蹋	daap6	
 遝	daap6	
 闒	daap6	
-龖	daap6	
-龘	daap6	
 噠	(語)daat1	5%
+㟷	daat3	
 墶	daat3	
 妲	daat3	
 怛	daat3	
@@ -2045,7 +2068,6 @@
 靼	daat3	
 𢴈	daat3	
 噠	daat6	
-燵	daat6	
 薘	daat6	
 達	daat6	
 䃮	daat6	
@@ -2072,6 +2094,7 @@
 阺	dai2	
 骶	dai2	
 螮	dai3	
+䟡	dai3	
 媂	dai3	
 帝	dai3	
 渧	dai3	
@@ -2093,7 +2116,6 @@
 遞	dai6	
 逮	dai6	
 隸	dai6	
-隷	dai6	
 嵽	dai6	
 嘚	dak1	
 得	dak1	
@@ -2103,15 +2125,14 @@
 樴	(又)dak6	10%
 特	dak6	
 螣	dak6	
-啿	(語)dam1	5%
 揼	dam1	
+醰	(白)dam1	5%
 丼	dam2	
 抌	dam2	
-沊	dam2	
 黕	dam2	
-䐺	(白)dam3	20%
 揼	dam3	
 髧	(語)dam3	10%
+𧽼	(語)dam4	10%
 䂿	(白)dam6	20%
 𨂽	dam6	
 吨	dan1	
@@ -2130,6 +2151,7 @@
 囤	(名)dan2	
 墩	(白)dan2	5%
 躉	dan2	
+𣎴	dan2	
 扽	dan3	
 炖	dan3	
 燉	dan3	
@@ -2168,17 +2190,17 @@
 蹬	dang6	5%
 鄧	dang6	
 塌	dap1	
-耷	(語)dap1	5%
+耷	dap1	
 䂿	(白)dap6	20%
 撘	(語)dap6	10%
 沓	(白)dap6	20%
 𢱕	dap6	
 咄	dat1	
 挃	(白)dat1	5%
+柮	dat1	
 窒	(白)dat1	5%
-腯	dat1	
+腯	(白)dat1	5%
 飿	dat1	
-𠱂	dat1	
 凸	dat6	
 突	dat6	
 腯	dat6	
@@ -2191,10 +2213,12 @@
 蔸	dau1	
 抖	dau2	
 斗	dau2	
+枓	dau2	
 糾	(習)dau2	
 蚪	dau2	
 赳	(習)dau2	
 鈄	dau2	
+阧	dau2	
 陡	dau2	
 鬥	dau3	
 竇	(白)dau3	20%
@@ -2211,12 +2235,10 @@
 逗	dau6	
 酘	(語)dau6	10%
 餖	dau6	
-𢭃	dau6	
 哆	(語)de1	10%
 爹	de1	
 嗲	de2	
 襶	(習)de2	
-𧜁	(白)de2	20%
 嗲	de4	
 趯	(訓)dek3	90%
 迪	(白)dek3	20%
@@ -2226,6 +2248,7 @@
 叮	(白)deng1	20%
 疔	(白)deng1	20%
 盯	(白)deng1	20%
+訂	(訓)deng1	5%
 釘	(白)deng1	
 頂	(白)deng2	
 掟	(語)deng3	10%
@@ -2235,12 +2258,11 @@
 埞	deng6	
 定	(白)deng6	20%
 訂	(白)deng6	
-䑜	(語)dep1	5%
+䑜	(訓)dep1	5%
 嗒	(白)dep1	20%
 蹀	(白)dep1	5%
 鰈	(語)dep1	5%
 突	(白)det6	20%
-腯	(又)det6	10%
 屌	deu1	
 鳥	(白)deu1	5%
 嫋	(白)deu4	20%
@@ -2262,6 +2284,7 @@
 菂	dik1	
 蹢	dik1	
 鏑	dik1	
+䯼	dik6	
 嘀	dik6	
 嫡	(又)dik6	10%
 敵	dik6	
@@ -2282,6 +2305,7 @@
 掂	dim1	
 敁	dim1	
 踮	dim1	
+㥏	dim2	
 靦	dim2	
 典	(習)dim2	
 捵	dim2	
@@ -2298,15 +2322,15 @@
 阽	dim3	
 墊	(訓)dim6	90%
 扂	dim6	
-掂	(語)dim6	10%
+掂	dim6	
 磹	dim6	
 簟	dim6	
 巔	din1	
-槇	din1	
 槙	din1	
 滇	din1	
 癲	din1	
 顛	din1	
+攧	din1	
 典	(書)din2	10%
 碘	(書)din2	10%
 佃	din6	
@@ -2329,7 +2353,6 @@
 盯	ding1	
 耵	ding1	
 虰	ding1	
-訂	(訓)ding1	5%
 酊	ding1	5%
 釘	(文)ding1	
 靪	ding1	
@@ -2343,7 +2366,6 @@
 啶	ding6	
 定	ding6	
 掟	ding6	
-聢	ding6	
 腚	ding6	
 萣	ding6	
 訂	(文)ding6	
@@ -2365,7 +2387,6 @@
 迭	(又)dip6	10%
 鰈	dip6	
 啲	(又)dit1	10%
-尐	(又)dit1	10%
 跌	dit3	
 䏲	dit6	
 咥	dit6	
@@ -2377,6 +2398,7 @@
 紩	dit6	
 絰	dit6	
 耋	dit6	
+螲	dit6	
 詄	dit6	
 跮	dit6	
 迭	dit6	
@@ -2411,19 +2433,20 @@
 藋	diu6	
 調	diu6	
 銚	diu6	
+蓧	diu6	
 哆	do1	
 多	do1	
 嚲	do2	
-凩	(又)do2	5%
 哚	do2	
 埵	do2	
 朵	do2	
 綞	do2	
 跺	do2	
 躲	do2	
+鬌	do2	
+奲	do2	
 剁	do3	
 垛	do3	
-𣳼	do4	
 墮	do6	
 惰	do6	
 舵	(又)do6	10%
@@ -2434,7 +2457,7 @@
 哚	(白)doe2	20%
 朵	(白)doe2	20%
 遞	(語)doe2	5%
-𣳼	(又)doe4	10%
+陀	(語)doe4	10%
 剁	(訓)doek1	5%
 斲	(又)doek1	5%
 剁	(訓)doek3	90%
@@ -2464,12 +2487,14 @@
 度	dok6	5%
 踱	dok6	
 鐸	dok6	
+凙	dok6	
 噹	dong1	
 當	dong1	
 璫	dong1	
 簹	dong1	
 襠	dong1	
 鐺	dong1	5%
+蟷	dong1	
 党	dong2	
 黨	dong2	
 壋	dong2	
@@ -2489,7 +2514,6 @@
 盪	dong6	
 蕩	dong6	
 菪	dong6	
-趤	dong6	
 璗	dong6	
 刀	du1	
 叨	du1	
@@ -2500,6 +2524,7 @@
 都	du1	
 闍	du1	
 魛	du1	
+𣱼	du1	
 倒	du2	
 堵	du2	
 島	du2	
@@ -2538,12 +2563,10 @@
 䭔	dui1	
 㨃	dui2	
 兌	dui3	
-兑	dui3	
 對	dui3	
 敦	dui3	5%
 碓	dui3	
 祋	dui3	
-䃍	dui6	
 懟	dui6	
 憝	dui6	
 鐓	dui6	
@@ -2552,7 +2575,7 @@
 㞘	duk1	
 䐁	duk1	
 厾	duk1	
-毒	duk1	5%
+毒	(古)duk1	5%
 督	duk1	
 篤	duk1	
 𧰵	duk1	
@@ -2568,28 +2591,26 @@
 頓	duk6	5%
 髑	duk6	
 黷	duk6	
+讟	duk6	
 東	dung1	
 冬	dung1	
 鼕	dung1	
 咚	dung1	
 崬	dung1	
-柊	dung1	
+柊	(又)dung1	10%
 氡	dung1	
 菄	dung1	
 鮗	dung1	
 鶇	dung1	
-蝀	(又)dung1	5%
-㨂	dung2	
+蝀	dung1	
 懂	dung2	
 捅	(白)dung2	20%
 董	dung2	
 凍	dung3	
 腖	dung3	
-蝀	dung3	
 鼕	(語)dung4	10%
 咚	(語)dung4	10%
 侗	dung6	
-働	dung6	
 動	dung6	
 垌	dung6	
 峒	dung6	
@@ -2605,11 +2626,11 @@
 端	dyun1	
 耑	dyun1	
 短	dyun2	
-𢭃	dyun2	
 斷	dyun3	5%
 塅	dyun6	
 椴	dyun6	
 段	dyun6	
+毈	dyun6	
 煅	dyun6	
 瑖	dyun6	
 碫	dyun6	
@@ -2617,21 +2638,20 @@
 緞	dyun6	
 鍛	dyun6	
 凸	(語)dyut1	5%
-腯	(又)dyut1	10%
+腯	(白)dyut1	5%
 掇	(又)dyut3	10%
 敠	dyut3	
 奪	dyut6	
 敓	dyut6	
-敚	dyut6	
 嘅	(語)e3	10%
 屎	(白)e3	20%
 擠	(語)e3	10%
 𡲢	(又)e3	10%
+嘢	(語)e5	10%
 欸	e6	
 虵	(語)e6	10%
 誒	e6	
 膱	(白)ek3	20%
-偃	(白)en2	20%
 躽	(白)en2	20%
 䊦	(白)et3	20%
 噎	(白)et3	20%
@@ -2640,7 +2660,6 @@
 坳	(白)eu3	
 拗	(白)eu3	
 詏	(白)eu3	
-糀	faa1	
 花	faa1	
 化	faa3	
 吪	(語)faa4	10%
@@ -2652,14 +2671,15 @@
 礊	faak3	
 噃	faan1	
 幡	faan1	
+旛	faan1	
 番	faan1	
 翻	faan1	
 蕃	faan1	5%
 返	(白)faan1	5%
+繙	faan1	
 反	faan2	
 橎	faan2	
 返	faan2	
-𠆩	faan2	
 嬎	faan3	
 嬔	faan3	
 氾	faan3	
@@ -2685,6 +2705,7 @@
 蹯	faan4	
 釩	faan4	
 鐇	faan4	
+繙	faan4	
 鷭	faan4	
 梵	faan6	
 犯	faan6	
@@ -2694,7 +2715,6 @@
 發	faat3	
 髮	faat3	
 法	faat3	
-灋	faat3	
 琺	faat3	
 砝	faat3	
 醱	faat3	
@@ -2725,6 +2745,7 @@
 芾	fai3	
 費	fai3	
 鐨	fai3	
+䉬	fai3	
 吠	fai6	
 礊	fak1	
 𦑌	(語)fak6	10%
@@ -2783,6 +2804,7 @@
 揈	(又)fang4	10%
 㧾	fat1	
 㩿	fat1	
+㺀	fat1	
 䬍	fat1	
 佛	fat1	5%
 唿	fat1	
@@ -2796,12 +2818,13 @@
 拂	fat1	
 搰	fat1	
 昒	fat1	
+曶	fat1	
 欻	fat1	
 氟	fat1	
 沸	fat1	5%
 淴	fat1	
 狒	(語)fat1	5%
-矻	(又)fat1	5%
+矻	fat1	
 祓	fat1	
 窟	fat1	
 笏	fat1	
@@ -2816,7 +2839,7 @@
 髴	fat1	
 魆	fat1	
 黻	fat1	
-𧿳	fat1	
+鮄	fat1	
 佛	fat6	
 咈	fat6	
 弗	(又)fat6	10%
@@ -2832,17 +2855,18 @@
 涪	fau4	
 琈	fau4	
 罘	fau4	
+罦	fau4	
 芣	fau4	
 蜉	fau4	
 衃	fau4	
 埠	fau6	
 阜	fau6	
 啡	(語)fe1	10%
-㹃	(語)fe2	10%
+㹃	(語)fe2	5%
 匪	(白)fe2	20%
 飛	(外)fe2	5%
 啡	(語)fe4	10%
-番	(白)fen1	20%
+番	(白)fen1	5%
 翻	(白)fen1	20%
 唿	(白)fet1	20%
 法	(白)fet1	5%
@@ -2859,7 +2883,6 @@
 飛	fi1	
 鯡	fi1	
 騑	fi1	
-㹃	fi2	
 匪	fi2	
 悱	fi2	
 斐	fi2	
@@ -2873,11 +2896,13 @@
 菲	fi2	
 蜚	fi2	
 誹	fi2	
+㹃	fi3	
 啡	(語)fi4	10%
 淝	fi4	
 痱	fi4	5%
 肥	fi4	
 腓	fi4	
+蜰	fi4	
 剕	fi6	
 狒	fi6	
 揊	(白)fik1	20%
@@ -2887,7 +2912,6 @@
 摒	(白)fing3	20%
 撇	(白)fit1	5%
 覅	fiu3	
-嵙	fo1	
 科	fo1	
 窠	fo1	
 蝌	(文)fo1	
@@ -2920,6 +2944,7 @@
 倣	fong2	
 幌	fong2	
 彷	fong2	
+怳	fong2	
 恍	fong2	
 昉	fong2	
 晃	fong2	
@@ -2939,6 +2964,7 @@
 魴	fong4	
 鰟	fong4	
 䬍	(語)fot6	10%
+乎	fu1	5%
 伕	fu1	
 俘	fu1	
 刳	fu1	
@@ -2950,7 +2976,7 @@
 孚	fu1	
 孵	fu1	
 幠	fu1	
-戲	fu1	5%
+戲	(古)fu1	5%
 挎	fu1	
 敷	fu1	
 枯	(文)fu1	
@@ -2961,8 +2987,10 @@
 玞	fu1	
 砆	fu1	
 稃	fu1	
+罦	(又)fu1	5%
 膚	fu1	
 莩	fu1	
+虎	fu1	5%
 趺	fu1	
 跗	fu1	
 軤	fu1	
@@ -2972,7 +3000,7 @@
 麩	fu1	
 鈇	fu1	
 㕮	fu2	
-䋨	fu2	
+俛	fu2	
 俯	fu2	
 嘸	fu2	
 唬	fu2	
@@ -2992,6 +3020,7 @@
 虎	fu2	
 輔	(又)fu2	10%
 釜	fu2	
+鬴	fu2	
 黼	(又)fu2	10%
 頫	fu2	
 副	fu3	
@@ -3010,7 +3039,6 @@
 扶	fu4	
 榑	fu4	
 符	fu4	
-腑	(語)fu4	10%
 芙	fu4	
 苻	fu4	
 蚨	fu4	
@@ -3027,7 +3055,6 @@
 祔	fu6	
 秿	fu6	
 腐	fu6	
-蝜	fu6	
 訃	fu6	
 負	fu6	
 賻	fu6	
@@ -3035,6 +3062,7 @@
 附	fu6	
 駙	fu6	
 鮒	fu6	
+蝜	fu6	
 咴	fui1	
 徽	fui1	
 恢	fui1	
@@ -3043,6 +3071,7 @@
 盔	(又)fui1	10%
 虺	fui1	
 詼	fui1	
+豗	fui1	
 顝	fui1	
 悔	fui2	
 晦	(又)fui2	5%
@@ -3061,7 +3090,6 @@
 復	(習)fuk1	
 複	fuk1	
 幅	fuk1	
-畐	fuk1	
 福	fuk1	
 腹	fuk1	
 蝠	fuk1	
@@ -3085,7 +3113,6 @@
 襆	fuk6	
 嚾	fun1	
 寬	fun1	
-懽	fun1	
 歡	fun1	
 獾	fun1	
 貛	fun1	
@@ -3100,7 +3127,6 @@
 崶	fung1	
 楓	fung1	
 灃	fung1	
-渢	(又)fung1	5%
 烽	fung1	
 瘋	fung1	
 碸	fung1	
@@ -3119,7 +3145,6 @@
 渢	fung4	
 浲	fung4	
 縫	(動)fung4	
-舽	fung4	
 逢	fung4	
 俸	fung6	
 鳳	fung6	
@@ -3132,6 +3157,7 @@
 豁	fut3	
 适	fut3	
 闊	fut3	
+𨓈	fut3	
 䬍	(語)fut6	10%
 㹢	gaa1	
 伽	gaa1	
@@ -3142,8 +3168,7 @@
 傢	gaa1	
 家	gaa1	
 尕	gaa1	
-尜	(又)gaa1	5%
-旮	(語)gaa1	5%
+旮	gaa1	
 枷	gaa1	
 泇	gaa1	
 珈	gaa1	
@@ -3153,6 +3178,7 @@
 茄	gaa1	5%
 葭	gaa1	
 袈	gaa1	
+豭	gaa1	
 跏	gaa1	
 迦	gaa1	
 鎵	gaa1	
@@ -3178,7 +3204,7 @@
 尜	gaa4	
 架	(語)gaa6	10%
 佳	gaai1	
-偕	(又)gaai1	5%
+偕	gaai1	
 嚌	gaai1	
 喈	gaai1	
 楷	gaai1	
@@ -3195,11 +3221,15 @@
 解	gaai2	
 介	gaai3	
 价	gaai3	
+刉	(訓)gaai3	90%
+刏	(訓)gaai3	90%
 尬	gaai3	
 屆	gaai3	
+岕	gaai3	
 廨	(又)gaai3	10%
 悈	gaai3	
 戒	gaai3	
+犗	gaai3	
 玠	gaai3	
 界	gaai3	
 疥	gaai3	
@@ -3207,13 +3237,12 @@
 蚧	gaai3	
 解	gaai3	5%
 誡	gaai3	
-鎅	gaai3	
 骱	gaai3	
-𠝹	gaai3	
 嗝	gaak3	
 塥	gaak3	
 挌	gaak3	
 格	gaak3	
+槅	gaak3	
 滆	gaak3	
 胳	gaak3	
 膈	gaak3	
@@ -3239,7 +3268,7 @@
 鑑	gaam3	
 鑒	gaam3	
 奸	gaan1	
-姦	(文)gaan1	
+姦	gaan1	
 艱	(文)gaan1	
 菅	gaan1	
 間	(文)gaan1	
@@ -3248,7 +3277,6 @@
 暕	gaan2	
 梘	(文)gaan2	
 柬	(文)gaan2	
-礆	(文)gaan2	
 碱	(文)gaan2	
 鹼	(文)gaan2	
 筧	gaan2	
@@ -3263,10 +3291,12 @@
 諫	gaan3	
 鐧	gaan3	
 間	(文)gaan3	
+瞷	gaan3	
 庚	(罕)gaang1	5%
 更	gaang1	
 畊	gaang1	
 粳	(罕)gaang1	5%
+經	(白)gaang1	20%
 羹	(又)gaang1	10%
 耕	gaang1	
 挭	gaang3	
@@ -3282,6 +3312,7 @@
 浹	(又)gaap3	10%
 甲	gaap3	
 胛	gaap3	
+舺	gaap3	
 莢	(文)gaap3	
 蛺	gaap3	
 袷	gaap3	
@@ -3293,10 +3324,10 @@
 鉿	gaap3	
 頰	gaap3	
 餄	gaap3	
+鴿	(又)gaap3	10%
 梜	gaap3	
 蛤	(語)gaap6	10%
 嘎	gaat3	
-尜	(又)gaat3	10%
 恝	gaat3	
 戛	gaat3	
 擖	gaat3	
@@ -3322,6 +3353,7 @@
 搞	gaau2	
 狡	(文)gaau2	
 皎	gaau2	
+筊	gaau2	
 絞	(文)gaau2	
 餃	(文)gaau2	
 教	(文)gaau3	
@@ -3330,7 +3362,9 @@
 滘	gaau3	
 漖	gaau3	
 珓	gaau3	
+窌	gaau3	
 窖	gaau3	
+筊	gaau3	
 覺	(文)gaau3	
 較	gaau3	
 鉸	(文)gaau3	
@@ -3372,19 +3406,17 @@
 禁	gam3	
 紺	gam3	
 贛	gam3	
-趛	(又)gam3	10%
 黚	(語)gam4	10%
 撳	gam6	
 𠢱	gam6	
-凧	gan1	
 哏	gan1	
 巾	gan1	
 斤	gan1	
 根	gan1	
 筋	gan1	
+觔	gan1	
 跟	gan1	
 釿	gan1	
-仅	gan2	
 僅	gan2	
 巹	gan2	
 堇	gan2	
@@ -3394,6 +3426,7 @@
 殣	gan2	
 瑾	gan2	
 緊	gan2	
+菫	gan2	
 謹	gan2	
 饉	gan2	
 艮	gan3	
@@ -3406,29 +3439,29 @@
 庚	gang1	
 更	gang1	
 浭	gang1	
+焿	gang1	
 畊	(又)gang1	10%
 粳	gang1	
-緪	gang1	
-縆	gang1	
 羹	gang1	
 耕	(又)gang1	10%
 賡	gang1	
 鶊	gang1	
+緪	gang1	
 亙	gang2	
 哽	gang2	
 埂	gang2	
 梗	gang2	
 綆	gang2	
 耿	gang2	
-骾	(文)gang2	
-鯁	(文)gang2	
+骾	gang2	
+鯁	gang2	
 𬒔	gang2	
 暅	gang3	
 更	gang3	
 緪	(語)gang4	10%
 忣	gap1	
 急	gap1	
-芨	(又)gap1	5%
+芨	gap1	
 蛤	(白)gap1	5%
 㪉	gap3	
 佮	gap3	
@@ -3437,9 +3470,9 @@
 敆	gap3	
 蓋	gap3	5%
 蛤	gap3	
-閤	gap3	
 頜	gap3	
 鴿	gap3	
+閤	gap3	
 㧀	gap6	
 䀫	(白)gap6	20%
 及	gap6	
@@ -3459,26 +3492,24 @@
 疙	(白)gat1	5%
 紇	gat1	
 虼	gat1	
-訖	(又)gat1	5%
+訖	gat1	
 詰	gat1	
 郅	gat1	
 䞘	gat6	
 圪	gat6	
+屹	gat6	5%
 揭	(白)gat6	20%
-搩	(語)gat6	10%
 曱	(又)gat6	10%
 疙	gat6	
 趌	gat6	
 趷	gat6	
-𢷒	(語)gat6	10%
-佝	(文)gau1	
+佝	gau1	
 勼	gau1	
 勾	(文)gau1	
 句	(文)gau1	
 摎	gau1	
 溝	gau1	
 泃	gau1	
-牞	gau1	
 篝	gau1	
 緱	gau1	
 軥	(文)gau1	
@@ -3510,6 +3541,7 @@
 姤	gau3	
 媾	(文)gau3	
 彀	gau3	
+搆	(文)gau3	
 救	gau3	
 构	(文)gau3	
 構	(文)gau3	
@@ -3522,11 +3554,10 @@
 購	(文)gau3	
 遘	gau3	
 雊	gau3	
-䊆	(量)gau6	
+䊆	(量)gau6	10%
 嚿	(量)gau6	
 舊	gau6	
 柩	gau6	
-柾	gau6	
 爹	(訓)ge1	90%
 嘅	ge3	
 嘎	(語)ge4	10%
@@ -3535,14 +3566,14 @@
 兼	(外)gem1	5%
 減	(白)gem2	
 黚	(語)gem4	10%
-姦	(白)gen1	
+奸	(白)gen1	5%
+姦	(白)gen1	5%
 艱	(白)gen1	
 間	(白)gen1	
 堿	(白)gen2	
 揀	(白)gen2	
 梘	(白)gen2	
 柬	(白)gen2	
-礆	(白)gen2	
 碱	(白)gen2	
 鹼	(白)gen2	
 簡	(白)gen2	
@@ -3585,6 +3616,7 @@
 絞	(白)geu2	
 餃	(白)geu2	
 教	(白)geu3	
+校	(又)geu3	10%
 覺	(白)geu3	
 鉸	(白)geu3	
 撬	geu6	
@@ -3620,6 +3652,7 @@
 鞿	gi1	
 飢	gi1	
 饑	gi1	
+禨	gi1	
 錤	gi1	
 幾	gi2	
 己	gi2	
@@ -3677,7 +3710,6 @@
 劍	gim3	
 儉	gim6	
 堅	gin1	
-樫	gin1	
 肩	gin1	
 鈃	gin1	
 靬	gin1	
@@ -3686,7 +3718,9 @@
 鳽	gin1	
 件	(白)gin2	5%
 囝	gin2	
+瀽	gin2	
 謇	gin2	
+趼	(書)gin2	10%
 蹇	gin2	
 𠐻	gin2	
 建	gin3	
@@ -3736,7 +3770,8 @@
 痙	ging6	
 競	ging6	
 劫	gip3	
-澀	gip3	5%
+澀	(訓)gip3	90%
+砝	gip3	5%
 蜐	gip3	
 袷	gip3	
 㛃	git3	
@@ -3749,17 +3784,17 @@
 袺	git3	
 鮚	git3	
 偈	git6	
-搩	git6	
 傑	git6	
 杰	git6	
 桀	git6	
-桝	git6	
 榤	git6	
 渴	(白)git6	20%
 竭	(白)git6	20%
 嬌	giu1	
+徼	giu1	
 澆	giu1	
 驕	giu1	
+儌	giu2	
 撟	giu2	
 敫	giu2	
 璬	giu2	
@@ -3772,7 +3807,6 @@
 敫	giu3	
 嶠	giu6	
 轎	giu6	
-仡	go1	
 咼	go1	
 哥	go1	
 堝	go1	
@@ -3801,10 +3835,9 @@
 箇	go3	
 過	go3	
 㰤	(語)go4	10%
-啹	goe1	
 撅	(語)goe1	5%
 腳	goek3	
-蹺	(語)goek3	10%
+蹺	(訓)goek3	90%
 屩	goek3	
 蹻	goek3	
 僵	(文)goeng1	
@@ -3812,13 +3845,11 @@
 姜	goeng1	
 薑	goeng1	
 彊	(文)goeng1	
-畺	(文)goeng1	
 疆	(文)goeng1	
 礓	goeng1	
 繮	(文)goeng1	
 韁	(文)goeng1	
 蔃	goeng2	
-滰	goeng6	
 勥	goeng6	
 犟	goeng6	
 糨	goeng6	
@@ -3832,11 +3863,12 @@
 隑	goi1	
 改	goi2	
 胲	goi2	
-丐	(又)goi3	10%
+丐	(文)goi3	
 蓋	goi3	
 傕	gok3	
 各	gok3	
 咯	gok3	
+嘓	gok3	
 國	gok3	
 幗	gok3	
 擱	(文)gok3	
@@ -3852,7 +3884,6 @@
 覺	(文)gok3	
 角	gok3	
 鉻	gok3	
-閤	gok3	
 閣	gok3	
 漍	gok3	
 乾	gon1	
@@ -3930,10 +3961,10 @@
 降	gong3	
 鿍	gong3	
 逛	(文)gong6	
-㖵	got3	
 割	got3	
 噶	got3	
 葛	got3	
+轕	got3	
 嗗	(又)got6	10%
 估	(又)gu1	5%
 古	(外)gu1	5%
@@ -3951,9 +3982,11 @@
 糕	gu1	
 罛	gu1	
 羔	gu1	
+股	(又)gu1	5%
 胍	gu1	
 膏	(名)gu1	
 苦	(語)gu1	5%
+苽	gu1	
 菇	gu1	
 菰	gu1	
 蛄	gu1	
@@ -3963,6 +3996,7 @@
 酤	gu1	
 高	gu1	
 鴣	gu1	
+軱	gu1	
 䀇	gu2	
 估	gu2	
 古	gu2	
@@ -4009,7 +4043,7 @@
 鯝	gu3	
 咕	(語)gu4	10%
 䠩	gui6	
-攰	gui6	
+攰	(訓)gui6	90%
 癐	gui6	
 嚳	guk1	
 掬	guk1	
@@ -4021,6 +4055,7 @@
 菊	guk1	
 穀	guk1	
 谷	guk1	
+踘	guk1	
 鋦	guk1	
 鞠	guk1	
 鞫	guk1	
@@ -4030,6 +4065,7 @@
 焗	guk6	
 跼	guk6	
 鋦	guk6	
+𥕏	(又)guk6	10%
 倌	gun1	
 冠	gun1	5%
 官	gun1	
@@ -4066,10 +4102,8 @@
 塨	gung1	
 宮	gung1	
 工	gung1	
-巭	gung1	
 弓	gung1	
 恭	gung1	
-愩	gung1	
 攻	gung1	
 玒	(又)gung1	5%
 紅	gung1	5%
@@ -4078,25 +4112,25 @@
 躬	gung1	
 釭	(又)gung1	10%
 龔	gung1	
+魟	gung1	5%
 篢	gung1	
-㧬	gung2	
 鞏	gung2	
 拱	gung2	
 栱	gung2	
 珙	gung2	
 供	gung3	
 嗊	gung3	
-愩	gung3	
 汞	gung3	
 貢	gung3	
 𫋐	gung3	
-碽	(語)gung4	10%
+跫	(語)gung4	10%
 共	gung6	
 嗗	gut6	
 呱	gwaa1	
 歄	gwaa1	
 瓜	gwaa1	
 胍	gwaa1	
+緺	gwaa1	
 剮	gwaa2	
 寡	gwaa2	
 卦	gwaa3	
@@ -4104,10 +4138,10 @@
 坬	gwaa3	
 挂	gwaa3	
 掛	gwaa3	
+罣	gwaa3	
 褂	gwaa3	
 詿	gwaa3	
 呱	(語)gwaa4	10%
-㔞	gwaai1	
 乖	gwaai1	
 拐	gwaai2	
 枴	gwaai2	
@@ -4119,7 +4153,9 @@
 摑	gwaak3	
 關	(文)gwaan1	
 瘝	gwaan1	
+矜	(古)gwaan1	
 綸	gwaan1	5%
+莞	(又)gwaan1	10%
 鰥	gwaan1	
 慣	(文)gwaan3	
 摜	gwaan3	
@@ -4128,6 +4164,7 @@
 梗	(白)gwaang2	20%
 俇	gwaang6	
 逛	(白)gwaang6	
+䒷	gwaat3	
 刮	(文)gwaat3	
 颳	(文)gwaat3	
 括	gwaat3	
@@ -4223,7 +4260,8 @@
 轟	(文)gwang1	
 輷	gwang1	
 訇	(語)gwang4	10%
-輷	(語)gwang6	10%
+旺	(白)gwang6	20%
+暀	(白)gwang6	20%
 䓛	(又)gwat1	10%
 榾	gwat1	
 橘	(書)gwat1	10%
@@ -4238,20 +4276,21 @@
 崛	gwat6	
 掘	gwat6	
 𡲬	gwat6	
-呱	(語)gwe1	10%
+呱	(白)gwe1	20%
 呱	(語)gwe4	10%
 關	(白)gwen1	
 慣	(白)gwen3	
 刮	(語)gwet1	5%
 刮	(白)gwet3	
 颳	(白)gwet3	
-括	(白)gwet3	20%
+括	(白)gwet3	5%
 擖	(訓)gwet3	90%
 鶪	gwik1	
 洫	gwik1	
 湨	gwik1	
 綌	gwik1	
 虢	gwik1	
+虩	gwik1	
 闃	gwik1	
 馘	gwik1	
 坰	gwing1	
@@ -4280,13 +4319,13 @@
 妓	(語)gyu2	5%
 弆	gyu2	
 柜	gyu2	
+椇	gyu2	
 櫸	gyu2	
 榘	gyu2	
 矩	gyu2	
 筥	gyu2	
 莒	gyu2	
 蒟	gyu2	
-襷	gyu2	
 踽	gyu2	
 齲	gyu2	
 倨	gyu3	
@@ -4299,7 +4338,6 @@
 鋸	gyu3	
 俱	gyu6	
 具	gyu6	
-姖	gyu6	
 岠	gyu6	
 巨	gyu6	
 懼	gyu6	
@@ -4310,6 +4348,7 @@
 犋	gyu6	
 秬	gyu6	
 窶	gyu6	
+粔	gyu6	
 苣	gyu6	
 詎	gyu6	
 距	(又)gyu6	10%
@@ -4346,7 +4385,6 @@
 瘕	haa1	
 蝦	haa1	
 鉿	haa1	
-閕	haa1	
 閜	haa1	
 𨉣	haa1	
 下	(白)haa2	5%
@@ -4365,14 +4403,12 @@
 廈	haa6	
 夏	haa6	
 暇	haa6	
-雫	haa6	
 咳	haai1	
 嗨	haai1	
 揩	haai1	
-偕	haai4	
+偕	(又)haai4	10%
 嚡	haai4	
 孩	haai4	
-磑	(白)haai4	20%
 諧	haai4	
 鞋	haai4	
 骸	haai4	
@@ -4397,6 +4433,7 @@
 喀	haak3	
 客	haak3	
 揢	haak3	
+諕	haak3	
 赫	haak3	
 垎	haak6	
 憨	haam1	
@@ -4406,6 +4443,7 @@
 喊	(文)haam3	
 闞	haam3	
 函	haam4	
+咁	haam4	
 咸	haam4	
 鹹	(文)haam4	
 啣	haam4	
@@ -4417,13 +4455,11 @@
 㽉	haam6	
 憾	haam6	
 撼	haam6	
-臽	haam6	
 陷	haam6	
 餡	(文)haam6	
 慳	haan1	
 掔	haan1	
 羥	haan1	
-臤	haan1	
 嫺	haan4	
 嫻	haan4	
 癇	haan4	
@@ -4459,13 +4495,14 @@
 篋	haap6	
 翈	haap6	
 陜	haap6	
+𫈰	haap6	
 瞎	haat3	
 哮	haau1	
 嘐	haau1	
 嚆	haau1	
 尻	haau1	
 敲	(文)haau1	
-毃	haau1	
+毃	(文)haau1	
 烤	haau1	
 猇	haau1	
 磽	haau1	
@@ -4482,6 +4519,7 @@
 洘	haau2	
 攷	haau2	
 考	haau2	
+𥬯	haau2	
 孝	haau3	
 校	(又)haau3	10%
 涍	haau3	
@@ -4495,6 +4533,7 @@
 校	haau6	
 滧	haau6	
 㞓	hai1	
+谿	hai1	
 閪	hai1	
 喺	hai2	
 傒	(文)hai4	
@@ -4502,6 +4541,7 @@
 奚	(文)hai4	
 嵇	(文)hai4	
 徯	(文)hai4	
+豀	(文)hai4	
 蹊	(文)hai4	
 郋	hai4	
 鼷	(文)hai4	
@@ -4513,7 +4553,7 @@
 克	(文)hak1	
 剋	(文)hak1	
 刻	(文)hak1	
-可	hak1	5%
+可	(古)hak1	5%
 氪	(文)hak1	
 赫	(又)hak1	5%
 黑	hak1	
@@ -4541,9 +4581,9 @@
 欿	ham2	
 砍	ham2	
 莰	ham2	
-顑	ham2	
 𧾏	ham2	
 轗	ham2	
+顑	ham2	
 勘	ham3	
 墈	ham3	
 崁	ham3	
@@ -4580,6 +4620,7 @@
 啈	hang1	
 摼	hang1	
 硜	hang1	
+脝	hang1	
 鏗	(文)hang1	
 鳽	hang1	
 啃	(文)hang2	
@@ -4589,26 +4630,26 @@
 恒	hang4	
 桁	hang4	
 珩	hang4	
-緪	(語)hang4	10%
 蘅	hang4	
 行	hang4	
 衡	hang4	
 鴴	hang4	
+緪	(語)hang4	10%
+倖	hang6	
 堼	hang6	
 婞	hang6	
-倖	hang6	
 幸	hang6	
 悻	hang6	
 杏	hang6	
 荇	hang6	
 莕	hang6	
-㝓	hap1	
 䆟	hap1	
 匼	hap1	
 瞌	(白)hap1	
 磕	(白)hap1	
 𧬈	hap1	
 恰	(又)hap3	10%
+洽	(又)hap3	10%
 合	hap6	
 嗑	hap6	
 峇	hap6	
@@ -4623,27 +4664,27 @@
 耠	hap6	
 郃	hap6	
 鉿	hap6	
-閤	hap6	
 闔	hap6	
 頜	hap6	
 餄	hap6	
 𬌗	hap6	
 乞	hat1	
+仡	hat1	
 吃	(又)hat1	10%
 喫	(又)hat1	5%
 嗐	(白)hat1	5%
 屹	(又)hat1	5%
 忔	hat1	
-汔	(又)hat1	5%
-訖	(又)hat1	5%
-迄	(又)hat1	5%
+汔	hat1	
+訖	hat1	
+迄	hat1	
 劾	hat6	
 嗐	hat6	
+搳	hat6	
 核	hat6	
 覈	hat6	
 檄	hat6	
 礉	hat6	
-籺	hat6	
 紇	hat6	
 翮	hat6	
 葜	hat6	
@@ -4673,6 +4714,7 @@
 后	hau6	
 後	hau6	
 堠	hau6	
+茩	hau6	
 逅	hau6	
 郈	hau6	
 鱟	hau6	
@@ -4682,7 +4724,8 @@
 氣	(白)he3	20%
 嘻	(又)he4	10%
 吃	hek3	
-喫	(文)hek3	
+喫	hek3	
+餡	(罕)hem2	5%
 㘚	(白)hem3	
 喊	(白)hem3	
 鹹	(白)hem4	
@@ -4697,6 +4740,7 @@
 勩	(訓)het6	90%
 敲	(白)heu1	
 橇	(文)heu1	
+毃	(白)heu1	
 繑	(文)heu1	
 翹	(文)heu1	
 蹺	(文)heu1	
@@ -4740,6 +4784,7 @@
 譆	hi1	
 鱚	hi1	
 喜	hi2	
+囍	hi2	
 屺	hi2	
 豈	hi2	
 憙	hi2	
@@ -4756,6 +4801,7 @@
 屓	hi3	
 屭	hi3	
 棄	hi3	
+愒	hi3	
 憩	hi3	
 戲	hi3	
 摡	hi3	
@@ -4770,9 +4816,9 @@
 忺	him1	
 杴	him1	
 磏	him1	
+薟	him1	
 謙	him1	
 鍁	him1	
-𣔙	him1	
 嶮	him2	
 獫	him2	
 肷	him2	
@@ -4789,12 +4835,10 @@
 掔	(又)hin1	10%
 搴	hin1	
 攐	hin1	
-攑	hin1	
 汧	hin1	
 牽	hin1	
 祆	hin1	
 縴	hin1	
-臤	(又)hin1	10%
 褰	hin1	
 諐	hin1	
 軒	hin1	
@@ -4802,14 +4846,12 @@
 鶱	hin1	
 㬎	hin2	
 䘆	hin2	
-䭤	hin2	
 顯	hin2	
 櫶	hin2	
 繾	hin2	
 蜆	(文)hin2	
 譴	hin2	
 遣	hin2	
-𩝡	hin2	
 憲	hin3	
 獻	hin3	
 兄	hing1	
@@ -4828,7 +4870,6 @@
 罄	hing3	
 謦	hing3	
 詗	(又)hing3	10%
-䁋	hip3	
 勰	hip3	
 協	hip3	
 叶	hip3	
@@ -4836,14 +4877,13 @@
 愜	hip3	
 慊	hip3	
 挾	hip3	
-搚	(又)hip3	10%
 脅	hip3	
-脇	hip3	
 挈	(又)hit3	10%
 歇	hit3	
 蝎	(文)hit3	
 蠍	(文)hit3	
 僥	hiu1	
+儌	hiu1	
 嘵	hiu1	
 囂	hiu1	
 徼	hiu1	
@@ -4860,9 +4900,10 @@
 嚄	ho1	
 嚯	ho1	
 坷	ho1	
-抲	ho1	
 訶	ho1	
+𪽇	ho1	
 可	ho2	
+呵	(語)ho2	5%
 哿	(又)ho2	10%
 坷	ho2	
 岢	ho2	
@@ -4881,12 +4922,12 @@
 㗾	hoe1	
 吙	(又)hoe1	5%
 靴	hoe1	
-㗾	hoe2	
 㗾	hoe4	
 嗬	(又)hoe4	10%
 鄉	hoeng1	
 薌	hoeng1	
 香	hoeng1	
+䖮	hoeng2	
 享	hoeng2	
 亯	hoeng2	
 響	hoeng2	
@@ -4931,6 +4972,7 @@
 翯	hok6	
 貉	hok6	
 隺	hok6	
+鷽	hok6	
 鶴	hok6	
 看	hon1	5%
 頇	hon1	
@@ -4947,7 +4989,7 @@
 衎	hon3	
 寒	hon4	
 榦	hon4	
-汗	hon4	5%
+汗	(古)hon4	5%
 犴	hon4	
 虷	hon4	
 豻	hon4	
@@ -4976,6 +5018,7 @@
 㝩	hong1	
 康	hong1	
 慷	(文)hong1	
+槺	hong1	
 漮	hong1	
 砊	hong1	
 穅	hong1	
@@ -4988,8 +5031,10 @@
 穅	(白)hong2	5%
 糠	(白)hong2	5%
 衖	hong2	
+酐	hong2	
 項	(白)hong2	5%
 炕	hong3	
+䘕	hong4	
 吭	hong4	
 杭	hong4	
 桁	hong4	
@@ -4999,30 +5044,28 @@
 肮	hong4	
 航	hong4	
 行	hong4	
+迒	hong4	
 降	hong4	5%
 頏	hong4	
-酐	hong5	
 巷	(文)hong6	
 桁	hong6	
 笐	hong6	
+行	hong6	5%
 項	hong6	
-𣚺	hong6	
 喝	hot3	
+愒	hot3	
 曷	hot3	
 渴	hot3	
 蝎	hot3	
 褐	hot3	
 鞨	hot3	
-餲	hot3	
 鶡	hot3	
-𦤦	hot3	
-呼	(語)hu1	10%
+餲	hot3	
 茠	(文)hu1	
 蒿	hu1	
 薅	(文)hu1	
 好	hu2	
 呵	(語)hu3	10%
-呼	(白)hu3	20%
 好	hu3	
 秏	hu3	
 耗	hu3	
@@ -5055,7 +5098,6 @@
 觳	huk6	
 酷	huk6	
 鵠	huk6	
-𤌍	huk6	
 倥	hung1	
 兇	hung1	
 凶	hung1	
@@ -5079,7 +5121,6 @@
 嗊	hung2	
 孔	hung2	
 恐	hung2	
-愩	hung2	
 嗅	(又)hung3	10%
 控	hung3	
 烘	(又)hung3	10%
@@ -5108,12 +5149,13 @@
 雄	hung4	
 鴻	hung4	
 黌	hung4	
+魟	hung4	
 鉷	hung4	
 鋐	hung4	
 哄	hung6	
 鬨	hung6	
-澒	hung6	
 蕻	hung6	
+澒	hung6	
 吁	hyu1	
 噓	hyu1	
 圩	hyu1	
@@ -5126,6 +5168,7 @@
 冔	hyu2	
 咻	hyu2	
 喣	hyu2	
+姁	hyu2	
 栩	hyu2	
 珝	hyu2	
 許	hyu2	
@@ -5144,7 +5187,7 @@
 晅	hyun1	
 暄	hyun1	
 棬	hyun1	
-烜	hyun1	
+烜	(又)hyun1	5%
 煊	hyun1	
 煖	hyun1	
 禤	hyun1	
@@ -5160,7 +5203,7 @@
 䘆	(語)hyun2	10%
 咺	hyun2	
 暅	hyun2	
-烜	(又)hyun2	5%
+烜	hyun2	
 犬	hyun2	
 甽	hyun2	
 畎	hyun2	
@@ -5177,19 +5220,19 @@
 肊	(白)ik1	20%
 丫	(又)jaa1	10%
 吔	jaa1	
-吖	(又)jaa1	10%
-呀	(又)jaa1	10%
+吖	jaa1	
+呀	jaa1	
+啞	jaa1	
 喳	(白)jaa1	20%
-抓	(白)jaa1	20%
+抓	(訓)jaa1	90%
 抯	(白)jaa1	20%
 揸	(白)jaa1	20%
 摣	(白)jaa1	20%
 渣	(白)jaa1	20%
 鴉	(又)jaa1	10%
 𠭯	(白)jaa1	20%
-吔	(外)jaa2	
+吔	(外)jaa2	5%
 人	(語)jaa4	10%
-吔	(又)jaa4	10%
 呀	(又)jaa4	10%
 喳	(語)jaa4	10%
 也	jaa5	
@@ -5199,29 +5242,31 @@
 踹	(白)jaai2	20%
 嘬	(白)jaai3	20%
 人	(語)jaai4	10%
+胹	(白)jaai4	20%
 吔	(又)jaak1	10%
 吃	(白)jaak3	20%
-喫	(白)jaak3	
+喫	(訓)jaak3	90%
 咋	(白)jaak3	20%
 嘖	(語)jaak3	10%
-滲	(語)jaam3	10%
-蘸	(白)jaam3	20%
+滲	(白)jaam3	20%
 撐	(白)jaang3	20%
-悒	(語)jaap1	10%
+悒	(訓)jaap1	90%
+抸	(白)jaap3	20%
 熠	(白)jaap3	20%
 眨	(白)jaap3	20%
 𥀈	(白)jaap3	20%
 熠	(白)jaap6	20%
+軋	(語)jaat3	10%
 㕭	jaau1	
 抓	(白)jaau1	20%
 爪	(白)jaau2	20%
 鷂	(又)jaau4	10%
 棹	(白)jaau6	20%
 櫂	(白)jaau6	20%
-差	(語)jai4	10%
 𠯋	jai4	
 跇	(白)jai5	20%
 跩	(白)jai5	20%
+㹭	jai6	
 勩	(又)jai6	10%
 抴	jai6	
 拽	jai6	
@@ -5241,12 +5286,11 @@
 音	jam1	
 飲	jam2	
 喑	jam3	
-滲	(語)jam3	10%
+滲	(白)jam3	20%
 窨	jam3	
 廕	jam3	
 蔭	jam3	
-蘸	(白)jam3	20%
-飲	jam3	5%
+飲	(古)jam3	5%
 任	jam4	5%
 冘	jam4	
 吟	jam4	
@@ -5255,10 +5299,8 @@
 檐	(白)jam4	20%
 簷	(白)jam4	20%
 淫	jam4	
-烎	jam4	
 霪	jam4	
 荏	jam5	
-趛	jam5	
 任	jam6	
 妊	jam6	
 恁	jam6	
@@ -5301,6 +5343,7 @@
 潤	(白)jan2	5%
 膶	jan2	
 隱	jan2	
+䌥	jan2	
 櫽	jan2	
 鮣	jan3	
 印	jan3	
@@ -5328,7 +5371,6 @@
 仞	jan6	
 刃	jan6	
 孕	jan6	
-憖	(又)jan6	10%
 潤	jan6	
 紉	jan6	
 肕	jan6	
@@ -5339,6 +5381,7 @@
 韌	jan6	
 盈	(白)jang1	5%
 韌	(語)jang3	10%
+鬇	(白)jang3	20%
 㬤	jap1	
 唈	jap1	
 悒	jap1	
@@ -5348,6 +5391,7 @@
 泣	jap1	
 浥	jap1	
 湆	jap1	
+潝	jap1	
 熠	jap1	
 眨	(白)jap1	5%
 翕	jap1	
@@ -5355,11 +5399,9 @@
 邑	jap1	
 入	jap6	
 擛	(白)jap6	20%
-込	jap6	
 一	jat1	
 壹	jat1	
 弌	jat1	
-辷	jat1	
 佚	jat6	
 佾	jat6	
 日	jat6	
@@ -5374,10 +5416,10 @@
 休	jau1	
 优	jau1	
 優	jau1	
-凪	(又)jau1	5%
 呦	jau1	
 咻	jau1	
 嚘	jau1	
+坵	jau1	
 幽	jau1	
 庥	jau1	
 憂	jau1	
@@ -5396,13 +5438,14 @@
 柚	(白)jau2	
 蚴	jau2	
 釉	(白)jau2	5%
-鈾	(白)jau2	5%
 黝	jau2	
 幼	jau3	
 珛	jau3	
 皺	(白)jau3	20%
+縐	(白)jau3	20%
 蚴	jau3	
 誘	jau3	
+㘥	jau4	
 冘	jau4	
 囮	(又)jau4	10%
 尢	jau4	
@@ -5411,6 +5454,7 @@
 揉	jau4	
 攸	jau4	
 柔	jau4	
+柚	jau4	
 油	jau4	
 浟	jau4	
 游	jau4	
@@ -5431,11 +5475,11 @@
 郵	jau4	
 鈾	jau4	
 鞣	jau4	
+鯈	jau4	
 魷	jau4	
 鮋	jau4	
 輮	jau4	
 輶	jau4	
-㞢	jau5	
 卣	jau5	
 友	jau5	
 戭	jau5	
@@ -5474,7 +5518,7 @@
 惹	je5	
 若	je5	5%
 野	je5	
-偌	je6	
+偌	je6	5%
 夜	je6	
 射	je6	5%
 膱	(白)jek3	20%
@@ -5497,8 +5541,8 @@
 咿	ji1	
 噫	ji1	
 姨	(白)ji1	5%
+嫛	ji1	
 欹	ji1	
-毉	ji1	
 洢	ji1	
 漪	ji1	
 猗	ji1	
@@ -5506,19 +5550,19 @@
 繄	ji1	
 蛜	ji1	
 衣	ji1	
-譩	ji1	
 銥	ji1	
+餏	ji1	
 黟	ji1	
+𣐿	ji1	
 倚	ji2	
 咦	(又)ji2	5%
-婍	ji2	
 扆	ji2	
-掎	(又)ji2	10%
 旖	ji2	
 椅	ji2	
 犄	ji2	
 綺	ji2	
 踦	ji2	
+錡	ji2	
 齮	ji2	
 意	ji3	
 懿	ji3	
@@ -5526,7 +5570,7 @@
 瘞	ji3	
 癔	ji3	
 薏	ji3	
-衣	ji3	5%
+衣	(古)ji3	5%
 議	(又)ji3	10%
 鐿	ji3	
 饐	ji3	
@@ -5545,11 +5589,14 @@
 嶷	(又)ji4	10%
 异	ji4	
 彝	ji4	
+彞	ji4	
 怡	ji4	
 扅	ji4	
 杝	ji4	
+栘	ji4	
 椸	ji4	
 沂	ji4	
+洏	ji4	
 疑	(又)ji4	10%
 痍	ji4	
 眙	ji4	
@@ -5571,6 +5618,7 @@
 貽	ji4	
 迆	ji4	
 迤	ji4	
+迻	ji4	
 遺	(又)ji4	10%
 酏	ji4	
 鉹	(又)ji4	10%
@@ -5579,9 +5627,9 @@
 飴	ji4	
 鮞	ji4	
 鴯	ji4	
+𧦧	ji4	
 以	ji5	
 佁	ji5	
-尔	ji5	
 爾	ji5	
 已	ji5	
 洱	ji5	
@@ -5589,6 +5637,7 @@
 矣	ji5	
 耳	ji5	
 苡	ji5	
+苢	ji5	
 議	ji5	
 迆	ji5	
 迤	ji5	
@@ -5600,7 +5649,6 @@
 義	ji6	
 二	ji6	
 儀	(常)ji6	
-伿	ji6	
 佴	ji6	
 劓	ji6	
 勩	ji6	
@@ -5643,7 +5691,7 @@
 熤	jik6	
 燚	jik6	
 疫	jik6	
-睪	jik6	
+睪	jik6	5%
 繹	jik6	
 翊	jik6	
 翌	jik6	
@@ -5658,8 +5706,8 @@
 崦	jim1	
 懨	jim1	
 淹	jim1	
-腌	(書)jim1	10%
-醃	(書)jim1	10%
+腌	(文)jim1	
+醃	(文)jim1	5%
 閹	jim1	
 㜝	jim2	
 龑	jim2	
@@ -5688,7 +5736,7 @@
 炎	jim4	
 鹽	jim4	
 芫	(習)jim4	
-蚺	(又)jim4	10%
+蚺	(書)jim4	10%
 閆	jim4	
 閻	jim4	
 阽	(又)jim4	10%
@@ -5717,14 +5765,12 @@
 嫣	jin1	
 殷	jin1	5%
 湮	(又)jin1	10%
-漹	jin1	
 煙	jin1	
 菸	jin1	
 焉	jin1	
 燕	jin1	5%
 胭	jin1	
 臙	jin1	
-蔫	(語)jin1	10%
 鄢	jin1	
 閼	jin1	
 巘	(白)jin1	5%
@@ -5742,19 +5788,18 @@
 鶠	jin2	
 咽	jin3	
 嚥	jin3	
+唁	(常)jin3	
 堰	jin3	
 墕	jin3	
 嬿	jin3	
 宴	jin3	
-彥	(又)jin3	10%
+彥	(常)jin3	
 灩	(又)jin3	10%
 燕	jin3	
 艷	(常)jin3	
 豔	(常)jin3	
-諺	(又)jin3	10%
-鷰	jin3	
-㘋	jin4	
-㳄	jin4	
+諺	(常)jin3	
+䓂	jin4	
 伭	jin4	
 埏	jin4	
 妍	jin4	
@@ -5763,6 +5808,7 @@
 絃	jin4	
 揅	jin4	
 涎	jin4	
+漹	jin4	
 焉	jin4	
 然	jin4	
 燃	jin4	
@@ -5770,7 +5816,6 @@
 痃	jin4	
 研	jin4	
 筵	jin4	
-臤	jin4	
 舷	jin4	
 蜒	jin4	
 言	jin4	
@@ -5794,9 +5839,9 @@
 諺	jin6	
 讞	jin6	
 齞	jin6	
-𪗛	jin6	
 齴	jin6	
 晛	jin6	
+粯	jin6	
 嚶	jing1	
 嬰	jing1	
 媖	jing1	
@@ -5810,12 +5855,12 @@
 膺	jing1	
 英	jing1	
 鶯	(又)jing1	10%
-蘡	jing1	
 蠅	(白)jing1	
 鍈	(又)jing1	10%
 鸚	jing1	
 鷹	jing1	
 鉠	(又)jing1	10%
+蘡	jing1	
 影	jing2	
 映	jing2	
 癭	jing2	
@@ -5828,6 +5873,7 @@
 嬴	jing4	
 形	jing4	
 扔	jing4	
+攍	jing4	
 楹	jing4	
 濚	jing4	
 瀅	jing4	
@@ -5835,6 +5881,7 @@
 瀛	jing4	
 盈	jing4	
 硎	jing4	
+籯	jing4	
 艿	jing4	
 塋	jing4	
 滎	jing4	
@@ -5857,8 +5904,8 @@
 認	jing6	
 迎	(語)jing6	10%
 擪	(文)jip3	
-腌	(習)jip3	
-醃	(習)jip3	
+腌	(白)jip3	
+醃	(白)jip3	
 靨	jip3	
 擫	(文)jip3	
 葉	jip6	
@@ -5898,8 +5945,9 @@
 窅	jiu2	
 窈	(又)jiu2	5%
 繞	jiu2	
+遶	jiu2	
 要	jiu3	
-僥	jiu4	5%
+僥	(古)jiu4	5%
 垚	jiu4	
 姚	jiu4	
 嬈	jiu4	
@@ -5934,11 +5982,11 @@
 喲	jo1	
 唷	jo1	
 喲	(語)jo2	5%
-唷	(語)jo2	5%
+喲	(語)jo4	10%
 約	joek3	
 葯	joek3	
 躍	joek3	
-叒	joek6	
+偌	joek6	
 婼	joek6	
 弱	joek6	
 櫟	joek6	
@@ -5974,6 +6022,7 @@
 䉴	joeng4	
 佯	joeng4	
 儴	joeng4	
+勷	joeng4	
 垟	joeng4	
 徉	joeng4	
 揚	joeng4	
@@ -5995,11 +6044,13 @@
 陽	joeng4	
 颺	joeng4	
 鬤	joeng4	
+𧟄	joeng4	
 䑋	joeng5	
 仰	joeng5	
 養	joeng5	
 卬	joeng5	
 氧	joeng5	
+瀁	joeng5	
 痒	joeng5	
 癢	joeng5	
 蛘	joeng5	
@@ -6016,15 +6067,18 @@
 釀	joeng6	
 黦	(語)jot1	5%
 唷	(語)ju2	5%
+唷	(語)ju4	10%
+唷	(語)ju6	10%
 椎	(白)jui1	20%
 錐	(白)jui1	20%
 嘴	(白)jui2	20%
-緌	jui4	
 蕤	jui4	
+緌	jui4	
 蕊	jui5	
 蘂	jui5	
 銳	(又)jui5	10%
 鋭	(又)jui5	10%
+叡	jui6	
 枘	jui6	
 汭	jui6	
 睿	jui6	
@@ -6060,16 +6114,17 @@
 溽	juk6	
 獄	juk6	
 玉	juk6	
-硲	juk6	
 縟	juk6	
 肉	juk6	
 蓐	juk6	
 褥	juk6	
-谷	juk6	5%
+谷	(古)juk6	5%
 辱	juk6	
 鈺	juk6	
 鬻	juk6	
 鵒	juk6	
+灉	jung1	
+䩺	jung1	
 嗈	jung1	
 嗡	jung1	
 噰	jung1	
@@ -6091,8 +6146,8 @@
 鎓	jung1	
 佣	(白)jung2	
 俑	jung2	
-冗	(又)jung2	5%
-宂	(又)jung2	5%
+冗	jung2	
+宂	jung2	
 埇	jung2	
 恿	jung2	
 擁	jung2	
@@ -6102,7 +6157,6 @@
 滃	jung2	
 甬	jung2	
 絨	(白)jung2	5%
-羢	(白)jung2	5%
 蓊	jung2	
 蛹	jung2	
 踊	jung2	
@@ -6110,8 +6164,8 @@
 鯒	jung2	
 𣭲	(又)jung2	5%
 傭	jung4	
-冗	jung4	
-宂	jung4	
+冗	(又)jung4	10%
+宂	(又)jung4	10%
 喁	jung4	
 墉	jung4	
 容	jung4	
@@ -6128,7 +6182,6 @@
 狨	jung4	
 瑢	jung4	
 絨	jung4	
-羢	jung4	
 肜	jung4	
 茸	jung4	
 榮	jung4	
@@ -6159,8 +6212,10 @@
 瘀	jyu2	
 燠	jyu3	
 飫	jyu3	
+与	jyu4	
 予	jyu4	5%
-于	jyu4	5%
+于	(古)jyu4	5%
+伃	jyu4	
 余	jyu4	
 餘	jyu4	
 俞	jyu4	
@@ -6184,7 +6239,7 @@
 榆	jyu4	
 歟	jyu4	
 歈	jyu4	
-毹	jyu4	
+毹	(又)jyu4	10%
 漁	jyu4	
 渝	jyu4	
 濡	jyu4	
@@ -6232,7 +6287,7 @@
 圄	jyu5	
 圉	jyu5	
 宇	jyu5	
-嶼	(常)jyu5	
+嶼	(又)jyu5	10%
 峿	jyu5	
 庾	jyu5	
 擩	jyu5	
@@ -6271,32 +6326,30 @@
 遇	jyu6	
 預	jyu6	
 馭	jyu6	
+㠾	jyun1	
 㾓	jyun1	
 冤	jyun1	
 宛	jyun1	5%
 涴	jyun1	
 淵	jyun1	
-渕	jyun1	
 眢	jyun1	
 箢	jyun1	
 葾	jyun1	
 蜎	jyun1	
-蜿	jyun1	
-身	jyun1	5%
+身	(古)jyun1	5%
 鳶	jyun1	
 鴛	jyun1	
 鵷	jyun1	
-䩩	jyun2	
 縣	(白)jyun2	5%
-夗	jyun2	
 願	(白)jyun2	5%
-潤	(白)jyun2	5%
+潤	(老派)jyun2	5%
 涴	jyun2	
 琬	jyun2	
 畹	jyun2	
 膶	(老派)jyun2	10%
 苑	jyun2	
 菀	jyun2	
+衏	jyun2	
 院	jyun2	
 怨	jyun3	
 惌	jyun3	
@@ -6320,6 +6373,7 @@
 杬	jyun4	
 椽	(又)jyun4	10%
 櫞	jyun4	
+汍	jyun4	
 沅	jyun4	
 沿	jyun4	
 湲	jyun4	
@@ -6373,12 +6427,11 @@
 衒	jyun6	
 閏	(老派)jyun6	10%
 乙	jyut3	
+噦	jyut3	
 釔	jyut3	
 黦	jyut3	
 刖	jyut6	
-噦	jyut6	
 悅	jyut6	
-悦	jyut6	
 抈	jyut6	
 曰	jyut6	
 月	jyut6	
@@ -6390,12 +6443,11 @@
 粵	jyut6	
 茓	jyut6	
 說	jyut6	5%
-説	jyut6	5%
 越	jyut6	
 鈅	jyut6	
 鉞	jyut6	
 閱	jyut6	
-閲	jyut6	
+𡛟	jyut6	
 軏	jyut6	
 佧	kaa1	
 卡	kaa1	
@@ -6403,11 +6455,9 @@
 咖	kaa1	
 喀	kaa1	
 家	(又)kaa1	10%
-峠	kaa1	
-抲	kaa1	
 拤	kaa1	
 揢	kaa1	
-旮	(語)kaa1	5%
+旮	(又)kaa1	10%
 胩	kaa1	
 㰤	kaa3	
 假	(白)kaa3	
@@ -6446,9 +6496,11 @@
 磎	kai1	
 稽	kai1	
 谿	kai1	
+豀	(白)kai1	
 蹊	(白)kai1	
 鼷	(白)kai1	
 騱	(白)kai1	
+䏿	kai2	
 啓	kai2	
 啟	kai2	
 呇	kai2	
@@ -6456,7 +6508,7 @@
 稽	kai2	
 綮	kai2	
 契	kai3	
-瘛	(又)kai3	10%
+瘈	kai3	
 碶	kai3	
 蟿	kai3	
 克	(白)kak1	
@@ -6480,7 +6532,6 @@
 檎	kam4	
 涔	(又)kam4	10%
 琴	kam4	
-琹	kam4	
 禽	kam4	
 芩	kam4	
 蠄	kam4	
@@ -6490,6 +6541,7 @@
 廑	kan4	
 慬	kan4	
 懃	kan4	
+矜	(古)kan4	
 芹	kan4	
 䐃	(白)kan5	20%
 肫	(語)kan5	10%
@@ -6498,13 +6550,12 @@
 鏗	(白)kang1	
 哽	(白)kang2	20%
 啃	(白)kang2	
-骾	(白)kang2	
-鯁	(白)kang2	
+骾	(白)kang2	20%
+鯁	(白)kang2	20%
 掯	kang3	
 炕	(白)kang3	20%
 砊	(白)kang3	20%
 裉	kang3	
-㝓	(白)kap1	20%
 㴔	kap1	
 䆟	(白)kap1	20%
 伋	kap1	
@@ -6521,7 +6572,6 @@
 欬	kat1	
 勼	(語)kau1	10%
 摳	kau1	
-牞	(又)kau1	10%
 瞘	kau1	
 芤	kau1	
 彄	kau1	
@@ -6530,8 +6580,10 @@
 叩	kau3	
 媾	(白)kau3	
 寇	kau3	
+怐	kau3	
 扣	kau3	
 釦	kau3	
+搆	(白)kau3	
 构	(白)kau3	
 構	(白)kau3	
 灸	(白)kau3	
@@ -6539,10 +6591,12 @@
 蔻	kau3	
 覯	(白)kau3	
 購	(白)kau3	
+鷇	kau3	
 㞗	kau4	
 仇	kau4	5%
 俅	kau4	
 巰	kau4	
+毬	kau4	
 求	kau4	
 犰	kau4	
 球	kau4	
@@ -6558,6 +6612,7 @@
 鼽	kau4	
 銶	kau4	
 釚	kau4	
+䊆	kau5	
 桕	kau5	
 臼	kau5	
 舅	kau5	
@@ -6573,19 +6628,18 @@
 騎	ke4	
 喀	(語)kek1	10%
 屐	(白)kek1	
-乪	kek6	
 劇	kek6	
 屐	(文)kek6	
 箝	(白)kem4	
 鉗	(白)kem4	
 芡	(白)kem5	20%
 魽	(白)kem5	
-掐	(語)ken2	5%
+掐	(訓)ken2	5%
 攥	(語)ken2	5%
 躿	(語)keng2	5%
 擎	(白)keng4	20%
 咳	(白)ket1	20%
-橛	(語)ket1	5%
+橛	(白)ket1	5%
 橇	(白)keu1	
 繑	(白)keu1	
 翹	(白)keu1	
@@ -6598,13 +6652,12 @@
 唭	(語)ki1	5%
 崎	ki1	
 攲	ki1	
-榿	(又)ki1	10%
 欹	ki1	
 畸	ki1	
 觭	ki1	
 踦	ki1	
 企	(語)ki2	5%
-婍	(又)ki2	10%
+婍	ki2	
 亟	ki3	
 唭	ki3	
 䓫	ki4	
@@ -6650,12 +6703,14 @@
 鯕	ki4	
 鰭	ki4	
 麒	ki4	
+𤪌	ki4	
 𨙸	ki4	
 軝	ki4	
 隑	ki4	
 企	ki5	
 徛	ki5	
 跂	ki5	
+棘	(又)kik1	10%
 隙	(常)kik1	
 𠽤	kik1	
 扲	kim4	
@@ -6689,6 +6744,7 @@
 璚	king4	
 瞏	king4	
 煢	king4	
+藑	king4	
 鯨	king4	
 黥	king4	
 劫	(罕)kip3	5%
@@ -6712,9 +6768,9 @@
 鍥	kit3	
 頡	kit3	
 黠	(又)kit3	10%
-𢷒	kit3	
 巧	(白)kiu2	
 蹺	kiu2	5%
+巧	(語)kiu3	10%
 竅	kiu3	
 喬	kiu4	
 僑	kiu4	
@@ -6733,24 +6789,24 @@
 樖	ko1	
 牁	ko1	
 珂	ko1	
+砢	ko1	
 稞	ko1	
 苛	ko1	
 蝌	(白)ko1	5%
 軻	ko1	
+鈳	ko1	
 坷	(又)ko2	10%
 顆	ko2	
 課	(白)ko3	5%
 騍	(白)ko3	
 閜	(語)ko4	10%
 卻	koek3	
-噱	koek3	
-臄	koek3	
 覺	(常)koek3	
-醵	(又)koek3	10%
+噱	koek6	
+臄	koek6	
 僵	(白)koeng1	
 殭	(白)koeng1	
 彊	(白)koeng1	
-畺	(白)koeng1	
 疆	(白)koeng1	
 繮	(白)koeng1	
 韁	(白)koeng1	
@@ -6763,6 +6819,7 @@
 強	koeng4	
 彊	koeng4	
 蔃	koeng4	
+勥	koeng5	
 弶	koeng5	
 強	koeng5	
 彊	koeng5	
@@ -6777,9 +6834,10 @@
 愷	(白)koi2	
 鎧	(白)koi2	
 闓	(白)koi2	
-丐	koi3	
+丐	(白)koi3	
 嘅	koi3	
 愾	koi3	
+愒	koi3	
 慨	koi3	
 戤	koi3	
 摡	koi3	
@@ -6789,13 +6847,13 @@
 噱	(語)kok1	5%
 㸌	kok3	
 㺢	kok3	
+钁	kok3	
 劐	kok3	
 埆	kok3	
 壑	kok3	
 崞	kok3	
 廓	kok3	
 彉	kok3	
-彍	kok3	
 恪	kok3	
 愨	kok3	
 擴	(又)kok3	10%
@@ -6806,7 +6864,6 @@
 曤	kok3	
 槨	kok3	
 榷	kok3	
-毃	(又)kok3	10%
 涸	kok3	
 漷	kok3	
 玃	kok3	
@@ -6816,16 +6873,17 @@
 确	kok3	
 確	kok3	
 碻	kok3	
-磕	(語)kok3	10%
 臛	kok3	
 藿	kok3	
 蠼	kok3	
 覺	(白)kok3	
 觳	kok3	
 郭	kok3	
-钁	kok3	
 霍	kok3	
 礐	kok3	
+彍	kok3	
+㑌	(文)kong1	
+劻	(文)kong1	
 匡	(文)kong1	
 哐	(文)kong1	
 慷	(白)kong1	
@@ -6834,7 +6892,6 @@
 眶	(文)kong1	
 筐	(文)kong1	
 誆	(文)kong1	
-軭	(文)kong1	
 亢	kong3	
 伉	kong3	
 況	kong3	
@@ -6864,16 +6921,16 @@
 枯	(白)ku1	
 箍	ku1	
 骷	(白)ku1	
-瓠	(語)ku4	10%
-葫	(語)ku4	10%
+瓠	(白)ku4	20%
+葫	(白)ku4	20%
 嗑	(語)kuk1	5%
 曲	kuk1	
 麯	kuk1	
-麴	kuk1	
 焅	(又)kuk1	5%
 硞	kuk1	
 蛐	kuk1	
 酷	(又)kuk1	5%
+麴	kuk1	
 𪨰	kuk1	
 碽	(語)kung1	10%
 孔	(又)kung2	10%
@@ -6906,8 +6963,11 @@
 㨤	kwaai5	
 擓	kwaai5	
 廓	(白)kwaak3	20%
+霍	(語)kwaak3	10%
 𡃈	kwaak3	
+㑌	(白)kwaang1	
 㝩	(白)kwaang1	20%
+劻	(白)kwaang1	
 匡	(白)kwaang1	
 哐	(白)kwaang1	
 框	(白)kwaang1	
@@ -6915,9 +6975,9 @@
 眶	(白)kwaang1	
 筐	(白)kwaang1	
 誆	(白)kwaang1	
-軭	(白)kwaang1	
 梗	(白)kwaang2	20%
 摜	(語)kwaang3	10%
+哐	(語)kwaang4	10%
 括	(又)kwaat3	10%
 虧	kwai1	
 巋	kwai1	
@@ -6931,11 +6991,13 @@
 鬹	kwai1	
 傀	kwai2	
 煃	kwai2	
+磈	kwai2	
 跬	kwai2	
 頍	kwai2	
+殨	kwai3	
+䙡	kwai3	
 儈	kwai3	
 劊	kwai3	
-媿	kwai3	
 憒	kwai3	
 愧	kwai3	
 檜	kwai3	
@@ -6946,14 +7008,14 @@
 聵	kwai3	
 膾	kwai3	
 鄶	kwai3	
+闠	kwai3	
 鱠	kwai3	
 嘳	kwai3	
-㙓	kwai4	
 喹	kwai4	
 夔	kwai4	
 奎	kwai4	
 戣	kwai4	
-揆	kwai4	
+揆	(又)kwai4	10%
 攜	kwai4	
 暌	kwai4	
 櫆	kwai4	
@@ -6971,13 +7033,12 @@
 馗	kwai4	
 騤	kwai4	
 魁	kwai4	
-揆	(又)kwai5	10%
+揆	kwai5	
+钁	(白)kwak1	5%
 嗑	(語)kwak1	5%
 搉	(白)kwak1	5%
 硞	(語)kwak1	10%
-緙	(語)kwak1	5%
-鐝	(語)kwak1	5%
-钁	(白)kwak1	5%
+鐝	(白)kwak1	5%
 囷	kwan1	
 均	(白)kwan1	
 坤	kwan1	
@@ -7001,7 +7062,6 @@
 綑	kwan2	
 混	(語)kwan2	10%
 緄	(白)kwan2	
-輥	(又)kwan2	10%
 閫	kwan2	
 鯀	(又)kwan2	10%
 困	kwan3	
@@ -7016,6 +7076,7 @@
 菌	kwan5	
 轟	(白)kwang1	
 纊	(語)kwang3	10%
+哐	(語)kwang4	10%
 蛙	(白)kwe2	5%
 𧊅	(白)kwe2	20%
 㨤	(白)kwe3	20%
@@ -7034,7 +7095,6 @@
 區	kyu1	
 嶇	kyu1	
 拘	kyu1	
-敺	kyu1	
 樞	(又)kyu1	10%
 泃	kyu1	
 痀	kyu1	
@@ -7055,6 +7115,8 @@
 癯	kyu4	
 瞿	kyu4	
 磲	kyu4	
+籧	kyu4	
+臞	kyu4	
 蕖	kyu4	
 蘧	kyu4	
 蟝	kyu4	
@@ -7064,6 +7126,7 @@
 軥	kyu4	
 鴝	kyu4	
 鼩	kyu4	
+鸜	kyu4	
 佢	kyu5	
 岠	(又)kyu5	10%
 拒	kyu5	
@@ -7072,6 +7135,7 @@
 距	kyu5	
 𠍲	kyu5	
 婘	kyun4	
+惓	kyun4	
 拳	kyun4	
 權	kyun4	
 蜷	kyun4	
@@ -7106,22 +7170,24 @@
 鐍	kyut3	
 駃	kyut3	
 鴃	kyut3	
+鴂	kyut3	
 嘞	(語)la3	10%
 剌	laa1	
 啦	laa1	
 喇	laa1	5%
-旯	(語)laa1	5%
-砬	(又)laa1	5%
+垃	laa1	
+拉	laa1	
+旯	laa1	
 鞡	laa1	
-剌	(語)laa2	5%
+𤰚	laa1	
+剌	(語)laa2	10%
 喇	laa2	
 揦	laa2	
 辣	(語)laa2	5%
 喇	laa3	
 嘞	laa3	
-嚹	laa3	
 旯	laa3	
-罅	(訓)laa3	
+罅	(訓)laa3	90%
 啦	(語)laa4	10%
 藞	laa5	
 拉	laai1	
@@ -7132,6 +7198,7 @@
 嗮	(語)laai3	10%
 癩	laai3	
 賴	(又)laai3	10%
+䧒	(語)laai4	10%
 襰	laai5	
 攋	(白)laai5	20%
 瀨	laai6	
@@ -7142,7 +7209,7 @@
 肋	(語)laak1	10%
 嘞	laak3	
 肋	(又)laak3	10%
-阞	(語)laak3	10%
+阞	(白)laak3	20%
 砳	laak6	
 籃	(白)laam1	5%
 攬	laam2	
@@ -7180,7 +7247,7 @@
 躝	(文)laan4	
 嬾	laan5	
 懶	laan5	
-濫	(又)laan6	10%
+濫	(常)laan6	
 爛	laan6	
 㝗	(白)laang1	5%
 唥	laang1	5%
@@ -7206,7 +7273,7 @@
 瘌	laat3	
 癩	laat3	
 鬎	laat3	
-列	(語)laat6	10%
+列	(白)laat6	20%
 剌	laat6	
 蝲	laat6	
 辣	laat6	
@@ -7220,7 +7287,7 @@
 嫪	(白)laau3	20%
 髝	(白)laau3	20%
 撈	(文)laau4	
-利	(語)lai2	10%
+利	(又)lai2	10%
 戾	(白)lai2	5%
 㰀	lai4	
 嚟	lai4	
@@ -7239,7 +7306,6 @@
 醴	lai5	
 鱧	lai5	
 䚕	lai6	
-丽	lai6	
 麗	lai6	
 例	lai6	
 儷	lai6	
@@ -7248,7 +7314,7 @@
 厲	lai6	
 捩	lai6	
 攦	lai6	
-栃	lai6	
+沴	lai6	
 珕	lai6	
 癘	lai6	
 礪	lai6	
@@ -7264,8 +7330,6 @@
 嘞	(語)lak1	5%
 肋	lak1	
 犖	(白)lak1	5%
-躒	(白)lak1	5%
-㔹	lak6	
 仂	lak6	
 勒	lak6	
 叻	lak6	
@@ -7276,6 +7340,7 @@
 竻	lak6	
 簕	lak6	
 肋	lak6	
+艻	lak6	
 阞	lak6	
 鰳	lak6	
 冧	lam1	5%
@@ -7339,12 +7404,13 @@
 藺	lan6	
 論	lan6	
 躪	lan6	
+遴	lan6	
 㘄	lang1	
 揚	(語)lang1	5%
-踜	(白)lang1	5%
 掕	(語)lang3	10%
 硠	(白)lang3	20%
 倰	lang4	
+啷	(語)lang4	10%
 塄	lang4	
 愣	lang4	
 掕	(白)lang4	20%
@@ -7376,10 +7442,11 @@
 篥	lat6	
 聿	(又)lat6	10%
 葎	lat6	
+𤝽	lat6	
 瞜	lau1	
 嘍	lau1	5%
 摟	lau1	
-流	(語)lau1	5%
+流	(又)lau1	5%
 蔞	(白)lau1	5%
 蒟	(訓)lau1	5%
 褸	lau1	
@@ -7423,11 +7490,10 @@
 嶁	lau5	
 柳	lau5	
 漊	lau5	
-熮	lau5	
 珋	lau5	
 簍	lau5	
 綹	lau5	
-縷	(又)lau5	10%
+縷	(訓)lau5	90%
 罶	lau5	
 鋶	lau5	
 塿	lau5	
@@ -7441,17 +7507,18 @@
 鏤	lau6	
 鎦	lau6	
 陋	lau6	
+霤	lau6	
 鷚	lau6	
 塿	(語)lau6	10%
 咧	le1	
 哩	le1	
-籬	(白)le1	20%
-罅	(白)le3	20%
+旯	(語)le1	10%
+罅	(訓)le3	90%
 咧	(語)le4	10%
+啦	(語)le4	10%
 離	(白)le4	20%
 罟	(語)le4	10%
 褦	(習)le5	
-襰	(白)le5	20%
 叻	lek1	
 壢	(白)lek6	20%
 癧	(白)lek6	
@@ -7459,8 +7526,9 @@
 舔	(語)lem2	10%
 熑	(白)lem4	20%
 燫	(白)lem4	20%
-摙	(語)len3	10%
+摙	(白)len3	20%
 僆	(訓)leng1	5%
+靈	(白)leng1	5%
 笭	(白)leng1	5%
 鈴	(白)leng1	5%
 靚	(訓)leng3	90%
@@ -7472,9 +7540,11 @@
 領	(白)leng5	20%
 炩	(白)leng6	20%
 甲	(語)lep3	10%
+立	(語)lep6	10%
+律	(語)let1	5%
 纈	(語)let3	10%
 綟	(白)let3	20%
-列	(語)let6	10%
+列	(白)let6	20%
 嫽	(白)leu1	5%
 寥	(白)leu1	5%
 寮	(白)leu1	5%
@@ -7484,12 +7554,12 @@
 鷯	(白)leu1	
 繚	(白)leu2	5%
 嫪	(白)leu3	20%
-蔫	(語)leu3	10%
+蔫	(訓)leu3	90%
 髝	(白)leu3	20%
 𣩢	(白)leu3	20%
 撈	(白)leu4	
 獠	(白)leu4	20%
-剺	(語)li1	5%
+剺	(白)li1	5%
 力	(語)li1	5%
 釐	(白)li1	5%
 哩	li1	
@@ -7500,12 +7570,12 @@
 篱	(白)li1	5%
 籬	(白)li1	20%
 鬁	(白)li1	5%
-麗	(又)li4	10%
-刕	li4	
+麗	li4	
 剺	li4	
 劙	(又)li4	10%
 厘	li4	
 釐	li4	
+哩	(語)li4	10%
 嫠	li4	
 杝	li4	
 梨	li4	
@@ -7516,6 +7586,7 @@
 犛	li4	
 狸	li4	
 貍	li4	
+琍	li4	
 璃	li4	
 离	li4	
 離	li4	
@@ -7529,6 +7600,7 @@
 驪	li4	
 鱺	li4	
 鸝	li4	
+纚	li4	
 俚	li5	
 哩	li5	5%
 娌	li5	
@@ -7584,8 +7656,6 @@
 鎘	lik6	
 靂	lik6	
 鬲	lik6	
-𥌮	lik6	
-𦘊	lik6	
 㠣	lik6	
 瓅	lik6	
 斂	lim2	
@@ -7617,7 +7687,7 @@
 臉	(又)lin2	10%
 鍊	(又)lin2	5%
 鏈	(白)lin2	
-摙	(語)lin3	10%
+摙	(白)lin3	20%
 怜	lin4	
 憐	lin4	
 槤	lin4	
@@ -7649,13 +7719,13 @@
 鈴	(白)ling1	5%
 零	(白)ling1	5%
 坽	(語)ling3	10%
+炩	(語)ling3	10%
 〇	ling4	
 㥄	ling4	
 令	ling4	5%
 伶	ling4	
 倰	ling4	
 凌	ling4	
-淩	ling4	
 呤	ling4	
 囹	ling4	
 坽	ling4	
@@ -7672,6 +7742,7 @@
 楞	ling4	
 櫺	ling4	
 泠	ling4	
+淩	ling4	
 澪	ling4	
 靈	ling4	
 玲	ling4	
@@ -7687,6 +7758,7 @@
 苓	ling4	
 菱	ling4	
 蔆	ling4	
+薐	ling4	
 蛉	ling4	
 踜	ling4	
 酃	ling4	
@@ -7757,7 +7829,6 @@
 镽	liu4	
 髎	liu4	
 鷯	liu4	5%
-𩯊	liu4	
 了	liu5	
 憭	liu5	
 瞭	liu5	
@@ -7777,13 +7848,14 @@
 倮	lo2	
 攞	lo2	
 瘰	lo2	
+砢	lo2	
 臝	lo2	
 蓏	lo2	
 蠃	lo2	
 裸	lo2	
 咯	lo3	
 摞	lo3	
-𤓓	lo3	
+儸	lo4	
 囉	lo4	5%
 欏	lo4	
 玀	lo4	
@@ -7796,6 +7868,9 @@
 邏	lo4	
 鑼	lo4	
 騾	lo4	
+覼	lo4	
+饠	lo4	
+㼈	lo4	
 㱻	lo6	
 𦧲	loe1	
 𦧲	loe2	
@@ -7816,7 +7891,6 @@
 梁	loeng4	
 樑	loeng4	
 椋	loeng4	
-簗	loeng4	
 粮	loeng4	
 糧	loeng4	
 粱	loeng4	
@@ -7828,17 +7902,21 @@
 綡	loeng4	
 兩	loeng5	
 倆	loeng5	
-裲	loeng5	
 魎	loeng5	
 䓣	loeng5	
+緉	loeng5	
+蜽	loeng5	
+裲	loeng5	
 亮	loeng6	
 倞	loeng6	
-哴	loeng6	
+喨	loeng6	
 悢	loeng6	
 惊	loeng6	
 諒	loeng6	
 踉	loeng6	
 量	loeng6	
+律	(語)loet1	5%
+䧒	loi4	
 倈	loi4	
 崍	loi4	
 徠	loi4	
@@ -7847,11 +7925,12 @@
 淶	loi4	
 萊	loi4	
 錸	loi4	
-唻	loi6	
+鶆	loi4	
 徠	loi6	
 睞	loi6	
 賚	loi6	
 誺	loi6	
+唻	loi6	
 咯	lok3	
 洛	lok3	
 漯	lok3	
@@ -7874,11 +7953,10 @@
 啷	long1	
 盪	(語)long2	5%
 𠺘	long2	
-𠻴	long2	
 閬	(白)long3	20%
 𢲲	long3	
 㝗	long4	
-哴	long4	
+嫏	long4	
 廊	long4	
 桹	long4	
 榔	long4	
@@ -7892,6 +7970,7 @@
 螂	long4	
 郎	long4	
 鋃	long4	
+閬	long4	
 鎯	long4	
 㙟	long5	
 㮾	long5	
@@ -7903,7 +7982,6 @@
 烺	long5	
 蓢	long5	
 誏	long5	
-閬	long5	
 㫰	long6	
 埌	long6	
 晾	long6	
@@ -7911,11 +7989,12 @@
 莨	long6	
 蒗	long6	
 誏	long6	
-𧚅	long6	
+閬	long6	
 㖀	(語)lot6	10%
 嚕	lu1	
 撈	(白)lu1	
 擼	(白)lu1	5%
+癆	(白)lu1	5%
 髏	(白)lu1	
 黸	lu1	
 佬	lu2	
@@ -7933,6 +8012,7 @@
 牢	lu4	
 癆	lu4	
 纑	lu4	
+罏	lu4	
 臚	lu4	
 艫	lu4	
 蘆	lu4	
@@ -7947,6 +8027,8 @@
 鸕	lu4	
 𡑍	lu4	
 鑪	lu4	
+簩	lu4	
+䇭	lu5	
 滷	lu5	
 鹵	lu5	
 姥	lu5	
@@ -7956,13 +8038,13 @@
 橑	lu5	
 櫓	lu5	
 氌	lu5	
-潦	lu5	
+潦	(古)lu5	
 瀂	lu5	
 獠	lu5	
+磠	lu5	
 老	lu5	
 荖	lu5	
 虜	lu5	
-蛯	lu5	
 銠	lu5	
 鑥	lu5	
 魯	lu5	
@@ -7980,19 +8062,23 @@
 鷺	lu6	
 壘	(又)lui1	5%
 擂	(白)lui1	5%
-𧒽	lui1	
 𨀤	lui1	
 嫘	lui4	
 擂	lui4	
+樏	lui4	
 檑	lui4	
+欙	lui4	
 累	lui4	5%
 纍	lui4	
 縲	lui4	
 罍	lui4	
 羸	lui4	
+蔂	lui4	
+虆	lui4	
+蕾	lui4	
 鐳	lui4	
 雷	lui4	
-靁	lui4	
+㿔	lui5	
 儡	lui5	
 儽	lui5	
 壘	lui5	
@@ -8000,11 +8086,14 @@
 漯	lui5	
 癗	lui5	
 磊	lui5	
+礨	lui5	
 累	lui5	5%
+纍	lui5	
 絫	lui5	
 蕾	lui5	
 藟	lui5	
 蘽	lui5	
+䓞	lui6	
 唳	lui6	
 戾	lui6	
 淚	lui6	
@@ -8018,12 +8107,12 @@
 熝	(語)luk1	10%
 睩	(白)luk1	5%
 碌	(白)luk1	
-磟	luk1	
 簏	luk1	
 趢	(白)luk1	5%
 轆	luk1	
 麓	luk1	
 㟤	luk6	
+䍡	luk6	
 僇	luk6	
 六	luk6	
 勠	luk6	
@@ -8032,7 +8121,6 @@
 錄	luk6	
 戮	luk6	
 摝	luk6	
-椂	luk6	
 樚	luk6	
 氯	luk6	
 淥	luk6	
@@ -8040,8 +8128,10 @@
 熝	luk6	
 琭	luk6	
 甪	luk6	
+盝	luk6	
 睩	luk6	
 碌	(文)luk6	
+磟	luk6	
 祿	luk6	
 稑	luk6	
 籙	luk6	
@@ -8049,7 +8139,7 @@
 菉	luk6	
 落	(又)luk6	10%
 蓼	luk6	
-谷	luk6	5%
+谷	(古)luk6	5%
 趢	luk6	
 逯	luk6	
 醁	luk6	
@@ -8060,7 +8150,6 @@
 竉	lung1	
 𢙱	(語)lung1	5%
 攏	(白)lung2	
-躘	(白)lung3	20%
 嚨	lung4	
 曨	lung4	
 櫳	lung4	
@@ -8080,13 +8169,14 @@
 𡃡	lung4	
 躘	lung4	
 䪊	lung4	
-儱	lung5	
 壟	lung5	
 壠	lung5	
 攏	(文)lung5	
 籠	lung5	5%
 隴	lung5	
+儱	lung5	
 篢	lung5	
+㟖	lung6	
 哢	lung6	
 弄	lung6	
 衖	lung6	
@@ -8112,7 +8202,6 @@
 裏	(書)lyu5	10%
 裡	(書)lyu5	10%
 鋁	lyu5	
-麿	lyu5	
 濾	lyu6	
 慮	lyu6	
 攣	(語)lyun1	5%
@@ -8161,7 +8250,6 @@
 孌	lyun5	
 臠	lyun5	
 脟	lyun5	
-乱	lyun6	
 亂	lyun6	
 吝	(老派)lyun6	10%
 溣	(老派)lyun6	10%
@@ -8169,7 +8257,8 @@
 藺	(老派)lyun6	10%
 論	(老派)lyun6	10%
 躪	(老派)lyun6	10%
-捋	(語)lyut1	5%
+遴	(老派)lyun6	10%
+捋	(白)lyut1	5%
 捋	(又)lyut3	10%
 㗚	(老派)lyut6	10%
 傈	(老派)lyut6	10%
@@ -8177,7 +8266,6 @@
 劣	lyut6	
 埒	lyut6	
 律	(老派)lyut6	10%
-挘	lyut6	
 捋	lyut6	
 慄	(老派)lyut6	10%
 栗	(老派)lyut6	10%
@@ -8189,6 +8277,7 @@
 葎	(老派)lyut6	10%
 酹	(又)lyut6	10%
 鋝	lyut6	
+𤝽	(老派)lyut6	10%
 呣	m2	
 唔	m4	
 毋	(語)m4	10%
@@ -8200,14 +8289,16 @@
 嚜	maa1	
 媽	maa1	
 嬤	maa1	
-孖	(訓)maa1	
+孖	(訓)maa1	90%
 巴	(白)maa1	20%
+摩	maa1	5%
 螞	maa1	5%
 貌	(語)maa1	5%
-馬	(語)maa1	5%
+馬	maa1	5%
 嗎	(語)maa2	5%
 嘛	(語)maa2	5%
 嘛	maa3	
+嗎	maa4	
 嘛	maa4	5%
 嫲	maa4	
 痲	maa4	
@@ -8238,11 +8329,11 @@
 賣	maai6	
 邁	maai6	
 𢫦	(白)maak1	5%
+㓦	maak3	
 掰	(訓)maak3	90%
 擘	maak3	
 慢	(白)maan1	5%
 扳	(白)maan1	20%
-摱	maan1	
 攀	(白)maan1	20%
 脕	(白)maan1	5%
 𢺳	maan1	
@@ -8254,7 +8345,6 @@
 饅	maan4	
 鬘	maan4	
 晚	maan5	
-㵘	maan6	
 万	maan6	
 萬	maan6	
 卍	maan6	
@@ -8274,6 +8364,7 @@
 鰻	maan6	
 澫	maan6	
 蔄	maan6	
+蜢	(語)maang2	5%
 盲	maang4	
 鄳	maang4	
 䁅	maang5	
@@ -8286,6 +8377,7 @@
 蟒	(白)maang5	
 錳	maang5	
 黽	maang5	
+䁅	maang6	
 孟	maang6	
 㩢	maat3	
 抹	maat3	
@@ -8339,13 +8431,14 @@
 嚜	mak6	
 墨	mak6	
 癦	mak6	
+眽	mak6	
 脈	mak6	
-脉	mak6	
 驀	mak6	
 貉	mak6	5%
 貊	mak6	
 貘	mak6	
 陌	mak6	
+霢	mak6	
 麥	mak6	
 默	mak6	
 䥑	mak6	
@@ -8358,6 +8451,7 @@
 炆	man1	
 燜	(訓)man1	5%
 蚊	(白)man1	
+悶	(語)man1	5%
 抆	(白)man2	5%
 抿	(又)man2	5%
 問	(白)man2	5%
@@ -8373,8 +8467,6 @@
 氓	man4	
 玟	man4	
 珉	man4	
-琝	man4	
-瑉	man4	
 甿	man4	
 碈	man4	
 紋	man4	
@@ -8405,19 +8497,18 @@
 閩	man5	
 鰵	man5	
 黽	man5	
+僶	man5	
 汶	man6	
 璺	man6	
 紊	man6	
+絻	man6	
 問	man6	
-聞	man6	5%
+聞	(古)man6	5%
 掹	mang1	
 絣	(白)mang1	20%
-綳	(白)mang1	20%
 繃	(白)mang1	20%
 蜢	(語)mang1	5%
-𠵼	mang1	
 䁅	(白)mang2	5%
-𤷪	mang2	
 㬟	(訓)mang4	90%
 䒐	mang4	
 朆	(訓)mang4	90%
@@ -8455,9 +8546,11 @@
 蛑	mau4	
 謀	mau4	
 鍪	mau4	
+麰	mau4	
 畝	mau5	
 某	mau5	
 牡	(又)mau5	10%
+䓮	mau6	
 懋	mau6	
 楙	mau6	
 瞀	mau6	
@@ -8477,7 +8570,8 @@
 乜	me2	
 佊	(白)me2	20%
 歪	(訓)me2	5%
-乜	(語)me4	10%
+乜	(白)me4	20%
+巴	(白)me4	20%
 彌	(白)me4	20%
 瀰	(白)me4	20%
 乜	me6	5%
@@ -8493,10 +8587,10 @@
 喵	(白)meu1	20%
 猫	(白)meu1	
 貓	(白)meu1	
-𠴕	(白)meu2	20%
 矛	(白)meu4	
 茅	(白)meu4	
 咪	mi1	
+寐	(白)mi1	5%
 尾	(白)mi1	5%
 屘	mi1	
 彌	(白)mi1	5%
@@ -8508,6 +8602,7 @@
 𧋦	mi1	
 味	(白)mi2	5%
 沕	(語)mi3	10%
+䕷	mi4	
 冞	mi4	
 嵋	mi4	
 彌	mi4	
@@ -8538,7 +8633,6 @@
 鶥	mi4	
 麋	mi4	
 䉲	mi4	
-𥮜	mi4	
 𪎭	mi4	
 亹	mi5	
 娓	mi5	
@@ -8571,13 +8665,13 @@
 麪	(白)min1	5%
 麵	(白)min1	5%
 面	(白)min2	5%
-杣	min4	
 棉	min4	
 眠	min4	
 綿	min4	
 𥾝	(白)min4	20%
 靦	min5	
 丏	min5	
+俛	min5	
 偭	min5	
 免	min5	
 冕	min5	
@@ -8591,7 +8685,7 @@
 眄	min5	
 緬	min5	
 腼	min5	
-黽	(又)min5	10%
+黽	min5	
 鮸	min5	
 面	min6	
 麪	min6	
@@ -8600,6 +8694,7 @@
 名	(文)ming4	
 明	ming4	
 暝	ming4	
+榠	ming4	
 洺	ming4	
 溟	ming4	
 瞑	ming4	
@@ -8620,7 +8715,6 @@
 𥾝	mit6	
 喵	miu1	
 瞄	(白)miu1	5%
-𠴕	miu2	
 描	miu4	
 瞄	miu4	
 苗	miu4	
@@ -8636,18 +8730,14 @@
 藐	miu5	
 邈	miu5	
 妙	miu6	
-庙	miu6	
 廟	miu6	
-庿	miu6	
 玅	miu6	
 繆	miu6	5%
 么	mo1	
 麼	mo1	
 仫	(習)mo1	
 嘸	(語)mo1	5%
-嚤	mo1	
 嬤	mo1	
-尛	mo1	
 摩	mo1	
 摸	mo1	
 摹	mo1	5%
@@ -8678,7 +8768,6 @@
 幕	mok6	
 漠	mok6	
 瘼	mok6	
-瞐	mok6	
 膜	mok6	
 莫	mok6	
 邈	mok6	
@@ -8688,7 +8777,6 @@
 牤	(又)mong1	5%
 芒	mong1	5%
 虻	(又)mong1	5%
-蝱	(又)mong1	5%
 亡	mong4	
 厖	mong4	
 尨	mong4	
@@ -8702,8 +8790,8 @@
 芒	mong4	
 茫	mong4	
 虻	mong4	
-蝱	mong4	
 邙	mong4	
+鋩	mong4	
 壾	mong5	
 惘	mong5	
 漭	mong5	
@@ -8712,6 +8800,7 @@
 罔	mong5	
 茻	mong5	
 莽	(文)mong5	
+蝄	mong5	
 蟒	(文)mong5	
 輞	mong5	
 魍	mong5	
@@ -8731,8 +8820,10 @@
 氂	mu4	
 蕪	mu4	
 謨	mu4	
+酕	mu4	
 髦	mu4	
 鵐	mu4	
+㵲	mu5	
 侮	mu5	
 冇	mu5	
 嘸	mu5	
@@ -8757,11 +8848,13 @@
 募	mu6	
 墓	mu6	
 婺	mu6	
+媢	mu6	
 帽	mu6	
 慕	mu6	
 戊	mu6	
 旄	mu6	
 暮	mu6	
+毷	mu6	
 瑁	mu6	
 眊	mu6	
 耄	mu6	
@@ -8770,11 +8863,10 @@
 騖	mu6	
 鶩	mu6	
 妹	(白)mui1	5%
-枚	(又)mui1	5%
+枚	(白)mui1	5%
 妹	(白)mui2	5%
 媒	mui4	
 枚	mui4	
-栂	mui4	
 梅	mui4	
 煤	mui4	
 玫	mui4	
@@ -8792,7 +8884,7 @@
 痗	mui6	
 摸	(語)muk1	10%
 仫	(書)muk6	10%
-凩	muk6	
+坶	muk6	
 木	muk6	
 沐	muk6	
 牧	muk6	
@@ -8801,11 +8893,12 @@
 穆	muk6	
 苜	muk6	
 鉬	muk6	
+霂	muk6	
 亹	mun4	
 們	mun4	
 捫	mun4	
 瞞	mun4	
-蹣	(又)mun4	10%
+蹣	mun4	
 鍆	mun4	
 門	mun4	
 鞔	mun4	
@@ -8818,6 +8911,7 @@
 悶	mun6	
 檬	(白)mung1	5%
 濛	(白)mung1	5%
+矇	(白)mung1	5%
 蒙	(白)mung1	5%
 蓬	(白)mung1	5%
 𡁏	(語)mung1	5%
@@ -8855,12 +8949,10 @@
 那	naa1	5%
 𤶠	naa1	
 𤶸	naa1	
-𤸻	naa1	
 𪐀	(文)naa1	
 乸	naa2	
 哪	naa4	5%
 嗱	naa4	
-娜	naa4	
 拏	naa4	
 拿	naa4	
 挐	naa4	
@@ -8869,10 +8961,10 @@
 那	naa5	
 𦰡	naa5	
 哪	naa6	
+娜	naa6	
 奶	(白)naai1	5%
 奶	(白)naai2	5%
 帶	(白)naai3	20%
-𠮨	naai3	
 乃	naai5	
 奶	naai5	
 妳	naai5	
@@ -8882,7 +8974,7 @@
 迺	naai5	
 鼐	naai5	
 褦	(書)naai6	10%
-𪐌	(又)naak3	10%
+𪐌	(白)naak3	20%
 南	(語)naam1	5%
 喃	(白)naam1	
 揇	(白)naam3	20%
@@ -8895,17 +8987,16 @@
 楠	naam4	
 男	naam4	
 萳	naam4	
-蚺	naam4	
+蚺	(習)naam4	
 蝻	naam4	
-遖	naam4	
 揇	naam5	
+湳	naam5	
 腩	naam5	
 萳	naam5	
 婻	naam6	
 㫱	(白)naan3	20%
-𢺋	naan3	
+赧	(白)naan3	20%
 𦍀	(白)naan3	20%
-𧕴	naan3	
 難	naan4	
 㫱	naan5	
 戁	naan5	
@@ -8929,13 +9020,16 @@
 孬	naau1	
 呶	naau4	
 峱	naau4	
+巎	naau4	
 撓	naau4	
 橈	naau4	
 猱	naau4	
 硇	naau4	
 蟯	(又)naau4	10%
+嫋	(白)naau4	20%
 鐃	naau4	
 錨	naau4	
+譊	naau4	
 淖	naau6	
 臑	naau6	
 鬧	naau6	
@@ -8944,6 +9038,7 @@
 尼	(又)nai4	10%
 泥	nai4	
 臡	nai4	
+𪐌	(白)nak1	20%
 𪙛	(白)nak1	20%
 𪐌	(白)nak6	20%
 黮	(白)nam1	5%
@@ -8951,21 +9046,20 @@
 諗	(訓)nam2	90%
 腍	(語)nam4	10%
 稔	nam5	
-淰	nam6	
 𦛚	nam6	
 戁	(白)nan1	5%
 撚	(語)nan2	10%
-凝	(語)nang1	5%
+囊	(語)nang1	5%
 𤹍	nang1	
 褦	(語)nang3	10%
 能	nang4	
+蹬	(白)nang6	20%
 粒	nap1	
 錔	(白)nap1	20%
 𣲷	nap6	
 𥹉	nap6	
 苶	(白)nat1	5%
 吶	nat6	5%
-抐	nat6	
 肭	nat6	
 訥	nat6	
 嬲	nau1	
@@ -8992,8 +9086,6 @@
 捻	nem1	
 棯	(白)nem1	
 稔	nem1	5%
-脌	(白)nen1	20%
-𢆡	(白)nen1	20%
 捻	nen2	
 撚	nen2	
 攆	nen2	
@@ -9044,7 +9136,7 @@
 焐	ng6	
 痦	ng6	
 誤	ng6	
-呀	(語)ngaa1	10%
+呀	(白)ngaa1	20%
 枒	ngaa1	
 椏	ngaa1	
 伢	ngaa4	
@@ -9064,10 +9156,8 @@
 砑	ngaa6	
 訝	ngaa6	
 迓	ngaa6	
-閕	ngaa6	
 𧧝	ngaa6	
 𠊎	ngaai1	
-厓	ngaai4	
 堐	ngaai4	
 崖	ngaai4	
 挨	ngaai4	
@@ -9099,15 +9189,15 @@
 硬	(白)ngaang2	5%
 硬	ngaang6	
 哈	(語)ngaap3	10%
-䡾	(又)ngaat6	10%
 嚙	(白)ngaat6	20%
 囓	(白)ngaat6	20%
 齧	(白)ngaat6	20%
-扤	(文)ngaat6	
+扤	(語)ngaat6	10%
 齕	(白)ngaat6	20%
 撓	(文)ngaau1	5%
 𢯎	(文)ngaau1	
 嗷	(語)ngaau3	10%
+嗷	(語)ngaau4	10%
 崤	ngaau4	
 摮	(白)ngaau4	20%
 殽	ngaau4	
@@ -9117,14 +9207,12 @@
 爻	ngaau4	
 肴	ngaau4	
 餚	ngaau4	
-𢳆	(白)ngaau4	20%
 咬	(文)ngaau5	
-樂	ngaau6	
+樂	(古)ngaau6	
 磑	(白)ngai1	5%
-𠱓	ngai1	
-𠼮	ngai1	
 倪	(書)ngai4	10%
 危	ngai4	
+婗	ngai4	
 峗	ngai4	
 嵬	ngai4	
 巍	ngai4	
@@ -9135,7 +9223,6 @@
 霓	(書)ngai4	10%
 鯢	ngai4	
 麑	ngai4	
-𨺙	ngai4	
 輗	ngai4	
 齯	ngai4	
 鮠	ngai4	
@@ -9150,6 +9237,7 @@
 乂	ngai6	
 偽	ngai6	
 僞	ngai6	
+倪	ngai6	
 刈	ngai6	
 囈	ngai6	
 堄	ngai6	
@@ -9162,16 +9250,17 @@
 蓺	ngai6	
 詣	ngai6	
 魏	ngai6	
+𨺙	ngai6	
 呃	(語)ngak1	10%
 眲	ngak1	
 額	ngak6	
 顉	(白)ngam1	20%
 吟	(白)ngam4	20%
 啽	ngam4	
+玵	ngam4	
 㜝	ngam5	
-趛	(又)ngam5	10%
 奀	ngan1	
-䟴	ngan3	
+䟴	(習)ngan3	
 仁	(白)ngan4	20%
 嚚	ngan4	
 圻	ngan4	
@@ -9196,7 +9285,6 @@
 哈	(語)ngap6	10%
 岋	ngap6	
 歞	ngap6	
-礘	ngap6	
 𡀾	ngap6	
 𩕟	ngap6	
 𩪤	ngap6	
@@ -9209,15 +9297,10 @@
 屹	ngat6	
 屼	ngat6	
 忔	ngat6	
-扤	(書)ngat6	10%
+扤	ngat6	
 杌	ngat6	
-汔	ngat6	
 疙	ngat6	
-矻	ngat6	
-訖	ngat6	
-迄	ngat6	
 阢	ngat6	
-佝	(白)ngau1	
 勾	(白)ngau1	
 句	(白)ngau1	5%
 軥	(白)ngau1	
@@ -9229,23 +9312,23 @@
 蕅	ngau5	
 藕	ngau5	
 吽	ngau6	
-呀	(語)nge1	10%
+呀	(白)nge1	20%
 枒	(白)nge1	20%
 椏	(白)nge1	20%
-𡃀	nge1	
-𡃀	nge2	
+呀	nge2	
+砑	(白)nge2	5%
 鋸	(白)nge3	20%
-𡃀	nge4	
+呀	(白)nge4	20%
 齞	(白)ngen1	5%
 研	(語)ngen4	10%
-顏	(白)ngen4	20%
+顏	(白)ngen4	5%
 眼	(白)ngen5	
 哈	(語)ngep6	10%
 忔	(白)nget1	20%
 嚙	(白)nget6	20%
 囓	(白)nget6	20%
 齧	(白)nget6	20%
-扤	(白)nget6	
+扤	(語)nget6	10%
 齕	(白)nget6	20%
 撓	(白)ngeu1	5%
 𢯎	(白)ngeu1	
@@ -9296,12 +9379,11 @@
 鱷	ngok6	
 鶚	ngok6	
 𥔲	ngok6	
-𩓥	ngok6	
 鸑	ngok6	
 岸	ngon6	
 犴	ngon6	
 豻	ngon6	
-戇	(訓)ngong3	
+戇	(訓)ngong3	90%
 卬	ngong4	
 昂	ngong4	
 仰	(白)ngong5	20%
@@ -9321,13 +9403,12 @@
 驁	ngu4	
 鰲	ngu4	
 鼇	ngu4	
-𢳆	ngu4	
 傲	ngu6	
 奡	ngu6	
 鏊	ngu6	
-𢳆	ngu6	
 摝	(語)nguk6	10%
-呢	(語)ni1	10%
+呢	ni1	
+𪐀	(語)ni1	10%
 伲	ni4	
 倪	(習)ni4	
 呢	ni4	5%
@@ -9338,7 +9419,6 @@
 怩	ni4	
 疑	ni4	
 禰	ni4	
-籾	ni4	
 觺	ni4	
 誼	(常)ni4	
 跜	ni4	
@@ -9361,10 +9441,13 @@
 膩	ni6	
 誼	ni6	
 搦	(習)nik1	
+滴	(白)nik1	20%
 𪐌	nik1	
 𪙛	nik1	
+䵒	nik6	
 匿	nik6	
 嶷	nik6	
+惄	nik6	
 慝	nik6	
 昵	nik6	
 暱	nik6	
@@ -9373,7 +9456,10 @@
 鬩	nik6	
 鷊	nik6	
 鷁	nik6	
+𣘗	nik6	
+𧏾	nik6	
 虉	nik6	
+鶂	nik6	
 拈	(文)nim1	
 棯	(文)nim1	
 研	(又)nim1	5%
@@ -9381,19 +9467,17 @@
 黏	nim1	
 鮎	nim4	
 鯰	nim4	
+淰	nim5	
 埝	nim6	
 廿	(文)nim6	
 唸	nim6	
 念	nim6	
 驗	nim6	
-脌	nin1	
 蔫	nin1	
-𢆡	nin1	
 年	nin4	
 涊	nin5	
 蹨	nin5	
 丁	(白)ning1	20%
-嚀	(語)ning1	5%
 拎	(習)ning1	
 擰	ning1	5%
 䉴	(白)ning2	5%
@@ -9437,7 +9521,6 @@
 顳	nip6	
 𦛠	nip6	
 闑	nip6	
-䡾	nit6	
 嚙	nit6	
 囓	nit6	
 齧	nit6	
@@ -9471,7 +9554,6 @@
 儺	no4	
 娜	no4	
 挪	no4	
-雫	no5	
 喏	no6	
 懦	no6	
 糯	no6	
@@ -9500,25 +9582,25 @@
 䑋	(白)nong1	5%
 囊	(白)nong1	5%
 襠	(白)nong1	20%
-𧟘	(訓)nong1	5%
 囊	nong4	
 囔	nong4	
 瓤	nong4	
 穰	(又)nong4	10%
 饢	nong4	
+鬞	nong4	
 擃	nong5	
 攮	nong5	
 曩	nong5	
 饢	nong5	
 儾	nong6	
 齉	nong6	
-𧟘	nong6	
 肭	(白)not1	5%
 奴	nu4	
 孥	nu4	
 砮	nu4	
 笯	nu4	
 駑	nu4	
+憹	nu4	
 努	nu5	
 堖	nu5	
 弩	nu5	
@@ -9541,7 +9623,7 @@
 衄	nuk6	
 燶	nung1	
 儂	(又)nung1	5%
-鬞	nung1	
+鬞	(白)nung1	5%
 𪒬	nung1	
 捅	(白)nung2	20%
 儂	nung4	
@@ -9551,15 +9633,18 @@
 穠	nung4	
 膿	nung4	
 齈	nung4	
+憹	nung4	
 醲	nung4	
 弄	nung6	5%
 女	(白)nyu2	5%
 女	nyu5	
+籹	nyu5	
 釹	nyu5	
 暖	nyun5	
 煖	nyun5	
 嫩	nyun6	
 喔	o1	
+妸	o1	
 娿	o1	
 婀	o1	
 屙	o1	
@@ -9569,6 +9654,7 @@
 嚄	o2	
 哦	o4	
 噦	(語)oet6	10%
+㗒	oi1	
 哀	oi1	
 埃	(文)oi1	
 娭	oi1	
@@ -9586,6 +9672,7 @@
 愛	oi3	
 璦	oi3	
 隘	(又)oi3	10%
+僾	oi3	
 堊	ok3	
 噁	ok3	
 惡	ok3	
@@ -9594,6 +9681,7 @@
 安	on1	
 桉	on1	
 氨	on1	
+鞌	on1	
 鞍	on1	
 鮟	on1	
 銨	on2	
@@ -9611,8 +9699,10 @@
 葩	(又)paa1	10%
 趴	paa1	
 扒	(語)paa2	5%
+把	(又)paa2	10%
 帊	paa3	
 怕	paa3	
+叭	(語)paa4	10%
 巴	(語)paa4	10%
 扒	paa4	
 掱	paa4	
@@ -9657,16 +9747,16 @@
 盼	paan3	
 袢	paan3	
 襻	paan3	
+鋬	paan3	
 爿	paan4	
 踫	paan4	
 𨂝	paan4	
 㼞	(語)paang1	5%
-弸	(語)paang1	5%
+弸	(白)paang1	5%
 泙	paang1	
 牓	(白)paang1	5%
 甏	(語)paang1	5%
 胮	(語)paang1	10%
-𨭌	paang1	
 㼞	paang3	
 嘭	paang4	
 龐	(白)paang4	
@@ -9677,7 +9767,6 @@
 澎	paang4	
 硼	paang4	
 膨	paang4	
-舽	(白)paang4	
 螃	(白)paang4	
 蟛	paang4	
 鵬	paang4	
@@ -9694,8 +9783,10 @@
 奅	(文)paau3	
 泡	paau3	
 炮	(文)paau3	
+疱	(文)paau3	
 皰	(文)paau3	
 砲	(文)paau3	
+窌	paau3	
 豹	(又)paau3	10%
 刨	(文)paau4	
 匏	(文)paau4	
@@ -9710,9 +9801,12 @@
 鞄	paau4	
 颮	paau4	
 批	pai1	
-鈚	pai1	
 錍	pai1	
 𠜱	pai1	
+鈚	pai1	
+俾	pai3	
+埤	pai3	
+睥	pai3	
 嘣	(語)pam1	10%
 渢	(語)pam2	5%
 嘣	(語)pam4	10%
@@ -9732,13 +9826,8 @@
 蘋	pan4	5%
 牝	pan5	
 亨	pang1	5%
-伻	(又)pang1	10%
-匉	(又)pang1	10%
-怦	(又)pang1	10%
 烹	pang1	
-砰	(又)pang1	10%
-閛	(又)pang1	10%
-馮	pang4	5%
+馮	(古)pang4	5%
 凭	pang4	
 憑	pang4	
 堋	pang4	
@@ -9764,8 +9853,9 @@
 裒	pau4	
 披	(語)pe1	10%
 𠵿	(外)pe1	5%
+叭	(語)pe4	10%
 劈	pek3	
-篇	(白)pen1	20%
+篇	(白)pen1	5%
 翻	(白)pen1	20%
 片	(白)pen2	5%
 呯	(語)peng1	5%
@@ -9773,7 +9863,6 @@
 呯	(白)peng4	20%
 平	(白)peng4	20%
 並	(白)peng5	20%
-𩩍	(語)peng5	10%
 噼	(語)pet1	10%
 噼	(語)pet6	10%
 拋	(白)peu1	
@@ -9784,6 +9873,7 @@
 奅	(白)peu3	
 泡	(白)peu3	20%
 炮	(白)peu3	
+疱	(白)peu3	
 皰	(白)peu3	
 砲	(白)peu3	
 豹	(又)peu3	10%
@@ -9846,16 +9936,16 @@
 貔	pi4	
 邳	pi4	
 郫	pi4	
-鈚	pi4	
 鈹	pi4	
 陂	pi4	
 陴	pi4	
 鮍	pi4	
 鼙	pi4	
+鈚	pi4	
 婢	(又)pi5	10%
-睥	(又)pi5	10%
 被	pi5	
 鷿	pik1	
+鸊	pik1	
 僻	pik1	
 噼	pik1	
 揊	pik1	
@@ -9887,7 +9977,8 @@
 胼	pin4	
 褊	pin4	
 諞	pin4	
-蹁	(又)pin4	10%
+跰	pin4	
+蹁	pin4	
 駢	pin4	
 骿	pin4	
 𡎚	pin4	
@@ -9898,6 +9989,7 @@
 娉	ping1	
 怦	ping1	
 抨	ping1	
+拼	(又)ping1	5%
 涄	ping1	
 淜	ping1	
 甹	ping1	
@@ -9908,14 +10000,11 @@
 娉	ping3	
 拼	ping3	
 聘	ping3	
-伻	(又)ping4	10%
 呯	ping4	
 坪	ping4	
-塀	ping4	
 屏	ping4	
 帡	ping4	
 平	ping4	
-抨	(又)ping4	10%
 枰	ping4	
 泙	ping4	
 洴	ping4	
@@ -9931,7 +10020,7 @@
 評	ping4	
 鉼	ping4	
 鮃	ping4	
-𩩍	ping4	
+嫳	pit3	
 撇	pit3	
 氕	pit3	
 瞥	pit3	
@@ -9960,7 +10049,7 @@
 莩	piu5	
 坡	po1	
 棵	(語)po1	10%
-樖	(量)po1	
+樖	(量)po1	10%
 科	(白)po1	20%
 陂	po1	
 頗	(又)po1	5%
@@ -9995,8 +10084,8 @@
 旁	pong4	
 滂	pong4	
 磅	pong4	
+篣	pong4	
 膀	pong4	5%
-舽	(文)pong4	
 蒡	pong4	
 螃	(文)pong4	
 逄	pong4	
@@ -10005,6 +10094,7 @@
 𩐨	(又)pong4	10%
 棒	(又)pong5	10%
 棓	(又)pong5	10%
+稖	(又)pong5	10%
 耪	pong5	
 蚌	pong5	
 潽	pu1	
@@ -10043,12 +10133,14 @@
 抱	pu5	
 泡	pu5	
 袌	pu5	
+㾦	pui1	
 坏	pui1	
 坯	pui1	
 垺	pui1	
 胚	pui1	
 衃	pui1	
 醅	pui1	
+㾦	pui3	
 佩	pui3	
 旆	pui3	
 沛	pui3	
@@ -10059,6 +10151,7 @@
 霈	pui3	
 培	pui4	
 徘	pui4	
+毰	pui4	
 裴	pui4	
 賠	pui4	
 錇	pui4	
@@ -10070,12 +10163,10 @@
 仆	puk1	
 僕	(又)puk1	5%
 卜	puk1	
-卟	puk1	
 噗	puk1	
 墣	puk1	
 扑	puk1	
 撲	puk1	
-攴	puk1	
 樸	puk1	
 璞	puk1	
 瞨	puk1	
@@ -10085,6 +10176,7 @@
 番	pun1	5%
 判	pun3	
 叛	pun3	
+拌	pun3	5%
 拚	pun3	
 泮	pun3	
 柈	pun4	
@@ -10095,6 +10187,7 @@
 磐	pun4	
 磻	pun4	
 胖	pun4	5%
+般	pun4	5%
 蟠	pun4	
 蹣	pun4	
 伴	(白)pun5	20%
@@ -10104,7 +10197,6 @@
 逢	(白)pung1	5%
 髼	(白)pung1	5%
 捧	pung2	
-掽	pung3	
 椪	pung3	
 碰	pung3	
 踫	pung3	
@@ -10129,22 +10221,20 @@
 莎	saa1	
 裟	saa1	
 鯊	saa1	
+廈	saa2	
 啥	saa2	
 耍	saa2	
 嗄	saa3	
 唦	(語)saa4	10%
-廈	saai2	5%
 甩	saai2	
 摋	saai2	
 𧜁	saai2	
 晒	saai3	
 曬	saai3	
 殺	saai3	
+煞	(白)saai5	20%
 舐	saai5	
-𤿂	saai5	
-摔	(又)saai6	10%
 愬	saak3	
-拺	saak3	
 摵	saak3	
 槭	saak3	
 洓	saak3	
@@ -10161,7 +10251,6 @@
 姍	saan1	
 山	saan1	
 拴	saan1	
-杣	saan1	
 柵	saan1	5%
 栓	saan1	
 潸	saan1	
@@ -10176,6 +10265,7 @@
 涮	saan3	
 疝	saan3	
 訕	saan3	
+赸	saan3	
 僝	saan4	
 孱	saan4	
 漦	(白)saan4	20%
@@ -10185,12 +10275,11 @@
 甥	saang1	
 笙	saang1	
 胜	saang1	5%
-㗂	saang2	
 㨘	saang2	
 省	saang2	
 眚	saang2	
 鋥	(又)saang3	10%
-㵤	(白)saap3	20%
+霅	saap3	
 霎	(語)saap3	10%
 渫	(文)saap6	
 煠	(文)saap6	
@@ -10214,7 +10303,6 @@
 哨	saau3	
 潲	(文)saau3	
 睄	saau3	
-睄	(語)saau4	10%
 篩	sai1	
 簁	sai1	
 使	(習)sai2	
@@ -10222,7 +10310,6 @@
 駛	sai2	
 世	sai3	
 勢	sai3	
-笹	sai3	
 貰	sai3	
 噬	sai6	
 柿	sai6	
@@ -10243,6 +10330,7 @@
 審	sam2	
 沈	sam2	
 瀋	sam2	
+淰	sam2	
 瞫	sam2	
 諗	sam2	
 讅	sam2	
@@ -10267,9 +10355,9 @@
 神	san1	5%
 紳	san1	
 身	san1	
+辰	(又)san2	5%
 呻	(語)san3	10%
 瞬	san3	
-䢅	san4	
 侚	san4	
 唇	san4	
 脣	san4	
@@ -10277,7 +10365,6 @@
 宸	san4	
 徇	san4	
 晨	san4	
-榊	san4	
 殉	san4	
 淳	san4	
 神	san4	
@@ -10293,8 +10380,8 @@
 腎	san5	
 脤	san5	
 蜃	san5	
-愼	san6	
 慎	san6	
+昚	san6	
 胂	san6	
 舜	san6	
 順	san6	
@@ -10313,7 +10400,6 @@
 蝨	sat1	
 鯴	sat1	
 實	sat6	
-朮	(習)sat6	
 術	sat6	
 沭	sat6	
 秫	sat6	
@@ -10385,7 +10471,6 @@
 屍	si1	
 師	si1	
 思	si1	
-恖	si1	
 撕	si1	
 斯	si1	
 施	si1	
@@ -10404,7 +10489,6 @@
 罳	si1	
 葹	si1	
 蓍	si1	
-蕬	si1	
 虒	si1	
 螄	si1	
 蜤	si1	
@@ -10416,18 +10500,18 @@
 釃	si1	
 鍶	si1	
 颸	si1	
-餏	si1	
 鸍	si1	
 鳲	si1	
 鷥	si1	
 鼶	si1	
+𥯨	si1	
 絁	si1	
 鰤	si1	
 使	(書)si2	10%
 史	(書)si2	10%
 士	(外)si2	5%
 屎	si2	
-矢	si2	5%
+矢	(古)si2	5%
 豕	(又)si2	10%
 使	(書)si3	5%
 僿	si3	
@@ -10464,10 +10548,9 @@
 峙	si6	5%
 巳	si6	
 市	(語)si6	10%
-徥	si6	
 忯	si6	
-戺	si6	
 是	si6	
+昰	si6	
 氏	si6	
 涘	si6	
 示	si6	
@@ -10494,7 +10577,6 @@
 銫	sik1	
 飾	sik1	
 骰	(訓)sik1	5%
-喰	sik6	
 蝕	sik6	
 食	sik6	
 苫	(名)sim1	
@@ -10526,9 +10608,11 @@
 煽	sin3	
 釤	(又)sin3	10%
 騸	sin3	
+儃	sin4	
 澶	sin4	
 鱔	sin5	
 倩	sin6	
+儃	sin6	
 單	sin6	5%
 善	sin6	
 墡	sin6	
@@ -10551,13 +10635,12 @@
 塍	(又)sing1	5%
 聲	(文)sing1	
 昇	sing1	
-枡	sing1	
 陞	sing1	
 圣	sing3	
 聖	sing3	
 勝	sing3	
 胜	sing3	
-蟶	(又)sing3	10%
+蟶	(常)sing3	
 丞	sing4	
 乘	sing4	
 城	sing4	
@@ -10574,11 +10657,13 @@
 誠	sing4	
 郕	sing4	
 鋮	sing4	
+𡷫	sing4	
 乘	sing6	5%
-剩	(書)sing6	10%
+剩	(文)sing6	
 嵊	sing6	
 椉	sing6	
 盛	sing6	
+賸	(文)sing6	
 䀹	(又)sip3	10%
 懾	sip3	
 攝	sip3	
@@ -10605,17 +10690,20 @@
 卅	slaa1	
 洒	slaa2	
 灑	slaa2	
-𩄝	(語)slaa4	10%
+查	(又)slaa4	10%
+灑	(語)slaa4	10%
+乍	(語)slaa6	10%
 㩄	slaai1	
 嘥	slaai1	
 諰	slaai1	
 哂	(語)slaai3	10%
 嗮	slaai3	
+㩄	(語)slaai4	10%
 㩇	(訓)slaak1	5%
+爍	(訓)slaak6	90%
 三	slaam1	
 仨	slaam1	
 叁	slaam1	
-叄	slaam1	
 弎	slaam1	
 毿	slaam1	
 糝	(又)slaam2	10%
@@ -10629,7 +10717,6 @@
 潵	slaan3	
 鏾	slaan3	
 𠿓	(語)slaap1	5%
-㵤	slaap3	
 唼	slaap3	
 喢	slaap3	
 圾	slaap3	
@@ -10653,6 +10740,7 @@
 摋	slaat3	
 躠	(語)slaat6	10%
 捎	(白)slaau4	20%
+睄	(白)slaau4	20%
 恓	slai1	
 樨	slai1	
 犀	slai1	
@@ -10670,11 +10758,10 @@
 璽	slai2	
 葸	slai2	
 蓰	slai2	
-褷	(又)slai2	5%
-襹	(又)slai2	5%
 諰	slai2	
 蹝	slai2	
 躧	slai2	
+纚	slai2	
 縰	slai2	
 壻	slai3	
 婿	slai3	
@@ -10691,7 +10778,6 @@
 糝	slam2	
 尋	(白)slam4	20%
 侁	slan1	
-噺	slan1	
 屾	slan1	
 新	slan1	
 燊	slan1	
@@ -10744,12 +10830,11 @@
 錞	(又)slan4	10%
 鬙	(語)slang1	10%
 擤	slang3	
-㗂	(語)slang4	10%
+䁬	(白)slang4	20%
 層	(白)slang4	20%
 㿇	slap1	
 圾	(白)slap1	5%
 𢶍	(白)slap1	5%
-喋	(語)slap6	10%
 趿	(語)slap6	10%
 霅	(語)slap6	10%
 霫	(白)slap6	20%
@@ -10767,7 +10852,6 @@
 蟋	slat1	
 裇	slat1	
 銊	slat1	
-朮	(又)slat6	10%
 術	(又)slat6	10%
 沭	(又)slat6	10%
 秫	(又)slat6	10%
@@ -10775,9 +10859,10 @@
 鉥	(又)slat6	10%
 䗛	slau1	
 修	slau1	
-蒐	slau1	
 羞	slau1	
 脩	slau1	
+蒐	slau1	
+鄋	slau1	
 颼	slau1	
 餿	slau1	
 饈	slau1	
@@ -10818,14 +10903,14 @@
 醒	(白)sleng2	20%
 鉎	(白)sleng3	
 鍟	(白)sleng3	
-㿇	(語)slep1	10%
+㿇	(白)slep1	20%
 𤗈	(白)slep3	
-喋	(語)slep6	10%
 趿	(語)slep6	10%
 霅	(語)slep6	10%
 霫	(白)slep6	20%
 攃	(語)slet1	5%
 筲	(白)sleu1	20%
+澌	(語)sli1	10%
 死	sli2	
 四	sli3	
 肆	sli3	5%
@@ -10840,17 +10925,18 @@
 淅	slik1	
 潟	slik1	
 熄	slik1	
+瘜	slik1	
 皙	slik1	
 窸	(又)slik1	10%
 腊	slik1	
 舄	slik1	
 菥	slik1	
+蒠	slik1	
 蜤	slik1	
 蜥	slik1	
 螅	slik1	
 釋	slik1	
 裼	slik3	
-䙲	slin1	
 䙴	slin1	
 仙	slin1	
 僊	slin1	
@@ -10862,6 +10948,7 @@
 酰	slin1	
 鮮	slin1	
 冼	slin2	
+尟	slin2	
 燹	slin2	
 獮	slin2	
 癬	slin2	
@@ -10878,6 +10965,7 @@
 腺	slin3	
 霰	slin3	
 鏾	slin3	
+䤼	slin3	
 惺	sling1	
 星	sling1	
 煋	sling1	
@@ -10886,6 +10974,7 @@
 腥	(文)sling1	
 騂	sling1	
 省	sling2	5%
+箵	sling2	
 醒	sling2	
 姓	sling3	
 性	sling3	
@@ -10909,6 +10998,7 @@
 薛	slit3	
 躠	slit3	
 𤫉	slit3	
+禼	slit3	
 宵	sliu1	
 悄	(又)sliu1	10%
 捎	(又)sliu1	10%
@@ -10932,6 +11022,7 @@
 㩋	sliu1	
 小	sliu2	
 筱	sliu2	
+篠	sliu2	
 謏	sliu2	
 咲	sliu3	
 嘯	sliu3	
@@ -10947,17 +11038,19 @@
 莎	slo1	5%
 簑	slo1	
 蓑	slo1	
+趖	slo1	
 嗩	slo2	
 惢	slo2	
 所	slo2	
 瑣	slo2	
 璅	slo2	
-縒	slo2	
 鎖	slo2	
 傻	slo4	
-𩄝	(語)slo4	10%
+梭	(白)slo4	20%
+戍	(又)sloe1	5%
 削	sloek3	
 儴	sloeng1	
+勷	sloeng1	
 廂	sloeng1	
 孀	sloeng1	
 湘	sloeng1	
@@ -10973,13 +11066,17 @@
 驦	sloeng1	
 驤	sloeng1	
 鸘	sloeng1	
+騻	sloeng1	
 纕	sloeng1	
+鷞	sloeng1	
 想	sloeng2	
 鮝	sloeng2	
 鯗	sloeng2	
 相	sloeng3	5%
+思	sloi1	5%
 愢	sloi1	
 揌	sloi1	
+毸	sloi1	
 腮	sloi1	
 顋	sloi1	
 鰓	sloi1	
@@ -10988,7 +11085,7 @@
 搠	slok3	
 朔	slok3	
 槊	slok3	
-泝	slok3	
+洬	slok3	
 溯	slok3	
 溹	slok3	
 箾	slok3	
@@ -11008,18 +11105,19 @@
 銊	(語)slot6	10%
 搔	slu1	
 溞	slu1	
+甦	slu1	
 穌	slu1	
 繅	slu1	
 繰	slu1	
 臊	slu1	
 囌	slu1	
-甦	slu1	
 蘇	slu1	
 酥	slu1	
 鬚	slu1	
 騷	slu1	
 鰠	slu1	
 颾	slu1	
+䕅	slu2	
 嫂	slu2	
 傃	slu3	
 嗉	slu3	
@@ -11028,7 +11126,7 @@
 愫	slu3	
 愬	slu3	
 掃	slu3	
-泝	(又)slu3	10%
+泝	slu3	
 溯	(又)slu3	10%
 漱	slu3	
 瘙	slu3	
@@ -11038,6 +11136,7 @@
 訴	slu3	
 遡	(又)slu3	10%
 擻	(白)slu4	20%
+簌	(語)slu4	10%
 浽	slui1	
 濉	slui1	
 眭	slui1	
@@ -11058,6 +11157,8 @@
 僳	sluk1	
 夙	sluk1	
 宿	sluk1	
+洬	sluk1	
+簇	(語)sluk1	10%
 粟	sluk1	
 縮	(又)sluk1	10%
 肅	sluk1	
@@ -11090,6 +11191,7 @@
 倯	(白)slung4	20%
 㞞	slung4	
 嬃	slyu1	
+戍	(又)slyu1	5%
 湑	slyu1	
 綏	(常)slyu1	
 胥	slyu1	
@@ -11180,12 +11282,10 @@
 率	(老派)slyut1	10%
 裇	(老派)slyut1	10%
 雪	(白)slyut1	5%
-𠽌	slyut1	
 銊	(老派)slyut1	10%
 薛	(常)slyut3	
 雪	slyut3	
 鱈	slyut3	
-朮	(老派)slyut6	10%
 術	(老派)slyut6	10%
 沭	(老派)slyut6	10%
 秫	(老派)slyut6	10%
@@ -11195,6 +11295,7 @@
 疋	so1	
 疏	so1	
 蔬	so1	
+疏	so3	5%
 嗾	(語)soe4	10%
 爍	soek3	
 鑠	soek3	
@@ -11207,7 +11308,7 @@
 墒	soeng1	
 孀	(又)soeng1	10%
 殤	soeng1	
-湯	soeng1	5%
+湯	(古)soeng1	5%
 瀧	soeng1	
 熵	soeng1	
 礵	(又)soeng1	10%
@@ -11215,6 +11316,8 @@
 霜	(又)soeng1	10%
 驦	(又)soeng1	10%
 鸘	(又)soeng1	10%
+騻	(又)soeng1	10%
+鷞	(又)soeng1	10%
 尚	(白)soeng2	5%
 賞	soeng2	
 裳	soeng4	
@@ -11245,13 +11348,10 @@
 帥	sui3	
 帨	sui3	
 挩	sui3	
-捝	sui3	
 涗	sui3	
-涚	sui3	
 稅	sui3	
 税	sui3	
 說	sui3	5%
-説	sui3	5%
 倕	sui4	
 圌	sui4	
 垂	sui4	
@@ -11265,6 +11365,7 @@
 穗	sui6	
 繐	sui6	
 穟	sui6	
+蔧	sui6	
 襚	sui6	
 遂	sui6	
 邃	sui6	
@@ -11288,7 +11389,6 @@
 菽	suk6	
 蜀	suk6	
 贖	suk6	
-鰫	(又)sung4	10%
 㟃	(老派)sy1	10%
 鳾	(老派)sy1	10%
 鶳	(老派)sy1	10%
@@ -11302,7 +11402,6 @@
 嘶	(老派)sy1	10%
 師	(老派)sy1	10%
 思	(老派)sy1	10%
-恖	(老派)sy1	10%
 撕	(老派)sy1	10%
 斯	(老派)sy1	10%
 楒	(老派)sy1	10%
@@ -11318,7 +11417,6 @@
 糸	(老派)sy1	10%
 緦	(老派)sy1	10%
 罳	(老派)sy1	10%
-蕬	(老派)sy1	10%
 虒	(老派)sy1	10%
 螄	(老派)sy1	10%
 蜤	(老派)sy1	10%
@@ -11331,6 +11429,7 @@
 颸	(老派)sy1	10%
 鷥	(老派)sy1	10%
 鼶	(老派)sy1	10%
+𥯨	(老派)sy1	10%
 鰤	(老派)sy1	10%
 士	(外)sy2	5%
 柶	(老派)sy3	10%
@@ -11345,11 +11444,9 @@
 俟	(老派)sy6	10%
 士	(老派)sy6	10%
 巳	(老派)sy6	10%
-戺	(老派)sy6	10%
 涘	(老派)sy6	10%
 祀	(老派)sy6	10%
 𩛌	(老派)sy6	10%
-㻬	(又)syu1	10%
 書	syu1	
 姝	(又)syu1	10%
 抒	syu1	
@@ -11357,7 +11454,7 @@
 摴	syu1	
 樞	syu1	
 樗	syu1	
-毹	(又)syu1	5%
+毹	syu1	
 紓	syu1	
 舒	syu1	
 荼	syu1	
@@ -11387,6 +11484,7 @@
 樹	syu6	
 澍	syu6	
 豎	syu6	
+裋	syu6	
 瞬	(老派)syun3	10%
 唇	(老派)syun4	10%
 脣	(老派)syun4	10%
@@ -11405,7 +11503,6 @@
 舜	(老派)syun6	10%
 順	(老派)syun6	10%
 說	syut3	
-説	syut3	
 他	taa1	
 她	taa1	
 它	taa1	
@@ -11426,9 +11523,7 @@
 酞	taai3	
 鈦	taai3	
 柁	(白)taai5	20%
-舦	taai5	
 舵	(白)taai5	20%
-軚	taai5	
 坍	(又)taam1	10%
 貪	taam1	
 菼	taam2	
@@ -11443,7 +11538,6 @@
 埮	taam4	
 惔	taam4	
 曇	taam4	
-榃	taam4	
 潭	taam4	
 澹	taam4	5%
 燂	taam4	
@@ -11459,6 +11553,7 @@
 醰	taam4	
 錟	taam4	
 鐔	taam4	
+𧽼	taam4	
 淡	(白)taam5	
 嘽	taan1	
 坍	taan1	
@@ -11466,6 +11561,7 @@
 灘	taan1	
 癱	(又)taan1	5%
 亶	taan2	
+儃	taan2	
 坦	taan2	
 忐	taan2	
 毯	taan2	
@@ -11479,7 +11575,6 @@
 碳	taan3	
 壇	taan4	
 彈	(文)taan4	
-枟	taan4	
 檀	taan4	
 鞳	(語)taap1	5%
 䍇	taap3	
@@ -11506,12 +11601,13 @@
 溻	(又)taat3	10%
 趿	taat3	
 躂	taat3	
-達	taat3	5%
+達	(古)taat3	5%
 遢	taat3	
 闥	taat3	
 靸	taat3	
 韃	taat3	
 鰨	(又)taat3	10%
+㒓	taat3	
 鷈	tai1	
 鷉	tai1	
 梯	tai1	
@@ -11524,7 +11620,6 @@
 屜	tai3	
 替	tai3	
 涕	tai3	
-締	(又)tai3	10%
 薙	tai3	
 裼	tai3	
 髢	tai3	
@@ -11559,9 +11654,10 @@
 鋱	tak1	
 探	(白)tam3	20%
 撢	(白)tam3	20%
-𧨾	(訓)tam3	90%
+𧨾	tam3	
 坍	(語)tam4	10%
-𧽼	tam4	
+榃	tam4	
+𧽼	(白)tam4	20%
 凼	tam5	
 氹	tam5	
 窞	(白)tam5	20%
@@ -11580,6 +11676,7 @@
 迍	tan4	
 魨	tan4	
 膯	tang1	
+鼟	tang1	
 鰧	tang4	
 滕	tang4	
 疼	tang4	
@@ -11596,7 +11693,6 @@
 唞	tau2	
 敨	tau2	
 咅	tau3	
-炓	(語)tau3	10%
 透	tau3	
 頭	tau4	
 投	tau4	
@@ -11634,8 +11730,8 @@
 湉	tim4	
 甜	tim4	
 菾	tim4	
-兲	tin1	
 天	tin1	
+㥏	(又)tin2	10%
 靦	(又)tin2	10%
 捵	(又)tin2	10%
 晪	(又)tin2	10%
@@ -11657,7 +11753,6 @@
 窴	tin4	
 鈿	tin4	
 闐	tin4	
-鴫	tin4	
 鿬	tin4	
 殄	tin5	
 听	(文)ting1	
@@ -11667,6 +11762,7 @@
 汀	(文)ting1	
 烴	ting1	
 町	(又)ting1	10%
+鞓	ting1	
 綎	ting1	
 侹	ting2	
 圢	ting2	
@@ -11699,6 +11795,7 @@
 銕	tit3	
 鐵	tit3	
 餮	tit3	
+䠷	tiu1	
 佻	tiu1	
 挑	tiu1	
 祧	tiu1	
@@ -11712,6 +11809,7 @@
 䯾	tiu4	
 佻	tiu4	
 嬥	tiu4	
+岧	tiu4	
 條	tiu4	
 笤	tiu4	
 苕	tiu4	
@@ -11725,6 +11823,7 @@
 窕	tiu5	
 拕	to1	
 拖	to1	
+陀	(白)to1	5%
 妥	(又)to2	5%
 橢	(又)to2	5%
 駝	(白)to2	5%
@@ -11741,10 +11840,12 @@
 鉈	to4	
 阤	to4	
 陀	to4	
+陁	to4	
 馱	to4	
 駝	to4	
 鴕	to4	
 鼉	to4	
+鼧	to4	
 鮀	to4	
 妥	to5	
 柁	to5	
@@ -11779,8 +11880,10 @@
 橐	tok3	
 籜	tok3	
 蘀	tok3	
+跅	tok3	
 飥	tok3	
 魄	tok3	5%
+魠	tok3	
 劏	tong1	
 嘡	tong1	
 湯	tong1	
@@ -11816,9 +11919,9 @@
 糖	tong4	
 醣	tong4	
 膛	tong4	
-茼	(語)tong4	10%
 螗	tong4	
 螳	tong4	
+赯	tong4	
 鄌	tong4	
 鏜	tong4	
 餳	tong4	
@@ -11826,13 +11929,14 @@
 叨	tu1	
 弢	tu1	
 慆	tu1	
-挑	tu1	5%
+挑	(古)tu1	5%
 搯	tu1	
 滔	tu1	
 縚	tu1	
 絛	tu1	
 韜	tu1	
 饕	tu1	
+䵚	tu2	
 土	tu2	
 討	tu2	
 釷	tu2	
@@ -11841,6 +11945,7 @@
 堍	tu3	
 套	tu3	
 菟	tu3	
+䄻	tu4	
 匋	tu4	
 咷	tu4	
 啕	tu4	
@@ -11866,6 +11971,7 @@
 逃	tu4	
 途	tu4	
 酴	tu4	
+醄	tu4	
 陶	tu4	
 鞀	tu4	
 鼗	tu4	
@@ -11875,23 +11981,25 @@
 推	tui1	
 焞	tui1	
 腿	tui2	
+侻	tui3	
 煺	tui3	
 蛻	tui3	
-蜕	tui3	
 褪	tui3	
 退	tui3	
 穨	tui4	
 頹	tui4	
 頽	tui4	
 魋	tui4	
+尵	tui4	
 隤	tui4	
 禿	tuk1	
 𢬳	tuk1	
 嗵	tung1	
 囪	(訓)tung1	90%
 囱	(訓)tung1	90%
-彤	(又)tung1	5%
+彤	(白)tung1	5%
 恫	tung1	
+樋	tung1	
 熥	tung1	
 通	tung1	
 㛚	tung2	
@@ -11912,6 +12020,7 @@
 峒	tung4	
 彤	tung4	
 曈	tung4	
+朣	tung4	
 桐	tung4	
 橦	tung4	
 洞	tung4	5%
@@ -11942,22 +12051,17 @@
 斷	tyun5	
 禿	(語)tyut1	10%
 脫	(白)tyut1	5%
+侻	tyut3	
 挩	tyut3	
-捝	tyut3	
 梲	tyut3	
-棁	tyut3	
 脫	tyut3	
-脱	tyut3	
-嗚	(語)u1	10%
 熝	u1	
 爊	u1	
 𤏶	u1	
 鏖	u1	
-哦	(語)u2	10%
 噢	(語)u2	10%
-媪	u2	
 媼	u2	
-嗚	(白)u3	20%
+䴈	u2	
 哦	(語)u3	10%
 噢	u3	
 圫	u3	
@@ -11974,15 +12078,13 @@
 鿫	u3	
 哎	(語)ui1	10%
 哎	(語)ui2	5%
+哎	(語)ui4	10%
 剭	uk1	
 屋	uk1	
 齷	(常)uk1	
-嗡	(又)ung1	10%
 㙲	(白)ung1	20%
 壅	(白)ung1	20%
 翁	(又)ung1	10%
-鶲	(又)ung1	10%
-鎓	(又)ung1	10%
 擁	(白)ung2	20%
 䐥	ung3	
 瓮	ung3	
@@ -11990,6 +12092,7 @@
 罋	ung3	
 蕹	ung3	
 齆	ung3	
+喎	waa1	
 凹	waa1	
 划	(又)waa1	5%
 咼	waa1	
@@ -12001,37 +12104,37 @@
 窪	waa1	
 畖	waa1	
 窊	waa1	
-糀	(又)waa1	10%
-花	(白)waa1	20%
+花	(白)waa1	5%
 蛙	waa1	
 娃	(白)waa2	5%
 搲	(文)waa2	
 畫	(白)waa2	
 話	(白)waa2	5%
-化	(白)waa3	20%
+化	(白)waa3	5%
 𠹁	waa3	
 划	waa4	
 華	waa4	
 哇	(語)waa4	10%
 嘩	waa4	
 崋	waa4	
+搳	waa4	
 樺	waa4	
 鏵	waa4	
 驊	waa4	
 踝	waa5	
 華	waa6	5%
+吧	(白)waa6	20%
 哇	(語)waa6	10%
 嬅	waa6	
 崋	(又)waa6	10%
 畫	(文)waa6	
-舙	waa6	
 觟	waa6	
 話	waa6	
 歪	waai1	
 溾	waai1	
-塊	(白)waai3	20%
-快	(白)waai3	20%
-筷	(白)waai3	20%
+塊	(白)waai3	5%
+快	(白)waai3	5%
+筷	(白)waai3	5%
 怀	waai4	
 懷	waai4	
 槐	waai4	
@@ -12050,14 +12153,13 @@
 掝	waak6	
 畫	waak6	
 砉	waak6	
-篗	(白)waak6	
 籰	(白)waak6	
 獲	(白)waak6	
 穫	(白)waak6	
 㗲	waak6	
-𡄴	waak6	
 𦑌	waak6	
 騞	waak6	
+謋	waak6	
 壪	waan1	
 彎	waan1	
 灣	waan1	
@@ -12071,7 +12173,7 @@
 桓	(又)waan4	10%
 澴	waan4	
 環	waan4	
-繯	waan4	
+繯	(又)waan4	10%
 還	waan4	
 郇	waan4	
 鍰	waan4	
@@ -12080,6 +12182,7 @@
 頑	waan4	
 鬟	waan4	
 䴉	waan4	
+轘	waan4	
 挽	waan5	
 輓	waan5	
 鯇	(文)waan5	
@@ -12090,8 +12193,9 @@
 漶	waan6	
 玩	(文)waan6	
 翫	(文)waan6	
-繯	(又)waan6	10%
+繯	waan6	
 豢	waan6	
+轘	waan6	
 硡	(語)waang1	10%
 橫	waang4	
 嗗	waat3	
@@ -12103,11 +12207,10 @@
 撝	(白)wai1	
 為	(白)wai1	5%
 爲	(白)wai1	5%
-倭	wai1	5%
+倭	(古)wai1	5%
 委	wai1	5%
 威	wai1	
 媁	wai1	
-媙	wai1	
 崴	wai1	
 揮	(白)wai1	
 暉	(白)wai1	
@@ -12140,18 +12243,17 @@
 痿	wai2	
 碨	wai2	
 緯	wai2	
-芔	wai2	
 萎	wai2	
 薳	wai2	
 虫	wai2	
 虺	wai2	
 諉	wai2	
-韡	wai2	
 韙	wai2	
 骫	wai2	
 蒍	wai2	
 蔿	wai2	
 暐	wai2	
+韡	wai2	
 偎	(又)wai3	10%
 噦	wai3	
 喂	wai3	
@@ -12207,75 +12309,62 @@
 煟	wai6	
 蝟	wai6	
 胃	wai6	
+蔧	(又)wai6	10%
 蕙	wai6	
 蟪	wai6	
 諱	wai6	
 謂	wai6	
-遺	wai6	5%
+遺	(古)wai6	5%
 𠅤	wai6	
-嘳	(又)wai6	10%
 譓	wai6	
 鏏	wai6	
 掝	(語)wak6	10%
 勛	(白)wan1	
 勳	(白)wan1	
+塭	wan1	
 婚	(白)wan1	
 惛	wan1	
 昏	(白)wan1	
 暈	(動)wan1	5%
 曛	(白)wan1	
-榅	(又)wan1	10%
 榲	(又)wan1	10%
 殟	wan1	
 氲	wan1	
 氳	wan1	
-温	wan1	
 溫	wan1	
-煴	wan1	
 熅	wan1	
 熏	(白)wan1	
 燻	(白)wan1	
 獯	(白)wan1	
 瘟	wan1	
-緼	wan1	
 縕	wan1	
 葷	(白)wan1	
-蒀	wan1	
 蒕	wan1	
 薀	wan1	
 薰	(白)wan1	
 贇	wan1	
-輼	wan1	
 轀	wan1	
 醺	(白)wan1	
 閽	(白)wan1	
 馧	wan1	
-鰛	wan1	
 鰮	wan1	
 纁	(白)wan1	
 頵	wan1	
-揾	wan2	
 搵	wan2	
 混	(白)wan2	5%
 穩	wan2	
 困	(白)wan3	20%
-愠	wan3	
 慍	wan3	
-揾	wan3	
 搵	wan3	
-緼	wan3	
 縕	wan3	
 薀	wan3	
-藴	wan3	
 蘊	wan3	
-訓	(白)wan3	20%
-醖	wan3	
+訓	(白)wan3	5%
 醞	wan3	
 韞	wan3	
 云	wan4	
 雲	wan4	
 勻	wan4	
-匂	wan4	
 員	wan4	5%
 妘	wan4	
 昀	wan4	
@@ -12285,6 +12374,7 @@
 渾	wan4	
 溳	wan4	
 琿	wan4	
+畇	wan4	
 筠	wan4	
 篔	wan4	
 紜	wan4	
@@ -12308,7 +12398,6 @@
 暈	(名)wan6	5%
 混	(文)wan6	
 溷	wan6	
-煴	wan6	
 熅	wan6	
 熨	wan6	
 諢	wan6	
@@ -12318,7 +12407,6 @@
 餫	wan6	
 嗡	(語)wang1	10%
 耾	(語)wang1	5%
-奣	wang2	
 撔	wang6	
 㳚	wat1	
 䓛	wat1	
@@ -12326,14 +12414,12 @@
 堀	(白)wat1	20%
 尉	wat1	5%
 屈	wat1	
-榅	wat1	
 榲	wat1	
-煀	wat1	
 熨	wat1	5%
 爩	wat1	
+矻	(白)wat1	20%
 窟	(白)wat1	20%
 胐	(白)wat1	20%
-腽	wat1	
 膃	wat1	
 菀	wat1	
 蔚	wat1	
@@ -12352,14 +12438,16 @@
 遹	wat6	
 鶻	wat6	
 鷸	wat6	
+𣝗	wat6	
 汪	(語)wau1	10%
-噦	(語)we2	5%
+哇	(白)we2	5%
+噦	(訓)we2	5%
 搲	(白)we2	
 唄	(白)we6	20%
 𠹁	(語)we6	10%
 環	(白)wen4	20%
 還	(白)wen4	20%
-挽	(白)wen5	20%
+挽	(白)wen5	5%
 鯇	(白)wen5	
 滑	(語)wet1	10%
 挖	(白)wet3	
@@ -12390,7 +12478,8 @@
 萵	wo1	
 蝸	wo1	
 踒	wo1	
-倭	wo2	5%
+䰀	wo2	
+倭	(古)wo2	5%
 喎	wo3	
 涴	wo3	
 𤆏	wo3	
@@ -12400,8 +12489,8 @@
 禾	wo4	
 龢	wo4	
 喎	wo5	
+毈	(又)wo5	10%
 涴	(語)wo5	10%
-𢰸	wo5	
 和	wo6	5%
 禍	wo6	
 矱	wok3	
@@ -12412,7 +12501,6 @@
 彠	wok6	
 濩	wok6	
 瓠	wok6	5%
-篗	(文)wok6	
 籰	(文)wok6	
 獲	(文)wok6	
 穫	(文)wok6	
@@ -12453,9 +12541,9 @@
 暀	wong5	
 旺	wong6	
 暀	wong6	
-王	wong6	5%
+王	(古)wong6	5%
 烏	wu1	
-於	wu1	5%
+於	(古)wu1	5%
 嗚	wu1	
 圬	wu1	
 塢	wu1	
@@ -12466,11 +12554,9 @@
 鄔	wu1	
 鎢	wu1	
 靰	wu1	
-𠌥	(又)wu1	5%
 祜	wu2	
 噁	wu3	
 惡	wu3	5%
-𠌥	wu3	
 乎	wu4	
 和	wu4	
 壺	wu4	
@@ -12496,10 +12582,10 @@
 岵	wu6	
 怙	wu6	
 戶	wu6	
-户	wu6	
 扈	wu6	
 護	wu6	
 昈	wu6	
+枑	wu6	
 滬	wu6	
 濩	wu6	
 瓠	wu6	
@@ -12534,11 +12620,13 @@
 剜	wun2	
 婉	wun2	
 宛	wun2	
+帵	wun2	
 惋	wun2	
 椀	wun2	
 碗	wun2	
 脘	(又)wun2	10%
 腕	wun2	
+蜿	wun2	
 豌	wun2	
 垣	wun4	
 峘	wun4	
@@ -12552,6 +12640,7 @@
 綄	wun4	
 㬊	wun5	
 浣	wun5	
+澣	wun5	
 皖	wun5	
 緩	wun5	
 莞	wun5	
@@ -12575,7 +12664,7 @@
 喒	zaa1	
 喳	zaa1	
 奓	zaa1	
-抓	(訓)zaa1	5%
+抓	(訓)zaa1	90%
 抯	zaa1	
 挓	zaa1	
 撾	zaa1	
@@ -12587,7 +12676,6 @@
 樝	zaa1	
 渣	zaa1	
 猹	zaa1	
-碴	zaa1	
 膼	zaa1	
 蹅	zaa1	
 髽	zaa1	
@@ -12596,6 +12684,7 @@
 䕢	zaa2	
 渣	(語)zaa2	5%
 砟	zaa2	
+苲	zaa2	
 苴	zaa2	
 鮓	zaa2	
 鮺	zaa2	
@@ -12623,6 +12712,7 @@
 𧨊	zaa6	
 齰	zaa6	
 齋	zaai1	
+䍉	zaai2	
 債	zaai3	
 瘵	zaai3	
 祭	zaai3	5%
@@ -12630,6 +12720,7 @@
 㩟	zaai6	
 寨	zaai6	
 廌	(又)zaai6	10%
+拽	zaai6	
 砦	zaai6	
 豸	(又)zaai6	10%
 㩇	zaak3	
@@ -12662,11 +12753,11 @@
 齰	zaak6	
 簪	zaam1	
 糌	zaam1	
-䁪	zaam2	
 寁	zaam2	
 嶄	zaam2	
 斬	(文)zaam2	
 鏨	(白)zaam2	
+䁪	zaam2	
 偡	zaam3	
 湛	zaam3	
 蘸	(文)zaam3	
@@ -12701,11 +12792,12 @@
 濽	(語)zaan6	10%
 灒	(語)zaan6	10%
 㬹	zaang1	
-丁	zaang1	5%
+丁	(古)zaang1	5%
 爭	zaang1	
 掙	(又)zaang1	10%
 踭	zaang1	
 䂻	zaang6	
+㴙	zaap3	
 偛	zaap3	
 劄	zaap3	
 匝	zaap3	
@@ -12721,7 +12813,6 @@
 扎	(語)zaap6	10%
 紮	(語)zaap6	10%
 雜	zaap6	
-枠	zaap6	
 牐	zaap6	
 鍘	(訓)zaap6	90%
 閘	zaap6	
@@ -12763,6 +12854,7 @@
 濟	zai3	
 漈	zai3	
 狾	zai3	
+瘈	zai3	
 磜	zai3	
 祭	zai3	
 穄	zai3	
@@ -12771,10 +12863,9 @@
 霽	zai3	
 鰶	zai3	
 嚌	zai6	
-懘	zai6	
 滯	zai6	
 癠	zai6	
-齊	zai6	5%
+齊	(古)zai6	5%
 仄	zak1	
 側	zak1	
 則	zak1	
@@ -12810,6 +12901,7 @@
 罇	zan1	
 津	zan1	
 溱	zan1	
+獉	zan1	
 珍	zan1	
 珒	zan1	
 瑧	zan1	
@@ -12832,18 +12924,16 @@
 準	zan2	
 埻	zan2	
 攢	(白)zan2	
-槇	(又)zan2	10%
-槙	(又)zan2	10%
-稹	(又)zan2	10%
-縝	(又)zan2	10%
 陣	(又)zan2	5%
 隼	zan2	
 綧	zan2	
+䟴	(書)zan3	10%
 俊	zan3	
 儁	zan3	
 圳	zan3	
 峻	zan3	
 振	zan3	
+搢	zan3	
 晉	zan3	
 晙	zan3	
 浚	zan3	
@@ -12862,7 +12952,6 @@
 葰	zan3	
 賑	zan3	
 進	zan3	
-鎭	zan3	
 鎮	zan3	
 雋	zan3	
 震	zan3	
@@ -12880,6 +12969,7 @@
 陣	zan6	
 䎖	zang1	
 䒏	zang1	
+䦛	zang1	
 僧	zang1	
 噌	zang1	
 增	zang1	
@@ -12899,13 +12989,14 @@
 鬙	zang1	
 綪	zang1	
 盯	(白)zang2	5%
-𤺧	zang2	
 甑	zang3	
+罾	(又)zang3	10%
 諍	zang3	
 噌	(語)zang4	10%
 掙	zang6	
 繒	zang6	
 贈	zang6	
+㴙	(白)zap1	5%
 執	zap1	
 汁	zap1	
 縶	zap1	
@@ -12934,10 +13025,10 @@
 侄	zat6	
 姪	zat6	
 厔	zat6	
-嫉	zat6	
 庢	zat6	
+嫉	zat6	
 挃	zat6	
-朮	(書)zat6	10%
+朮	zat6	
 桎	zat6	
 甴	(又)zat6	10%
 疾	zat6	
@@ -12947,6 +13038,7 @@
 蒺	zat6	
 蛭	zat6	
 螏	zat6	
+螲	zat6	
 郅	zat6	
 銍	zat6	
 周	zau1	
@@ -12977,12 +13069,14 @@
 鯫	zau1	
 鵃	zau1	
 𩭓	zau1	
+緅	zau1	
 帚	zau2	
 肘	zau2	
 走	zau2	
 酒	zau2	
 㑳	zau3	
 㥮	zau3	
+僽	zau3	
 咒	zau3	
 奏	zau3	
 揍	zau3	
@@ -12990,9 +13084,7 @@
 椆	zau3	
 皺	zau3	
 縐	zau3	
-蔟	(又)zau3	10%
 㠇	zau6	
-㩆	zau6	
 僦	zau6	
 宙	zau6	
 就	zau6	
@@ -13069,12 +13161,12 @@
 罩	(白)zeu3	
 棹	(白)zeu6	
 櫂	(白)zeu6	
-㞢	zi1	
-䊷	zi1	
+䟡	zi1	
 之	zi1	
 茲	zi1	
 卮	zi1	
 巵	zi1	
+即	(語)zi1	10%
 吱	zi1	
 呲	zi1	
 咨	zi1	
@@ -13115,7 +13207,6 @@
 芝	zi1	
 菑	zi1	
 蜘	zi1	
-螆	zi1	
 衼	zi1	
 觜	zi1	
 訾	zi1	5%
@@ -13132,18 +13223,17 @@
 鶅	zi1	
 鼒	zi1	
 齍	zi1	
-齊	zi1	5%
+齊	(古)zi1	5%
 齜	zi1	
 𦭜	zi1	
 鳷	zi1	
 澬	zi1	
-㧗	zi2	
 仔	zi2	
-凪	zi2	
 厎	zi2	
 只	zi2	
 呰	zi2	
 咫	zi2	
+啙	zi2	
 址	zi2	
 坁	zi2	
 姊	zi2	
@@ -13153,7 +13243,6 @@
 扺	zi2	
 指	zi2	
 旨	zi2	
-杍	zi2	
 枳	zi2	
 栺	zi2	
 梓	zi2	
@@ -13185,7 +13274,6 @@
 酯	zi2	
 阯	zi2	
 黹	zi2	
-伿	(又)zi3	10%
 倳	zi3	
 剚	zi3	
 寘	zi3	
@@ -13209,7 +13297,7 @@
 緻	zi3	
 致	zi3	
 觶	zi3	
-識	zi3	5%
+識	(古)zi3	5%
 贄	zi3	
 躓	zi3	
 輊	zi3	
@@ -13226,7 +13314,6 @@
 庤	zi6	
 廌	zi6	
 彘	zi6	
-徥	(又)zi6	10%
 杝	zi6	
 歭	zi6	
 治	zi6	
@@ -13235,6 +13322,7 @@
 牸	zi6	
 畤	zi6	
 痔	zi6	
+眥	zi6	
 稚	zi6	
 耜	zi6	
 自	zi6	
@@ -13297,7 +13385,6 @@
 藉	zik6	
 蟄	zik6	
 褯	(又)zik6	10%
-䀡	zim1	
 占	zim1	
 尖	zim1	
 嶦	zim1	
@@ -13319,11 +13406,11 @@
 旃	zin1	
 栴	zin1	
 氈	zin1	
-氊	zin1	
 湔	zin1	
 濺	zin1	
 煎	zin1	
 箋	(書)zin1	10%
+邅	zin1	
 韉	zin1	
 鱣	zin1	
 鸇	zin1	
@@ -13331,7 +13418,6 @@
 鳽	zin1	
 囅	(又)zin2	10%
 剪	zin2	
-媊	zin2	
 展	zin2	
 戩	zin2	
 搌	zin2	
@@ -13391,10 +13477,10 @@
 䝼	zing6	
 凈	zing6	
 淨	zing6	
-剩	(習)zing6	
+剩	(白)zing6	
 婧	zing6	
-瀞	zing6	
 竫	zing6	
+賸	(白)zing6	
 鄭	zing6	
 阱	(文)zing6	
 靚	zing6	
@@ -13412,9 +13498,11 @@
 霅	zip3	
 㘉	zit3	
 㵶	zit3	
+䇽	zit3	
+倢	zit3	
 哲	zit3	
 喆	zit3	
-嚞	zit3	
+婕	zit3	
 尐	zit3	
 岊	zit3	
 悊	zit3	
@@ -13430,7 +13518,6 @@
 蜇	zit3	
 踅	(訓)zit3	90%
 轍	zit3	
-婕	zit6	
 截	zit6	
 捷	zit6	
 睫	zit6	
@@ -13456,6 +13543,7 @@
 僬	ziu3	
 嘦	ziu3	
 曌	ziu3	
+灂	ziu3	
 炤	ziu3	
 照	ziu3	
 皭	ziu3	
@@ -13469,12 +13557,14 @@
 銚	ziu6	
 鮡	ziu6	
 咗	zo1	5%
+嗻	(白)zo1	20%
 佐	zo2	
 俎	zo2	
 咗	zo2	
 唨	zo2	
 岨	zo2	
 左	zo2	
+攞	(語)zo2	10%
 詛	zo2	
 阻	zo2	
 䠡	(語)zo4	10%
@@ -13519,9 +13609,11 @@
 獐	zoeng1	
 璋	zoeng1	
 章	zoeng1	
+螿	zoeng1	
 蟑	zoeng1	
 鄣	zoeng1	
 鱂	zoeng1	
+餦	zoeng1	
 丈	(白)zoeng2	5%
 仉	zoeng2	
 奬	zoeng2	
@@ -13529,9 +13621,10 @@
 掌	zoeng2	
 槳	zoeng2	
 漲	(又)zoeng2	5%
-鞝	zoeng2	
+礃	zoeng2	
 蔣	zoeng2	
 長	zoeng2	
+鞝	zoeng2	
 仗	zoeng3	
 將	zoeng3	
 嶂	zoeng3	
@@ -13551,18 +13644,18 @@
 橡	zoeng6	
 蟓	zoeng6	
 象	zoeng6	
-長	(又)zoeng6	10%
+長	(古)zoeng6	
 㰵	(白)zoet1	20%
-嘬	(白)zoet1	5%
 哉	zoi1	
 栽	zoi1	
 災	zoi1	
-灾	zoi1	
 甾	zoi1	
 菑	zoi1	
+在	(白)zoi2	5%
 宰	zoi2	
 崽	zoi2	
 載	zoi2	5%
+儎	zoi3	
 再	zoi3	
 載	zoi3	
 在	zoi6	
@@ -13587,6 +13680,7 @@
 柞	zok6	
 浞	zok6	
 濯	zok6	
+灂	zok6	
 砟	zok6	
 笮	zok6	
 酢	zok6	
@@ -13604,7 +13698,6 @@
 贓	zong1	
 駔	zong2	
 壯	zong3	
-壵	zong3	
 戇	zong3	
 葬	zong3	
 僮	zong6	
@@ -13617,6 +13710,7 @@
 藏	zong6	
 租	zu1	
 糟	zu1	
+蹧	zu1	
 遭	zu1	
 早	zu2	
 棗	zu2	
@@ -13634,8 +13728,7 @@
 灶	zu3	
 竈	zu3	
 唕	zu6	
-唣	zu6	
-慥	(又)zu6	10%
+慥	zu6	
 皁	zu6	
 皂	zu6	
 祚	zu6	
@@ -13644,7 +13737,6 @@
 造	zu6	
 阼	zu6	
 䘒	zui1	
-朘	zui1	
 椎	zui1	
 脧	zui1	
 追	zui1	
@@ -13658,12 +13750,11 @@
 惴	zui3	
 晬	zui3	
 最	zui3	
-槜	zui3	
 檇	zui3	
 綴	zui3	
 蕞	zui3	
+贅	(又)zui3	10%
 醉	zui3	
-䃍	(又)zui6	10%
 墜	zui6	
 懟	(又)zui6	10%
 拽	zui6	
@@ -13675,7 +13766,7 @@
 𢶀	zui6	
 喌	(又)zuk1	10%
 囑	zuk1	
-屬	zuk1	5%
+屬	(古)zuk1	5%
 柷	zuk1	
 燭	zuk1	
 瘃	zuk1	
@@ -13687,9 +13778,8 @@
 蜀	(常)zuk1	
 蠋	zuk1	
 足	zuk1	
-鐲	(白)zuk1	5%
+鐲	(又)zuk1	5%
 俗	zuk6	
-嗾	(又)zuk6	10%
 妯	zuk6	
 族	zuk6	
 濁	zuk6	
@@ -13709,7 +13799,7 @@
 忪	zung1	
 悰	(又)zung1	5%
 樅	zung1	
-柊	(又)zung1	10%
+柊	zung1	
 棕	zung1	
 椶	zung1	
 淙	(又)zung1	5%
@@ -13725,12 +13815,12 @@
 衷	zung1	
 蹤	zung1	
 蹱	zung1	
-迚	zung1	
 鍾	zung1	
 鐘	zung1	
 騣	zung1	
 鬃	zung1	
 鬷	zung1	
+㙡	zung1	
 傯	zung2	
 冢	zung2	
 塚	zung2	
@@ -13758,7 +13848,6 @@
 誦	zung6	
 重	zung6	
 頌	zung6	
-䊷	(老派)zy1	10%
 茲	(老派)zy1	10%
 呲	(老派)zy1	10%
 咨	(老派)zy1	10%
@@ -13779,7 +13868,6 @@
 粢	(老派)zy1	10%
 緇	(老派)zy1	10%
 菑	(老派)zy1	10%
-螆	(老派)zy1	10%
 觜	(老派)zy1	10%
 訾	(老派)zy1	5%
 貲	(老派)zy1	10%
@@ -13798,12 +13886,11 @@
 齊	(老派)zy1	10%
 齜	(老派)zy1	10%
 澬	(老派)zy1	10%
-㧗	(老派)zy2	10%
 仔	(老派)zy2	10%
 呰	(老派)zy2	10%
+啙	(老派)zy2	10%
 姊	(老派)zy2	10%
 子	(老派)zy2	10%
-杍	(老派)zy2	10%
 梓	(老派)zy2	10%
 滓	(老派)zy2	10%
 秭	(老派)zy2	10%
@@ -13824,6 +13911,7 @@
 字	(老派)zy6	10%
 寺	(老派)zy6	10%
 牸	(老派)zy6	10%
+眥	(老派)zy6	10%
 耜	(老派)zy6	10%
 自	(老派)zy6	10%
 芓	(老派)zy6	10%
@@ -13836,11 +13924,10 @@
 株	zyu1	
 櫧	zyu1	
 櫫	zyu1	
-沮	zyu1	5%
+沮	(古)zyu1	5%
 洙	zyu1	
 瀦	zyu1	
 狙	zyu1	
-猪	zyu1	
 豬	zyu1	
 珠	zyu1	
 疽	zyu1	
@@ -13861,14 +13948,15 @@
 咀	zyu2	
 岨	zyu2	
 拄	zyu2	
+枓	zyu2	
 沮	zyu2	
 渚	zyu2	
 煑	zyu2	
 煮	zyu2	
-鉏	zyu2	
 麈	zyu2	
 齟	zyu2	
-沮	zyu3	5%
+鉏	zyu2	
+沮	(古)zyu3	5%
 注	zyu3	
 註	zyu3	
 炷	zyu3	
@@ -13906,7 +13994,6 @@
 繜	(老派)zyun1	10%
 耑	zyun1	
 肫	(老派)zyun1	10%
-脧	zyun1	
 衠	(老派)zyun1	10%
 諄	(老派)zyun1	10%
 躦	zyun1	
@@ -13924,11 +14011,12 @@
 囀	zyun2	
 噂	zyun2	
 埻	(老派)zyun2	10%
-孨	zyun2	
 撙	zyun2	
 轉	zyun2	
 隼	(老派)zyun2	10%
 綧	(老派)zyun2	10%
+圳	(老派)zyun3	10%
+甽	(老派)zyun3	10%
 轉	zyun3	
 鑽	(名)zyun3	
 䉵	zyun6	
@@ -13948,19 +14036,18 @@
 饌	zyun6	
 㰵	zyut1	
 卒	(老派)zyut1	10%
+嘬	zyut1	
 崒	(又)zyut1	5%
 蟀	zyut1	
 剟	zyut3	
 叕	zyut3	
 啜	zyut3	
-嘬	zyut3	
 惙	zyut3	
 拙	zyut3	
 掇	zyut3	
 撮	(又)zyut3	10%
 敠	(又)zyut3	10%
 梲	zyut3	
-棁	zyut3	
 欼	zyut3	
 歠	zyut3	
 絀	zyut3	
@@ -13972,6 +14059,6 @@
 崒	zyut6	
 拙	(又)zyut6	10%
 捽	zyut6	
-朮	(書)zyut6	10%
+朮	(老派)zyut6	10%
 椊	zyut6	
 絕	zyut6	
