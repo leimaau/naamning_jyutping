@@ -69,6 +69,22 @@ def copy_files_to_targets(source_dir: str, yaml_files: List[str]) -> None:
                 print(f"复制文件 {file_name} 时出错: {str(e)}")
                 continue
 
+def find_position_after_marker(file_path: str, marker: str) -> int:
+    """查找文件中特定标记后的位置
+    
+    Args:
+        file_path: 文件路径
+        marker: 要查找的标记字符串
+    
+    Returns:
+        int: 标记后一行的位置（从0开始计数）
+    """
+    with open(file_path, 'r', encoding='utf-8') as f:
+        for i, line in enumerate(f):
+            if marker in line:
+                return i + 1
+    raise ValueError(f"在文件 {file_path} 中未找到标记: {marker}")
+
 def main():
     # 路径设置
     source_dir = r'E:\LocalRepository\github\naamning_jyutping'
@@ -103,20 +119,32 @@ def main():
             
             # 定义文件合并规则
             merge_rules = {
-                'naamning_baakwaa.dict.yaml': (190, [
-                    (os.path.join(current_dir, 'v_nb_zingjam_rime.txt'), 'r'),
-                    (os.path.join(current_dir, 'tab_nbdict_all_phrase.txt'), 'r')
-                ]),
-                'naamning_bingwaa.dict.yaml': (180, [
-                    (os.path.join(current_dir, 'v_nb_zingjam_bw_rime.txt'), 'r'),
-                    (os.path.join(current_dir, 'tab_nbdict_all_bw_phrase.txt'), 'r')
-                ]),
-                'naamning_baakwaa.infer.dict.yaml': (28, [
-                    (os.path.join(current_dir, 'temp_xxxx4_infer.txt'), 'r')
-                ]),
-                'naamning_bingwaa.infer.dict.yaml': (28, [
-                    (os.path.join(current_dir, 'temp_xxxx4_bw_infer.txt'), 'r')
-                ])
+                'naamning_baakwaa.dict.yaml': (
+                    find_position_after_marker(source_path, '# 基礎字音表'),
+                    [
+                        (os.path.join(current_dir, 'v_nb_zingjam_rime.txt'), 'r'),
+                        (os.path.join(current_dir, 'tab_nbdict_all_phrase.txt'), 'r')
+                    ]
+                ),
+                'naamning_bingwaa.dict.yaml': (
+                    find_position_after_marker(source_path, '# 基礎字音表'),
+                    [
+                        (os.path.join(current_dir, 'v_nb_zingjam_bw_rime.txt'), 'r'),
+                        (os.path.join(current_dir, 'tab_nbdict_all_bw_phrase.txt'), 'r')
+                    ]
+                ),
+                'naamning_baakwaa.infer.dict.yaml': (
+                    find_position_after_marker(source_path, '# 單字音'),
+                    [
+                        (os.path.join(current_dir, 'temp_xxxx4_infer.txt'), 'r')
+                    ]
+                ),
+                'naamning_bingwaa.infer.dict.yaml': (
+                    find_position_after_marker(source_path, '# 單字音'),
+                    [
+                        (os.path.join(current_dir, 'temp_xxxx4_bw_infer.txt'), 'r')
+                    ]
+                )
             }
             
             # 根据规则处理文件

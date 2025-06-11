@@ -50,6 +50,23 @@ jobs:
             exit 1
           }
 
+      - name: Delete old APK files
+        run: |
+          # 设置控制台代码页为UTF-8
+          chcp 65001
+          
+          # 获取当前日期
+          $date = Get-Date -Format "yyyyMMdd"
+          
+          # 检查今日文件是否存在
+          $todayFile = Get-ChildItem -Filter "naamning-$date.apk" -ErrorAction SilentlyContinue
+          if ($todayFile) {
+              # 存在今日文件，删除其他旧文件
+              Get-ChildItem -Filter "naamning-*.apk" | Where-Object { $_.Name -ne $todayFile.Name } | Remove-Item -Force
+          } else {
+              Write-Warning "No APK file found for today ($date)."
+          }
+
       - name: Create Release
         id: create_release
         uses: softprops/action-gh-release@v2
