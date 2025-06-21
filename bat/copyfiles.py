@@ -10,7 +10,8 @@ from datetime import datetime
 from typing import List, Tuple
 
 # 定义目标路径
-RIME_USER_DIR = os.path.expanduser(r'~\AppData\Roaming\Rime')
+# RIME_USER_DIR = os.path.expanduser(r'~\AppData\Roaming\Rime')
+RIME_USER_DIR = r'D:\Program Files\Rime\myfile'
 ANDROID_REPO_DIR = r'E:\LocalRepository\github\naamning_jyutping_android'
 ANDROID_ASSETS_DIR = r'E:\LocalRepository\github\naamning_jyutping_build\app-release-25249-o_1dm0eunhm6jq1iv3rphtqt165lq-uid-574023\assets\rime'
 
@@ -38,6 +39,7 @@ def merge_files(base_content: List[str],
                 *additional_files: Tuple[str, str]) -> str:
     """合并基础内容和附加文件"""
     result = base_content[:header_lines]
+    result.append('\n')
     for file_path, _ in additional_files:
         with open(file_path, 'r', encoding='utf-8') as f:
             result.extend(f.readlines())
@@ -57,13 +59,13 @@ def copy_files_to_targets(source_dir: str, yaml_files: List[str]) -> None:
         if not os.path.isdir(source_path):
             try:
                 # 复制到 Rime 用户目录
-                shutil.copy(source_path, RIME_USER_DIR)
+                shutil.copy2(source_path, RIME_USER_DIR)
                 print(f"已复制到 Rime 用户目录: {file_name}")
                 
                 # 如果是非ipa文件，复制到 Android 相关目录
                 if 'ipa' not in file_name:
-                    shutil.copy(source_path, ANDROID_REPO_DIR)
-                    shutil.copy(source_path, ANDROID_ASSETS_DIR)
+                    shutil.copy2(source_path, ANDROID_REPO_DIR)
+                    shutil.copy2(source_path, ANDROID_ASSETS_DIR)
                     print(f"已复制到 Android 目录: {file_name}")
             except Exception as e:
                 print(f"复制文件 {file_name} 时出错: {str(e)}")
@@ -120,27 +122,27 @@ def main():
             # 定义文件合并规则
             merge_rules = {
                 'naamning_baakwaa.dict.yaml': (
-                    find_position_after_marker(source_path, '# 基礎字音表'),
+                    '# 基礎字音表',
                     [
                         (os.path.join(current_dir, 'v_nb_zingjam_rime.txt'), 'r'),
                         (os.path.join(current_dir, 'tab_nbdict_all_phrase.txt'), 'r')
                     ]
                 ),
                 'naamning_bingwaa.dict.yaml': (
-                    find_position_after_marker(source_path, '# 基礎字音表'),
+                    '# 基礎字音表',
                     [
                         (os.path.join(current_dir, 'v_nb_zingjam_bw_rime.txt'), 'r'),
                         (os.path.join(current_dir, 'tab_nbdict_all_bw_phrase.txt'), 'r')
                     ]
                 ),
                 'naamning_baakwaa.infer.dict.yaml': (
-                    find_position_after_marker(source_path, '# 單字音'),
+                    '# 單字音',
                     [
                         (os.path.join(current_dir, 'temp_xxxx4_infer.txt'), 'r')
                     ]
                 ),
                 'naamning_bingwaa.infer.dict.yaml': (
-                    find_position_after_marker(source_path, '# 單字音'),
+                    '# 單字音',
                     [
                         (os.path.join(current_dir, 'temp_xxxx4_bw_infer.txt'), 'r')
                     ]
@@ -149,7 +151,8 @@ def main():
             
             # 根据规则处理文件
             if file_name in merge_rules:
-                header_lines, additional_files = merge_rules[file_name]
+                marker, additional_files = merge_rules[file_name]
+                header_lines = find_position_after_marker(source_path, marker)
                 final_content = merge_files(file_content, header_lines, *additional_files)
             else:
                 final_content = ''.join(file_content)

@@ -12,6 +12,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Set date
+        id: date
+        run: |
+          $date = Get-Date -Format "yyyyMMdd"
+          echo "date=$date" >> $env:GITHUB_OUTPUT
+
       - name: Set up JDK
         uses: actions/setup-java@v3
         with:
@@ -87,7 +93,7 @@ jobs:
             原始包版本 app-release-25249-o_1dm0eunhm6jq1iv3rphtqt165lq-uid-574023
             小鶴同文主題版本 3.6和4.2。
           files: |
-            naamning-*.apk
+            naamning-${{ steps.date.outputs.date }}.apk
           generate_release_notes: true
           draft: false
           prerelease: false
