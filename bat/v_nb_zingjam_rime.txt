@@ -507,7 +507,6 @@
 苄	bin6	
 辨	bin6	
 辯	bin6	
-邊	(語)bin6	10%
 邲	bin6	
 𨚕	bin6	
 乒	bing1	
@@ -2074,7 +2073,6 @@
 繨	daat6	
 鐽	daat6	
 磾	dai1	
-䐎	dai1	
 低	dai1	
 底	(白)dai1	20%
 彽	dai1	
@@ -2334,6 +2332,7 @@
 典	(書)din2	10%
 碘	(書)din2	10%
 佃	din6	
+壂	din6	
 奠	din6	
 殿	din6	
 淀	din6	
@@ -2453,7 +2452,8 @@
 陊	do6	
 馱	do6	5%
 哆	(語)doe1	10%
-噘	(語)doe1	5%
+噘	(訓)doe1	5%
+豬	(白)doe1	20%
 哚	(白)doe2	20%
 朵	(白)doe2	20%
 遞	(語)doe2	5%
@@ -3042,7 +3042,7 @@
 芙	fu4	
 苻	fu4	
 蚨	fu4	
-婦	(又)fu5	10%
+婦	(白)fu5	20%
 負	(又)fu5	10%
 㳇	fu6	
 仆	fu6	
@@ -3835,7 +3835,7 @@
 箇	go3	
 過	go3	
 㰤	(語)go4	10%
-撅	(語)goe1	5%
+撅	(訓)goe1	5%
 腳	goek3	
 蹺	(訓)goek3	90%
 屩	goek3	
@@ -4721,7 +4721,7 @@
 鮜	hau6	
 哈	(又)he1	10%
 㹃	(訓)he3	90%
-氣	(白)he3	20%
+憩	(白)he3	20%
 嘻	(又)he4	10%
 吃	hek3	
 喫	hek3	
@@ -6324,6 +6324,7 @@
 諭	jyu6	
 豫	jyu6	
 遇	jyu6	
+雨	(古)jyu6	5%
 預	jyu6	
 馭	jyu6	
 㠾	jyun1	
@@ -6544,7 +6545,7 @@
 矜	(古)kan4	
 芹	kan4	
 䐃	(白)kan5	20%
-肫	(語)kan5	10%
+肫	(訓)kan5	90%
 近	(白)kan5	
 躿	(語)kang1	10%
 鏗	(白)kang1	
@@ -6570,7 +6571,6 @@
 給	kap1	
 咳	kat1	
 欬	kat1	
-勼	(語)kau1	10%
 摳	kau1	
 瞘	kau1	
 芤	kau1	
@@ -7192,7 +7192,6 @@
 藞	laa5	
 拉	laai1	
 孻	laai1	
-瀨	(語)laai2	5%
 𦧺	laai2	
 哂	(語)laai3	10%
 嗮	(語)laai3	10%
@@ -7448,7 +7447,6 @@
 摟	lau1	
 流	(又)lau1	5%
 蔞	(白)lau1	5%
-蒟	(訓)lau1	5%
 褸	lau1	
 騮	(語)lau1	5%
 摟	lau2	
@@ -7616,7 +7614,6 @@
 里	li5	
 鋰	li5	
 鯉	li5	
-𢃇	li5	
 俐	li6	
 利	li6	
 厲	(語)li6	10%
@@ -8148,7 +8145,7 @@
 騄	luk6	
 窿	lung1	
 竉	lung1	
-𢙱	(語)lung1	5%
+朧	(語)lung1	5%
 攏	(白)lung2	
 嚨	lung4	
 曨	lung4	
@@ -8180,7 +8177,6 @@
 哢	lung6	
 弄	lung6	
 衖	lung6	
-𢙱	lung6	
 躘	(白)lung6	20%
 閭	lyu4	
 驢	lyu4	
@@ -8319,7 +8315,7 @@
 螞	maa6	
 罵	maa6	
 駡	maa6	
-㭛	(白)maai1	5%
+瓢	(訓)maai1	5%
 賣	(白)maai2	5%
 埋	maai4	
 霾	maai4	
@@ -9409,6 +9405,7 @@
 鏊	ngu6	
 摝	(語)nguk6	10%
 呢	ni1	
+啲	(白)ni1	20%
 𪐀	(語)ni1	10%
 伲	ni4	
 倪	(習)ni4	
@@ -9715,7 +9712,6 @@
 耙	paa4	
 鈀	paa4	
 派	(白)paai1	5%
-㭛	paai3	
 哌	paai3	
 派	paai3	
 湃	(又)paai3	10%
@@ -10415,7 +10411,7 @@
 艏	sau2	
 首	sau2	
 獸	sau3	
-嗖	(語)sau3	10%
+嗽	(語)sau3	10%
 狩	sau3	
 瘦	sau3	
 受	sau6	
@@ -12353,6 +12349,7 @@
 頵	wan1	
 搵	wan2	
 混	(白)wan2	5%
+溫	(白)wan2	5%
 穩	wan2	
 困	(白)wan3	20%
 慍	wan3	
@@ -13578,13 +13575,13 @@
 鐯	zoek3	
 倬	zoek3	
 勺	zoek3	5%
-卓	zoek3	
+卓	(舊)zoek3	
 嚼	zoek3	
 妁	zoek3	
 斫	zoek3	
 斮	zoek3	
 晫	zoek3	
-桌	zoek3	
+桌	(舊)zoek3	
 汋	zoek3	
 灼	zoek3	
 爝	zoek3	
@@ -13663,10 +13660,10 @@
 䓬	(又)zok3	10%
 作	zok3	
 倬	(又)zok3	10%
-卓	(又)zok3	10%
+卓	(新)zok3	10%
 捉	zok3	
 晫	(又)zok3	10%
-桌	(又)zok3	10%
+桌	(新)zok3	10%
 椓	zok3	
 涿	zok3	
 琢	zok3	
