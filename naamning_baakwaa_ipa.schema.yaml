@@ -6,7 +6,7 @@ __include: naamning_baakwaa.schema:/
 schema:
   schema_id: naamning_baakwaa_ipa
   name: "南寧白話(IPA)"
-  version: "2025.06.21"
+  version: "2025.07.13"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
