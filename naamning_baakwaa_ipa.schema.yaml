@@ -48,13 +48,12 @@ translator:
     - xform/([ːɐoɵe][iu])ː/$1/
     - xform/[ːɐoɵe][ptdk]/$&̚/
     
-    - xform/([cz])(?=ɿ)/t͡s/
     - xform/,([ptc]|kw?)/$&ʰ/
     - xform/,q/,ʔ/
     - xform/[kg]w/kʷ/
-    - xform/c|z/t͡ʃ/
+    - xform/c|z/t͡s/
     - xform/sl/ɬ/
-    - xform/s(?!ɿ)/ʃ/
+    - xform/s(?!(ɿ|ʰɿ))/ʃ/
     - xform/nj/ȵ/
     - xlit/bdg/ptk/
 
