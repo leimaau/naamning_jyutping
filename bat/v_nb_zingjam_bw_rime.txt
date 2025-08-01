@@ -2533,7 +2533,7 @@
 懂	doeng2	
 董	doeng2	
 凍	doeng3	
-彤	(又)doeng3	10%
+彤	(語)doeng3	10%
 棟	doeng3	
 腖	doeng3	
 仝	doeng4	
@@ -7178,6 +7178,7 @@
 倰	lang4	
 啷	(語)lang4	10%
 塄	lang4	
+崚	(又)lang4	10%
 愣	lang4	
 掕	(白)lang4	20%
 楞	lang4	
@@ -8126,7 +8127,7 @@
 乜	me1	5%
 咩	me1	
 哶	me1	
-孖	(白)me1	20%
+孖	(訓)me1	90%
 尾	(白)me1	5%
 羋	me1	
 𧋦	(白)me1	20%
@@ -11178,7 +11179,6 @@
 觟	waa6	
 話	waa6	
 歪	waai1	
-溾	waai1	
 噲	waai3	
 塊	waai3	
 快	(白)waai3	
@@ -11247,6 +11247,7 @@
 徽	(又)wai1	10%
 揮	(又)wai1	10%
 暉	(又)wai1	10%
+溾	wai1	
 琿	(又)wai1	10%
 翬	(又)wai1	10%
 葳	wai1	
@@ -11883,7 +11884,6 @@
 際	zai3	
 霽	zai3	
 鰶	zai3	
-儕	(白)zai4	20%
 臍	zai4	
 薺	zai4	
 蠐	zai4	
@@ -12058,7 +12058,7 @@
 䁬	zang4	
 倀	zang4	
 層	zang4	
-嶒	zang4	
+嶒	(又)zang4	10%
 曾	zang4	
 橙	(又)zang4	10%
 鄫	zang4	
@@ -12716,6 +12716,7 @@
 䝼	zing4	
 呈	zing4	
 埕	zing4	
+嶒	zing4	
 情	zing4	
 懲	zing4	
 憕	zing4	

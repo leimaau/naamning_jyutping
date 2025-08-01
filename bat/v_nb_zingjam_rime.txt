@@ -1073,7 +1073,7 @@
 蹭	cang3	
 䁬	cang4	
 層	cang4	
-嶒	cang4	
+嶒	(又)cang4	10%
 曾	cang4	
 鄫	cang4	
 㮑	(白)cap1	5%
@@ -1413,6 +1413,7 @@
 䝼	cing4	
 呈	cing4	
 埕	cing4	
+嶒	cing4	
 情	cing4	
 懲	cing4	
 憕	cing4	
@@ -1970,6 +1971,7 @@
 襶	(書)daai3	10%
 大	daai6	
 汏	daai6	
+第	(又)daai6	10%
 軑	daai6	
 咑	daak1	
 脦	(語)daak1	10%
@@ -7411,6 +7413,7 @@
 倰	lang4	
 啷	(語)lang4	10%
 塄	lang4	
+崚	(又)lang4	10%
 愣	lang4	
 掕	(白)lang4	20%
 楞	lang4	
@@ -7525,7 +7528,6 @@
 熑	(白)lem4	20%
 燫	(白)lem4	20%
 摙	(白)len3	20%
-僆	(訓)leng1	5%
 靈	(白)leng1	5%
 笭	(白)leng1	5%
 鈴	(白)leng1	5%
@@ -7709,7 +7711,6 @@
 鰊	lin6	
 令	ling1	5%
 伶	(白)ling1	5%
-僆	(訓)ling1	5%
 拎	(書)ling1	10%
 靈	(白)ling1	5%
 笭	(白)ling1	5%
@@ -8558,7 +8559,7 @@
 乜	me1	5%
 咩	me1	
 哶	me1	
-孖	(白)me1	20%
+孖	(訓)me1	90%
 孭	me1	
 尾	(白)me1	5%
 羋	me1	
@@ -9162,7 +9163,7 @@
 涯	ngaai4	
 睚	ngaai4	
 砹	ngaai6	
-艾	ngaai6	
+艾	(白)ngaai6	
 逆	(語)ngaak6	10%
 額	(白)ngaak6	20%
 啱	ngaam1	
@@ -9273,7 +9274,7 @@
 憖	ngan6	
 韌	(白)ngan6	20%
 戇	(語)ngang1	5%
-戇	(語)ngang2	5%
+耿	(白)ngang2	20%
 蹬	(白)ngang6	20%
 噏	(語)ngap1	10%
 𡀾	(語)ngap1	5%
@@ -9359,7 +9360,7 @@
 騃	ngoi4	
 外	ngoi6	
 礙	ngoi6	
-艾	(又)ngoi6	10%
+艾	(文)ngoi6	
 樂	ngok6	
 噩	ngok6	
 岳	ngok6	
@@ -12128,7 +12129,6 @@
 觟	waa6	
 話	waa6	
 歪	waai1	
-溾	waai1	
 塊	(白)waai3	5%
 快	(白)waai3	5%
 筷	(白)waai3	5%
@@ -12211,6 +12211,7 @@
 崴	wai1	
 揮	(白)wai1	
 暉	(白)wai1	
+溾	wai1	
 琿	(白)wai1	
 翬	(白)wai1	
 葳	wai1	
@@ -13102,6 +13103,7 @@
 嗟	ze1	
 嗻	ze1	
 姐	(白)ze1	5%
+擠	(語)ze1	10%
 遮	ze1	
 姐	ze2	
 毑	ze2	
