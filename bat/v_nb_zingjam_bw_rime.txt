@@ -1,6 +1,7 @@
 丫	aa1	
 吖	aa1	
 啊	aa1	
+孲	aa1	
 屙	aa1	
 痾	aa1	
 鴉	aa1	
@@ -261,6 +262,7 @@
 䶕	baa6	
 䠋	baai1	
 掰	baai1	
+拜	(外)baai2	5%
 捭	baai2	
 擺	baai2	
 襬	baai2	
@@ -888,6 +890,7 @@
 埲	boeng6	
 砵	(語)bot2	10%
 𦤣	(語)bot5	10%
+撥	(語)bot6	10%
 𦤣	(語)bot6	10%
 峬	bu1	
 庯	bu1	
@@ -2076,7 +2079,7 @@
 悌	dai6	
 杕	dai6	
 棣	dai6	
-睇	dai6	
+睇	(古)dai6	
 第	dai6	
 踶	dai6	
 遞	dai6	
@@ -2178,6 +2181,7 @@
 瞪	(又)dang6	10%
 蹬	dang6	5%
 鄧	dang6	
+塌	dap2	5%
 撘	(白)dap2	20%
 耷	dap2	
 嗒	(白)dap3	20%
@@ -4895,7 +4899,7 @@
 耗	(白)heu3	20%
 俙	hi1	
 僖	hi1	
-兮	(又)hi1	5%
+兮	(常)hi1	
 咦	hi1	5%
 唏	hi1	
 嘻	hi1	
@@ -4927,7 +4931,6 @@
 醯	hi1	
 釐	hi1	5%
 魌	hi1	
-絺	(又)hi1	10%
 譆	hi1	
 鱚	hi1	
 啓	(又)hi2	10%
@@ -5088,7 +5091,7 @@
 荷	ho6	
 賀	ho6	
 㗾	hoe1	
-吙	(又)hoe1	5%
+吙	hoe1	
 靴	hoe1	
 㗾	hoe4	
 哭	hoek2	
@@ -5167,7 +5170,7 @@
 𣗺	hu1	
 伙	hu2	
 夥	hu2	
-吙	hu2	
+吙	(又)hu2	5%
 唬	hu2	
 滸	hu2	
 火	hu2	
@@ -6625,8 +6628,6 @@
 彍	kuk2	
 嗑	(訓)kuk3	90%
 硞	(語)kuk3	10%
-壙	kung3	
-曠	kung3	
 爌	kung3	
 纊	kung3	
 鄺	kung3	
@@ -6663,9 +6664,9 @@
 摜	(語)kwaang2	10%
 梗	(白)kwaang2	20%
 況	kwaang3	
-壙	(又)kwaang3	10%
+壙	kwaang3	
 夼	kwaang3	
-曠	(常)kwaang3	
+曠	kwaang3	
 獷	(又)kwaang3	10%
 礦	kwaang3	
 穬	kwaang3	
@@ -7231,7 +7232,6 @@
 塿	lau5	
 溜	lau6	
 漏	lau6	
-熘	lau6	
 瘺	lau6	
 瘻	lau6	
 蹓	lau6	
@@ -7264,6 +7264,7 @@
 溜	(白)leu1	20%
 鷯	leu2	
 嘐	(白)leu3	20%
+嫪	(白)leu3	20%
 寥	(白)leu3	20%
 料	(白)leu3	20%
 蔫	(訓)leu3	90%
@@ -7520,7 +7521,7 @@
 鱲	lip5	
 撂	liu1	
 溜	liu1	
-熘	(又)liu1	5%
+熘	liu1	
 蹓	liu1	
 镽	(語)liu2	10%
 溜	(又)liu3	10%
@@ -7678,6 +7679,7 @@
 圞	lon4	
 㗚	(語)lot2	10%
 捋	(白)lot3	20%
+剌	(語)lot6	10%
 嚕	lu1	
 擼	lu1	
 黸	lu1	
@@ -8717,7 +8719,7 @@
 岸	ngaan6	
 犴	ngaan6	
 豻	ngaan6	
-戇	(訓)ngaang3	
+戇	(白)ngaang3	
 卬	ngaang4	
 昂	ngaang4	
 哈	(語)ngaap3	10%
@@ -10401,6 +10403,7 @@
 肆	sli3	5%
 蕼	sli3	
 駟	sli3	
+噝	(語)sli4	10%
 削	sliak2	
 儴	sliang1	
 勷	sliang1	
@@ -10849,6 +10852,7 @@
 飥	taak2	
 魄	taak2	5%
 魠	taak2	
+拓	(語)taak3	10%
 坍	(又)taam1	10%
 貪	taam1	
 菼	taam2	
@@ -10950,6 +10954,7 @@
 銻	tai1	
 体	tai2	
 體	tai2	
+睇	tai2	
 剃	tai3	
 嚏	tai3	
 屜	tai3	
@@ -10963,6 +10968,7 @@
 慝	tak2	
 脦	tak2	
 鋱	tak2	
+忒	(語)tak3	10%
 探	(白)tam3	20%
 撢	(白)tam3	20%
 舕	(白)tam3	20%
@@ -11199,6 +11205,7 @@
 媼	(白)waau2	20%
 撝	(又)wai1	10%
 倭	(古)wai1	5%
+喂	wai1	
 委	wai1	5%
 威	wai1	
 媁	wai1	
