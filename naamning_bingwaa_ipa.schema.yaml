@@ -45,7 +45,7 @@ translator:
 
     - xform/a|œ|ɛ|i|u|y(?!̑)/$&ː/
     - xform/([ːɐoɵe][iu])ː/$1/
-    - xform/[ːɐoɵe][ptdk]/$&̚/
+    - xform/[ːɐoɵeʊ][ptdk]/$&̚/
     - xform/iːɐ(ŋ|k)/iɐ$1/
 
     - xform/,([ptc]|kw?)/$&ʰ/
