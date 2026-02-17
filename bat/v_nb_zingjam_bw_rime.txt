@@ -1315,6 +1315,7 @@
 俥	ce1	
 硨	ce1	
 車	ce1	
+唓	ce1	
 且	ce2	
 尺	ce2	5%
 扯	ce2	
@@ -1322,9 +1323,9 @@
 笡	(語)ce2	10%
 跙	ce2	
 奲	ce2	
-唓	ce3	
 笡	ce3	
 趄	ce3	
+唓	ce3	
 斜	(又)ce4	10%
 鵮	cem1	
 剷	(白)cen2	20%
@@ -1405,7 +1406,6 @@
 跮	ci3	
 饎	ci3	
 覗	ci3	
-恃	(語)ci5	10%
 㪕	ciak2	
 㿭	ciak2	
 䜺	ciak2	
@@ -6976,6 +6976,7 @@
 𤊶	(白)laat3	20%
 剌	laat5	
 喇	laat5	
+揦	laat5	
 瘌	laat5	
 癩	laat5	
 蝲	laat5	
@@ -6983,6 +6984,7 @@
 邋	laat5	
 鬎	laat5	
 𤊶	laat5	
+攋	laat5	
 鯻	laat5	
 剌	(語)laat6	10%
 撈	laau1	
@@ -7159,10 +7161,8 @@
 苙	lap5	
 鉝	lap5	
 捋	(白)lat2	20%
-揦	lat2	
 㪐	(白)lat3	20%
 甩	(訓)lat3	90%
-㖀	lat5	
 㗚	lat5	
 㪐	lat5	
 傈	lat5	
@@ -7246,7 +7246,7 @@
 咧	(語)le2	10%
 咧	le3	
 哩	le3	
-咧	(語)le4	10%
+咧	le4	
 旯	(語)le4	10%
 罟	(語)le4	10%
 褦	(習)le5	
@@ -7564,6 +7564,7 @@
 𪤗	liu6	
 囉	lo1	
 倮	lo2	
+捰	lo2	
 攞	lo2	
 瘰	lo2	
 砢	lo2	
@@ -7572,6 +7573,7 @@
 蠃	lo2	
 裸	lo2	
 咯	lo3	
+捰	lo3	
 螺	(白)lo3	20%
 儸	lo4	
 囉	lo4	
@@ -7678,7 +7680,7 @@
 圝	lon4	
 圞	lon4	
 㗚	(語)lot2	10%
-捋	(白)lot3	20%
+捋	(語)lot3	10%
 剌	(語)lot6	10%
 嚕	lu1	
 擼	lu1	
@@ -7956,7 +7958,7 @@
 耄	maau6	
 芼	maau6	
 貌	maau6	
-咪	mai1	
+咪	(外)mai1	
 𠜱	(白)mai1	20%
 咪	(語)mai3	10%
 眯	mai3	
@@ -9344,6 +9346,7 @@
 阿	o1	5%
 䰀	o2	
 倭	(古)o2	5%
+捰	o2	
 哦	(語)o3	10%
 涴	o3	
 𤆏	o3	
@@ -10561,7 +10564,7 @@
 餸	sloeng3	
 倯	(白)sloeng4	20%
 㞞	sloeng4	
-啐	(語)slot6	10%
+啜	(白)slot6	20%
 甦	slu1	
 穌	slu1	
 囌	slu1	
@@ -10700,6 +10703,7 @@
 菽	soek6	
 蜀	soek6	
 贖	soek6	
+啜	(語)sot3	10%
 梳	su1	
 疋	su1	
 疏	su1	
@@ -11516,7 +11520,6 @@
 潁	wing5	
 穎	wing5	
 喎	wo3	
-喎	wo5	
 烏	wu1	
 於	(古)wu1	5%
 嗚	wu1	
@@ -12164,6 +12167,7 @@
 䗪	ze3	
 借	ze3	
 唶	ze3	
+嗻	ze3	
 擠	(語)ze3	10%
 柘	ze3	
 蔗	ze3	
@@ -12327,6 +12331,7 @@
 藉	(白)zi3	20%
 觶	zi3	
 識	(古)zi3	5%
+質	zi3	5%
 贄	zi3	
 躓	zi3	
 輊	zi3	

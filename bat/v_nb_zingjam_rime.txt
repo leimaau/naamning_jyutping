@@ -66,6 +66,7 @@
 哎	(又)ai1	10%
 唉	(又)ai1	10%
 矮	(白)ai1	5%
+哎	(語)ai2	5%
 矮	ai2	
 嫕	ai3	
 曀	ai3	
@@ -1149,9 +1150,9 @@
 酬	cau4	
 讎	cau4	
 俥	ce1	
-唓	ce1	
 硨	ce1	
 車	ce1	
+唓	ce1	
 且	ce2	
 尺	ce2	5%
 扯	ce2	
@@ -7265,16 +7266,17 @@
 鑞	laap6	
 鱲	laap6	
 喇	laat3	
-揦	laat3	
 瘌	laat3	
 癩	laat3	
 鬎	laat3	
 列	(白)laat6	20%
 剌	laat6	
+揦	laat6	
 蝲	laat6	
 辣	laat6	
 邋	laat6	
 𤊶	laat6	
+攋	laat6	
 鯻	laat6	
 寥	(白)laau1	5%
 撈	(文)laau1	
@@ -7423,7 +7425,6 @@
 鉝	lap6	
 㪐	(白)lat1	5%
 甩	(訓)lat1	90%
-㖀	lat6	
 㗚	lat6	
 㪐	lat6	
 傈	lat6	
@@ -7510,7 +7511,7 @@
 哩	le1	
 旯	(語)le1	10%
 罅	(訓)le3	90%
-咧	(語)le4	10%
+咧	le4	
 啦	(語)le4	10%
 離	(白)le4	20%
 罟	(語)le4	10%
@@ -7839,6 +7840,7 @@
 籮	(白)lo1	5%
 螺	(白)lo1	5%
 倮	lo2	
+捰	lo2	
 攞	lo2	
 瘰	lo2	
 砢	lo2	
@@ -7847,6 +7849,7 @@
 蠃	lo2	
 裸	lo2	
 咯	lo3	
+捰	lo3	
 摞	lo3	
 儸	lo4	
 囉	lo4	
@@ -7981,7 +7984,7 @@
 蒗	long6	
 誏	long6	
 閬	long6	
-㖀	(語)lot6	10%
+剌	(語)lot6	10%
 嚕	lu1	
 撈	(白)lu1	
 擼	lu1	
@@ -8246,7 +8249,7 @@
 論	(老派)lyun6	10%
 躪	(老派)lyun6	10%
 遴	(老派)lyun6	10%
-捋	(白)lyut1	5%
+捋	(語)lyut1	5%
 捋	(又)lyut3	10%
 㗚	(老派)lyut6	10%
 傈	(老派)lyut6	10%
@@ -8392,7 +8395,7 @@
 冒	(白)maau6	20%
 皃	maau6	
 貌	maau6	
-咪	mai1	5%
+咪	(外)mai1	5%
 米	(白)mai1	5%
 𠜱	(白)mai1	20%
 蒾	mai4	
@@ -11075,7 +11078,6 @@
 顙	slong2	
 喪	slong3	
 𦅇	(又)slong3	10%
-銊	(語)slot6	10%
 搔	slu1	
 溞	slu1	
 甦	slu1	
@@ -12440,6 +12442,7 @@
 泳	wing5	
 潁	wing5	
 穎	wing5	
+喎	(又)wo1	10%
 倭	wo1	
 媧	wo1	
 撾	wo1	
@@ -12451,6 +12454,7 @@
 踒	wo1	
 䰀	wo2	
 倭	(古)wo2	5%
+捰	wo2	
 喎	wo3	
 涴	wo3	
 𤆏	wo3	
@@ -12459,7 +12463,6 @@
 盉	wo4	
 禾	wo4	
 龢	wo4	
-喎	wo5	
 毈	(又)wo5	10%
 涴	(語)wo5	10%
 和	wo6	5%
@@ -13084,6 +13087,7 @@
 䗪	ze3	
 借	ze3	
 唶	ze3	
+嗻	ze3	
 柘	ze3	
 蔗	ze3	
 藉	ze3	
@@ -13269,6 +13273,7 @@
 致	zi3	
 觶	zi3	
 識	(古)zi3	5%
+質	zi3	5%
 贄	zi3	
 躓	zi3	
 輊	zi3	
