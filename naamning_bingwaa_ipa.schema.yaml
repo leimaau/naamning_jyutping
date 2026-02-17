@@ -6,7 +6,7 @@ __include: naamning_bingwaa.schema:/
 schema:
   schema_id: naamning_bingwaa_ipa
   name: "南寧(亭子)平話(IPA)"
-  version: "2025.12.24"
+  version: "2026.02.17"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
