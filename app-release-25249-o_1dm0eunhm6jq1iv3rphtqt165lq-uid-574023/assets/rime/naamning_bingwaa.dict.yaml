@@ -22,7 +22,7 @@
 
 ---
 name: naamning_bingwaa
-version: "2026.02.17"
+version: "2026.02.22"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -3945,7 +3945,6 @@ import_tables:
 機	gi1	
 犄	gi1	
 璣	gi1	
-畸	(又)gi1	10%
 畿	gi1	
 磯	gi1	
 箕	gi1	
@@ -4009,6 +4008,7 @@ import_tables:
 淇	gi4	
 琦	gi4	
 琪	gi4	
+畸	(又)gi4	10%
 碁	gi4	
 碕	gi4	
 祁	gi4	
@@ -11913,6 +11913,7 @@ import_tables:
 𧨊	zaa6	
 㨁	(白)zaai1	20%
 哉	zaai1	
+拽	zaai1	
 齋	zaai1	
 栽	zaai1	
 災	zaai1	
@@ -11943,7 +11944,6 @@ import_tables:
 在	zaai6	
 寨	zaai6	
 廌	(又)zaai6	10%
-拽	zaai6	
 砦	zaai6	
 豸	(又)zaai6	10%
 作	zaak2	

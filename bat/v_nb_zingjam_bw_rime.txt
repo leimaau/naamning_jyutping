@@ -3672,7 +3672,6 @@
 機	gi1	
 犄	gi1	
 璣	gi1	
-畸	(又)gi1	10%
 畿	gi1	
 磯	gi1	
 箕	gi1	
@@ -3736,6 +3735,7 @@
 淇	gi4	
 琦	gi4	
 琪	gi4	
+畸	(又)gi4	10%
 碁	gi4	
 碕	gi4	
 祁	gi4	
@@ -11640,6 +11640,7 @@
 𧨊	zaa6	
 㨁	(白)zaai1	20%
 哉	zaai1	
+拽	zaai1	
 齋	zaai1	
 栽	zaai1	
 災	zaai1	
@@ -11670,7 +11671,6 @@
 在	zaai6	
 寨	zaai6	
 廌	(又)zaai6	10%
-拽	zaai6	
 砦	zaai6	
 豸	(又)zaai6	10%
 作	zaak2	
