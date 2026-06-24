@@ -361,7 +361,6 @@
 稖	baang6	
 鎊	baang6	
 矺	(語)baap3	10%
-耷	(語)baap3	10%
 八	baat2	
 扒	baat2	
 捌	baat2	
@@ -888,6 +887,7 @@
 䭰	boeng6	
 唪	boeng6	
 埲	boeng6	
+蓬	boeng6	
 砵	(語)bot2	10%
 𦤣	(語)bot5	10%
 撥	(語)bot6	10%
@@ -1148,7 +1148,6 @@
 臿	caap2	
 鍤	caap2	
 𠝞	caap2	
-㔍	caat2	
 䃰	caat2	
 刷	caat2	
 唰	caat2	
@@ -1266,7 +1265,6 @@
 葺	cap2	
 蕺	cap2	
 輯	cap2	
-㮑	(白)cap3	20%
 䢺	cat2	
 七	cat2	
 出	cat2	
@@ -1463,7 +1461,7 @@
 唱	ciang3	
 悵	ciang3	
 戧	ciang3	
-撐	(又)ciang3	10%
+撐	ciang3	
 熗	ciang3	
 牚	ciang3	
 瑒	ciang3	
@@ -4425,7 +4423,6 @@
 焆	gyun1	
 絹	gyun1	
 肩	gyun1	
-蜎	(語)gyun1	10%
 蠲	gyun1	
 鰹	gyun1	
 鵑	gyun1	
@@ -5771,6 +5768,7 @@
 抰	jiang2	
 鞅	jiang2	
 撐	(白)jiang3	20%
+牚	(白)jiang3	20%
 佯	jiang4	
 垟	jiang4	
 徉	jiang4	
@@ -6743,7 +6741,6 @@
 困	kwan3	
 睏	(文)kwan3	
 揈	kwang1	
-硡	kwang1	
 訇	kwang1	
 轟	kwang1	
 輷	kwang1	
@@ -6840,7 +6837,6 @@
 孻	laai1	
 癩	laai3	
 賴	(又)laai3	10%
-䧒	laai4	
 倈	laai4	
 嚟	laai4	
 崍	laai4	
@@ -8057,7 +8053,8 @@
 𱤜	mang4	
 凹	(訓)map3	90%
 塌	(白)map3	20%
-搣	mat2	
+扒	(白)mat2	5%
+搣	(訓)mat2	90%
 霉	(訓)mat2	90%
 黴	(訓)mat2	90%
 勿	mat5	
@@ -8246,6 +8243,7 @@
 茗	ming5	
 酩	ming5	
 命	ming6	
+搣	mit5	
 滅	mit5	
 篾	mit5	
 蔑	mit5	
@@ -8582,7 +8580,7 @@
 耽	(白)nam1	20%
 𦛚	(語)nam1	10%
 揕	(白)nam3	20%
-腍	(語)nam4	10%
+腍	(訓)nam4	90%
 恁	nam5	
 稔	nam5	
 諗	(訓)nam5	90%
@@ -8638,8 +8636,9 @@
 捏	(語)net2	10%
 䵒	(白)net3	20%
 捏	(白)net6	
-粈	(白)neu1	5%
-嫋	(白)neu4	20%
+粈	(語)neu1	5%
+丟	(白)neu4	20%
+嫋	(語)neu4	10%
 吳	ng4	
 吾	ng4	
 唔	ng4	
@@ -8698,6 +8697,7 @@
 鄂	ngaak5	
 鍔	ngaak5	
 顎	ngaak5	
+額	(白)ngaak5	20%
 鰐	ngaak5	
 鱷	ngaak5	
 鶚	ngaak5	
@@ -8721,7 +8721,7 @@
 岸	ngaan6	
 犴	ngaan6	
 豻	ngaan6	
-戇	(白)ngaang3	
+戇	ngaang3	
 卬	ngaang4	
 昂	ngaang4	
 哈	(語)ngaap3	10%
@@ -9053,7 +9053,7 @@
 櫱	(又)nit5	10%
 隉	(又)nit5	10%
 闑	(又)nit5	10%
-粈	(白)niu1	5%
+粈	(語)niu1	5%
 嬝	niu5	
 嬲	niu5	
 蔦	niu5	
@@ -9069,7 +9069,7 @@
 揸	(白)njaa1	20%
 摣	(白)njaa1	20%
 𠭯	(白)njaa1	20%
-嗏	(白)njaa3	20%
+杈	(白)njaa3	20%
 渣	(白)njaa3	20%
 伢	njaa4	
 岈	njaa4	
@@ -9166,8 +9166,10 @@
 偌	nje6	5%
 研	(又)njen1	5%
 兒	(白)nji3	20%
+支	(白)nji3	20%
+枝	(白)nji3	20%
 毅	(又)nji3	10%
-迻	(白)nji3	20%
+迻	(語)nji3	10%
 儀	nji4	
 儿	nji4	
 兒	nji4	
@@ -9212,7 +9214,8 @@
 釅	njim6	
 熱	njit5	
 搓	(語)njo3	10%
-逳	(白)njoek3	20%
+觸	(白)njoek3	20%
+逳	(語)njoek3	10%
 堉	njoek5	
 峪	njoek5	
 昱	njoek5	
@@ -9250,7 +9253,8 @@
 汭	njui6	
 睿	njui6	
 芮	njui6	
-逳	(白)njuk3	20%
+觸	(白)njuk3	20%
+逳	(語)njuk3	10%
 髶	(白)njung3	20%
 愚	njyu4	
 漁	njyu4	
@@ -9353,8 +9357,8 @@
 哦	o4	
 哦	o5	5%
 嚄	o5	
-毈	(又)o5	10%
-涴	(語)o5	10%
+毈	(白)o5	20%
+涴	(訓)o5	90%
 禍	o6	
 而	(文)oe4	
 爾	(文)oe5	
@@ -9609,7 +9613,6 @@
 鋪	pu1	
 哺	pu2	
 圃	pu2	
-埔	pu2	
 捕	pu2	
 普	pu2	
 氆	pu2	
@@ -9776,7 +9779,7 @@
 使	sai2	
 史	sai2	
 駛	sai2	
-㩄	(語)sai4	10%
+纚	(語)sai4	10%
 媞	(白)sai5	20%
 事	sai6	
 仕	sai6	
@@ -9912,7 +9915,7 @@
 射	se6	
 麝	se6	
 搧	(白)sen1	20%
-霫	(白)sep6	20%
+襲	(白)sep6	20%
 失	(白)set2	20%
 尸	si1	
 屍	si1	
@@ -10237,8 +10240,8 @@
 壻	slai3	
 婿	slai3	
 細	slai3	
-齊	(語)slai4	10%
 摋	(語)slai4	10%
+纚	(語)slai4	10%
 噻	slak2	
 塞	slak2	
 息	(白)slak2	20%
@@ -10299,8 +10302,7 @@
 圾	(白)slap3	20%
 𠿓	(白)slap3	20%
 𢶍	(白)slap3	20%
-趿	(語)slap6	10%
-霫	(白)slap6	20%
+襲	(白)slap6	20%
 卹	slat2	
 恤	slat2	
 悉	slat2	
@@ -10362,7 +10364,7 @@
 殘	(白)slen4	20%
 𤗈	(白)slep2	
 喋	(白)slep6	20%
-趿	(語)slep6	10%
+襲	(白)slep6	20%
 攃	(語)slet3	10%
 截	(白)slet6	20%
 㟃	sli1	
@@ -10777,6 +10779,7 @@
 庶	syu3	
 恕	syu3	
 戍	syu3	
+署	syu3	
 腧	syu3	
 噓	syu4	5%
 殊	syu4	
@@ -10788,7 +10791,6 @@
 藷	syu4	
 墅	syu5	
 曙	syu5	
-署	syu5	
 樹	syu6	
 澍	syu6	
 豎	syu6	
@@ -11769,7 +11771,6 @@
 紮	(語)zaap2	10%
 抸	zaap2	
 眨	zaap2	
-砸	zaap2	
 譗	zaap2	
 𥀈	zaap2	
 喋	zaap6	
@@ -11790,6 +11791,7 @@
 灒	(語)zaat3	10%
 㩵	(又)zaat6	10%
 甴	zaat6	
+砸	zaat6	
 窒	(白)zaat6	20%
 啁	zaau1	
 嘲	zaau1	
@@ -11911,8 +11913,8 @@
 忳	zan1	
 榛	zan1	
 樼	zan1	
-樽	zan1	
-罇	zan1	
+樽	(語)zan1	10%
+罇	(語)zan1	10%
 津	zan1	
 溱	zan1	
 獉	zan1	
@@ -12979,6 +12981,8 @@
 鷟	zuk6	
 尊	zun1	
 嶟	zun1	
+樽	zun1	
+罇	zun1	
 繜	zun1	
 躦	zun1	
 遵	zun1	
@@ -12994,7 +12998,7 @@
 噇	zung4	
 幢	zung4	5%
 橦	zung4	
-仲	(又)zung6	10%
+仲	(語)zung6	10%
 幢	zung6	
 憧	(白)zung6	20%
 撞	zung6	

@@ -4749,7 +4749,7 @@ Y染色體	Y njim5 sik2 tai2
 步哨	bu6 saau3
 部首	bu6 sau2
 部屬	bu6 soek6
-部署	bu6 syu5
+部署	bu6 syu3
 步態	bu6 taai3
 步話機	bu6 waa6 gi1
 部委	bu6 wai2
@@ -5004,7 +5004,7 @@ Y染色體	Y njim5 sik2 tai2
 搬遷	bun1 cim1
 搬遷	bun1 cin1
 搬家	bun1 gaa1
-搬起石頭砸自己的腳	bun1 hi2 sik6 dau4 zaap2 zi6 gi2 dik2 giak2
+搬起石頭砸自己的腳	bun1 hi2 sik6 dau4 zaat6 zi6 gi2 dik2 giak2
 搬移	bun1 ji4
 搬演	bun1 jim2
 搬演	bun1 jin2
@@ -7197,7 +7197,7 @@ Y染色體	Y njim5 sik2 tai2
 纖細	cim1 slai3
 纖悉	cim1 slat2
 纖小	cim1 sliu2
-簽署	cim1 syu5
+簽署	cim1 syu3
 纖體	cim1 tai2
 纖維	cim1 wai4
 纖維板	cim1 wai4 baan2
@@ -20684,7 +20684,7 @@ e化	e waa3
 公孫樹	goeng1 slun1 syu6
 供需	goeng1 slyu1
 公輸	goeng1 syu1
-公署	goeng1 syu5
+公署	goeng1 syu3
 公攤	goeng1 taan1
 公帑	goeng1 taang2
 恭桶	goeng1 toeng2
@@ -21512,7 +21512,7 @@ e化	e waa3
 冠心病	gun1 slam1 bing6
 官司	gun1 sli1
 官書	gun1 syu1
-官署	gun1 syu5
+官署	gun1 syu3
 官廳	gun1 ting1
 官話	gun1 waa6
 官宦	gun1 waan6
@@ -25263,7 +25263,7 @@ e化	e waa3
 行星	hiang4 sling1
 行銷	hiang4 sliu1
 行書	hiang4 syu1
-行署	hiang4 syu5
+行署	hiang4 syu3
 行船	hiang4 syun4
 行善	hiang4 syun6
 行爲	hiang4 wai4
@@ -25284,7 +25284,7 @@ e化	e waa3
 行政	hiang4 zing3
 行政處罰	hiang4 zing3 cyu2 faat6
 行政處分	hiang4 zing3 cyu2 fan6
-行政公署	hiang4 zing3 goeng1 syu5
+行政公署	hiang4 zing3 goeng1 syu3
 行政區	hiang4 zing3 kyu1
 行政拘留	hiang4 zing3 kyu1 lau4
 行政訴訟	hiang4 zing3 slu3 zoeng6
@@ -29231,7 +29231,6 @@ e化	e waa3
 遺作	ji4 zaak2
 胰臟	ji4 zaang6
 酏劑	ji4 zai3
-移樽就教	ji4 zan1 zau6 gaau3
 遺贈	ji4 zang6
 遺址	ji4 zi2
 胰子	ji4 zi2
@@ -29245,13 +29244,14 @@ e化	e waa3
 移情	ji4 zing4
 移情別戀	ji4 zing4 bit6 lin6
 遺詔	ji4 ziu1
-遺照	ji4 ziu3
 遺詔	ji4 ziu3
+遺照	ji4 ziu3
 遺囑	ji4 zoek2
 遺囑繼承	ji4 zoek2 gi3 sing4
 彝族	ji4 zoek6
 遺族	ji4 zoek6
 遺存	ji4 zon4
+移樽就教	ji4 zun1 zau6 gaau3
 遺著	ji4 zyu3
 遺傳	ji4 zyun4
 遺傳工程	ji4 zyun4 goeng1 zing4
@@ -34573,7 +34573,7 @@ e化	e waa3
 聯手	lim4 sau2
 聯想	lim4 sliang2
 聯銷	lim4 sliu1
-聯署	lim4 syu5
+聯署	lim4 syu3
 聯通	lim4 toeng1
 聯運	lim4 wan6
 聯營	lim4 wing4
@@ -34725,7 +34725,7 @@ e化	e waa3
 連鎖	lin4 slu2
 連鎖店	lin4 slu2 dim3
 連鎖反應	lin4 slu2 faan2 ing3
-聯署	lin4 syu5
+聯署	lin4 syu3
 連體	lin4 tai2
 連天	lin4 tin1
 聯通	lin4 toeng1
@@ -49885,7 +49885,9 @@ pH值	pH zik6
 庶幾乎	syu3 gi1 hu4
 庶乎	syu3 hu4
 腧穴	syu3 jyut6
+署理	syu3 li5
 庶民	syu3 man4
+署名	syu3 ming4
 庶母	syu3 mu5
 庶務	syu3 mu6
 庶人	syu3 njan4
@@ -49902,8 +49904,6 @@ pH值	pH zik6
 殊死	syu4 sli2
 殊勳	syu4 wan1
 曙光	syu5 gung1
-署理	syu5 li5
-署名	syu5 ming4
 曙色	syu5 sik2
 樹碑立傳	syu6 bai1 lap5 zyun6
 豎蜻蜓	syu6 cing1 ding4
@@ -54107,8 +54107,8 @@ pH值	pH zik6
 再就業	zaai3 zau6 nip5
 再者	zaai3 ze2
 再植	zaai3 zik6
-再接再厲	zaai3 zip2 zaai3 lai6
 再接再礪	zaai3 zip2 zaai3 lai6
+再接再厲	zaai3 zip2 zaai3 lai6
 再醮	zaai3 ziu3
 載重	zaai3 zoeng5
 債主	zaai3 zyu2
@@ -54236,8 +54236,8 @@ pH值	pH zik6
 寨子	zaai6 zi2
 在製品	zaai6 zi3 pan2
 在場	zaai6 ziang4
-在職	zaai6 zik2
 在即	zaai6 zik2
+在職	zaai6 zik2
 在朝	zaai6 ziu4
 在座	zaai6 zo6
 作惡	zaak2 aak2
@@ -54285,8 +54285,8 @@ pH值	pH zik6
 作物	zaak2 mat5
 作難	zaak2 naan4
 作難	zaak2 naan6
-作業	zaak2 nip5
 作孽	zaak2 nip5
+作業	zaak2 nip5
 作品	zaak2 pan2
 作勢	zaak2 si3
 作色	zaak2 sik2
@@ -54329,8 +54329,8 @@ pH值	pH zik6
 嶄然	zaam2 jyun4
 嶄露頭角	zaam2 lu6 dau4 gaak2
 斬首	zaam2 sau2
-嶄新	zaam2 slan1
 斬新	zaam2 slan1
+嶄新	zaam2 slan1
 斬獲	zaam2 wiak6
 斬盡殺絕	zaam2 zan6 saat2 zyut6
 湛清	zaam3 cing1
@@ -54365,8 +54365,8 @@ pH值	pH zik6
 蠶絲	zaam4 sli1
 慚怍	zaam4 zaak6
 巉峻	zaam4 zan3
-蠶子	zaam4 zi2
 蠶紙	zaam4 zi2
+蠶子	zaam4 zi2
 饞蟲	zaam4 zoeng4
 饞嘴	zaam4 zui2
 鏨子	zaam5 zi2
@@ -54444,8 +54444,8 @@ pH值	pH zik6
 殘忍	zaan4 njan5
 殘月	zaan4 njyut5
 殘品	zaan4 pan2
-殘篇斷簡	zaan4 pin1 dun5 gaan2
 殘編斷簡	zaan4 pin1 dun5 gaan2
+殘篇斷簡	zaan4 pin1 dun5 gaan2
 殘片	zaan4 pin3
 殘破	zaan4 pu3
 殘殺	zaan4 saat2
@@ -54499,8 +54499,8 @@ pH值	pH zik6
 髒兮兮	zaang1 hi1 hi1
 贓款	zaang1 hon2
 莊戶	zaang1 hu6
-裝潢	zaang1 hung4
 裝璜	zaang1 hung4
+裝潢	zaang1 hung4
 裝樣子	zaang1 jiang6 zi2
 莊園	zaang1 jyun4
 裝腔作勢	zaang1 kiang1 zaak2 si3
@@ -54516,8 +54516,8 @@ pH值	pH zik6
 臧否	zaang1 pi2
 裝配	zaang1 pui3
 裝神弄鬼	zaang1 san4 loeng6 gwai2
-裝飾	zaang1 sik2
 妝飾	zaang1 sik2
+裝飾	zaang1 sik2
 裝飾品	zaang1 sik2 pan2
 裝修	zaang1 slau1
 裝卸	zaang1 sle3
@@ -54611,19 +54611,14 @@ pH值	pH zik6
 藏族	zaang6 zoek6
 藏傳佛教	zaang6 zyun4 fat6 gaau3
 眨巴	zaap2 baa1
-砸牌子	zaap2 baai4 zi2
 匝道	zaap2 daau6
 匝地	zaap2 di6
-砸飯碗	zaap2 faan6 wun2
 劄記	zaap2 gi3
-砸鍋	zaap2 gu1
-砸鍋賣鐵	zaap2 gu1 maai6 tit2
 咂摸	zaap2 mu1
 眨眼	zaap2 njaan5
 咂兒	zaap2 nji4
 咂舌	zaap2 sit6
 劄子	zaap2 zi2
-砸錢	zaap2 zin4
 咂嘴	zaap2 zui2
 雜牌	zaap6 baai4
 雜拌兒	zaap6 bun5 nji4
@@ -54707,8 +54702,13 @@ pH值	pH zik6
 扎掙	zaat2 zang1
 札子	zaat2 zi2
 軋場	zaat2 ziang4
-糟踏	zaau1 daap6
+砸牌子	zaat6 baai4 zi2
+砸飯碗	zaat6 faan6 wun2
+砸鍋	zaat6 gu1
+砸鍋賣鐵	zaat6 gu1 maai6 tit2
+砸錢	zaat6 zin4
 糟蹋	zaau1 daap6
+糟踏	zaau1 daap6
 嘲諷	zaau1 foeng3
 遭逢	zaau1 foeng4
 糟改	zaau1 gaai2
@@ -54750,8 +54750,8 @@ pH值	pH zik6
 早出晚歸	zaau2 cat2 maan5 gwai1
 早秋	zaau2 cau1
 早車	zaau2 ce1
-澡塘	zaau2 daang4
 澡堂	zaau2 daang4
+澡塘	zaau2 daang4
 早稻	zaau2 daau6
 找頭	zaau2 dau4
 早點	zaau2 dem2
@@ -54783,16 +54783,16 @@ pH值	pH zik6
 藻飾	zaau2 sik2
 找死	zaau2 sli2
 早先	zaau2 slin1
-找贖	zaau2 soek6
 早熟	zaau2 soek6
+找贖	zaau2 soek6
 早衰	zaau2 sui1
 早霜	zaau2 sung1
 早退	zaau2 tui3
 藻花	zaau2 waa1
 早慧	zaau2 wai6
 早婚	zaau2 wan1
-找碴	zaau2 zaa4
 早茶	zaau2 zaa4
+找碴	zaau2 zaa4
 找茬兒	zaau2 zaa4 nji4
 找碴兒	zaau2 zaa4 nji4
 早早	zaau2 zaau2
@@ -54800,8 +54800,8 @@ pH值	pH zik6
 早造	zaau2 zaau6
 找齊	zaau2 zai4
 找尋	zaau2 zam4
-棗子	zaau2 zi2
 爪子	zaau2 zi2
+棗子	zaau2 zi2
 早場	zaau2 ziang4
 爪尖兒	zaau2 zim1 nji4
 找錢	zaau2 zin4
@@ -54838,8 +54838,8 @@ pH值	pH zik6
 漕運	zaau4 wan6
 巢窟	zaau4 wat2
 嘈雜	zaau4 zaap6
-艚子	zaau4 zi2
 槽子	zaau4 zi2
+艚子	zaau4 zi2
 槽子糕	zaau4 zi2 gaau1
 皁白	zaau6 biak6
 造次	zaau6 ci3
@@ -54904,8 +54904,8 @@ pH值	pH zik6
 祭掃	zai3 slaau3
 際會	zai3 wai6
 祭竈	zai3 zaau3
-穄子	zai3 zi2
 劑子	zai3 zi2
+穄子	zai3 zi2
 祭祀	zai3 zi6
 齊備	zai4 bi6
 齊步走	zai4 bu6 zau2
@@ -54950,8 +54950,8 @@ pH值	pH zik6
 側耳	zak2 nji5
 側身	zak2 san1
 側室	zak2 sat2
-仄聲	zak2 sing1
 則聲	zak2 sing1
+仄聲	zak2 sing1
 側線	zak2 slin3
 側歪	zak2 waai1
 側泳	zak2 wing5
@@ -55060,8 +55060,8 @@ pH值	pH zik6
 尋事	zam4 sai6
 尋常	zam4 siang4
 尋索	zam4 slaak2
-尋思	zam4 sli1
 沉思	zam4 sli1
+尋思	zam4 sli1
 尋死	zam4 sli2
 尋死覓活	zam4 sli2 mik5 wat6
 沉睡	zam4 sui6
@@ -55081,8 +55081,8 @@ pH值	pH zik6
 尋章摘句	zam4 ziang1 ziak2 gyu3
 沉積	zam4 zik2
 沉積岩	zam4 zik2 ngaam4
-沉寂	zam4 zik6
 岑寂	zam4 zik6
+沉寂	zam4 zik6
 沉潛	zam4 zim4
 沉靜	zam4 zing6
 沉重	zam4 zoeng5
@@ -55112,8 +55112,8 @@ pH值	pH zik6
 真核生物	zan1 hat6 siang1 fat5
 真核生物	zan1 hat6 siang1 mat5
 珍稀	zan1 hi1
-真兇	zan1 hoeng1
 真空	zan1 hoeng1
+真兇	zan1 hoeng1
 珍異	zan1 ji6
 津液	zan1 jik5
 津要	zan1 jiu3
@@ -55125,18 +55125,18 @@ pH值	pH zik6
 真人	zan1 njan4
 珍品	zan1 pan2
 真品	zan1 pan2
-獉狉	zan1 pi1
 榛狉	zan1 pi1
+獉狉	zan1 pi1
 甄審	zan1 sam2
 真實	zan1 sat6
-真是	zan1 si6
 珍視	zan1 si6
+真是	zan1 si6
 真誠	zan1 sing4
 珍攝	zan1 sip2
 真心	zan1 slam1
 真率	zan1 slat2
-珍羞	zan1 slau1
 珍饈	zan1 slau1
+珍羞	zan1 slau1
 真絲	zan1 sli1
 真相	zan1 sliang3
 珍惜	zan1 slik2
@@ -55149,10 +55149,10 @@ pH值	pH zik6
 真僞	zan1 wai6
 珍玩	zan1 wun6
 珍藏	zan1 zaang4
-蓁蓁	zan1 zan1
-榛榛	zan1 zan1
-津津	zan1 zan1
 諄諄	zan1 zan1
+榛榛	zan1 zan1
+蓁蓁	zan1 zan1
+津津	zan1 zan1
 真知	zan1 zi1
 真知灼見	zan1 zi1 ziak2 gin3
 榛子	zan1 zi2
@@ -55162,7 +55162,6 @@ pH值	pH zik6
 迍邅	zan1 zin1
 真正	zan1 zing3
 真情	zan1 zing4
-樽俎	zan1 zo2
 珍重	zan1 zoeng5
 珍珠	zan1 zyu1
 真珠	zan1 zyu1
@@ -55217,17 +55216,17 @@ pH值	pH zik6
 進步	zan3 bu6
 進餐	zan3 caan1
 進出	zan3 cat2
-鎮尺	zan3 cik2
 進尺	zan3 cik2
+鎮尺	zan3 cik2
 峻峭	zan3 ciu3
 俊俏	zan3 ciu3
 進取	zan3 cyu2
-振盪	zan3 daang6
 震盪	zan3 daang6
+振盪	zan3 daang6
 進抵	zan3 dai2
 鎮定	zan3 ding6
-振動	zan3 doeng6
 震動	zan3 doeng6
+振動	zan3 doeng6
 進度	zan3 du6
 進犯	zan3 faam6
 進發	zan3 faat2
@@ -55266,8 +55265,8 @@ pH值	pH zik6
 進而	zan3 ji4
 晉謁	zan3 jit2
 震源	zan3 jyun4
-晉級	zan3 kap2
 震級	zan3 kap2
+晉級	zan3 kap2
 進擊	zan3 kik2
 震區	zan3 kyu1
 進來	zan3 laai4
@@ -55303,10 +55302,10 @@ pH值	pH zik6
 振作	zan3 zaak2
 進讒	zan3 zaam4
 賑濟	zan3 zai3
-振振有辭	zan3 zan3 jau5 zi4
 振振有詞	zan3 zan3 jau5 zi4
-鎮子	zan3 zi2
+振振有辭	zan3 zan3 jau5 zi4
 鎮紙	zan3 zi2
+鎮子	zan3 zi2
 進賬	zan3 ziang3
 晉職	zan3 zik2
 進佔	zan3 zim3
@@ -55331,8 +55330,8 @@ pH值	pH zik6
 塵肺	zan4 fi3
 臣服	zan4 foek6
 塵封	zan4 foeng1
-陳腐	zan4 fu6
 塵霧	zan4 fu6
+陳腐	zan4 fu6
 陳放	zan4 fung3
 塵芥	zan4 gaai3
 秦艽	zan4 gaau1
@@ -55425,8 +55424,8 @@ pH值	pH zik6
 增倉	zang1 caang1
 憎稱	zang1 cing1
 增速	zang1 coek2
-錚鏦	zang1 coeng1
 琤瑽	zang1 coeng1
+錚鏦	zang1 coeng1
 琤瑽	zang1 coeng1
 錚鏦	zang1 coeng1
 掙揣	zang1 cui2
@@ -55497,8 +55496,8 @@ pH值	pH zik6
 層面	zang4 min6
 贈別	zang6 bit6
 贈答	zang6 daap2
-贈與	zang6 jyu5
 贈予	zang6 jyu5
+贈與	zang6 jyu5
 贈閱	zang6 jyut5
 贈禮	zang6 lai5
 掙命	zang6 ming6
@@ -55634,8 +55633,8 @@ pH值	pH zik6
 質數	zat2 su3
 質子	zat2 zi2
 質證	zat2 zing3
-疾惡如仇	zat6 aak2 jyu4 sau4
 嫉惡如仇	zat6 aak2 jyu4 sau4
+疾惡如仇	zat6 aak2 jyu4 sau4
 疾病	zat6 bing6
 疾步	zat6 bu6
 疾速	zat6 coek2
@@ -55703,8 +55702,8 @@ pH值	pH zik6
 賙濟	zau1 zai3
 賙濟	zau1 zai3
 洲際導彈	zau1 zai3 daau6 daan6
-啾啾	zau1 zau1
 啁啾	zau1 zau1
+啾啾	zau1 zau1
 周至	zau1 zi3
 周章	zau1 ziang1
 周詳	zau1 ziang4
@@ -55809,8 +55808,8 @@ pH值	pH zik6
 走勢	zau2 si3
 走時	zau2 si4
 走時運	zau2 si4 wan6
-酒色	zau2 sik2
 走色	zau2 sik2
+酒色	zau2 sik2
 酒食	zau2 sik6
 走扇	zau2 sin3
 走繩	zau2 sing4
@@ -55836,8 +55835,8 @@ pH值	pH zik6
 酒席	zau2 zik6
 酒錢	zau2 zin4
 酒精	zau2 zing1
-酒鍾	zau2 zoeng1
 酒盅	zau2 zoeng1
+酒鍾	zau2 zoeng1
 走嘴	zau2 zui2
 酒醉	zau2 zui3
 皺巴巴	zau3 baa1 baa1
@@ -60232,8 +60231,8 @@ pH值	pH zik6
 追思	zui1 sli1
 追想	zui1 sliang2
 追星	zui1 sling1
-追訴	zui1 slu3
 追溯	zui1 slu3
+追訴	zui1 slu3
 追懷	zui1 waai4
 追查	zui1 zaa4
 追贓	zui1 zaang1
@@ -60302,8 +60301,8 @@ pH值	pH zik6
 隨便	zui4 bin6
 隨波逐流	zui4 bo1 zoek6 lau4
 隨處	zui4 cyu3
-錘打	zui4 daa2
 捶打	zui4 daa2
+錘打	zui4 daa2
 隨大流	zui4 daai6 lau4
 隨大溜	zui4 daai6 lau6
 隨地	zui4 di6
@@ -60329,8 +60328,8 @@ pH值	pH zik6
 隨意肌	zui4 ji3 gi1
 隨遇平衡	zui4 jyu6 bing4 hang4
 隨遇而安	zui4 jyu6 ji4 aan1
-隨員	zui4 jyun4
 隨緣	zui4 jyun4
+隨員	zui4 jyun4
 錘鍊	zui4 lin6
 隨身	zui4 san1
 隨身聽	zui4 san1 ting1
@@ -60427,6 +60426,7 @@ pH值	pH zik6
 遵循	zun1 slan4
 尊長	zun1 ziang2
 遵照	zun1 ziu3
+樽俎	zun1 zo2
 尊崇	zun1 zoeng4
 遵從	zun1 zoeng4
 尊重	zun1 zoeng5
@@ -60840,7 +60840,7 @@ pH值	pH zik6
 專用	zyun1 joeng6
 顓臾	zyun1 jyu4
 專員	zyun1 jyun4
-專員公署	zyun1 jyun4 goeng1 syu5
+專員公署	zyun1 jyun4 goeng1 syu3
 鐫刻	zyun1 kak2
 專區	zyun1 kyu1
 專欄	zyun1 laan4
@@ -60870,7 +60870,7 @@ pH值	pH zik6
 專線	zyun1 slin3
 顓孫	zyun1 slun1
 專書	zyun1 syu1
-專署	zyun1 syu5
+專署	zyun1 syu3
 專擅	zyun1 syun6
 專橫	zyun1 wiang4
 磚茶	zyun1 zaa4
@@ -61188,7 +61188,7 @@ pH值	pH zik6
 折半	zyut2 bun3
 浙菜	zyut2 caai3
 折衝	zyut2 coeng1
-折衝樽俎	zyut2 coeng1 zan1 zo2
+折衝樽俎	zyut2 coeng1 zun1 zo2
 折抵	zyut2 dai2
 折騰	zyut2 dang4
 折頭	zyut2 dau4
